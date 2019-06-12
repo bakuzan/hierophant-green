@@ -2,7 +2,7 @@ import '../fonts/fonts.css';
 import Typography from 'typography';
 import FairyGates from 'typography-theme-fairy-gates';
 
-FairyGates.overrideStyles = () => ({});
+FairyGates.overrideThemeStyles = () => ({});
 delete FairyGates.googleFonts;
 
 const typography = new Typography(FairyGates);
