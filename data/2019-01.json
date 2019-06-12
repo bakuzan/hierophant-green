@@ -1,0 +1,26 @@
+{
+  "season": "2019-01",
+  "series": [
+    {
+      "id": 1,
+      "malId": 0,
+      "title": "First series",
+      "rating": 6,
+      "episodeRatings": [5, 5, 5, 6, 5, 6, 5, 6, 5, 6, 6, 7]
+    },
+    {
+      "id": 2,
+      "malId": 0,
+      "title": "Second series",
+      "rating": 7,
+      "episodeRatings": [6, 7, 6, 6, 7, 6, 7, 6, 5, 6, 6, 7]
+    },
+    {
+      "id": 3,
+      "malId": 0,
+      "title": "Third series",
+      "rating": 5,
+      "episodeRatings": [5, 4, 5, 6, 5, 4, 5, 6, 5, 6, 5, 5]
+    }
+  ]
+}
