@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "placeholder",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "Learning Gatsby...currently coming up with the scope of the project",
+  "version": "0.2.0",
+  "author": "bakuzan",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "classnames": "^2.2.6",
@@ -29,25 +29,37 @@
     "typography-theme-fairy-gates": "^0.16.19"
   },
   "devDependencies": {
+    "husky": "^2.4.1",
+    "lint-staged": "^8.2.0",
     "prettier": "^1.18.2"
   },
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,jsx,json,scss,css}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run pretty"
+    }
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "pretty": "lint-staged"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/bakuzan/placeholder"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/bakuzan/placeholder/issues"
   }
 }
