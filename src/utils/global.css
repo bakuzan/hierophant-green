@@ -1,0 +1,29 @@
+/* TODO theme */
+
+:root {
+  /* Generics */
+  --dark-cyan: #1ca086;
+  --moderate-cyan: #339999;
+
+  --moderate-lime: #248824;
+}
+
+.theme {
+  background-color: var(--bg);
+  color: var(--text-colour);
+}
+
+.theme--light {
+  --bg: #fff;
+  --text-colour: #000;
+
+  --link-colour: var(--moderate-lime);
+  --primary-colour: var(--moderate-cyan);
+}
+.theme--dark {
+  --bg: #000;
+  --text-colour: #fff;
+
+  --link-colour: var(--dark-cyan);
+  --primary-colour: var(--moderate-cyan);
+}

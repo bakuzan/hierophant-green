@@ -3,8 +3,12 @@ import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
 import Header from './Header';
+import { rhythm } from '../utils/typography';
+import Footer from './Footer';
 
-const Layout = ({ children }) => {
+const headerHeight = 102;
+
+function Layout({ children }) {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -22,20 +26,18 @@ const Layout = ({ children }) => {
         style={{
           margin: `0 auto`,
           maxWidth: 960,
-          padding: `0px 1.0875rem 1.45rem`,
+          padding: `0px ${rhythm(3 / 4)} ${rhythm(1)}`,
           paddingTop: 0
         }}
       >
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        <main style={{ minHeight: `calc(100vh - ${headerHeight}px)` }}>
+          {children}
+        </main>
+        <Footer />
       </div>
     </>
   );
-};
+}
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired

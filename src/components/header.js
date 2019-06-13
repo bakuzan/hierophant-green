@@ -1,35 +1,57 @@
-import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import { Link } from 'gatsby';
 
-const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`
-    }}
-  >
-    <div
+import RadioToggle from './RadioToggle';
+import { rhythm } from '../utils/typography';
+import { Icons } from '../consts';
+
+function Header({ siteTitle }) {
+  const [theme, setTheme] = useState(null);
+
+  useEffect(() => {
+    setTheme(window.__theme);
+    window.__onThemeChange = () => {
+      setTheme(window.__theme);
+    };
+  }, []);
+
+  return (
+    <header
       style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`
+        marginBottom: rhythm(1)
       }}
     >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
-  </header>
-);
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          margin: `0 auto`,
+          maxWidth: 960,
+          padding: `${rhythm(1)} ${rhythm(3 / 4)}`
+        }}
+      >
+        <h1 style={{ margin: 0 }}>
+          <Link to="/">{siteTitle}</Link>
+        </h1>
+        {theme !== null && (
+          <RadioToggle
+            label="Switch between Dark and Light mode"
+            name="theme"
+            icons={[Icons.moon, Icons.sun]}
+            checked={theme === 'theme theme--dark'}
+            onChange={(checked) =>
+              window.__setPreferredTheme(
+                checked ? 'theme theme--dark' : 'theme theme--light'
+              )
+            }
+          />
+        )}
+      </div>
+    </header>
+  );
+}
 
 Header.propTypes = {
   siteTitle: PropTypes.string

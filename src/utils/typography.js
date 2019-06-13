@@ -1,8 +1,15 @@
 import '../fonts/fonts.css';
+import './global.css';
 import Typography from 'typography';
 import FairyGates from 'typography-theme-fairy-gates';
 
-FairyGates.overrideThemeStyles = () => ({});
+FairyGates.overrideThemeStyles = () => ({
+  a: {
+    color: 'var(--link-colour)',
+    backgroundImage: 'none',
+    textShadow: 'none'
+  }
+});
 delete FairyGates.googleFonts;
 
 const typography = new Typography(FairyGates);
