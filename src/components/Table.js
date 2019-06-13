@@ -1,19 +1,27 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 
+const borderStyle = {
+  borderColor: `var(--table-border-colour)`
+};
+
 function Table({ style, headers, children, ...props }) {
   return (
     <table style={{ ...style }} {...props}>
       <thead>
         <tr>
           {headers.map(({ text, ...x }) => (
-            <th key={text} {...x}>
+            <th
+              key={text}
+              {...x}
+              style={{ ...borderStyle, ...(x.style || {}) }}
+            >
               {text}
             </th>
           ))}
         </tr>
       </thead>
-      <tbody>{children}</tbody>
+      <tbody>{children && children({ tdStyle: borderStyle })}</tbody>
     </table>
   );
 }
@@ -26,7 +34,7 @@ Table.propTypes = {
       text: PropTypes.string.isRequired
     })
   ).isRequired,
-  children: PropTypes.arrayOf(PropTypes.element)
+  children: PropTypes.func
 };
 
 export default Table;

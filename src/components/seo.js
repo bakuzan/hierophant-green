@@ -43,6 +43,11 @@ function SEO({ description, lang, meta, title }) {
         {
           property: `og:type`,
           content: `website`
+        },
+        {
+          name: 'theme-color',
+          content:
+            window.__theme === 'theme theme--light' ? '#248824' : '#002727'
         }
       ].concat(meta)}
     />

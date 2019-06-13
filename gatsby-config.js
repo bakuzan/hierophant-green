@@ -31,9 +31,10 @@ module.exports = {
         short_name: `ugp`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#000000`,
+        theme_color: `#339999`,
         display: `minimal-ui`,
-        icon: `src/assets/icon.png`
+        icon: `src/assets/icon.png`,
+        theme_color_in_head: false
       }
     },
     `gatsby-plugin-sass`,

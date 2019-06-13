@@ -30,19 +30,21 @@ export default ({ data }) => {
       <div>
         <h2>{seasonName}</h2>
         <Table headers={seasonHeaders}>
-          {items.map((s) => {
-            const stats = getSeriesStats(s);
-            return (
-              <tr key={s.id}>
-                <td>{s.title}</td>
-                <td style={rhsAlign}>{s.rating || '-'}</td>
-                <td style={rhsAlign}>{stats.average}</td>
-                <td style={rhsAlign}>{stats.highest}</td>
-                <td style={rhsAlign}>{stats.lowest}</td>
-                <td style={rhsAlign}>{stats.mode}</td>
-              </tr>
-            );
-          })}
+          {({ tdStyle }) =>
+            items.map((s) => {
+              const stats = getSeriesStats(s);
+              return (
+                <tr key={s.id}>
+                  <td style={tdStyle}>{s.title}</td>
+                  <td style={{ ...tdStyle, ...rhsAlign }}>{s.rating || '-'}</td>
+                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.average}</td>
+                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.highest}</td>
+                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.lowest}</td>
+                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.mode}</td>
+                </tr>
+              );
+            })
+          }
         </Table>
       </div>
     </Layout>
