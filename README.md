@@ -1,8 +1,8 @@
-# Untitled Gatsby Project
+# Hierophant Green
 
 Work in progress.
 
-Scope not fleshed out.
+Scope not fleshed out - but will display seasonal anime ratings, score breakdowns etc.
 
 Learning gatsby.
 
@@ -23,5 +23,5 @@ Learning gatsby.
 ### Steps
 
 - Clone the repo
-- run `yarn` to install node modules
-- run `yarn develop` to start the app
+- Run `yarn` to install node modules
+- Run `yarn develop` to start the app
