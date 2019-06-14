@@ -1,5 +1,5 @@
 {
-  "name": "placeholder",
+  "name": "hierophant-green",
   "private": true,
   "description": "Learning Gatsby...currently coming up with the scope of the project",
   "version": "0.2.0",
@@ -57,9 +57,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bakuzan/placeholder"
+    "url": "https://github.com/bakuzan/hierophant-green"
   },
   "bugs": {
-    "url": "https://github.com/bakuzan/placeholder/issues"
+    "url": "https://github.com/bakuzan/hierophant-green/issues"
   }
 }

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Untitled Gatsby Project`,
+    title: `Hierophant Green`,
     author: `bakuzan`,
-    description: `Work in progress. Learning Gatsby`,
+    description: `Seasonal Anime Statistics`,
     siteUrl: 'http://localhost:8000/'
   },
   plugins: [
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `untitled gatsby project`,
-        short_name: `ugp`,
+        name: `hierophant-green`,
+        short_name: `hierophant`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#339999`,
