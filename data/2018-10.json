@@ -2,25 +2,4656 @@
   "season": "2018-10",
   "series": [
     {
-      "id": 1,
-      "malId": 0,
-      "title": "First series",
-      "rating": 6,
-      "episodeRatings": [5, 5, 5, 6, 5, 6, 5, 6, 5, 6, 6, 7]
-    },
-    {
-      "id": 2,
-      "malId": 0,
-      "title": "Second series",
+      "id": 2781,
+      "title": "Akanesasu Shoujo",
       "rating": 5,
-      "episodeRatings": [5, 4, 5, 6, 5, 4, 5, 6, 5, 6, 5, 5]
+      "season": "Fall",
+      "average": 4.833333333333333,
+      "highest": 5,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/1vu1p9o.jpg",
+      "malId": 37561,
+      "episodes": [
+        {
+          "id": 23989,
+          "episode": 1,
+          "rating": 5,
+          "note": "Alternate universe self First episode was okay, looks like it could get good though"
+        },
+        {
+          "id": 23990,
+          "episode": 2,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 23991,
+          "episode": 3,
+          "rating": 5,
+          "note": "3 Asuka's. Choco-banana. This show isn't what I thought it would be"
+        },
+        {
+          "id": 23992,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 23993,
+          "episode": 5,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 23994,
+          "episode": 6,
+          "rating": 5,
+          "note": "Beach episode! Loner girl's on the case of the creepy paradise."
+        },
+        {
+          "id": 23995,
+          "episode": 7,
+          "rating": 5,
+          "note": "They beat the observer. Yay!"
+        },
+        {
+          "id": 23996,
+          "episode": 8,
+          "rating": 5,
+          "note": "Sort of break episode. They're going to \"Siri Asuka\"-chan's fragment now though"
+        },
+        {
+          "id": 23997,
+          "episode": 9,
+          "rating": 5,
+          "note": "Cool Asuka fighting the king fragment to the death..?"
+        },
+        {
+          "id": 23998,
+          "episode": 10,
+          "rating": 5,
+          "note": "Of course a version of Asuka is the baddie"
+        },
+        {
+          "id": 23999,
+          "episode": 11,
+          "rating": 4,
+          "note": "Beat their own glitch, now the \"god-loli\" for the last episode."
+        },
+        {
+          "id": 24000,
+          "episode": 12,
+          "rating": 5,
+          "note": "Rather than a big confrontation we get a talk-no-jutsu ending. It was a middle of the road series overall"
+        }
+      ]
     },
     {
-      "id": 3,
-      "malId": 0,
-      "title": "Third series",
+      "id": 2812,
+      "title": "Anima Yell!",
+      "rating": 6,
+      "season": "Fall",
+      "average": 5.416666666666667,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/Jnt8qgq.jpg",
+      "malId": 37206,
+      "episodes": [
+        {
+          "id": 24470,
+          "episode": 1,
+          "rating": 6,
+          "note": "Fun first episode. Kohane is great"
+        },
+        {
+          "id": 24471,
+          "episode": 2,
+          "rating": 5,
+          "note": "They've convinced Uki to join! That was quick"
+        },
+        {
+          "id": 24472,
+          "episode": 3,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24473,
+          "episode": 4,
+          "rating": 5,
+          "note": "Another new recruit!"
+        },
+        {
+          "id": 24474,
+          "episode": 5,
+          "rating": 5,
+          "note": "High V"
+        },
+        {
+          "id": 24475,
+          "episode": 6,
+          "rating": 5,
+          "note": "Public cheering for the first time. Cute"
+        },
+        {
+          "id": 24476,
+          "episode": 7,
+          "rating": 6,
+          "note": "Cheer shop! Hizume-fan-club. I wonder if the redhead will join the club?"
+        },
+        {
+          "id": 24477,
+          "episode": 8,
+          "rating": 6,
+          "note": "5th member! Fun episode even if Uki had to be benched"
+        },
+        {
+          "id": 24478,
+          "episode": 9,
+          "rating": 6,
+          "note": "Cheering for Uki's brother's football game"
+        },
+        {
+          "id": 24479,
+          "episode": 10,
+          "rating": 5,
+          "note": "Beach training camp episode"
+        },
+        {
+          "id": 24480,
+          "episode": 11,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24481,
+          "episode": 12,
+          "rating": 6,
+          "note": "I liked it. It was something different for the usual CGDCT"
+        }
+      ]
+    },
+    {
+      "id": 2793,
+      "title": "Bakumatsu",
+      "rating": 3,
+      "season": "Fall",
+      "average": 3.5833333333333335,
+      "highest": 4,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/gG6RQKv.jpg",
+      "malId": 37584,
+      "episodes": [
+        {
+          "id": 24174,
+          "episode": 1,
+          "rating": 4,
+          "note": "Damn. Looks like this will be a run of the mill lame show. Fingers crossed I'm wrong"
+        },
+        {
+          "id": 24175,
+          "episode": 2,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24176,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24177,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24178,
+          "episode": 5,
+          "rating": 3,
+          "note": "The show continues to suck"
+        },
+        {
+          "id": 24179,
+          "episode": 6,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24180,
+          "episode": 7,
+          "rating": 4,
+          "note": "More close scrapes with the Shinsengumi"
+        },
+        {
+          "id": 24181,
+          "episode": 8,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24182,
+          "episode": 9,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24183,
+          "episode": 10,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24184,
+          "episode": 11,
+          "rating": 4,
+          "note": "It was his master all along.."
+        },
+        {
+          "id": 24185,
+          "episode": 12,
+          "rating": 3,
+          "note": "Standard ending to this subpar series."
+        }
+      ]
+    },
+    {
+      "id": 2827,
+      "title": "Beelzebub-jou no Okinimesu mama.",
+      "rating": 6,
+      "season": "Fall",
+      "average": 5.5,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 6,
+      "image": "https://i.imgur.com/5ajek4c.jpg",
+      "malId": 37716,
+      "episodes": [
+        {
+          "id": 24692,
+          "episode": 1,
+          "rating": 6,
+          "note": "Beelzebub-jou is cute. The assistant is cliche but fun"
+        },
+        {
+          "id": 24693,
+          "episode": 2,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24694,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24695,
+          "episode": 4,
+          "rating": 6,
+          "note": "Nice episode - second half had super beelzebub-jou"
+        },
+        {
+          "id": 24696,
+          "episode": 5,
+          "rating": 5,
+          "note": "Belephegor is cute.... Beelzebub vs Belephegor not sure who wins best girl."
+        },
+        {
+          "id": 24697,
+          "episode": 6,
+          "rating": 5,
+          "note": "Beelzebub is flying above everyone in cuteness levels. Waifu of the season?"
+        },
+        {
+          "id": 24698,
+          "episode": 7,
+          "rating": 6,
+          "note": "The bath stuff was standard. Bell-chan being next level cute - Waifu of the season...has to be."
+        },
+        {
+          "id": 24699,
+          "episode": 8,
+          "rating": 6,
+          "note": "Everyone loves cute stuff, and that swimsuit is much too revealing for Beel-chan"
+        },
+        {
+          "id": 24700,
+          "episode": 9,
+          "rating": 5,
+          "note": "Cuteness continues"
+        },
+        {
+          "id": 24701,
+          "episode": 10,
+          "rating": 6,
+          "note": "The first half was so-so, but Beelzebub-sama's cuteness sky rocketted the episode in the second half."
+        },
+        {
+          "id": 24702,
+          "episode": 11,
+          "rating": 6,
+          "note": "Gocchin challenging Bell for the cuteness crown...Bell still number 1 though"
+        },
+        {
+          "id": 24703,
+          "episode": 12,
+          "rating": 6,
+          "note": "Cute series. I enjoyed it. Beelzebub and Gocchin were best characters...wasn't really a fan of the rest though"
+        }
+      ]
+    },
+    {
+      "id": 2820,
+      "title": "Conception",
+      "rating": 4,
+      "season": "Fall",
+      "average": 3.75,
+      "highest": 4,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/HQyeaHm.jpg",
+      "malId": 37823,
+      "episodes": [
+        {
+          "id": 24576,
+          "episode": 1,
+          "rating": 4,
+          "note": "...huhuhuhuhu"
+        },
+        {
+          "id": 24577,
+          "episode": 2,
+          "rating": 4,
+          "note": "At best I like 3(?) of those constellation girls."
+        },
+        {
+          "id": 24578,
+          "episode": 3,
+          "rating": 4,
+          "note": "Bro did a 3way..knew that was coming - has to squeeze 12 girls in all the episodes afterall"
+        },
+        {
+          "id": 24579,
+          "episode": 4,
+          "rating": 4,
+          "note": "Pisces was cute."
+        },
+        {
+          "id": 24580,
+          "episode": 5,
+          "rating": 3,
+          "note": "Arie was a complete freak and the gemini girls were underwhelming"
+        },
+        {
+          "id": 24581,
+          "episode": 6,
+          "rating": 4,
+          "note": "Ojou-sama was a derp."
+        },
+        {
+          "id": 24582,
+          "episode": 7,
+          "rating": 3,
+          "note": "Mail girl was lame."
+        },
+        {
+          "id": 24583,
+          "episode": 8,
+          "rating": 4,
+          "note": "Mirei was best this episode. Also a 13th girl will appear?"
+        },
+        {
+          "id": 24584,
+          "episode": 9,
+          "rating": 3,
+          "note": "Whole episode was basically \"Can we convince Itsuki to gay it up\""
+        },
+        {
+          "id": 24585,
+          "episode": 10,
+          "rating": 4,
+          "note": "She was under his nose the whole time."
+        },
+        {
+          "id": 24586,
+          "episode": 11,
+          "rating": 4,
+          "note": "What was with that \"Mana romancing scene\" haha"
+        },
+        {
+          "id": 24587,
+          "episode": 12,
+          "rating": 4,
+          "note": "The no consequences ending was dumb. Overall the series was dumb...but meh, not terrible"
+        }
+      ]
+    },
+    {
+      "id": 2779,
+      "title": "Double Decker! Doug & Kirill",
+      "rating": 5,
+      "season": "Fall",
+      "average": 5.230769230769231,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/K9H9QUc.jpg",
+      "malId": 37496,
+      "episodes": [
+        {
+          "id": 23964,
+          "episode": 1,
+          "rating": 5,
+          "note": "I watched these first 2 epsidoes backwards...Interesting start"
+        },
+        {
+          "id": 23965,
+          "episode": 2,
+          "rating": 5,
+          "note": "I can see how this will vibe like Tiger and Bunny."
+        },
+        {
+          "id": 23966,
+          "episode": 3,
+          "rating": 6,
+          "note": ""
+        },
+        {
+          "id": 23967,
+          "episode": 4,
+          "rating": 5,
+          "note": "It was alright, but I really wanna see Maz in action"
+        },
+        {
+          "id": 23968,
+          "episode": 5,
+          "rating": 5,
+          "note": "Bamboo man (?) is dope. That was a cool beat down of the cops"
+        },
+        {
+          "id": 23969,
+          "episode": 6,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 23970,
+          "episode": 7,
+          "rating": 6,
+          "note": "Cool backstory. Lame resolution. Wasn't a fan of it, but it was ok."
+        },
+        {
+          "id": 23971,
+          "episode": 8,
+          "rating": 5,
+          "note": "The Max focussed episode I've been waiting for. Was pretty good. Her old look was great - double-braids over the shoulder"
+        },
+        {
+          "id": 23972,
+          "episode": 9,
+          "rating": 5,
+          "note": "Kirill didn't fuck up for a change"
+        },
+        {
+          "id": 23973,
+          "episode": 10,
+          "rating": 5,
+          "note": "I have no idea why they had Kirill in a wedding dress at the end."
+        },
+        {
+          "id": 23974,
+          "episode": 11,
+          "rating": 5,
+          "note": "Yuri-chan died!  I guess we won't see B anymore. He had a cool design. The alien backstory is lame - Nikai thingy."
+        },
+        {
+          "id": 23975,
+          "episode": 12,
+          "rating": 6,
+          "note": "Doug's in a bad spot, showdown with the big bad"
+        },
+        {
+          "id": 23976,
+          "episode": 13,
+          "rating": 5,
+          "note": "All wrapped up. The explosion escape was stupid. The fourth wall break was good."
+        }
+      ]
+    },
+    {
+      "id": 2805,
+      "title": "Fairy Tail: Final Series",
+      "rating": 0,
+      "season": "Fall",
+      "average": 5.066666666666666,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/1ogsfhX.jpg",
+      "malId": 35972,
+      "episodes": [
+        {
+          "id": 24353,
+          "episode": 1,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24354,
+          "episode": 2,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24355,
+          "episode": 3,
+          "rating": 5,
+          "note": "Woahhh! Briar is hot. Why do I not remember her? Devil Gray is coolest Gray"
+        },
+        {
+          "id": 24356,
+          "episode": 4,
+          "rating": 5,
+          "note": "Erza cleavage shot at the end!"
+        },
+        {
+          "id": 24357,
+          "episode": 5,
+          "rating": 5,
+          "note": "The gang beat down the dark guild"
+        },
+        {
+          "id": 24358,
+          "episode": 6,
+          "rating": 5,
+          "note": "Natsu was given too much to do. This is the problem with shounens shitting on their supporting characters"
+        },
+        {
+          "id": 24359,
+          "episode": 7,
+          "rating": 5,
+          "note": "Zeref backstory...and guild revival. They sure dragged the rivival half out"
+        },
+        {
+          "id": 24360,
+          "episode": 8,
+          "rating": 5,
+          "note": "Makarov rescue arc about to start - with the Alvarez empire. Brandish is about to be introduced right?!"
+        },
+        {
+          "id": 24361,
+          "episode": 9,
+          "rating": 6,
+          "note": "The girls in fairy tail are \"A+\". Marin is fun, I totally forgot about him so he probably gets BTFO'ed next episode. BRANDISH!"
+        },
+        {
+          "id": 24362,
+          "episode": 10,
+          "rating": 6,
+          "note": "The girls in fairy tail are great. Juvia and Brandish top waifu's this week."
+        },
+        {
+          "id": 24363,
+          "episode": 11,
+          "rating": 5,
+          "note": "Makarov saved...nothing else"
+        },
+        {
+          "id": 24364,
+          "episode": 12,
+          "rating": 4,
+          "note": "Waste. More Mavis and Zeref backstory"
+        },
+        {
+          "id": 24365,
+          "episode": 13,
+          "rating": 5,
+          "note": "More story filling in prep for Alvarez attacking"
+        },
+        {
+          "id": 24366,
+          "episode": 14,
+          "rating": 5,
+          "note": "The war starts. Brandish-sama in the bath!"
+        },
+        {
+          "id": 24367,
+          "episode": 15,
+          "rating": 5,
+          "note": "Erza wins. Brandish teases Lucy"
+        },
+        {
+          "id": 24368,
+          "episode": 16,
+          "rating": 5,
+          "note": "Raijin-shu got slapped, saved by Ichiya - MAN."
+        },
+        {
+          "id": 24369,
+          "episode": 17,
+          "rating": 5,
+          "note": "First half all setup...boring. Second half was the start of the Natsu/Zeref fight!"
+        },
+        {
+          "id": 24370,
+          "episode": 18,
+          "rating": 5,
+          "note": "Mostly setting the stage for various fights"
+        },
+        {
+          "id": 24371,
+          "episode": 19,
+          "rating": 5,
+          "note": "Aquarius show up because of an asspull. Brandish 180's. The authour of this should draw hentai, his strength is definitely hot women"
+        },
+        {
+          "id": 24372,
+          "episode": 20,
+          "rating": 5,
+          "note": "It's quite lame that God Serena exists to show how badass acnologia is suppose to be. The power scaling is completely fucked because of him"
+        },
+        {
+          "id": 24373,
+          "episode": 21,
+          "rating": 5,
+          "note": "Ultear is a babe. Dimaria should have wasted all of these clowns in an instant though"
+        },
+        {
+          "id": 24374,
+          "episode": 22,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24375,
+          "episode": 23,
+          "rating": 5,
+          "note": "Kagura showing growth I guess. Erza battling the past"
+        },
+        {
+          "id": 24376,
+          "episode": 24,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24377,
+          "episode": 25,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24378,
+          "episode": 26,
+          "rating": 5,
+          "note": "Irene, August - pretty dope characters te be honest"
+        },
+        {
+          "id": 24379,
+          "episode": 27,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24380,
+          "episode": 28,
+          "rating": 5,
+          "note": "Gildarts to save the day? Where's the power of friendshi[? Hhaha"
+        },
+        {
+          "id": 24381,
+          "episode": 29,
+          "rating": 5,
+          "note": "Ivel boooo. Brandish giant wooooo!"
+        },
+        {
+          "id": 27440,
+          "episode": 30,
+          "rating": 6,
+          "note": "Double suicide. Was it me, or were the boobs very in your face this week? Mashima missed his calling - should be a H artist"
+        }
+      ]
+    },
+    {
+      "id": 2816,
+      "title": "Gaikotsu Shotenin Honda-san",
+      "rating": 3,
+      "season": "Fall",
+      "average": 3.1666666666666665,
+      "highest": 4,
+      "lowest": 2,
+      "mode": 3,
+      "image": "https://i.imgur.com/bm4RdnI.jpg",
+      "malId": 36317,
+      "episodes": [
+        {
+          "id": 24530,
+          "episode": 1,
+          "rating": 4,
+          "note": "Disappointing first episode."
+        },
+        {
+          "id": 24531,
+          "episode": 2,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24532,
+          "episode": 3,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24533,
+          "episode": 4,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24534,
+          "episode": 5,
+          "rating": 4,
+          "note": "Golden Kamui reference!"
+        },
+        {
+          "id": 24535,
+          "episode": 6,
+          "rating": 3,
+          "note": "I not enjoying this"
+        },
+        {
+          "id": 24536,
+          "episode": 7,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24537,
+          "episode": 8,
+          "rating": 3,
+          "note": "Why no laughs?"
+        },
+        {
+          "id": 24538,
+          "episode": 9,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24539,
+          "episode": 10,
+          "rating": 3,
+          "note": "This series just doesn't click with me"
+        },
+        {
+          "id": 24540,
+          "episode": 11,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24541,
+          "episode": 12,
+          "rating": 3,
+          "note": "Not my kind of humour"
+        }
+      ]
+    },
+    {
+      "id": 2801,
+      "title": "Gakuen Basara",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/gM4AZw1.jpg",
+      "malId": 37657,
+      "episodes": [
+        {
+          "id": 24282,
+          "episode": 1,
+          "rating": 5,
+          "note": "Hmm... not what I expected and am disappoint"
+        },
+        {
+          "id": 24283,
+          "episode": 2,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24284,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24285,
+          "episode": 4,
+          "rating": 5,
+          "note": "The second half was fun"
+        },
+        {
+          "id": 24286,
+          "episode": 5,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24287,
+          "episode": 6,
+          "rating": 4,
+          "note": "The girls being derps was fun"
+        },
+        {
+          "id": 24288,
+          "episode": 7,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24289,
+          "episode": 8,
+          "rating": 3,
+          "note": "Nothing going on this week...just lame"
+        },
+        {
+          "id": 24290,
+          "episode": 9,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24291,
+          "episode": 10,
+          "rating": 4,
+          "note": "I would've handed the baby into the staff.."
+        },
+        {
+          "id": 24292,
+          "episode": 11,
+          "rating": 4,
+          "note": "\"Masamune-dono!!!!!\" Fucking Yukimura derping out every time."
+        },
+        {
+          "id": 24293,
+          "episode": 12,
+          "rating": 4,
+          "note": "Lame. Rare fun parts, but waste overall"
+        }
+      ]
+    },
+    {
+      "id": 2810,
+      "title": "Goblin Slayer",
       "rating": 7,
-      "episodeRatings": [6, 7, 6, 6, 7, 6, 7, 6, 5, 6, 6, 7]
+      "season": "Fall",
+      "average": 6.5,
+      "highest": 7,
+      "lowest": 6,
+      "mode": 6,
+      "image": "https://i.imgur.com/xf4Y1p8.jpg",
+      "malId": 37349,
+      "episodes": [
+        {
+          "id": 24446,
+          "episode": 1,
+          "rating": 7,
+          "note": "Well goblin slayer is a badass."
+        },
+        {
+          "id": 24447,
+          "episode": 2,
+          "rating": 7,
+          "note": "Goblin slayer all about that strategy! His childhood friend is great - that mage in the guild though! Best Girl?!"
+        },
+        {
+          "id": 24448,
+          "episode": 3,
+          "rating": 6,
+          "note": "New party members...nothing much else"
+        },
+        {
+          "id": 24449,
+          "episode": 4,
+          "rating": 7,
+          "note": "Cool first outing for the party. Finishing off the ogre was cool"
+        },
+        {
+          "id": 24450,
+          "episode": 5,
+          "rating": 6,
+          "note": "Not much going on this week - a lot of focus on a pair of noob adventurers"
+        },
+        {
+          "id": 24451,
+          "episode": 6,
+          "rating": 7,
+          "note": "Sewer crocodile!"
+        },
+        {
+          "id": 24452,
+          "episode": 7,
+          "rating": 7,
+          "note": "If he was coughing up that much blood he'd be dead already. Guess some magic will save him. Preistess was waste. Event the canary survived"
+        },
+        {
+          "id": 24453,
+          "episode": 8,
+          "rating": 6,
+          "note": "It was alright. Nothing all that interesting happened though. The dust explosion feels like common knowledge to me."
+        },
+        {
+          "id": 24454,
+          "episode": 9,
+          "rating": 6,
+          "note": "Solved the sword maiden's problem."
+        },
+        {
+          "id": 24455,
+          "episode": 10,
+          "rating": 6,
+          "note": "While I appreciate breather episodes and world-building, much of the episode was wasted. Cow girl and Helmless GS was good. Goblin tracks!?!"
+        },
+        {
+          "id": 24456,
+          "episode": 11,
+          "rating": 7,
+          "note": "First half was all prep. Second half was  a massive throw down between the adventures and the goblin horde. No slayer action though...yet!!"
+        },
+        {
+          "id": 24457,
+          "episode": 12,
+          "rating": 6,
+          "note": "To say he's suppose to be the badass Goblin Slayer, he gets saved a lot. Is he really that badass? Enjoyable series, small pay off though"
+        }
+      ]
+    },
+    {
+      "id": 2817,
+      "title": "Golden Kamuy 2nd Season",
+      "rating": 7,
+      "season": "Fall",
+      "average": 6.833333333333333,
+      "highest": 8,
+      "lowest": 6,
+      "mode": 7,
+      "image": "https://i.imgur.com/s8wlAWH.jpg",
+      "malId": 37989,
+      "episodes": [
+        {
+          "id": 24542,
+          "episode": 1,
+          "rating": 6,
+          "note": "Not much to say, just continuing the story."
+        },
+        {
+          "id": 24543,
+          "episode": 2,
+          "rating": 7,
+          "note": "Edogai was a riot while he lasted hahha"
+        },
+        {
+          "id": 24544,
+          "episode": 3,
+          "rating": 6,
+          "note": "Calm transitioning episode"
+        },
+        {
+          "id": 24545,
+          "episode": 4,
+          "rating": 6,
+          "note": ""
+        },
+        {
+          "id": 24546,
+          "episode": 5,
+          "rating": 7,
+          "note": "Good episode. Sugimoto and Asirpa hiding from the wind was great."
+        },
+        {
+          "id": 24547,
+          "episode": 6,
+          "rating": 7,
+          "note": "Tanigaki backstory. Was good, I didn't remember it properly so felt new-ish"
+        },
+        {
+          "id": 24548,
+          "episode": 7,
+          "rating": 7,
+          "note": "Ogata backstory is good. I'm liking him as a character much more on this second go around of the story."
+        },
+        {
+          "id": 24549,
+          "episode": 8,
+          "rating": 7,
+          "note": "The sea otter meat scene was funny...might have been better in the manga though."
+        },
+        {
+          "id": 24550,
+          "episode": 9,
+          "rating": 8,
+          "note": "Fighting Toni Anji and the Blind Bandits. This might be better than it was in the manga. Some good laughs too."
+        },
+        {
+          "id": 24551,
+          "episode": 10,
+          "rating": 7,
+          "note": "Breaking into Abashiri! I don't remember Anji being there! Did they change that?"
+        },
+        {
+          "id": 24552,
+          "episode": 11,
+          "rating": 7,
+          "note": "The Prison Break Out/In. Sugimoto face to face with Nopperabou."
+        },
+        {
+          "id": 24553,
+          "episode": 12,
+          "rating": 7,
+          "note": "Good last episode. I already knew where they were going to end it. We really need a season 3 now! Really close to the manga though"
+        }
+      ]
+    },
+    {
+      "id": 2795,
+      "title": "Gurazeni: Season 2",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4.083333333333333,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/luYgAE9.jpg",
+      "malId": 37990,
+      "episodes": [
+        {
+          "id": 24199,
+          "episode": 1,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24200,
+          "episode": 2,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24201,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24202,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24203,
+          "episode": 5,
+          "rating": 6,
+          "note": "Great episode. The end was lame though"
+        },
+        {
+          "id": 24204,
+          "episode": 6,
+          "rating": 4,
+          "note": "Haha Korekawa messing with the bar customers/bonda"
+        },
+        {
+          "id": 24205,
+          "episode": 7,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24206,
+          "episode": 8,
+          "rating": 3,
+          "note": "Lame. Stop teasing Bonda with his crush being stolen"
+        },
+        {
+          "id": 24207,
+          "episode": 9,
+          "rating": 4,
+          "note": "Married while unemployeed"
+        },
+        {
+          "id": 24208,
+          "episode": 10,
+          "rating": 4,
+          "note": "I'd be irritated with people messing me about and go to Fukui anyway"
+        },
+        {
+          "id": 24209,
+          "episode": 11,
+          "rating": 4,
+          "note": "26 is weak sauce Bonda. You should've asked for the 40."
+        },
+        {
+          "id": 24210,
+          "episode": 12,
+          "rating": 4,
+          "note": "The lack of progress with Yuki-chan is irritating"
+        }
+      ]
+    },
+    {
+      "id": 2803,
+      "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2",
+      "rating": 5,
+      "season": "Fall",
+      "average": 4.391304347826087,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/e6TRWGW.jpg",
+      "malId": 37490,
+      "episodes": [
+        {
+          "id": 24318,
+          "episode": 1,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24319,
+          "episode": 2,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24320,
+          "episode": 3,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24321,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24322,
+          "episode": 5,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24323,
+          "episode": 6,
+          "rating": 4,
+          "note": "Miles's deductions could have been cut short to just - \"I found the dog. Pay me\""
+        },
+        {
+          "id": 24324,
+          "episode": 7,
+          "rating": 4,
+          "note": "New case. Mako-chan is the defendant again"
+        },
+        {
+          "id": 24325,
+          "episode": 8,
+          "rating": 4,
+          "note": "Case progression..."
+        },
+        {
+          "id": 24326,
+          "episode": 9,
+          "rating": 5,
+          "note": "Case solved and they've kept the former detective chick out of prison."
+        },
+        {
+          "id": 24327,
+          "episode": 10,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24328,
+          "episode": 11,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24329,
+          "episode": 12,
+          "rating": 4,
+          "note": "Case solved! It was the opposing prosecutor!"
+        },
+        {
+          "id": 24330,
+          "episode": 13,
+          "rating": 5,
+          "note": "Was nice to see Chihiro. I like her more than her sister"
+        },
+        {
+          "id": 24331,
+          "episode": 14,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24332,
+          "episode": 15,
+          "rating": 5,
+          "note": "Chihiro's first  case...her boyfriend/mentor is the mask lawyer from the first arc!!"
+        },
+        {
+          "id": 24333,
+          "episode": 16,
+          "rating": 5,
+          "note": "The case was retarded"
+        },
+        {
+          "id": 24334,
+          "episode": 17,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24335,
+          "episode": 18,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24336,
+          "episode": 19,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24337,
+          "episode": 20,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24338,
+          "episode": 21,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24339,
+          "episode": 22,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24340,
+          "episode": 23,
+          "rating": 5,
+          "note": "Good resolution. The series would be better if the cases didn't drag on as long as they do - I think."
+        }
+      ]
+    },
+    {
+      "id": 2828,
+      "title": "Hashiri Tsuzukete Yokattatte.",
+      "rating": 3,
+      "season": "Fall",
+      "average": 3.5,
+      "highest": 4,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/CnXenDK.jpg",
+      "malId": 38254,
+      "episodes": [
+        {
+          "id": 24704,
+          "episode": 1,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24705,
+          "episode": 2,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24706,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24707,
+          "episode": 4,
+          "rating": 3,
+          "note": "Didnt appeal to me. The connection I watched it on was dogshit - so that probably negatively affected the score."
+        }
+      ]
+    },
+    {
+      "id": 2811,
+      "title": "Himote House",
+      "rating": 2,
+      "season": "Fall",
+      "average": 2.5,
+      "highest": 4,
+      "lowest": 2,
+      "mode": 2,
+      "image": "https://i.imgur.com/PiSj2SI.jpg",
+      "malId": 36945,
+      "episodes": [
+        {
+          "id": 24458,
+          "episode": 1,
+          "rating": 4,
+          "note": "What's with the random superpowers at the end?"
+        },
+        {
+          "id": 24459,
+          "episode": 2,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24460,
+          "episode": 3,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24461,
+          "episode": 4,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24462,
+          "episode": 5,
+          "rating": 3,
+          "note": "Not my kind of funny"
+        },
+        {
+          "id": 24463,
+          "episode": 6,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24464,
+          "episode": 7,
+          "rating": 2,
+          "note": "The yuri-wedding difference between Japan and Europe was informative"
+        },
+        {
+          "id": 24465,
+          "episode": 8,
+          "rating": 2,
+          "note": "...this series is rock bottom right now"
+        },
+        {
+          "id": 24466,
+          "episode": 9,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24467,
+          "episode": 10,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24468,
+          "episode": 11,
+          "rating": 2,
+          "note": "Hyper fanservice while talking about bitcoin..."
+        },
+        {
+          "id": 24469,
+          "episode": 12,
+          "rating": 2,
+          "note": "This was a irrideemable piece of shit. There was maybe 1 or 2 decent bits in the whole series. The last episode was a narrated recap..."
+        }
+      ]
+    },
+    {
+      "id": 2802,
+      "title": "Hinomaruzumou",
+      "rating": 7,
+      "season": "Fall",
+      "average": 6.5,
+      "highest": 8,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/MwtD5jN.jpg",
+      "malId": 37007,
+      "episodes": [
+        {
+          "id": 24294,
+          "episode": 1,
+          "rating": 7,
+          "note": "Hinomaru is cool. This will be a good show"
+        },
+        {
+          "id": 24295,
+          "episode": 2,
+          "rating": 8,
+          "note": "Beat the \"schools strongest\". Met the Bro-con Council President. Some cool new club members."
+        },
+        {
+          "id": 24296,
+          "episode": 3,
+          "rating": 7,
+          "note": "Hinomaru! That huge guy is the \"target\" at the moment I guess"
+        },
+        {
+          "id": 24297,
+          "episode": 4,
+          "rating": 6,
+          "note": "Knew he'd have some sort of condition preventing him from sumoing"
+        },
+        {
+          "id": 24298,
+          "episode": 5,
+          "rating": 6,
+          "note": "Couple matches..our boy are getting slapped about."
+        },
+        {
+          "id": 24299,
+          "episode": 6,
+          "rating": 7,
+          "note": "Training with pro's and outclassing third/second raters - boss."
+        },
+        {
+          "id": 24300,
+          "episode": 7,
+          "rating": 8,
+          "note": "Dope. Borrowing Hinomaru's old move to win it. (Also, poor Mitsuhashi these guys are monsters compared to him.)"
+        },
+        {
+          "id": 24301,
+          "episode": 8,
+          "rating": 7,
+          "note": "Nice bouts. Tied at 2 each - Hinomaru for the decider."
+        },
+        {
+          "id": 24302,
+          "episode": 9,
+          "rating": 8,
+          "note": "Ushio! That was a close one, but he pulled the win out."
+        },
+        {
+          "id": 24303,
+          "episode": 10,
+          "rating": 7,
+          "note": "Hinomaru wins the singles tournament - naturally."
+        },
+        {
+          "id": 24304,
+          "episode": 11,
+          "rating": 6,
+          "note": "Manager-chan is cute."
+        },
+        {
+          "id": 24305,
+          "episode": 12,
+          "rating": 7,
+          "note": "Ushio's complete defeat. Mystery former Yokozuna to the rescue"
+        },
+        {
+          "id": 24306,
+          "episode": 13,
+          "rating": 6,
+          "note": "Trainning!"
+        },
+        {
+          "id": 24307,
+          "episode": 14,
+          "rating": 6,
+          "note": "Final training episode before the inter-high"
+        },
+        {
+          "id": 24308,
+          "episode": 15,
+          "rating": 6,
+          "note": "Ushio loses to Tennoji...but apparently it's not all over for him yet."
+        },
+        {
+          "id": 24309,
+          "episode": 16,
+          "rating": 6,
+          "note": "Made short work of that team...National treasure even ate a loss"
+        },
+        {
+          "id": 24310,
+          "episode": 17,
+          "rating": 5,
+          "note": "More training for Dachi high. Some badasses went at it but the fight was underwhelming"
+        },
+        {
+          "id": 24311,
+          "episode": 18,
+          "rating": 6,
+          "note": "Mitsuhashi can't catch a break. Pretty sure te authour put him on the team to lose and make it harder for dachi-kou"
+        },
+        {
+          "id": 24312,
+          "episode": 19,
+          "rating": 6,
+          "note": "Kunisaki and Yuuma wins means it's all on Hinomaru's fight!"
+        },
+        {
+          "id": 24313,
+          "episode": 20,
+          "rating": 6,
+          "note": "Onimaru wins.. even though Tennoji is wayyy cooler."
+        },
+        {
+          "id": 24314,
+          "episode": 21,
+          "rating": 6,
+          "note": "Kunisaki's first loss since Hinomaru? Tsuji's fighting next week!"
+        },
+        {
+          "id": 24315,
+          "episode": 22,
+          "rating": 6,
+          "note": "Tsuji! Yuma's fight was meh"
+        },
+        {
+          "id": 24316,
+          "episode": 23,
+          "rating": 6,
+          "note": "Ozeki's fight was easy...anti-climatic almost. Onimaru's fight!! Great so far. He had Kuze on the ropes at first, but that was over quick"
+        },
+        {
+          "id": 24317,
+          "episode": 24,
+          "rating": 7,
+          "note": "Good show. Standard sports themes, but the Sumo was refreshing. Some of the bouts were lackluster, but the national treasure ones were good."
+        }
+      ]
+    },
+    {
+      "id": 2842,
+      "title": "Ingress the Animation",
+      "rating": 4,
+      "season": "Fall",
+      "average": 3.727272727272727,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/d4jQHG6.jpg",
+      "malId": 37438,
+      "episodes": [
+        {
+          "id": 24824,
+          "episode": 1,
+          "rating": 5,
+          "note": "Mystery girl, lame MC with cool power, and evil organisation. Standard stuff, I have no expectations of this being a good series"
+        },
+        {
+          "id": 24825,
+          "episode": 2,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24826,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24827,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24828,
+          "episode": 5,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24829,
+          "episode": 6,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24830,
+          "episode": 7,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24831,
+          "episode": 8,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24832,
+          "episode": 9,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24833,
+          "episode": 10,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24834,
+          "episode": 11,
+          "rating": 4,
+          "note": "Not a fan of the \"Brandt's the real baddie\", Dark XM to save the world, Simulcant or whatever"
+        }
+      ]
+    },
+    {
+      "id": 2796,
+      "title": "Irozuku Sekai no Ashita kara",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4.230769230769231,
+      "highest": 5,
+      "lowest": 4,
+      "mode": 4,
+      "image": "https://i.imgur.com/tmPN5yu.jpg",
+      "malId": 37497,
+      "episodes": [
+        {
+          "id": 24211,
+          "episode": 1,
+          "rating": 5,
+          "note": "Nothing much to say...guess she'll start a romance with the guy from the past and come to love magic or something"
+        },
+        {
+          "id": 24212,
+          "episode": 2,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24213,
+          "episode": 3,
+          "rating": 4,
+          "note": ".."
+        },
+        {
+          "id": 24214,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24215,
+          "episode": 5,
+          "rating": 5,
+          "note": "Nothing . Looks great though"
+        },
+        {
+          "id": 24216,
+          "episode": 6,
+          "rating": 4,
+          "note": "Her \"colours returned\""
+        },
+        {
+          "id": 24217,
+          "episode": 7,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24218,
+          "episode": 8,
+          "rating": 4,
+          "note": "Nothing really happens in this show. Taking slice of life to the extreme"
+        },
+        {
+          "id": 24219,
+          "episode": 9,
+          "rating": 4,
+          "note": "What is the point of this show again?.."
+        },
+        {
+          "id": 24220,
+          "episode": 10,
+          "rating": 4,
+          "note": "...Boring. Boring. Zzzzzz"
+        },
+        {
+          "id": 24221,
+          "episode": 11,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24222,
+          "episode": 12,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24223,
+          "episode": 13,
+          "rating": 4,
+          "note": "Great visuals. Didn't care for the story at all."
+        }
+      ]
+    },
+    {
+      "id": 2784,
+      "title": "Jingai-san no Yome",
+      "rating": 3,
+      "season": "Fall",
+      "average": 3,
+      "highest": 4,
+      "lowest": 2,
+      "mode": 3,
+      "image": "https://i.imgur.com/ya1b7Y5.jpg",
+      "malId": 37992,
+      "episodes": [
+        {
+          "id": 24038,
+          "episode": 1,
+          "rating": 3,
+          "note": "We got introduced to the MC - thats it"
+        },
+        {
+          "id": 24039,
+          "episode": 2,
+          "rating": 4,
+          "note": "\"Play biting\""
+        },
+        {
+          "id": 24040,
+          "episode": 3,
+          "rating": 4,
+          "note": "That guy is wayyy too into that fluffy blob"
+        },
+        {
+          "id": 24041,
+          "episode": 4,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24042,
+          "episode": 5,
+          "rating": 4,
+          "note": "...What even am I watching?"
+        },
+        {
+          "id": 24043,
+          "episode": 6,
+          "rating": 3,
+          "note": "The only really bad thing about this show is that the boys are the \"wives\""
+        },
+        {
+          "id": 24044,
+          "episode": 7,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24045,
+          "episode": 8,
+          "rating": 3,
+          "note": "...power of love to win the race!"
+        },
+        {
+          "id": 24046,
+          "episode": 9,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24047,
+          "episode": 10,
+          "rating": 3,
+          "note": "I like the Cyclops twins"
+        },
+        {
+          "id": 24048,
+          "episode": 11,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24049,
+          "episode": 12,
+          "rating": 3,
+          "note": "Bit of a dumb show.The twin cyclops were the best girls"
+        }
+      ]
+    },
+    {
+      "id": 2652,
+      "title": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+      "rating": 0,
+      "season": "Fall",
+      "average": 8.25,
+      "highest": 9,
+      "lowest": 8,
+      "mode": 8,
+      "image": "https://i.imgur.com/zaNflT2.jpg",
+      "malId": 37991,
+      "episodes": [
+        {
+          "id": 22669,
+          "episode": 1,
+          "rating": 9,
+          "note": "Dope. Giovanna is cool. Bruno is cool. The setting is great, and golden experience is a sick power."
+        },
+        {
+          "id": 22670,
+          "episode": 2,
+          "rating": 8,
+          "note": "Dope fight. Both of them have crazy powerful abilities."
+        },
+        {
+          "id": 22671,
+          "episode": 3,
+          "rating": 8,
+          "note": "Difficult task. The arrow returns!"
+        },
+        {
+          "id": 22672,
+          "episode": 4,
+          "rating": 8,
+          "note": "Great way to finish off Polpo. Giorno just gets better and better. Might be my favourite Jojo protagonist."
+        },
+        {
+          "id": 22673,
+          "episode": 5,
+          "rating": 8,
+          "note": "Great introduction of the gang. I guess we'll come back to the old ladies story later. Mista is cool, Abbachio too."
+        },
+        {
+          "id": 22674,
+          "episode": 6,
+          "rating": 8,
+          "note": "Abbachio backstory. Solving the mystery with Bucciarati"
+        },
+        {
+          "id": 22675,
+          "episode": 7,
+          "rating": 8,
+          "note": "Dance scene! Sex Pistols! Giorno Giovanna has a dream!"
+        },
+        {
+          "id": 22676,
+          "episode": 8,
+          "rating": 8,
+          "note": "Great backstory. I am hoping for better fights though...mista's power wasn't used in an all that interesting way."
+        },
+        {
+          "id": 22677,
+          "episode": 9,
+          "rating": 8,
+          "note": "Narancia losing his shit all the time. Trish introduced. Bucciarati become a capo."
+        },
+        {
+          "id": 22678,
+          "episode": 10,
+          "rating": 8,
+          "note": "Poor Gelato and Sorbet, they got fucked up! Narancia's power is pretty cool."
+        },
+        {
+          "id": 22679,
+          "episode": 11,
+          "rating": 8,
+          "note": "I'm liking Naracia now. Bucciarati comes off as a great saviour in these guys backstories."
+        },
+        {
+          "id": 22680,
+          "episode": 12,
+          "rating": 8,
+          "note": "Fugo backstory and stand. Abbachio putting Giorno in his place...unsuccessfully"
+        },
+        {
+          "id": 22681,
+          "episode": 13,
+          "rating": 8,
+          "note": "That's not how immunisation works...right? Either way it was cool."
+        },
+        {
+          "id": 22682,
+          "episode": 14,
+          "rating": 8,
+          "note": "Mista gotta act fast!"
+        },
+        {
+          "id": 22683,
+          "episode": 15,
+          "rating": 9,
+          "note": "DOPE. Grateful dead sneaking, Sex Pistols saving Mista, and Bucciarati saving the crew"
+        },
+        {
+          "id": 22684,
+          "episode": 16,
+          "rating": 9,
+          "note": "Bucciarati! The resolve! The Sticky Fingers! 9 might be slightly generous"
+        },
+        {
+          "id": 22685,
+          "episode": 17,
+          "rating": 8,
+          "note": "Weird power that BabyFace...I like that stand powers can \"evolve\" just by figuring out unique ways of using them"
+        },
+        {
+          "id": 22686,
+          "episode": 18,
+          "rating": 8,
+          "note": "Melone defeated. Poor Pericolo. Ice boy seems unstoppable! Going into the water seems like a bad idea - he'll freeze it right?"
+        },
+        {
+          "id": 22687,
+          "episode": 19,
+          "rating": 8,
+          "note": "FFS. Can Mista go 1 fight without shooting himself?! Haha. Crazy fight."
+        },
+        {
+          "id": 22688,
+          "episode": 20,
+          "rating": 9,
+          "note": "BRUUUUNNNOOOOOO! Is he dead?! Is he dead?! Save him Giorno!"
+        },
+        {
+          "id": 22689,
+          "episode": 21,
+          "rating": 8,
+          "note": "Bruno survived the donutting....but he was dead. Giorno saw him die. Then he was alive again! I suspect it'll turn out Bruno is dead."
+        },
+        {
+          "id": 22690,
+          "episode": 22,
+          "rating": 8,
+          "note": "New enemies already! So focus on Narancia!"
+        },
+        {
+          "id": 22691,
+          "episode": 23,
+          "rating": 8,
+          "note": "Narancia won out in the end. I do think it sill that the gang didn't follow and help Narancia though. Also how is Giorno even alive hhaha"
+        },
+        {
+          "id": 22692,
+          "episode": 24,
+          "rating": 8,
+          "note": "A post-death stand ability is new. Trish front and center stage for this arc."
+        },
+        {
+          "id": 22693,
+          "episode": 25,
+          "rating": 8,
+          "note": "Trish is dope. Looks like the boss is taking action!"
+        },
+        {
+          "id": 22694,
+          "episode": 26,
+          "rating": 9,
+          "note": "The boss revealed! Doppio/Boss is cool. Jojo villains are always amazing."
+        },
+        {
+          "id": 22695,
+          "episode": 27,
+          "rating": 9,
+          "note": "Risotto is so fucking cool. Shame he had to get killed off so cheap"
+        },
+        {
+          "id": 22696,
+          "episode": 28,
+          "rating": 9,
+          "note": "RIP ABBACCHIO. Brutal. At least he was able to leave a \"dying message\""
+        }
+      ]
+    },
+    {
+      "id": 2821,
+      "title": "Karakuri Circus",
+      "rating": 0,
+      "season": "Fall",
+      "average": 6.428571428571429,
+      "highest": 8,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/A7Cu4F7.jpg",
+      "malId": 37447,
+      "episodes": [
+        {
+          "id": 24588,
+          "episode": 1,
+          "rating": 8,
+          "note": "Cool characters, interesting setup. The \"make people laugh\" thing is the only detraction...but maybe they can make it interesting."
+        },
+        {
+          "id": 24589,
+          "episode": 2,
+          "rating": 7,
+          "note": "Kidnapped...and they're just working with the \"kill squad\" like that?"
+        },
+        {
+          "id": 24590,
+          "episode": 3,
+          "rating": 7,
+          "note": "The laugh attack thing is old already. Hopefull Masaru can stick with this non-cry baby attitude"
+        },
+        {
+          "id": 24591,
+          "episode": 4,
+          "rating": 6,
+          "note": "What the fuck was that? You can't be fucking serious. The show could go rapidly down (or up) hill from here"
+        },
+        {
+          "id": 24592,
+          "episode": 5,
+          "rating": 7,
+          "note": "Tone shift from the last arc - looks like we'll be getting some circus episodes?. Ahhh! They didn't have the balls to kill him off for real."
+        },
+        {
+          "id": 24593,
+          "episode": 6,
+          "rating": 7,
+          "note": "Glad they didn't leave us hanging about Narumi."
+        },
+        {
+          "id": 24594,
+          "episode": 7,
+          "rating": 7,
+          "note": "Vilma's cool. I'm still wondering what Narumi is suppose to be doing (going forward)"
+        },
+        {
+          "id": 24595,
+          "episode": 8,
+          "rating": 7,
+          "note": "I liked Olympia's design."
+        },
+        {
+          "id": 24596,
+          "episode": 9,
+          "rating": 7,
+          "note": "Back story of the Aqua Vita creator. Pretty cool. Have to say though predicted the brothers would fight - but over a woman? Really?"
+        },
+        {
+          "id": 24597,
+          "episode": 10,
+          "rating": 7,
+          "note": "End of the backstory of the Aqua Vita, Puppets, and shirogane's."
+        },
+        {
+          "id": 24598,
+          "episode": 11,
+          "rating": 7,
+          "note": "Narumi and the Shirogane's attack the midnight circus."
+        },
+        {
+          "id": 24599,
+          "episode": 12,
+          "rating": 7,
+          "note": "Narumi's reasoning is lame, but he had a cool moment. This Midnight Circus arc is going very quick."
+        },
+        {
+          "id": 24600,
+          "episode": 13,
+          "rating": 7,
+          "note": "Shirogane's and Four strongest dropping like flies. Lucille was dope, shame they killed her off."
+        },
+        {
+          "id": 24601,
+          "episode": 14,
+          "rating": 6,
+          "note": "Reunion and plot twist. Not the greatest thing"
+        },
+        {
+          "id": 24602,
+          "episode": 15,
+          "rating": 6,
+          "note": "We're back with Masaru...and the story is taking a bizarre turn. I'm not into at the moment."
+        },
+        {
+          "id": 24603,
+          "episode": 16,
+          "rating": 6,
+          "note": "Another backstory of immortal people who all look alike."
+        },
+        {
+          "id": 24604,
+          "episode": 17,
+          "rating": 6,
+          "note": "The backstory is getting quite convoluted now. We saw Shirogane/Elenore's birth!"
+        },
+        {
+          "id": 24605,
+          "episode": 18,
+          "rating": 6,
+          "note": "So did Francine die? I feel like there are some plot holes around Guy and Francine having met at this time?"
+        },
+        {
+          "id": 24606,
+          "episode": 19,
+          "rating": 6,
+          "note": "Hmm.. it's beginning to make some sort of sense now I guess. It is quite convoluted though"
+        },
+        {
+          "id": 24607,
+          "episode": 20,
+          "rating": 6,
+          "note": "Wait...so those guys are the same person? Then did he fake his death each time? What?"
+        },
+        {
+          "id": 24608,
+          "episode": 21,
+          "rating": 6,
+          "note": "A lot of buildup stuff. Shirogane RED DRESS!"
+        },
+        {
+          "id": 24609,
+          "episode": 22,
+          "rating": 5,
+          "note": "Lot of wasted time here. Could be a good fight with Pantalone though?"
+        },
+        {
+          "id": 24610,
+          "episode": 23,
+          "rating": 6,
+          "note": "George and Ashihana seem to be out of it"
+        },
+        {
+          "id": 24611,
+          "episode": 24,
+          "rating": 7,
+          "note": "Pantalone siding with the humans is pretty cool. I like his character arc so far."
+        },
+        {
+          "id": 24612,
+          "episode": 25,
+          "rating": 6,
+          "note": "Coloubine's personality is cool. I'm not struck of the makeover she received. Why make her a loli? Why not keep her in an adult sized body?"
+        },
+        {
+          "id": 24613,
+          "episode": 26,
+          "rating": 5,
+          "note": "The only thing I enjoyed was Elenore in the dress. The show has lost the spark it had early on"
+        },
+        {
+          "id": 24614,
+          "episode": 27,
+          "rating": 6,
+          "note": "Minus points for the retarded space station thing. Bonus points for the psychological mind fuck of having \"two bodies\""
+        },
+        {
+          "id": 24615,
+          "episode": 28,
+          "rating": 6,
+          "note": "The way Masaru was saved was quite smart I guess. Columbine with the save! RIP Just as she was getting good."
+        }
+      ]
+    },
+    {
+      "id": 2785,
+      "title": "Kaze ga Tsuyoku Fuiteiru",
+      "rating": 7,
+      "season": "Fall",
+      "average": 5.782608695652174,
+      "highest": 8,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/xkIwscm.jpg",
+      "malId": 37965,
+      "episodes": [
+        {
+          "id": 24050,
+          "episode": 1,
+          "rating": 5,
+          "note": "Hmm. interesting bunch of characters."
+        },
+        {
+          "id": 24051,
+          "episode": 2,
+          "rating": 5,
+          "note": "This guy's a savage...getting people in their weaknesses"
+        },
+        {
+          "id": 24052,
+          "episode": 3,
+          "rating": 5,
+          "note": "Was that a Jojo REFERENCE!? Also that kid was losing to a butterfly!? Hahahhaa"
+        },
+        {
+          "id": 24053,
+          "episode": 4,
+          "rating": 6,
+          "note": "Prince beat the butterfly! They got rival(s) now."
+        },
+        {
+          "id": 24054,
+          "episode": 5,
+          "rating": 6,
+          "note": "The teams coming together"
+        },
+        {
+          "id": 24055,
+          "episode": 6,
+          "rating": 5,
+          "note": "Looks like they've got everyone on board now?.. Hopefully serious running can start now"
+        },
+        {
+          "id": 24056,
+          "episode": 7,
+          "rating": 6,
+          "note": "Powerful opposition...Kakeru placed 3rd. It'd be cool to see if he win by season end."
+        },
+        {
+          "id": 24057,
+          "episode": 8,
+          "rating": 6,
+          "note": "Kakeru's spiralling into the abyss of cuntery"
+        },
+        {
+          "id": 24058,
+          "episode": 9,
+          "rating": 6,
+          "note": "The gang getting closer - but Haiji collapsed!?"
+        },
+        {
+          "id": 24059,
+          "episode": 10,
+          "rating": 6,
+          "note": "Kakeru helping Ouji was cool. He's beginning to change."
+        },
+        {
+          "id": 24060,
+          "episode": 11,
+          "rating": 6,
+          "note": "More training. Going into inter-collegiate stuff. Whose this reporter looking geezer?"
+        },
+        {
+          "id": 24061,
+          "episode": 12,
+          "rating": 5,
+          "note": "Camp time...troubles a brewin'"
+        },
+        {
+          "id": 24062,
+          "episode": 13,
+          "rating": 5,
+          "note": "We finally get Kakeru's backstory. Some standard stuff"
+        },
+        {
+          "id": 24063,
+          "episode": 14,
+          "rating": 6,
+          "note": "They've all got a record now! Even Ouji!"
+        },
+        {
+          "id": 24064,
+          "episode": 15,
+          "rating": 5,
+          "note": "Next race in the rain..Haiji jump!"
+        },
+        {
+          "id": 24065,
+          "episode": 16,
+          "rating": 7,
+          "note": "For a second there I thought they weren't going to make it. Had me going."
+        },
+        {
+          "id": 24066,
+          "episode": 17,
+          "rating": 5,
+          "note": "Transitiony episode."
+        },
+        {
+          "id": 24067,
+          "episode": 18,
+          "rating": 5,
+          "note": "Build up episode."
+        },
+        {
+          "id": 24068,
+          "episode": 19,
+          "rating": 6,
+          "note": "Way to go Ouji! Those twins are jokers."
+        },
+        {
+          "id": 24069,
+          "episode": 20,
+          "rating": 5,
+          "note": "Of course sick boy flubs it for them. Hurry up and have Kakeru destroy everyone"
+        },
+        {
+          "id": 24070,
+          "episode": 21,
+          "rating": 6,
+          "note": "We're getting closer and closer...our guys are still really far behind though"
+        },
+        {
+          "id": 24071,
+          "episode": 22,
+          "rating": 8,
+          "note": "The hype dring Kurahara's run is great. You can feel it - he better set the record after Rikudo does."
+        },
+        {
+          "id": 24072,
+          "episode": 23,
+          "rating": 8,
+          "note": "Kurahara gets the record! They come 5th. Something, something \"it was about the journey not the destination\""
+        }
+      ]
+    },
+    {
+      "id": 2783,
+      "title": "Ken En Ken: Aoki Kagayaki",
+      "rating": 5,
+      "season": "Fall",
+      "average": 5.076923076923077,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/KcJXGzg.jpg",
+      "malId": 38083,
+      "episodes": [
+        {
+          "id": 24025,
+          "episode": 1,
+          "rating": 5,
+          "note": "I like the Summon girl - Yun. From slave to noble in 1 episode...well played dude"
+        },
+        {
+          "id": 24026,
+          "episode": 2,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24027,
+          "episode": 3,
+          "rating": 5,
+          "note": "Brutal - poor little girl"
+        },
+        {
+          "id": 24028,
+          "episode": 4,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24029,
+          "episode": 5,
+          "rating": 5,
+          "note": "The sister's falling out as people do in situations like this."
+        },
+        {
+          "id": 24030,
+          "episode": 6,
+          "rating": 6,
+          "note": "The constant falling out/making up the sisters are doing is getting old."
+        },
+        {
+          "id": 24031,
+          "episode": 7,
+          "rating": 5,
+          "note": "You join me. No you join me. Why not start a parley? Hmm? Dipshits left and right"
+        },
+        {
+          "id": 24032,
+          "episode": 8,
+          "rating": 5,
+          "note": "She got a power-up! Temporary activation it seems"
+        },
+        {
+          "id": 24033,
+          "episode": 9,
+          "rating": 5,
+          "note": "It's all going downhill for the little sister... Don't worry, I'm sure big sister will fix it"
+        },
+        {
+          "id": 24034,
+          "episode": 10,
+          "rating": 5,
+          "note": "Her reaction to the water torture was dumb. The Loli-Queen is irritating. Zhao is lame."
+        },
+        {
+          "id": 24035,
+          "episode": 11,
+          "rating": 5,
+          "note": "Sure swing a sword in your mouth, going full Zoro. The whole Ning blaming her sister is lame."
+        },
+        {
+          "id": 24036,
+          "episode": 12,
+          "rating": 5,
+          "note": "Rebels be sitting on their hands, the Queen be foiling her own assassination"
+        },
+        {
+          "id": 24037,
+          "episode": 13,
+          "rating": 5,
+          "note": "Many of the characters were irritating - or at least their behaviour was."
+        }
+      ]
+    },
+    {
+      "id": 2799,
+      "title": "Kishuku Gakkou no Juliet",
+      "rating": 5,
+      "season": "Fall",
+      "average": 5.333333333333333,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/nDekzEn.jpg",
+      "malId": 37475,
+      "episodes": [
+        {
+          "id": 24249,
+          "episode": 1,
+          "rating": 6,
+          "note": "Cool take on Romeo and Juliet"
+        },
+        {
+          "id": 24250,
+          "episode": 2,
+          "rating": 6,
+          "note": "The characters are fun, even if the \"incidents\" are cliche"
+        },
+        {
+          "id": 24251,
+          "episode": 3,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24252,
+          "episode": 4,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24253,
+          "episode": 5,
+          "rating": 5,
+          "note": "Not a fan of these new white cat antagonists.."
+        },
+        {
+          "id": 24254,
+          "episode": 6,
+          "rating": 6,
+          "note": "Inozuka-Maru team up destroys white cats."
+        },
+        {
+          "id": 24255,
+          "episode": 7,
+          "rating": 6,
+          "note": "Inuzuka's ill...persia gets into trouble"
+        },
+        {
+          "id": 24256,
+          "episode": 8,
+          "rating": 5,
+          "note": "Good guy Inuzuka as always....Persia gets the short-end of the stick and the prefects were lame characters"
+        },
+        {
+          "id": 24257,
+          "episode": 9,
+          "rating": 5,
+          "note": "\"Date\" with Char-hime. It was a decent episode"
+        },
+        {
+          "id": 24258,
+          "episode": 10,
+          "rating": 5,
+          "note": "Romio's brother, threatened with expulsion..yada yada standard secret relationship stuff"
+        },
+        {
+          "id": 24259,
+          "episode": 11,
+          "rating": 5,
+          "note": "Trying to celebrate Persia's birthday...standard interference from the houses"
+        },
+        {
+          "id": 24260,
+          "episode": 12,
+          "rating": 5,
+          "note": "Good series but I feel there was wasted potential"
+        }
+      ]
+    },
+    {
+      "id": 2822,
+      "title": "Merc Storia: Mukiryoku no Shounen to Bin no Naka no Shoujo",
+      "rating": 3,
+      "season": "Fall",
+      "average": 3.5,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/c1Cngoc.jpg",
+      "malId": 37232,
+      "episodes": [
+        {
+          "id": 24616,
+          "episode": 1,
+          "rating": 4,
+          "note": "Generic fantasy show...lame MC..."
+        },
+        {
+          "id": 24617,
+          "episode": 2,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24618,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24619,
+          "episode": 4,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24620,
+          "episode": 5,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24621,
+          "episode": 6,
+          "rating": 3,
+          "note": "I really didn't pay attention to this"
+        },
+        {
+          "id": 24622,
+          "episode": 7,
+          "rating": 3,
+          "note": "...I lost this show completely"
+        },
+        {
+          "id": 24623,
+          "episode": 8,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24624,
+          "episode": 9,
+          "rating": 3,
+          "note": "I've lost any sort of understanding of what the show is doing"
+        },
+        {
+          "id": 24625,
+          "episode": 10,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24626,
+          "episode": 11,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24627,
+          "episode": 12,
+          "rating": 3,
+          "note": "I did't pay much attention to this series after the first few episodes were lame. The score might be overly harsh..doubt it though"
+        }
+      ]
+    },
+    {
+      "id": 2806,
+      "title": "Okoshiyasu, Chitose-chan",
+      "rating": 0,
+      "season": "Fall",
+      "average": 3.7857142857142856,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/CuGZWQU.jpg",
+      "malId": 38089,
+      "episodes": [
+        {
+          "id": 24382,
+          "episode": 1,
+          "rating": 4,
+          "note": "Chitose is cute."
+        },
+        {
+          "id": 24383,
+          "episode": 2,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24384,
+          "episode": 3,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24385,
+          "episode": 4,
+          "rating": 4,
+          "note": "Frog race!"
+        },
+        {
+          "id": 24386,
+          "episode": 5,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24387,
+          "episode": 6,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24388,
+          "episode": 7,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24389,
+          "episode": 8,
+          "rating": 5,
+          "note": "Lonely Chitose"
+        },
+        {
+          "id": 24390,
+          "episode": 9,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24391,
+          "episode": 10,
+          "rating": 4,
+          "note": "Penguin instincts!"
+        },
+        {
+          "id": 24392,
+          "episode": 11,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24393,
+          "episode": 12,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24394,
+          "episode": 13,
+          "rating": 5,
+          "note": "Chitose and the girl are great together"
+        },
+        {
+          "id": 24395,
+          "episode": 14,
+          "rating": 5,
+          "note": "Yay! The girl returns, Also Backstory!?"
+        }
+      ]
+    },
+    {
+      "id": 2819,
+      "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
+      "rating": 3,
+      "season": "Fall",
+      "average": 3.3,
+      "highest": 4,
+      "lowest": 2,
+      "mode": 3,
+      "image": "https://i.imgur.com/cOHi4yZ.jpg",
+      "malId": 36632,
+      "episodes": [
+        {
+          "id": 24566,
+          "episode": 1,
+          "rating": 4,
+          "note": "...this would be a lot better without the sister angle. Prove me wrong, please."
+        },
+        {
+          "id": 24567,
+          "episode": 2,
+          "rating": 4,
+          "note": "The editor is the best girl and she only had a bath cameo scene"
+        },
+        {
+          "id": 24568,
+          "episode": 3,
+          "rating": 3,
+          "note": "Dumb bro-con shit"
+        },
+        {
+          "id": 24569,
+          "episode": 4,
+          "rating": 4,
+          "note": "Why would anyone like this MC?..I can understand the ones who think he is Towano-sensei...but the others? WTF"
+        },
+        {
+          "id": 24570,
+          "episode": 5,
+          "rating": 2,
+          "note": "Why his little sister? I saw the shower scene coming a mile away. The scene with Mai was a trainwreck. Ahegao-sensei's thiccness was good."
+        },
+        {
+          "id": 24571,
+          "episode": 6,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24572,
+          "episode": 7,
+          "rating": 4,
+          "note": "Some poor animation this week - looks like they got productions problems, what with the break last week"
+        },
+        {
+          "id": 24573,
+          "episode": 8,
+          "rating": 3,
+          "note": "Imouto this, Onii-chan that"
+        },
+        {
+          "id": 24574,
+          "episode": 9,
+          "rating": 3,
+          "note": "The animation's gone to even more shit. The story continues to be waste"
+        },
+        {
+          "id": 24575,
+          "episode": 10,
+          "rating": 3,
+          "note": "What a shitshow. The animation really took a nose dive over the last handful of episodes. The story was standard imouto trash"
+        }
+      ]
+    },
+    {
+      "id": 2815,
+      "title": "Otona no Bouguya-san",
+      "rating": 3,
+      "season": "Fall",
+      "average": 2.9166666666666665,
+      "highest": 5,
+      "lowest": 2,
+      "mode": 2,
+      "image": "https://i.imgur.com/g15hzQJ.jpg",
+      "malId": 38395,
+      "episodes": [
+        {
+          "id": 24518,
+          "episode": 1,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24519,
+          "episode": 2,
+          "rating": 3,
+          "note": "Risque armour!"
+        },
+        {
+          "id": 24520,
+          "episode": 3,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24521,
+          "episode": 4,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24522,
+          "episode": 5,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24523,
+          "episode": 6,
+          "rating": 5,
+          "note": "He chould've bled to death right there"
+        },
+        {
+          "id": 24524,
+          "episode": 7,
+          "rating": 4,
+          "note": "Occupation: Sexy Knight"
+        },
+        {
+          "id": 24525,
+          "episode": 8,
+          "rating": 3,
+          "note": "...Too much 8bit"
+        },
+        {
+          "id": 24526,
+          "episode": 9,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24527,
+          "episode": 10,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24528,
+          "episode": 11,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24529,
+          "episode": 12,
+          "rating": 3,
+          "note": "I think the show was funny/interesting all of twice..."
+        }
+      ]
+    },
+    {
+      "id": 2787,
+      "title": "RErideD: Tokigoe no Derrida",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4.25,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/gSQWR9v.jpg",
+      "malId": 35835,
+      "episodes": [
+        {
+          "id": 24073,
+          "episode": 1,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24074,
+          "episode": 2,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24075,
+          "episode": 3,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24076,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24077,
+          "episode": 5,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24078,
+          "episode": 6,
+          "rating": 4,
+          "note": "[Forgot to tick this off on 11/10/2018?]"
+        },
+        {
+          "id": 24079,
+          "episode": 7,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24080,
+          "episode": 8,
+          "rating": 5,
+          "note": "The time jumping is a little dumb. Just because he pocketed the device he could easily lose it"
+        },
+        {
+          "id": 24081,
+          "episode": 9,
+          "rating": 4,
+          "note": "This is dragging."
+        },
+        {
+          "id": 24082,
+          "episode": 10,
+          "rating": 3,
+          "note": "The backstory for Donna seems out of place. Also I don't get why she went nuts just from a few conversations"
+        },
+        {
+          "id": 24083,
+          "episode": 11,
+          "rating": 4,
+          "note": "This is seeming lamer and lamer"
+        },
+        {
+          "id": 24084,
+          "episode": 12,
+          "rating": 5,
+          "note": "Nice ending I guess. The show's second half was a let down, The first being okay."
+        }
+      ]
+    },
+    {
+      "id": 2800,
+      "title": "Radiant",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4.476190476190476,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/7RsrRCu.jpg",
+      "malId": 37202,
+      "episodes": [
+        {
+          "id": 24261,
+          "episode": 1,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24262,
+          "episode": 2,
+          "rating": 5,
+          "note": "Of course the \"weak MC\" discovers he has next-level power"
+        },
+        {
+          "id": 24263,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24264,
+          "episode": 4,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24265,
+          "episode": 5,
+          "rating": 5,
+          "note": "Of course the calderon guy was the person they were looking for"
+        },
+        {
+          "id": 24266,
+          "episode": 6,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24267,
+          "episode": 7,
+          "rating": 5,
+          "note": "Sewer squid"
+        },
+        {
+          "id": 24268,
+          "episode": 8,
+          "rating": 5,
+          "note": "Of course he wasn't expelled."
+        },
+        {
+          "id": 24269,
+          "episode": 9,
+          "rating": 5,
+          "note": "Focus on the \"empire\" captain - was soso"
+        },
+        {
+          "id": 24270,
+          "episode": 10,
+          "rating": 5,
+          "note": "Where are they getting the money to bet if they're perpetually broke?"
+        },
+        {
+          "id": 24271,
+          "episode": 11,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24272,
+          "episode": 12,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24273,
+          "episode": 13,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24274,
+          "episode": 14,
+          "rating": 5,
+          "note": "He stole the guys mustache!"
+        },
+        {
+          "id": 24275,
+          "episode": 15,
+          "rating": 5,
+          "note": "Flute-chan (Is it a girl?) is cool. Those mice nemesises are cool"
+        },
+        {
+          "id": 24276,
+          "episode": 16,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24277,
+          "episode": 17,
+          "rating": 5,
+          "note": "Lesson learned - Believing in the MC's talk no jutsu will get you killed"
+        },
+        {
+          "id": 24278,
+          "episode": 18,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24279,
+          "episode": 19,
+          "rating": 3,
+          "note": "Transitiony/Roundup episode"
+        },
+        {
+          "id": 24280,
+          "episode": 20,
+          "rating": 4,
+          "note": "Talking about things that just happened..."
+        },
+        {
+          "id": 24281,
+          "episode": 21,
+          "rating": 4,
+          "note": "There was some cool things in the show, but it wasn't a standout show. I'll probably still watch the second season"
+        }
+      ]
+    },
+    {
+      "id": 2807,
+      "title": "Release the Spyce",
+      "rating": 6,
+      "season": "Fall",
+      "average": 5.75,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/UbjZtE7.jpg",
+      "malId": 37221,
+      "episodes": [
+        {
+          "id": 24396,
+          "episode": 1,
+          "rating": 5,
+          "note": "School girl ninja's using performance enhancing leaves to defeat economic terrorists?"
+        },
+        {
+          "id": 24397,
+          "episode": 2,
+          "rating": 5,
+          "note": "Stamp training!"
+        },
+        {
+          "id": 24398,
+          "episode": 3,
+          "rating": 6,
+          "note": "Byakko was a tough little loli. Itou Shizuka's \"faceless babe\" character has a great design - they need to show us the face!"
+        },
+        {
+          "id": 24399,
+          "episode": 4,
+          "rating": 6,
+          "note": "Falling out and resolution all in a single episode"
+        },
+        {
+          "id": 24400,
+          "episode": 5,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24401,
+          "episode": 6,
+          "rating": 6,
+          "note": "Interesting backstory for Aoba and the homeless kid she met, Teru."
+        },
+        {
+          "id": 24402,
+          "episode": 7,
+          "rating": 6,
+          "note": "Great scene where Goe-chan raided the yakuza office"
+        },
+        {
+          "id": 24403,
+          "episode": 8,
+          "rating": 6,
+          "note": "Momo got a telling off for not prioritising herself."
+        },
+        {
+          "id": 24404,
+          "episode": 9,
+          "rating": 6,
+          "note": "Yuki backstory - how she lost her eye. The super babe (Itou Shizuka) is called Tendo - and she's the one who took Yuki's master and eye."
+        },
+        {
+          "id": 24405,
+          "episode": 10,
+          "rating": 6,
+          "note": "Traitor! Tsuchikage defeated!"
+        },
+        {
+          "id": 24406,
+          "episode": 11,
+          "rating": 6,
+          "note": "The baddies activate their plan. Tendo looks great as always"
+        },
+        {
+          "id": 24407,
+          "episode": 12,
+          "rating": 6,
+          "note": "They beat Mouryou. I knew she was a double.- no one was dead, as expected."
+        }
+      ]
+    },
+    {
+      "id": 2808,
+      "title": "SSSS.Gridman",
+      "rating": 6,
+      "season": "Fall",
+      "average": 6.166666666666667,
+      "highest": 7,
+      "lowest": 6,
+      "mode": 6,
+      "image": "https://i.imgur.com/12SH5XR.jpg",
+      "malId": 35847,
+      "episodes": [
+        {
+          "id": 24408,
+          "episode": 1,
+          "rating": 6,
+          "note": "Power of friendship straight in episode 1"
+        },
+        {
+          "id": 24409,
+          "episode": 2,
+          "rating": 6,
+          "note": "Samurai man is cool"
+        },
+        {
+          "id": 24410,
+          "episode": 3,
+          "rating": 6,
+          "note": "More powerup people arrive."
+        },
+        {
+          "id": 24411,
+          "episode": 4,
+          "rating": 6,
+          "note": ""
+        },
+        {
+          "id": 24412,
+          "episode": 5,
+          "rating": 6,
+          "note": "Rikka's swimsuit was great. The fight was cool."
+        },
+        {
+          "id": 24413,
+          "episode": 6,
+          "rating": 6,
+          "note": "We learnt a bit more about the world - met \"green jacket\"-chan"
+        },
+        {
+          "id": 24414,
+          "episode": 7,
+          "rating": 6,
+          "note": "The diner scene with \"Alexis\" was surreal. Looks like Akane is no longer pals with \"Anti\""
+        },
+        {
+          "id": 24415,
+          "episode": 8,
+          "rating": 7,
+          "note": "Cool fight. I wonder if Akane was just messing with Rikka when she said that"
+        },
+        {
+          "id": 24416,
+          "episode": 9,
+          "rating": 6,
+          "note": "More of a psychological battle against dream world Akane than Kaiju this week - not bad"
+        },
+        {
+          "id": 24417,
+          "episode": 10,
+          "rating": 7,
+          "note": "Anti became the GridKnight! Badass. Akane fucking knifed him!!!"
+        },
+        {
+          "id": 24418,
+          "episode": 11,
+          "rating": 6,
+          "note": "Yuta is Gridman! Gridman, Gridknight team up. AkaneGod becomes a Kaiji!?"
+        },
+        {
+          "id": 24419,
+          "episode": 12,
+          "rating": 6,
+          "note": "Akane was saved and left their world. Alexis was defeated. Not a bad show, but the typical episode was quite \"kaiju of the week\""
+        }
+      ]
+    },
+    {
+      "id": 2790,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "rating": 6,
+      "season": "Fall",
+      "average": 5.769230769230769,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/No3o32b.jpg",
+      "malId": 37450,
+      "episodes": [
+        {
+          "id": 24137,
+          "episode": 1,
+          "rating": 5,
+          "note": "Potentially interesting. Gives a Sakurada Reset vibe - might just be the MC VA though"
+        },
+        {
+          "id": 24138,
+          "episode": 2,
+          "rating": 5,
+          "note": "They need to pace it up a little"
+        },
+        {
+          "id": 24139,
+          "episode": 3,
+          "rating": 6,
+          "note": "Guess that wraps the case of Mai disappearing up....lame that they didn't kiss."
+        },
+        {
+          "id": 24140,
+          "episode": 4,
+          "rating": 6,
+          "note": "Didn't Sakurada Reset have a time loop arc toop?"
+        },
+        {
+          "id": 24141,
+          "episode": 5,
+          "rating": 6,
+          "note": "I'm not a fan of Kouhai-chan. We need more Mai in the show. Also what's up with that dude's girlfriend?"
+        },
+        {
+          "id": 24142,
+          "episode": 6,
+          "rating": 6,
+          "note": "I wonder what it'd be like to repeat a day several times...probably boring due to my highly scheduled life."
+        },
+        {
+          "id": 24143,
+          "episode": 7,
+          "rating": 6,
+          "note": "Mysteries abound. The tease with Mai at night was waste. She talks the talk...lets see her walk it."
+        },
+        {
+          "id": 24144,
+          "episode": 8,
+          "rating": 5,
+          "note": "Story was lame, but Futaba is best girl."
+        },
+        {
+          "id": 24145,
+          "episode": 9,
+          "rating": 6,
+          "note": "Body swapping!"
+        },
+        {
+          "id": 24146,
+          "episode": 10,
+          "rating": 6,
+          "note": "All wrapped up when people are actually honest."
+        },
+        {
+          "id": 24147,
+          "episode": 11,
+          "rating": 6,
+          "note": "Can they fix Kaede in 2 more episodes? They better not leave it hanging."
+        },
+        {
+          "id": 24148,
+          "episode": 12,
+          "rating": 6,
+          "note": "She's the Kaede from before she was Kaede."
+        },
+        {
+          "id": 24149,
+          "episode": 13,
+          "rating": 6,
+          "note": "Kinda lame last episode. Series was good overall - wayyyy overblown on MAL scores though"
+        }
+      ]
+    },
+    {
+      "id": 2829,
+      "title": "Senran Kagura Shinovi Master: Tokyo Youma-hen",
+      "rating": 6,
+      "season": "Fall",
+      "average": 5.5,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/Ne4VCgb.jpg",
+      "malId": 36037,
+      "episodes": [
+        {
+          "id": 24708,
+          "episode": 1,
+          "rating": 5,
+          "note": "JK ninjas! Looks like we've got the villians of the season setup already. Guess Yumi willl be conflicted"
+        },
+        {
+          "id": 24709,
+          "episode": 2,
+          "rating": 5,
+          "note": "Poolside water fight - Yumi and Murakumo standout as favourites for me"
+        },
+        {
+          "id": 24710,
+          "episode": 3,
+          "rating": 5,
+          "note": "I'm liking Murakumo more and more"
+        },
+        {
+          "id": 24711,
+          "episode": 4,
+          "rating": 5,
+          "note": "Pointless Asuka appearance. Kagura has great underwear choice. The Gessen girls are great."
+        },
+        {
+          "id": 24712,
+          "episode": 5,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24713,
+          "episode": 6,
+          "rating": 6,
+          "note": "Boobs. Yumi and Asuka defeat the twins. More boobs. The Youma was hot."
+        },
+        {
+          "id": 24714,
+          "episode": 7,
+          "rating": 6,
+          "note": "Babes, Boobs, and dope transformations. The Yumi backstory with Kurokage was good too."
+        },
+        {
+          "id": 24715,
+          "episode": 8,
+          "rating": 6,
+          "note": "Hanzou girls rescued, Fubuki's design is great, and of course Asuka's being an ass-hat"
+        },
+        {
+          "id": 24716,
+          "episode": 9,
+          "rating": 6,
+          "note": "Boobs, all the girls fighting, and Fubuki."
+        },
+        {
+          "id": 24717,
+          "episode": 10,
+          "rating": 5,
+          "note": "More boobs, More Fubuki backstory. Was expected, still good"
+        },
+        {
+          "id": 24718,
+          "episode": 11,
+          "rating": 6,
+          "note": "Fubuki backstory filled in, Fubuki vs Yumi. Fubuki best girl"
+        },
+        {
+          "id": 24719,
+          "episode": 12,
+          "rating": 6,
+          "note": "I enjoyed. Knew they'd be no consequences for the ninja girls though. Fubuki best girl. Poor Rasetsu."
+        }
+      ]
+    },
+    {
+      "id": 2804,
+      "title": "Sono Toki, Kanojo wa.",
+      "rating": 2,
+      "season": "Fall",
+      "average": 2.1666666666666665,
+      "highest": 3,
+      "lowest": 2,
+      "mode": 2,
+      "image": "https://i.imgur.com/BzzZM0F.jpg",
+      "malId": 38251,
+      "episodes": [
+        {
+          "id": 24341,
+          "episode": 1,
+          "rating": 3,
+          "note": "A Nothing episode..."
+        },
+        {
+          "id": 24342,
+          "episode": 2,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24343,
+          "episode": 3,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24344,
+          "episode": 4,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24345,
+          "episode": 5,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24346,
+          "episode": 6,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24347,
+          "episode": 8,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24348,
+          "episode": 7,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24349,
+          "episode": 9,
+          "rating": 2,
+          "note": "End already"
+        },
+        {
+          "id": 24350,
+          "episode": 10,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24351,
+          "episode": 11,
+          "rating": 2,
+          "note": ""
+        },
+        {
+          "id": 24352,
+          "episode": 12,
+          "rating": 2,
+          "note": "Waste of time"
+        }
+      ]
+    },
+    {
+      "id": 2789,
+      "title": "Sora to Umi no Aida",
+      "rating": 4,
+      "season": "Fall",
+      "average": 3.6666666666666665,
+      "highest": 4,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/uGS3Mk5.jpg",
+      "malId": 36000,
+      "episodes": [
+        {
+          "id": 24125,
+          "episode": 1,
+          "rating": 4,
+          "note": "Pretty daft concept."
+        },
+        {
+          "id": 24126,
+          "episode": 2,
+          "rating": 4,
+          "note": "This girl is completely clueless."
+        },
+        {
+          "id": 24127,
+          "episode": 3,
+          "rating": 4,
+          "note": "\"They\" matched the record..but it was thanks to this derpy newcomer"
+        },
+        {
+          "id": 24128,
+          "episode": 4,
+          "rating": 4,
+          "note": "James bond reference! So she's a spy?"
+        },
+        {
+          "id": 24129,
+          "episode": 5,
+          "rating": 4,
+          "note": "Yay! She overcame her fear of water and this show is kak"
+        },
+        {
+          "id": 24130,
+          "episode": 6,
+          "rating": 3,
+          "note": "Another girl, Another Diety...."
+        },
+        {
+          "id": 24131,
+          "episode": 7,
+          "rating": 3,
+          "note": "This week we focus on makimaki...she's scared, but saves the day...just like the other episodes"
+        },
+        {
+          "id": 24132,
+          "episode": 8,
+          "rating": 3,
+          "note": "Namino's week for the \"friendship perk-up\""
+        },
+        {
+          "id": 24133,
+          "episode": 9,
+          "rating": 4,
+          "note": "Ruby loses her purse.... Cool bit when the characters sang the OP"
+        },
+        {
+          "id": 24134,
+          "episode": 10,
+          "rating": 4,
+          "note": "What a completely deranged reaction from a so called friend"
+        },
+        {
+          "id": 24135,
+          "episode": 11,
+          "rating": 4,
+          "note": "Now the girls get to prove themselves by saving the guy team... They might even find the girls brother?!"
+        },
+        {
+          "id": 24136,
+          "episode": 12,
+          "rating": 3,
+          "note": "That was a strange ending. The rescue mission was over in 1st half. The second half was all SoL BS"
+        }
+      ]
+    },
+    {
+      "id": 2780,
+      "title": "Souten no Ken: Regenesis 2nd Season",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4.083333333333333,
+      "highest": 5,
+      "lowest": 4,
+      "mode": 4,
+      "image": "https://i.imgur.com/j57WKdx.jpg",
+      "malId": 37388,
+      "episodes": [
+        {
+          "id": 23977,
+          "episode": 1,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 23978,
+          "episode": 2,
+          "rating": 4,
+          "note": "Fei Yan's sister is irritating"
+        },
+        {
+          "id": 23979,
+          "episode": 3,
+          "rating": 4,
+          "note": "No way they just killed Yasaka off? The body count among Kenshiro's friends is hiiighhh"
+        },
+        {
+          "id": 23980,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 23981,
+          "episode": 5,
+          "rating": 4,
+          "note": "Yasaka's got a missing bit of his chest...still walking around like it's nothing"
+        },
+        {
+          "id": 23982,
+          "episode": 6,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 23983,
+          "episode": 7,
+          "rating": 4,
+          "note": "We didn't see Yasaka's body he's totally alive."
+        },
+        {
+          "id": 23984,
+          "episode": 8,
+          "rating": 4,
+          "note": "Sad backstory...but nothing all that traumatic...weak motivations. Kenshiro will talk him round"
+        },
+        {
+          "id": 23985,
+          "episode": 9,
+          "rating": 4,
+          "note": "Kenshiro vs Kenshin starts!"
+        },
+        {
+          "id": 23986,
+          "episode": 10,
+          "rating": 4,
+          "note": "Everyone's seeing the death star. Kenshiro's got  a week tops."
+        },
+        {
+          "id": 23987,
+          "episode": 11,
+          "rating": 4,
+          "note": "It's down to the final fight"
+        },
+        {
+          "id": 23988,
+          "episode": 12,
+          "rating": 5,
+          "note": "Kenshiro defeats Kenshin, but dies cause of whats-it-called. Everyone else continues their lives."
+        }
+      ]
+    },
+    {
+      "id": 2782,
+      "title": "Tensei shitara Slime Datta Ken",
+      "rating": 6,
+      "season": "Fall",
+      "average": 5.666666666666667,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/nF35XYp.jpg",
+      "malId": 37430,
+      "episodes": [
+        {
+          "id": 24001,
+          "episode": 1,
+          "rating": 6,
+          "note": "This will be fun."
+        },
+        {
+          "id": 24002,
+          "episode": 2,
+          "rating": 6,
+          "note": "Got himself some followers!"
+        },
+        {
+          "id": 24003,
+          "episode": 3,
+          "rating": 6,
+          "note": "Beat the wolves - setup the village"
+        },
+        {
+          "id": 24004,
+          "episode": 4,
+          "rating": 6,
+          "note": "Amuzing, but they need to do something soon, I'm beginning to come down from the initial impact of the premise"
+        },
+        {
+          "id": 24005,
+          "episode": 5,
+          "rating": 6,
+          "note": "Artisans aquired! They left Gobota though? That king knows what he's doing too."
+        },
+        {
+          "id": 24006,
+          "episode": 6,
+          "rating": 6,
+          "note": "Glad Shizu isn't from the same time period."
+        },
+        {
+          "id": 24007,
+          "episode": 7,
+          "rating": 6,
+          "note": "Not a fan of the way Rimuru took so long to get into the fight."
+        },
+        {
+          "id": 24008,
+          "episode": 8,
+          "rating": 6,
+          "note": "So Shizu was absorbed by Rimuru - that's how he has the form we see in the OP. End of the first arc \"Intro/Beginning\" or whatever"
+        },
+        {
+          "id": 24009,
+          "episode": 9,
+          "rating": 6,
+          "note": "Hopefully he recruits these ogres too. I like the old man and the one with the large chest..."
+        },
+        {
+          "id": 24010,
+          "episode": 10,
+          "rating": 6,
+          "note": "I preferred the Ogre forms to the \"humans with horns\". Side note, the Busty Ogre is called Shion."
+        },
+        {
+          "id": 24011,
+          "episode": 11,
+          "rating": 6,
+          "note": "Shit pacing at the moment. Yay Shion, but not her cooking. Gobta, crouching idiot, hidden badass."
+        },
+        {
+          "id": 24012,
+          "episode": 12,
+          "rating": 6,
+          "note": "Preparing to fight the orcs...when Gabiru fucks it all up"
+        },
+        {
+          "id": 24013,
+          "episode": 13,
+          "rating": 6,
+          "note": "Everyone is wonderfully powerful. Rimuru does nothing. The animation was also disappointing. They were all single sweeping attacks..."
+        },
+        {
+          "id": 24014,
+          "episode": 14,
+          "rating": 6,
+          "note": "Orc lord defeated!"
+        },
+        {
+          "id": 24015,
+          "episode": 15,
+          "rating": 6,
+          "note": "Busy politicing episode. Alliance, Nation, City, and a Treaty all setup."
+        },
+        {
+          "id": 24016,
+          "episode": 16,
+          "rating": 5,
+          "note": "Demon lord shows up...of course it's a loli. She's now the \"Strongest\" character we've met."
+        },
+        {
+          "id": 24017,
+          "episode": 17,
+          "rating": 5,
+          "note": "Diplomatic Relations the anime...."
+        },
+        {
+          "id": 24018,
+          "episode": 18,
+          "rating": 5,
+          "note": "Lots of talk. New baddie on the way"
+        },
+        {
+          "id": 24019,
+          "episode": 19,
+          "rating": 6,
+          "note": "So Charbdyis was beyond Rimuru's skills...but if he absorbed the guy's core then surely he'll get his abilities?"
+        },
+        {
+          "id": 24020,
+          "episode": 20,
+          "rating": 5,
+          "note": "Urgh. Upcoming arc seems like it'll be lame at first glance."
+        },
+        {
+          "id": 24021,
+          "episode": 21,
+          "rating": 5,
+          "note": "Kid arc is boring. Even beating the dragon was meh"
+        },
+        {
+          "id": 24022,
+          "episode": 22,
+          "rating": 5,
+          "note": "Waste episode. Hurry up and spirit-up the kids."
+        },
+        {
+          "id": 24023,
+          "episode": 23,
+          "rating": 5,
+          "note": "So this was the \"final\" episode... seems like next week is an \"extra\". This \"save the kids arc\" was crap compared to the early arcs"
+        },
+        {
+          "id": 24024,
+          "episode": 24,
+          "rating": 5,
+          "note": "Shizu side story... Kuro is the highlight"
+        }
+      ]
+    },
+    {
+      "id": 2809,
+      "title": "Toaru Majutsu no Index III",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4.615384615384615,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/Z9rZt5R.jpg",
+      "malId": 36432,
+      "episodes": [
+        {
+          "id": 24420,
+          "episode": 1,
+          "rating": 5,
+          "note": "Welp. It's a start. I'm waiting for accelerator though"
+        },
+        {
+          "id": 24421,
+          "episode": 2,
+          "rating": 6,
+          "note": ""
+        },
+        {
+          "id": 24422,
+          "episode": 3,
+          "rating": 5,
+          "note": "Lame. They teased accelerator but he didn't do anything"
+        },
+        {
+          "id": 24423,
+          "episode": 4,
+          "rating": 6,
+          "note": "Accelerator is dope, other people suck - want to see Accelerator fight this Kakine guy"
+        },
+        {
+          "id": 24424,
+          "episode": 5,
+          "rating": 6,
+          "note": "Were getting better episodes...not enough accelerator though - he did have a cool scene"
+        },
+        {
+          "id": 24425,
+          "episode": 6,
+          "rating": 6,
+          "note": "Accelerator was cool. The \"berserk\" bit was lame. Also, where did these black tornadeo's come from? I though accelerator's power was vectors"
+        },
+        {
+          "id": 24426,
+          "episode": 7,
+          "rating": 5,
+          "note": "Touma and Itsuwa focus. Meh. Acqua of the rear is pretty badass...but it's stupid to think he wouldn't just take touma's arm"
+        },
+        {
+          "id": 24427,
+          "episode": 8,
+          "rating": 5,
+          "note": "Kanzaki turning up at the end was the only worthwhile bit."
+        },
+        {
+          "id": 24428,
+          "episode": 9,
+          "rating": 5,
+          "note": "hile touma's power negates powers...does it negate the shear weight of the man and weapon - no. Also what was the point of acua's spin-push?"
+        },
+        {
+          "id": 24429,
+          "episode": 10,
+          "rating": 5,
+          "note": "Inept terrorists."
+        },
+        {
+          "id": 24430,
+          "episode": 11,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24431,
+          "episode": 12,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24432,
+          "episode": 13,
+          "rating": 5,
+          "note": "You can feel the rushing of the source material"
+        },
+        {
+          "id": 24433,
+          "episode": 14,
+          "rating": 4,
+          "note": "All wrapped up, of course Touma lands the winning blow.."
+        },
+        {
+          "id": 24434,
+          "episode": 15,
+          "rating": 5,
+          "note": "They waste accelerator's potential...at least he's in this arc."
+        },
+        {
+          "id": 24435,
+          "episode": 16,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24436,
+          "episode": 17,
+          "rating": 4,
+          "note": "Accelerator, No1, getting slapped around...lame. Level 0's beating level 5's? What does the rating even mean?"
+        },
+        {
+          "id": 24437,
+          "episode": 18,
+          "rating": 3,
+          "note": "Nothing to see here folks. Fingers crossed for an accelerator fight next week vs mask lady"
+        },
+        {
+          "id": 24438,
+          "episode": 19,
+          "rating": 5,
+          "note": "The PTSD is strong with accelerator"
+        },
+        {
+          "id": 24439,
+          "episode": 20,
+          "rating": 4,
+          "note": "So Touma is god and Accelerator - the strongest Esper - gets beatdown...again"
+        },
+        {
+          "id": 24440,
+          "episode": 21,
+          "rating": 4,
+          "note": "Nothing much to say....lame rush plot moving episode"
+        },
+        {
+          "id": 24441,
+          "episode": 22,
+          "rating": 3,
+          "note": "...another woman for Touma to add to the inexplicable harem"
+        },
+        {
+          "id": 24442,
+          "episode": 23,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24443,
+          "episode": 24,
+          "rating": 4,
+          "note": "Touma's self righteous BS reigns above all. Again the villain is pitifully weak when thier \"best move/master plan\" doesnt work"
+        },
+        {
+          "id": 24444,
+          "episode": 25,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24445,
+          "episode": 26,
+          "rating": 4,
+          "note": "Poor outing. Worst series yet of index/railgun. Accelerator acsended to angel level - and did nothing. Lame."
+        }
+      ]
+    },
+    {
+      "id": 2818,
+      "title": "Tokyo Ghoul:re 2nd Season",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4.5,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 4,
+      "image": "https://i.imgur.com/LHy3Fse.jpg",
+      "malId": 37799,
+      "episodes": [
+        {
+          "id": 24554,
+          "episode": 1,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24555,
+          "episode": 2,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24556,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24557,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24558,
+          "episode": 5,
+          "rating": 6,
+          "note": "I liked yhe hinami/Toka/Akira meeting"
+        },
+        {
+          "id": 24559,
+          "episode": 6,
+          "rating": 5,
+          "note": "I feel like the original authour was trying too hard to make weirdos when he made Furuta"
+        },
+        {
+          "id": 24560,
+          "episode": 7,
+          "rating": 4,
+          "note": "You could feel the rushedness. From here on the story goes to shit anyway"
+        },
+        {
+          "id": 24561,
+          "episode": 8,
+          "rating": 4,
+          "note": "What a shitshow. Hey Kaneki, say her name again I don't think she heard you"
+        },
+        {
+          "id": 24562,
+          "episode": 9,
+          "rating": 4,
+          "note": "CCG and Ghouls working together. The Kagune drones are spawning."
+        },
+        {
+          "id": 24563,
+          "episode": 10,
+          "rating": 4,
+          "note": "Saved, Woke up, and resolved himself to helping people with his power all in a single episode."
+        },
+        {
+          "id": 24564,
+          "episode": 11,
+          "rating": 4,
+          "note": "End to all the side fights, just the lunatic to go"
+        },
+        {
+          "id": 24565,
+          "episode": 12,
+          "rating": 5,
+          "note": "I feel bad for the authour that the adaptions were both rushed pieces of shit"
+        }
+      ]
+    },
+    {
+      "id": 2792,
+      "title": "Tonari no Kyuuketsuki-san",
+      "rating": 5,
+      "season": "Fall",
+      "average": 4.916666666666667,
+      "highest": 5,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/I9kTbJ4.jpg",
+      "malId": 37579,
+      "episodes": [
+        {
+          "id": 24162,
+          "episode": 1,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24163,
+          "episode": 2,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24164,
+          "episode": 3,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24165,
+          "episode": 4,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24166,
+          "episode": 5,
+          "rating": 5,
+          "note": "Stories weren't that great this week."
+        },
+        {
+          "id": 24167,
+          "episode": 6,
+          "rating": 5,
+          "note": "More of the usual."
+        },
+        {
+          "id": 24168,
+          "episode": 7,
+          "rating": 5,
+          "note": "Beach episode averted?! Yukata feastival episodes are night"
+        },
+        {
+          "id": 24169,
+          "episode": 8,
+          "rating": 5,
+          "note": "Toned down episode."
+        },
+        {
+          "id": 24170,
+          "episode": 9,
+          "rating": 5,
+          "note": "School festival and a vampire hunter"
+        },
+        {
+          "id": 24171,
+          "episode": 10,
+          "rating": 5,
+          "note": "Halloween and Chirstmas in the same episode. The shows starting to decline in my opinion."
+        },
+        {
+          "id": 24172,
+          "episode": 11,
+          "rating": 4,
+          "note": "CGDCT continues. The styrofoam cover at the end was jokes"
+        },
+        {
+          "id": 24173,
+          "episode": 12,
+          "rating": 5,
+          "note": "Nice show overal, it was slowly becoming mudance though. Could have been a 6"
+        }
+      ]
+    },
+    {
+      "id": 2838,
+      "title": "Tsurune: Kazemai Koukou Kyuudoubu",
+      "rating": 6,
+      "season": "Fall",
+      "average": 5.769230769230769,
+      "highest": 7,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/wpb0bwq.jpg",
+      "malId": 36653,
+      "episodes": [
+        {
+          "id": 24801,
+          "episode": 1,
+          "rating": 6,
+          "note": "Owl man will help loser MC regain his archery ability...probably"
+        },
+        {
+          "id": 24802,
+          "episode": 2,
+          "rating": 6,
+          "note": "Hmm..I guess they had to get him back into archery quick - glad they didn't drag it out. Hopefully we'll contine to see Masa"
+        },
+        {
+          "id": 24803,
+          "episode": 3,
+          "rating": 5,
+          "note": "Ooohh! Masa's joining the club - looks like Onogi's going to have more reasons to not like MC"
+        },
+        {
+          "id": 24804,
+          "episode": 4,
+          "rating": 5,
+          "note": "Intro for Masa...just chugging the story along."
+        },
+        {
+          "id": 24805,
+          "episode": 5,
+          "rating": 6,
+          "note": "Team building/bonding for the guys"
+        },
+        {
+          "id": 24806,
+          "episode": 6,
+          "rating": 6,
+          "note": "Quiet week because no club. Got to see some character development of Masa and the run up to inter-high"
+        },
+        {
+          "id": 24807,
+          "episode": 7,
+          "rating": 6,
+          "note": "The hot-head fucked it up for himself"
+        },
+        {
+          "id": 24808,
+          "episode": 8,
+          "rating": 6,
+          "note": "Motherfuckers finally be hitting targets"
+        },
+        {
+          "id": 24809,
+          "episode": 9,
+          "rating": 6,
+          "note": "\"I don't know if I like archery, but I don't like you\" - Come the fuck on dude. Masa-san's cool and you're being a whiny twat"
+        },
+        {
+          "id": 24810,
+          "episode": 10,
+          "rating": 5,
+          "note": "How gay are these guys?.. Not a lot going on this week"
+        },
+        {
+          "id": 24811,
+          "episode": 11,
+          "rating": 5,
+          "note": "Helping Masa make a decision...but no archery. Masa only then goes and gets in a car accident!!"
+        },
+        {
+          "id": 24812,
+          "episode": 12,
+          "rating": 6,
+          "note": "They've finally achieved the state of being they need. We need a god-tier finals from Minato now."
+        },
+        {
+          "id": 24813,
+          "episode": 13,
+          "rating": 7,
+          "note": "Nice ending. Good show."
+        }
+      ]
+    },
+    {
+      "id": 2797,
+      "title": "Uchi no Maid ga Uzasugiru!",
+      "rating": 6,
+      "season": "Fall",
+      "average": 5.75,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/4wd9Jpx.jpg",
+      "malId": 37722,
+      "episodes": [
+        {
+          "id": 24224,
+          "episode": 1,
+          "rating": 5,
+          "note": "Funny, but could get old quick"
+        },
+        {
+          "id": 24225,
+          "episode": 2,
+          "rating": 6,
+          "note": "This maid is ripped and completely crazy"
+        },
+        {
+          "id": 24226,
+          "episode": 3,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24227,
+          "episode": 4,
+          "rating": 5,
+          "note": "Washiwashi winning mad cute points"
+        },
+        {
+          "id": 24228,
+          "episode": 5,
+          "rating": 6,
+          "note": "It's strange. I thought the maid's loli fetish would have gotten old by now, but somehow they're still making it funny."
+        },
+        {
+          "id": 24229,
+          "episode": 6,
+          "rating": 6,
+          "note": "Midorin's even worse than Kamoi hahaha"
+        },
+        {
+          "id": 24230,
+          "episode": 7,
+          "rating": 6,
+          "note": "She didn't kick her out for long! Kamoi teaching Midorin the ropes was fun"
+        },
+        {
+          "id": 24231,
+          "episode": 8,
+          "rating": 6,
+          "note": "More pervy maids!"
+        },
+        {
+          "id": 24232,
+          "episode": 9,
+          "rating": 6,
+          "note": "Good episode. Snowball fight was fun"
+        },
+        {
+          "id": 24233,
+          "episode": 10,
+          "rating": 6,
+          "note": "Of course Kamoi turned up at the inn. Fighting a bear would've been cool, but grossing it out works too"
+        },
+        {
+          "id": 24234,
+          "episode": 11,
+          "rating": 6,
+          "note": "Sleepover!! Kamoi covering for the kids, what a champ."
+        },
+        {
+          "id": 24235,
+          "episode": 12,
+          "rating": 6,
+          "note": "No laughs but feels for the finale. Good show."
+        }
+      ]
+    },
+    {
+      "id": 2813,
+      "title": "Ulysses: Jehanne Darc to Renkin no Kishi",
+      "rating": 3,
+      "season": "Fall",
+      "average": 3.8333333333333335,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/BmzhYe7.jpg",
+      "malId": 36510,
+      "episodes": [
+        {
+          "id": 24482,
+          "episode": 1,
+          "rating": 5,
+          "note": "Can't say I'm happy with the episode. Fingers crossed it improves"
+        },
+        {
+          "id": 24483,
+          "episode": 2,
+          "rating": 5,
+          "note": "\"Milk cow\" knight is hot."
+        },
+        {
+          "id": 24484,
+          "episode": 3,
+          "rating": 4,
+          "note": "I don't like the \"berserker mode\" gimic. Alchemy boy is waste - why is he longing out escaping the dungeon?"
+        },
+        {
+          "id": 24485,
+          "episode": 4,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24486,
+          "episode": 5,
+          "rating": 4,
+          "note": "Turns out Momorancy is Gilles de Rais. Should've known...Gille had to appear somewhere"
+        },
+        {
+          "id": 24487,
+          "episode": 6,
+          "rating": 4,
+          "note": "Noire was wayy better than Jehanne. She's the character we need. Well they're both dead now."
+        },
+        {
+          "id": 24488,
+          "episode": 7,
+          "rating": 4,
+          "note": "Some stupid shit about banging a prisoner girl...but our MC is too \"goody goody\" to hit the desperate loli"
+        },
+        {
+          "id": 24489,
+          "episode": 8,
+          "rating": 4,
+          "note": "That was a shit hiding place for the scabbard. Jehanne revived."
+        },
+        {
+          "id": 24490,
+          "episode": 9,
+          "rating": 3,
+          "note": "What even is this anymore?"
+        },
+        {
+          "id": 24491,
+          "episode": 10,
+          "rating": 3,
+          "note": "...well the shows gone fulltard."
+        },
+        {
+          "id": 24492,
+          "episode": 11,
+          "rating": 3,
+          "note": "Waste episode. Jehanne is just lame. The other Ulysses is 10 times the character"
+        },
+        {
+          "id": 24493,
+          "episode": 12,
+          "rating": 3,
+          "note": "What a god awful show. The best bit was the Noire Ulysses - when she was full helmed."
+        }
+      ]
+    },
+    {
+      "id": 2798,
+      "title": "Yagate Kimi ni Naru",
+      "rating": 5,
+      "season": "Fall",
+      "average": 5,
+      "highest": 5,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/YbltAqK.jpg",
+      "malId": 37786,
+      "episodes": [
+        {
+          "id": 24236,
+          "episode": 1,
+          "rating": 5,
+          "note": "Yuri desu ka?!"
+        },
+        {
+          "id": 24237,
+          "episode": 2,
+          "rating": 5,
+          "note": "Cool. They're growing closer much quicker than other yuri shows"
+        },
+        {
+          "id": 24238,
+          "episode": 3,
+          "rating": 5,
+          "note": "The yuri builds."
+        },
+        {
+          "id": 24239,
+          "episode": 4,
+          "rating": 5,
+          "note": "This Maki guy is an interesting one"
+        },
+        {
+          "id": 24240,
+          "episode": 5,
+          "rating": 5,
+          "note": "Surely it would be obvious if you were into a specific sex?"
+        },
+        {
+          "id": 24241,
+          "episode": 6,
+          "rating": 5,
+          "note": "Some lewd hand holding"
+        },
+        {
+          "id": 24242,
+          "episode": 7,
+          "rating": 5,
+          "note": "She's fine in the closet for now."
+        },
+        {
+          "id": 24243,
+          "episode": 8,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24244,
+          "episode": 9,
+          "rating": 5,
+          "note": "Makeout sessions!"
+        },
+        {
+          "id": 24245,
+          "episode": 10,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24246,
+          "episode": 11,
+          "rating": 5,
+          "note": ""
+        },
+        {
+          "id": 24247,
+          "episode": 12,
+          "rating": 5,
+          "note": "More lesbian angst"
+        },
+        {
+          "id": 24248,
+          "episode": 13,
+          "rating": 5,
+          "note": "Nice Yuri series. Less fan servicey than Citrus, more \"emotional\" stuff"
+        }
+      ]
+    },
+    {
+      "id": 2791,
+      "title": "Zombieland Saga",
+      "rating": 4,
+      "season": "Fall",
+      "average": 4.333333333333333,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/ukVospr.jpg",
+      "malId": 37976,
+      "episodes": [
+        {
+          "id": 24150,
+          "episode": 1,
+          "rating": 4,
+          "note": "That was retarded."
+        },
+        {
+          "id": 24151,
+          "episode": 2,
+          "rating": 3,
+          "note": "I don't get Japanese rap...it doesn't rhyme."
+        },
+        {
+          "id": 24152,
+          "episode": 3,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24153,
+          "episode": 4,
+          "rating": 3,
+          "note": ""
+        },
+        {
+          "id": 24154,
+          "episode": 5,
+          "rating": 5,
+          "note": "Not a bad episode. I wasn't bored at least"
+        },
+        {
+          "id": 24155,
+          "episode": 6,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24156,
+          "episode": 7,
+          "rating": 5,
+          "note": "Nothing like being hit by lightning to spice up your show."
+        },
+        {
+          "id": 24157,
+          "episode": 8,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24158,
+          "episode": 9,
+          "rating": 6,
+          "note": "Saki's backstory is cool"
+        },
+        {
+          "id": 24159,
+          "episode": 10,
+          "rating": 5,
+          "note": "How did I know she was going to get hit by the truck? Looks like she might've forgotten her zombie life"
+        },
+        {
+          "id": 24160,
+          "episode": 11,
+          "rating": 4,
+          "note": ""
+        },
+        {
+          "id": 24161,
+          "episode": 12,
+          "rating": 5,
+          "note": "Hit and miss show for me. Some weeks were good others not so. Nice ending though"
+        }
+      ]
     }
   ]
 }

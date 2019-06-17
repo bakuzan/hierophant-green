@@ -29,6 +29,10 @@ export default ({ data }) => {
       <SEO title={seasonName} />
       <div>
         <h2>{seasonName}</h2>
+        <p>
+          TODO -- Here I'm going to give a brief intro of some kind. Mention
+          unrated '-', Mention how mode is resolved
+        </p>
         <Table headers={seasonHeaders}>
           {({ tdStyle }) =>
             items.map((s) => {
