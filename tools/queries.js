@@ -15,7 +15,6 @@ module.exports = {
       id
       title
       rating
-      season
       average
       highest
       lowest
@@ -29,12 +28,6 @@ module.exports = {
       id
       image
       malId
-      episodes {
-        id
-        episode
-        rating
-        note
-      }
     }
   }
   `

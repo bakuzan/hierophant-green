@@ -1,4 +1,5 @@
 import React from 'react';
+import { graphql, useStaticQuery } from 'gatsby';
 
 import NewTabLink from './NewTabLink';
 import { rhythm } from '../utils/typography';
@@ -20,6 +21,21 @@ function Divider() {
 }
 
 function Footer() {
+  const data = useStaticQuery(graphql`
+    query FooterMetaQuery {
+      site {
+        siteMetadata {
+          malUrl
+          tierListUrl
+          repoUrl
+          githubUrl
+        }
+      }
+    }
+  `);
+
+  const info = data.site.siteMetadata;
+
   return (
     <footer
       style={{
@@ -28,13 +44,13 @@ function Footer() {
       }}
     >
       <div style={{ display: 'flex', alignItems: `center` }}>
-        <NewTabLink href="https://github.com/bakuzan">creator</NewTabLink>
+        <NewTabLink href={info.githubUrl}>creator</NewTabLink>
         <Divider />
-        <NewTabLink href="https://github.com/bakuzan">creator</NewTabLink>
+        <NewTabLink href={info.repoUrl}>source</NewTabLink>
         <Divider />
-        <NewTabLink href="https://github.com/bakuzan">creator</NewTabLink>
+        <NewTabLink href={info.malUrl}>myanimelist</NewTabLink>
         <Divider />
-        <NewTabLink href="https://github.com/bakuzan">creator</NewTabLink>
+        <NewTabLink href={info.tierListUrl}>make a tier list</NewTabLink>
       </div>
     </footer>
   );

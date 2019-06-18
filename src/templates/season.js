@@ -4,12 +4,15 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 import Table from '../components/Table';
+import NewTabLink from '../components/NewTabLink';
+
 import getSeasonName from '../utils/getSeasonName';
 import getSeriesStats from '../utils/getSeriesStats';
 
 const rhsAlign = { textAlign: 'right' };
 
 const seasonHeaders = [
+  { text: '#' },
   { text: 'Title' },
   { text: 'Rating', style: { ...rhsAlign } },
   { text: 'Average', style: { ...rhsAlign } },
@@ -20,7 +23,7 @@ const seasonHeaders = [
 
 export default ({ data }) => {
   const entry = data.dataJson;
-  const items = entry.series.sort((a, b) => b.rating - a.rating);
+  const items = entry.series.sort((a, b) => b.average - a.average);
   const seasonName = getSeasonName(entry.season);
   console.log('SEASON', entry);
 
@@ -29,18 +32,28 @@ export default ({ data }) => {
       <SEO title={seasonName} />
       <div>
         <h2>{seasonName}</h2>
-        <p>
-          TODO -- Here I'm going to give a brief intro of some kind. Mention
-          unrated '-', Mention how mode is resolved
+        <p style={{ whiteSpace: 'pre' }}>
+          In the event I have yet to rate a series, the rating will appear as a
+          hypen (-). {'\n\r'}In the cases where multiple ratings are tied in the
+          mode calculation, one will be arbitrarily selected.
         </p>
         <Table headers={seasonHeaders}>
           {({ tdStyle }) =>
-            items.map((s) => {
+            items.map((s, i) => {
+              const number = i + 1;
               const stats = getSeriesStats(s);
+
               return (
                 <tr key={s.id}>
-                  <td style={tdStyle}>{s.title}</td>
-                  <td style={{ ...tdStyle, ...rhsAlign }}>{s.rating || '-'}</td>
+                  <td style={tdStyle}>{number}</td>
+                  <td style={tdStyle}>
+                    <NewTabLink
+                      href={`https://myanimelist.net/anime/${s.malId}`}
+                    >
+                      {s.title}
+                    </NewTabLink>
+                  </td>
+                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.rating}</td>
                   <td style={{ ...tdStyle, ...rhsAlign }}>{stats.average}</td>
                   <td style={{ ...tdStyle, ...rhsAlign }}>{stats.highest}</td>
                   <td style={{ ...tdStyle, ...rhsAlign }}>{stats.lowest}</td>
@@ -63,9 +76,19 @@ export const query = graphql`
       series {
         id
         title
+        image
         malId
         rating
-        episodeRatings
+        average
+        highest
+        lowest
+        mode
+        episodes {
+          id
+          episode
+          rating
+          note
+        }
       }
     }
   }

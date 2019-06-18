@@ -36,12 +36,3 @@
   --link-colour: var(--dark-cyan);
   --table-border-colour: var(--moderate-cyan-faded);
 }
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--text-title-colour);
-}

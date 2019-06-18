@@ -5,7 +5,7 @@ import React, { useRef, useState } from 'react';
 import { Icons } from '../consts';
 
 const defaultIcons = [Icons.cross, Icons.tick];
-const cx = (l) => l.filter((x) => !!x).join(' ');
+const cx = (...l) => l.filter((x) => !!x).join(' ');
 
 function RadioToggle({ className, label, icons = defaultIcons, ...props }) {
   const [focused, setFocus] = useState(false);

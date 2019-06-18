@@ -11,3 +11,17 @@ export const Icons = Object.freeze({
   moon: '\uD83C\uDF19\uFE0E',
   sun: '\u2600\uFE0E'
 });
+
+export const words = Object.freeze([
+  'expert',
+  'godly',
+  'refined',
+  'eccentric',
+  'cultured',
+
+  'trash',
+  'crude',
+  'crass',
+  'perverted',
+  'pathetic'
+]);

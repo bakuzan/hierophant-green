@@ -8,6 +8,9 @@ FairyGates.overrideThemeStyles = () => ({
     color: 'var(--link-colour)',
     backgroundImage: 'none',
     textShadow: 'none'
+  },
+  'h1,h2,h3,h4,h5,h6': {
+    color: 'var(--text-title-colour)'
   }
 });
 delete FairyGates.googleFonts;

@@ -1,11 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Hierophant Green`,
+    title: `TITLE`, //Seasonal Anime Ratings
     author: `bakuzan`,
-    description: `Seasonal Anime Statistics`,
-    siteUrl: 'http://localhost:8000/'
+    avatar: 'https://cdn.myanimelist.net/images/userimages/2190005.jpg',
+    description: `Breakdown of seasonal anime ratings for myanimelist user bakuzan`,
+    siteUrl: 'https://bakuzan.github.io/hierophant-green',
+    malUrl: 'https://myanimelist.net/profile/bakuzan',
+    tierListUrl: 'https://yotanwa.herokuapp.com/',
+    repoUrl: 'https://github.com/bakuzan/hierophant-green',
+    githubUrl: 'https://github.com/bakuzan'
   },
   plugins: [
+    `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-json`,
     {
