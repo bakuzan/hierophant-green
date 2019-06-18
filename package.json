@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "dotenv": "^8.0.0",
+    "gh-pages": "^2.0.1",
     "husky": "^2.4.1",
     "lint-staged": "^8.2.1",
     "minimist": "^1.2.0",
@@ -37,7 +38,10 @@
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "seasonal anime",
+    "anime ratings",
+    "myanimelist"
   ],
   "license": "MIT",
   "lint-staged": {
@@ -57,7 +61,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "pretty": "lint-staged",
-    "generate-season": "node ./tools"
+    "generate-season": "node ./tools",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",
