@@ -53,13 +53,13 @@
     }
   },
   "scripts": {
-    "build": "gatsby build",
+    "build": "rmdir /s /q public && rmdir /s /q .cache && gatsby build",
     "develop": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "pretty": "lint-staged",
     "generate-seasons": "node ./tools",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "yarn build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",

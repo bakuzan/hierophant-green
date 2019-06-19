@@ -18,7 +18,7 @@ exports.onCreateNode = async ({ node, getNode, actions, store, cache }) => {
         store,
         cache,
         createNode,
-        createNodeId: () => `seriesImage-${item.id}`
+        createNodeId: (id) => `file-${id}`
       });
 
       if (image) {

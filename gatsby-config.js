@@ -49,7 +49,8 @@ module.exports = {
         theme_color_in_head: false
       }
     },
-    `gatsby-plugin-sass`,
-    `gatsby-plugin-offline`
+    `gatsby-plugin-sass`
+    // Removed as breaks app when js is disabled
+    // `gatsby-plugin-offline`
   ]
 };

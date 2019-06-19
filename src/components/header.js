@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { useState, useEffect } from 'react';
+import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
 
 import RadioToggle from './RadioToggle';
@@ -22,6 +23,14 @@ function Header({ siteTitle }) {
         marginBottom: rhythm(1)
       }}
     >
+      <Helmet
+        meta={[
+          {
+            name: 'theme-color',
+            content: theme === 'theme theme--light' ? '#ffa8c5' : '#282c35'
+          }
+        ]}
+      />
       <div
         style={{
           display: 'flex',
