@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
+import Img from 'gatsby-image';
 
 import { words } from '../consts';
 import { rhythm } from '../utils/typography';
@@ -14,35 +15,41 @@ function Personal() {
       site {
         siteMetadata {
           author
-          avatar
           malUrl
+        }
+      }
+      profilePic: file(name: { eq: "profile-pic" }) {
+        childImageSharp {
+          fixed(width: 75, height: 75, cropFocus: NORTH) {
+            ...GatsbyImageSharpFixed
+          }
         }
       }
     }
   `);
 
   const info = data.site.siteMetadata;
+  const avatar = data.profilePic.childImageSharp;
   const adjective = getRandomAdj();
 
   return (
     <div
       style={{
         display: 'flex',
+        alignItems: 'center',
         marginBottom: rhythm(1)
       }}
     >
-      <img
-        src={info.avatar}
+      <Img
+        {...avatar}
         alt={info.author}
         style={{
-          marginRight: rhythm(1 / 2),
+          marginRight: rhythm(1 / 3),
           marginBottom: 0,
-          width: rhythm(1.7),
-          height: rhythm(1.75),
           borderRadius: '50%'
         }}
       />
-      <p style={{ maxWidth: 290 }}>
+      <p style={{ maxWidth: 290, marginBottom: 0 }}>
         Seasonal rating data by{' '}
         <a href={info.malUrl} target="_blank" rel="noopener noreferrer">
           {info.author}

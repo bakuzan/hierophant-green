@@ -3,7 +3,6 @@ module.exports = {
   siteMetadata: {
     title: `Seasonal Anime Ratings`,
     author: `bakuzan`,
-    avatar: 'https://cdn.myanimelist.net/images/userimages/2190005.jpg',
     description: `Breakdown of seasonal anime ratings for myanimelist user bakuzan`,
     siteUrl: 'https://bakuzan.github.io/hierophant-green',
     repoUrl: 'https://github.com/bakuzan/hierophant-green',
@@ -20,6 +19,13 @@ module.exports = {
       options: {
         name: `data`,
         path: `${__dirname}/data/`
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `assets`,
+        path: `${__dirname}/src/assets/`
       }
     },
     `gatsby-transformer-sharp`,

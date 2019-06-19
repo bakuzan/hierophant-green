@@ -10,7 +10,7 @@ export default function getSeriesStats({
 }) {
   return {
     rating: rating || '-',
-    average: Number(roundToTwo(average)).toFixed(2),
+    average: roundToTwo(average),
     highest,
     lowest,
     mode

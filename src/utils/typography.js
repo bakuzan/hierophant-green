@@ -11,6 +11,9 @@ FairyGates.overrideThemeStyles = () => ({
   },
   'h1,h2,h3,h4,h5,h6': {
     color: 'var(--text-title-colour)'
+  },
+  'td,th': {
+    padding: typography.rhythm(1 / 2)
   }
 });
 delete FairyGates.googleFonts;

@@ -11,7 +11,7 @@ import getSeasonName from '../utils/getSeasonName';
 
 export default ({ data }) => {
   const info = data.allDataJson;
-  console.log('index > ', info);
+
   return (
     <Layout>
       <SEO title="Home" />

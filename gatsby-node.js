@@ -1,16 +1,41 @@
 const path = require(`path`);
-const { createFilePath } = require(`gatsby-source-filesystem`);
+const {
+  createFilePath,
+  createRemoteFileNode
+} = require(`gatsby-source-filesystem`);
 
-exports.onCreateNode = ({ node, getNode, actions }) => {
-  const { createNodeField } = actions;
-  if (node.internal.type === 'DataJson') {
-    const value = createFilePath({ node, getNode, basePath: `data` });
-    createNodeField({
-      name: `slug`,
-      node,
-      value
-    });
+exports.onCreateNode = async ({ node, getNode, actions, store, cache }) => {
+  if (node.internal.type !== 'DataJson') {
+    return;
   }
+
+  const { createNodeField, createNode } = actions;
+
+  node.series = await Promise.all(
+    node.series.map(async (item) => {
+      const image = await createRemoteFileNode({
+        url: item.image,
+        store,
+        cache,
+        createNode,
+        createNodeId: () => `seriesImage-${item.id}`
+      });
+
+      if (image) {
+        item.image___NODE = image.id;
+      }
+
+      return item;
+    })
+  );
+
+  const value = createFilePath({ node, getNode, basePath: `data` });
+
+  createNodeField({
+    name: `slug`,
+    node,
+    value
+  });
 };
 
 exports.createPages = ({ graphql, actions }) => {

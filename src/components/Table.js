@@ -2,7 +2,8 @@ import PropTypes from 'prop-types';
 import React from 'react';
 
 const borderStyle = {
-  borderColor: `var(--table-border-colour)`
+  borderColor: `var(--table-border-colour)`,
+  verticalAlign: 'top'
 };
 
 function Table({ style, headers, children, ...props }) {
