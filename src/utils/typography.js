@@ -1,5 +1,5 @@
 import '../fonts/fonts.css';
-import './global.css';
+import './global.scss';
 import Typography from 'typography';
 import FairyGates from 'typography-theme-fairy-gates';
 

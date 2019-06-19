@@ -36,3 +36,9 @@
   --link-colour: var(--dark-cyan);
   --table-border-colour: var(--moderate-cyan-faded);
 }
+
+.season-link {
+  &:hover {
+    color: var(--link-colour);
+  }
+}

@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
-import { css } from '@emotion/core';
 
 import Layout from '../components/Layout';
 import Personal from '../components/Personal';
@@ -20,10 +19,10 @@ export default ({ data }) => {
       </aside>
       <div>
         <h2
-          css={css`
-            display: inline-block;
-            margin: ${rhythm(3 / 4)} 0px;
-          `}
+          style={{
+            display: 'inline-block',
+            margin: `${rhythm(3 / 4)} 0px`
+          }}
         >
           Seasons
         </h2>
@@ -32,18 +31,16 @@ export default ({ data }) => {
           <div key={node.id}>
             <Link
               to={node.fields.slug}
-              css={css`
-                text-decoration: none;
-                color: inherit;
-              `}
+              style={{
+                textDecoration: 'none',
+                color: 'inherit'
+              }}
             >
               <h4
-                css={css`
-                  margin-bottom: ${rhythm(1 / 4)};
-                  &:hover {
-                    color: var(--link-colour);
-                  }
-                `}
+                className="season-link"
+                style={{
+                  marginBottom: rhythm(1 / 4)
+                }}
               >
                 {getSeasonName(node.season)}
               </h4>

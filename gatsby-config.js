@@ -11,7 +11,6 @@ module.exports = {
     tierListUrl: 'https://yotanwa.herokuapp.com/'
   },
   plugins: [
-    `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-json`,
     {
