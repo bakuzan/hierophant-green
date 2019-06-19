@@ -58,54 +58,59 @@ function writeOut(season, data) {
 }
 
 async function run() {
-  if (argv.help) {
+  const { help, seasons } = argv;
+  if (help) {
     console.log(`
        /* Example usage
         *
-        * npm run generate-season -- --season 2019-07
+        * npm run generate-seasons -- --seasons 2019-07
+        * npm run generate-seasons -- --seasons 2019-07,2019-04
         *
         * Args
-        * --season     STRING  yyyy-mm
+        * --seasons     STRING  yyyy-mm,yyyy-mm
         *
         */
     `);
     process.exit(0);
   }
 
-  const season = argv.season;
+  const validSeasons = seasons && typeof seasons === 'string';
+  const inputs = validSeasons ? seasons.split(',') : [];
 
-  if (!season || !season.match(MATCH_YYYY_MM)) {
-    console.log(`--season is required in the format yyyy-mm`);
-    process.exit(1);
+  if (!validSeasons || inputs.some((x) => !x.match(MATCH_YYYY_MM))) {
+    console.log('Invalid run generate-seasons attempt');
+    console.log(`--seasons is required in the format yyyy-mm,yyyy-mm`);
+    process.exit(0);
   }
 
-  const result = await query(SEASON_LIST, {
-    type: 'Anime',
-    isAdult: false,
-    breakdown: 'Season',
-    season
-  });
+  for (let season of inputs) {
+    const result = await query(SEASON_LIST, {
+      type: 'Anime',
+      isAdult: false,
+      breakdown: 'Season',
+      season
+    });
 
-  const seriesData = await Promise.all(
-    result.map((series) => query(SERIES_DATA, { id: series.id }))
-  );
+    const seriesData = await Promise.all(
+      result.map((series) => query(SERIES_DATA, { id: series.id }))
+    );
 
-  const series = result.map((x) => {
-    const d = seriesData.find((s) => s.id === x.id);
-    if (!d) {
-      console.warn(`No series data found for ${x.title} (Id: ${x.id})`);
-    }
+    const series = result.map((x) => {
+      const d = seriesData.find((s) => s.id === x.id);
+      if (!d) {
+        console.warn(
+          `No series data found for ${season} ${x.title} (Id: ${x.id})`
+        );
+      }
 
-    return {
-      ...x,
-      ...(d || {})
-    };
-  });
+      return {
+        ...x,
+        ...(d || {})
+      };
+    });
 
-  // TODO
-  // consider downloading images
-
-  await writeOut(season, { season, series });
+    await writeOut(season, { season, series });
+  }
 }
 
 run();

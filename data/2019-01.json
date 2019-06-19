@@ -5,3083 +5,386 @@
       "id": 2988,
       "title": "3D Kanojo: Real Girl 2nd Season",
       "rating": 4,
-      "season": "Winter",
       "average": 4.666666666666667,
       "highest": 5,
       "lowest": 4,
       "mode": 5,
       "image": "https://i.imgur.com/8HSI0Xo.jpg",
-      "malId": 37956,
-      "episodes": [
-        {
-          "id": 25978,
-          "episode": 1,
-          "rating": 5,
-          "note": "Continuing from where we left off."
-        },
-        {
-          "id": 25979,
-          "episode": 2,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 25980,
-          "episode": 3,
-          "rating": 5,
-          "note": "Parent drama. Apart from the prospect of being separated from whats-her-face...there isn't much point to this"
-        },
-        {
-          "id": 25981,
-          "episode": 4,
-          "rating": 4,
-          "note": "His Dad was only half cheating!...Kinda not really."
-        },
-        {
-          "id": 25982,
-          "episode": 5,
-          "rating": 5,
-          "note": "Hurray for Ayado and Itou"
-        },
-        {
-          "id": 25983,
-          "episode": 6,
-          "rating": 4,
-          "note": "Backup characters getting some focus..nothing much to say"
-        },
-        {
-          "id": 25984,
-          "episode": 7,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25985,
-          "episode": 8,
-          "rating": 4,
-          "note": "I like the progress on Ishino and whats his names relationship"
-        },
-        {
-          "id": 25986,
-          "episode": 9,
-          "rating": 5,
-          "note": "How whipped is this guy? Sure the teacher's a dipshit, but dude, do be so thirsty hahah"
-        },
-        {
-          "id": 25987,
-          "episode": 10,
-          "rating": 5,
-          "note": "The secrets out!"
-        },
-        {
-          "id": 25988,
-          "episode": 11,
-          "rating": 5,
-          "note": "Time skip... he's moved on...will be interesting to see if they get together in the end"
-        },
-        {
-          "id": 25989,
-          "episode": 12,
-          "rating": 5,
-          "note": "The drama was lame. The ending was forced and meh - what the fuck Itou?"
-        }
-      ]
+      "malId": 37956
     },
     {
       "id": 2987,
       "title": "Ame-iro Cocoa: Side G",
       "rating": 3,
-      "season": "Winter",
       "average": 3,
       "highest": 4,
       "lowest": 2,
       "mode": 2,
       "image": "https://i.imgur.com/0dHHJ3R.jpg",
-      "malId": 37747,
-      "episodes": [
-        {
-          "id": 25966,
-          "episode": 1,
-          "rating": 4,
-          "note": "The best girls were the rich ones who cameo'd! They'll probably turn up again"
-        },
-        {
-          "id": 25967,
-          "episode": 2,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 25968,
-          "episode": 3,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 25969,
-          "episode": 4,
-          "rating": 4,
-          "note": "Nice uniforms! These episodes are too short to tell the story well...need at least 5min"
-        },
-        {
-          "id": 25970,
-          "episode": 5,
-          "rating": 4,
-          "note": "Boobs"
-        },
-        {
-          "id": 25971,
-          "episode": 6,
-          "rating": 2,
-          "note": "Yes, yes, find the cat - can't have loli's crying"
-        },
-        {
-          "id": 25972,
-          "episode": 7,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 25973,
-          "episode": 8,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 25974,
-          "episode": 9,
-          "rating": 3,
-          "note": "pool episode"
-        },
-        {
-          "id": 25975,
-          "episode": 10,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25976,
-          "episode": 11,
-          "rating": 3,
-          "note": "Maid outfits"
-        },
-        {
-          "id": 25977,
-          "episode": 12,
-          "rating": 2,
-          "note": "Silly little show..."
-        }
-      ]
+      "malId": 37747
     },
     {
       "id": 3004,
       "title": "Bermuda Triangle: Colorful Pastrale",
       "rating": 3,
-      "season": "Winter",
       "average": 3.0833333333333335,
       "highest": 4,
       "lowest": 2,
       "mode": 3,
       "image": "https://i.imgur.com/qD9ppv6.jpg",
-      "malId": 38199,
-      "episodes": [
-        {
-          "id": 26205,
-          "episode": 1,
-          "rating": 4,
-          "note": "Mermaids..and an undersea adventure"
-        },
-        {
-          "id": 26206,
-          "episode": 2,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26207,
-          "episode": 3,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26208,
-          "episode": 4,
-          "rating": 4,
-          "note": "Yes, yes cute mermaids...not sure what the point of this episode was in the scope of the series story."
-        },
-        {
-          "id": 26209,
-          "episode": 5,
-          "rating": 3,
-          "note": "This show is dull. It even fails at being cute when you compare it to other shows"
-        },
-        {
-          "id": 26210,
-          "episode": 6,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26211,
-          "episode": 7,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26212,
-          "episode": 8,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26213,
-          "episode": 9,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26214,
-          "episode": 10,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26215,
-          "episode": 11,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26216,
-          "episode": 12,
-          "rating": 3,
-          "note": "...Forgettable"
-        }
-      ]
+      "malId": 38199
     },
     {
       "id": 2975,
       "title": "Boogiepop wa Warawanai (2019)",
       "rating": 5,
-      "season": "Winter",
       "average": 4.444444444444445,
       "highest": 6,
       "lowest": 3,
       "mode": 4,
       "image": "https://i.imgur.com/aqLY4lg.jpg",
-      "malId": 37451,
-      "episodes": [
-        {
-          "id": 25852,
-          "episode": 1,
-          "rating": 5,
-          "note": "I think I missed something there about what the monster was..., but not a bad start"
-        },
-        {
-          "id": 25853,
-          "episode": 2,
-          "rating": 6,
-          "note": "OKay, now I know why I didn't get it. They're jumping around in the chronology. I wish they'd make the characters more different visually."
-        },
-        {
-          "id": 25854,
-          "episode": 3,
-          "rating": 5,
-          "note": "Hmmm...case resolved."
-        },
-        {
-          "id": 25855,
-          "episode": 4,
-          "rating": 5,
-          "note": "Setup for the next story..what is the guy's power?"
-        },
-        {
-          "id": 25856,
-          "episode": 5,
-          "rating": 5,
-          "note": "Still looking for the guy who can see peoples roses...."
-        },
-        {
-          "id": 25857,
-          "episode": 6,
-          "rating": 4,
-          "note": "Meh..lot of talking"
-        },
-        {
-          "id": 25858,
-          "episode": 7,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25859,
-          "episode": 8,
-          "rating": 4,
-          "note": "This arc sure is taking its time..."
-        },
-        {
-          "id": 25860,
-          "episode": 9,
-          "rating": 4,
-          "note": "That arc was lame."
-        },
-        {
-          "id": 25861,
-          "episode": 10,
-          "rating": 4,
-          "note": "Okay...so will he come back then?"
-        },
-        {
-          "id": 25862,
-          "episode": 11,
-          "rating": 5,
-          "note": "Hmm... what's supernatural about serial killer(?) lady?"
-        },
-        {
-          "id": 25863,
-          "episode": 12,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25864,
-          "episode": 13,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25865,
-          "episode": 14,
-          "rating": 5,
-          "note": "So what's the goal of this King of Distortion? What does he get by messing with these people"
-        },
-        {
-          "id": 25866,
-          "episode": 15,
-          "rating": 5,
-          "note": "This Habara pimp knows what's up."
-        },
-        {
-          "id": 25867,
-          "episode": 16,
-          "rating": 3,
-          "note": "I slept through most of it..."
-        },
-        {
-          "id": 25868,
-          "episode": 17,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25869,
-          "episode": 18,
-          "rating": 4,
-          "note": "I'm being generous. The early stories were good. The later ones were meh."
-        }
-      ]
+      "malId": 37451
     },
     {
       "id": 3003,
       "title": "Date A Live Ⅲ",
       "rating": 6,
-      "season": "Winter",
       "average": 5.5,
       "highest": 6,
       "lowest": 5,
       "mode": 5,
       "image": "https://i.imgur.com/agUZs7Y.jpg",
-      "malId": 36633,
-      "episodes": [
-        {
-          "id": 26193,
-          "episode": 1,
-          "rating": 6,
-          "note": "Its back, but no best girl Kurumi?!"
-        },
-        {
-          "id": 26194,
-          "episode": 2,
-          "rating": 5,
-          "note": "STandard date stuff...where's my Kurumi?!"
-        },
-        {
-          "id": 26195,
-          "episode": 3,
-          "rating": 6,
-          "note": "Natsumi defeated. Everyone became a loli!"
-        },
-        {
-          "id": 26196,
-          "episode": 4,
-          "rating": 5,
-          "note": "Working to get on Natsumi's good side...while plots be happening - Where's Kurumi?!"
-        },
-        {
-          "id": 26197,
-          "episode": 5,
-          "rating": 6,
-          "note": "Natsumi helped save the day! Natsumi arc complete?"
-        },
-        {
-          "id": 26198,
-          "episode": 6,
-          "rating": 5,
-          "note": "More setup as we get his Origami arc underway"
-        },
-        {
-          "id": 26199,
-          "episode": 7,
-          "rating": 5,
-          "note": "Cunts. How dare they tease me with 10sec of Kurumi!"
-        },
-        {
-          "id": 26200,
-          "episode": 8,
-          "rating": 6,
-          "note": "KURUMI shows up and we get the best episode of the season. Coincidence?"
-        },
-        {
-          "id": 26201,
-          "episode": 9,
-          "rating": 6,
-          "note": "Loli Kurumi was cute. Did he save them? How is he alive?"
-        },
-        {
-          "id": 26202,
-          "episode": 10,
-          "rating": 5,
-          "note": "More Origami crap. At least Kurumi shows up"
-        },
-        {
-          "id": 26203,
-          "episode": 11,
-          "rating": 5,
-          "note": "Some final drama from Origami... that better be done with now."
-        },
-        {
-          "id": 26204,
-          "episode": 12,
-          "rating": 6,
-          "note": "Nice ending for the season. Overall not enough Kurumi and the Origami stuff was meh - cause I don't like her"
-        }
-      ]
+      "malId": 36633
     },
     {
       "id": 3013,
       "title": "Dimension High School",
       "rating": 2,
-      "season": "Winter",
       "average": 2.6666666666666665,
       "highest": 4,
       "lowest": 1,
       "mode": 3,
       "image": "https://i.imgur.com/R0Krgiv.jpg",
-      "malId": 38449,
-      "episodes": [
-        {
-          "id": 26308,
-          "episode": 1,
-          "rating": 3,
-          "note": "50/50 for Live action and anime. Not great"
-        },
-        {
-          "id": 26309,
-          "episode": 2,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26310,
-          "episode": 3,
-          "rating": 4,
-          "note": "The teacher taking his cash was funny.."
-        },
-        {
-          "id": 26311,
-          "episode": 4,
-          "rating": 3,
-          "note": "..."
-        },
-        {
-          "id": 26312,
-          "episode": 5,
-          "rating": 3,
-          "note": "The cringe kids are back and they fixed the goody two shoes guy"
-        },
-        {
-          "id": 26313,
-          "episode": 6,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26314,
-          "episode": 7,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26315,
-          "episode": 8,
-          "rating": 2,
-          "note": "No miracles of quality yet... of course I knew that from ep.1"
-        },
-        {
-          "id": 26316,
-          "episode": 9,
-          "rating": 2,
-          "note": "More poop-tier entertainment"
-        },
-        {
-          "id": 26317,
-          "episode": 10,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26318,
-          "episode": 11,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26319,
-          "episode": 12,
-          "rating": 1,
-          "note": "Something I believed impossible. The final episode was actually worse than all the others."
-        }
-      ]
+      "malId": 38449
     },
     {
       "id": 3002,
       "title": "Domestic na Kanojo",
       "rating": 6,
-      "season": "Winter",
       "average": 5.75,
       "highest": 7,
       "lowest": 5,
       "mode": 5,
       "image": "https://i.imgur.com/873h2Yc.jpg",
-      "malId": 37982,
-      "episodes": [
-        {
-          "id": 26181,
-          "episode": 1,
-          "rating": 7,
-          "note": "This is going to be a winner. The situation is so ridiculous it's awesome."
-        },
-        {
-          "id": 26182,
-          "episode": 2,
-          "rating": 6,
-          "note": "He needs to get over his teacher and be with Rui"
-        },
-        {
-          "id": 26183,
-          "episode": 3,
-          "rating": 7,
-          "note": "Ditch sensei and get with Rui. Fumiya was knocking it out the park this week."
-        },
-        {
-          "id": 26184,
-          "episode": 4,
-          "rating": 6,
-          "note": "Bit melodramtic. Apparently the \"affair\" stuff is resolved? Bet we'll see Shuu again though"
-        },
-        {
-          "id": 26185,
-          "episode": 5,
-          "rating": 6,
-          "note": "Definitely a good move not sleeping with the distrubed girl. He should be her friend though."
-        },
-        {
-          "id": 26186,
-          "episode": 6,
-          "rating": 5,
-          "note": "So Kiriya's a wrongun'"
-        },
-        {
-          "id": 26187,
-          "episode": 7,
-          "rating": 5,
-          "note": "The nee-san's arguements are weak as fuck. Cunt makes minimal sense. Also who the fuck masturbates with the door open? Girl is cracked."
-        },
-        {
-          "id": 26188,
-          "episode": 8,
-          "rating": 5,
-          "note": "I'm over the teacher. Ditch her dude, stick with Rui - or go for the 3 way"
-        },
-        {
-          "id": 26189,
-          "episode": 9,
-          "rating": 5,
-          "note": "I know I wanted this ship briefly at the beginning but no. Stop the BS and be with Rui"
-        },
-        {
-          "id": 26190,
-          "episode": 10,
-          "rating": 5,
-          "note": "Confrontation!"
-        },
-        {
-          "id": 26191,
-          "episode": 11,
-          "rating": 6,
-          "note": "Well in, he finally smashed. Glad he ignored her attempts to break up, Predictable that the school found out"
-        },
-        {
-          "id": 26192,
-          "episode": 12,
-          "rating": 6,
-          "note": "This guy! He just keeps switching between the sisters. Overall it was trashy drama, that was infuriating and irritatingly enjoyable"
-        }
-      ]
+      "malId": 37982
     },
     {
       "id": 2986,
       "title": "Dororo",
       "rating": 0,
-      "season": "Winter",
       "average": 7.5625,
       "highest": 8,
       "lowest": 7,
       "mode": 8,
       "image": "https://i.imgur.com/HzzNDoM.jpg",
-      "malId": 37520,
-      "episodes": [
-        {
-          "id": 25950,
-          "episode": 1,
-          "rating": 7,
-          "note": "Great first episode. I'm liking it a lot."
-        },
-        {
-          "id": 25951,
-          "episode": 2,
-          "rating": 8,
-          "note": "I remember this from the 60s version. Very much liked this take on it. Bandai was hot."
-        },
-        {
-          "id": 25952,
-          "episode": 3,
-          "rating": 8,
-          "note": "Hyakkimaru backstory on how he got his prosthetics. Was a good story."
-        },
-        {
-          "id": 25953,
-          "episode": 4,
-          "rating": 8,
-          "note": "The demon sword was cool. Hyakkimaru got his hearing back!"
-        },
-        {
-          "id": 25954,
-          "episode": 5,
-          "rating": 8,
-          "note": "Slower episode..but well done. The old man is back! Hearing is hard, and now he has his voice back?!"
-        },
-        {
-          "id": 25955,
-          "episode": 6,
-          "rating": 8,
-          "note": "The first half sort of dragged, but the overall story arc paid off great - even though I sort of predict the end. Hyakkimaru beastmode"
-        },
-        {
-          "id": 25956,
-          "episode": 7,
-          "rating": 8,
-          "note": "I'm a sucker for monster girls. I'm shipping those two. Hyakkimaru's vision powers are cool. I like that it reacts to intent not just demons"
-        },
-        {
-          "id": 25957,
-          "episode": 8,
-          "rating": 7,
-          "note": "Monster of the week, even had a happy ending. Nose restored! The sky centipede reminds me of Slither the sky dragon"
-        },
-        {
-          "id": 25958,
-          "episode": 9,
-          "rating": 7,
-          "note": "Dororo's backstory is depressing. Largely that Itachi bastards fault."
-        },
-        {
-          "id": 25959,
-          "episode": 10,
-          "rating": 7,
-          "note": "Focused on Tahomaru this week. I liked that he isn't actually a cunt. He's just a proud guy, but he's heroic I guess."
-        },
-        {
-          "id": 25960,
-          "episode": 11,
-          "rating": 8,
-          "note": "Good episode. Moving towards the confrontation!"
-        },
-        {
-          "id": 25961,
-          "episode": 12,
-          "rating": 8,
-          "note": "Disastrous family reunion. Well executed. I like that they showed Tahomaru's \"journey\" to siding with his father, rather than blind loyalty"
-        },
-        {
-          "id": 25962,
-          "episode": 13,
-          "rating": 8,
-          "note": "Chill episode. What's the map on Dororo? Also, Hyakkimaru's beginning to talk more now!"
-        },
-        {
-          "id": 25963,
-          "episode": 14,
-          "rating": 7,
-          "note": "The story was a little obvious as it went on, but Sabame not being the demon was a good \"twist\""
-        },
-        {
-          "id": 25964,
-          "episode": 15,
-          "rating": 7,
-          "note": "Moth monster dispatched. Morality questions...Looks like Dororo's map will be the story focus next."
-        },
-        {
-          "id": 25965,
-          "episode": 16,
-          "rating": 7,
-          "note": "Itachi - what a twat. Demon shark next week?!"
-        }
-      ]
+      "malId": 37520
     },
     {
       "id": 2993,
       "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
       "rating": 6,
-      "season": "Winter",
       "average": 5.5,
       "highest": 6,
       "lowest": 5,
       "mode": 5,
       "image": "https://i.imgur.com/dAyIKgF.jpg",
-      "malId": 38145,
-      "episodes": [
-        {
-          "id": 26037,
-          "episode": 1,
-          "rating": 6,
-          "note": "Cool. I like the fact that we get to hear the cats thoughts"
-        },
-        {
-          "id": 26038,
-          "episode": 2,
-          "rating": 5,
-          "note": "Not enough cat. At least Haru has a name now"
-        },
-        {
-          "id": 26039,
-          "episode": 3,
-          "rating": 6,
-          "note": "Hurray for Haru-chan. Cheering her human up."
-        },
-        {
-          "id": 26040,
-          "episode": 4,
-          "rating": 5,
-          "note": "The cat's inner voice really makes the show"
-        },
-        {
-          "id": 26041,
-          "episode": 5,
-          "rating": 6,
-          "note": "Nice. Haru reunites with her little brother and browner is getting closer with her"
-        },
-        {
-          "id": 26042,
-          "episode": 6,
-          "rating": 5,
-          "note": "We got to see more cat backstory."
-        },
-        {
-          "id": 26043,
-          "episode": 7,
-          "rating": 5,
-          "note": "Motherfucker bringing children over would get a backhand if it was my house"
-        },
-        {
-          "id": 26044,
-          "episode": 8,
-          "rating": 5,
-          "note": "Average episode. Not enough cat."
-        },
-        {
-          "id": 26045,
-          "episode": 9,
-          "rating": 6,
-          "note": "Cat was on point this week."
-        },
-        {
-          "id": 26046,
-          "episode": 10,
-          "rating": 6,
-          "note": "Ship of the season - this dude and his cat. It'd be cool if cats, or animals in general, actually had thoughts like that."
-        },
-        {
-          "id": 26047,
-          "episode": 11,
-          "rating": 5,
-          "note": "More feels for Subaru. Not enough Haru. Looks like setup for an emotional - but happy - last episode"
-        },
-        {
-          "id": 26048,
-          "episode": 12,
-          "rating": 6,
-          "note": "Enjoyable. At its best when showing Haru's point of view. Ship of the season"
-        }
-      ]
+      "malId": 38145
     },
     {
       "id": 2976,
       "title": "Egao no Daika",
       "rating": 5,
-      "season": "Winter",
       "average": 5.083333333333333,
       "highest": 6,
       "lowest": 4,
       "mode": 5,
       "image": "https://i.imgur.com/C2DJmnb.jpg",
-      "malId": 38544,
-      "episodes": [
-        {
-          "id": 25870,
-          "episode": 1,
-          "rating": 5,
-          "note": "I imaging this not being that great. Looks like standard fantasy/harem show...although no harem has appeared yet"
-        },
-        {
-          "id": 25871,
-          "episode": 2,
-          "rating": 5,
-          "note": "I thought this bro was the MC? Will he resurrect next episode?!"
-        },
-        {
-          "id": 25872,
-          "episode": 3,
-          "rating": 5,
-          "note": "So is stella the new main character now that the joshua died?"
-        },
-        {
-          "id": 25873,
-          "episode": 4,
-          "rating": 5,
-          "note": "Things only continue to worsen. Hopefully there will be some pay off to the trails they're facing"
-        },
-        {
-          "id": 25874,
-          "episode": 5,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25875,
-          "episode": 6,
-          "rating": 6,
-          "note": "She got some balls, but her aides neutered her decision - probably a good idea. Harold was badass this ep"
-        },
-        {
-          "id": 25876,
-          "episode": 7,
-          "rating": 5,
-          "note": "That was a little different. Guess they were trying to emphasise the horrors of war - which this series is all about"
-        },
-        {
-          "id": 25877,
-          "episode": 8,
-          "rating": 5,
-          "note": "Izana going out in a hail of gunfire like a boss"
-        },
-        {
-          "id": 25878,
-          "episode": 9,
-          "rating": 5,
-          "note": "Her subordinates are dropping like flies"
-        },
-        {
-          "id": 25879,
-          "episode": 10,
-          "rating": 5,
-          "note": "The body count on this is crazy. Most of the key characters have died at this point"
-        },
-        {
-          "id": 25880,
-          "episode": 11,
-          "rating": 5,
-          "note": "They've got a plan but looks like one last fight before that"
-        },
-        {
-          "id": 25881,
-          "episode": 12,
-          "rating": 6,
-          "note": "Cool ending. Knew Layla would die somehow."
-        }
-      ]
+      "malId": 38544
     },
     {
       "id": 3005,
       "title": "Endro~!",
       "rating": 5,
-      "season": "Winter",
       "average": 4.666666666666667,
       "highest": 5,
       "lowest": 4,
       "mode": 5,
       "image": "https://i.imgur.com/QOxg56q.jpg",
-      "malId": 38062,
-      "episodes": [
-        {
-          "id": 26217,
-          "episode": 1,
-          "rating": 5,
-          "note": "CGDCT but isekai yuusha versus the demon lord...who happens to be nearby thing"
-        },
-        {
-          "id": 26218,
-          "episode": 2,
-          "rating": 5,
-          "note": "Nothing all that fun happened."
-        },
-        {
-          "id": 26219,
-          "episode": 3,
-          "rating": 4,
-          "note": "Dull episode"
-        },
-        {
-          "id": 26220,
-          "episode": 4,
-          "rating": 4,
-          "note": "Hmmm...evil \"god\" of the week"
-        },
-        {
-          "id": 26221,
-          "episode": 5,
-          "rating": 4,
-          "note": "Hmm.."
-        },
-        {
-          "id": 26222,
-          "episode": 6,
-          "rating": 5,
-          "note": "Troubles of the maou!"
-        },
-        {
-          "id": 26223,
-          "episode": 7,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26224,
-          "episode": 8,
-          "rating": 5,
-          "note": "Lunatic princess making trouble for the hero"
-        },
-        {
-          "id": 26225,
-          "episode": 9,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26226,
-          "episode": 10,
-          "rating": 4,
-          "note": "Hmm...not feeling it"
-        },
-        {
-          "id": 26227,
-          "episode": 11,
-          "rating": 5,
-          "note": "Maooooo-chan outed herself. I like Golem-chan"
-        },
-        {
-          "id": 26228,
-          "episode": 12,
-          "rating": 5,
-          "note": "All wrapped up nicely in the end. Nothing really stood out during the series - I'm sure it'll fade into obscurity"
-        }
-      ]
+      "malId": 38062
     },
     {
       "id": 3040,
       "title": "Fight League: Gear Gadget Generators",
       "rating": 0,
-      "season": "Winter",
       "average": 3.25,
       "highest": 4,
       "lowest": 3,
       "mode": 3,
       "image": "https://i.imgur.com/FdFDTZm.jpg",
-      "malId": 38719,
-      "episodes": [
-        {
-          "id": 26813,
-          "episode": 1,
-          "rating": 4,
-          "note": "Characters look cool, but we can't expect much from the story - it is based on a game"
-        },
-        {
-          "id": 26814,
-          "episode": 2,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26815,
-          "episode": 3,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26816,
-          "episode": 4,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26817,
-          "episode": 5,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26818,
-          "episode": 6,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26819,
-          "episode": 7,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26820,
-          "episode": 8,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26821,
-          "episode": 9,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26822,
-          "episode": 10,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26823,
-          "episode": 11,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26824,
-          "episode": 12,
-          "rating": 3,
-          "note": "Not feeling that backstory."
-        }
-      ]
+      "malId": 38719
     },
     {
       "id": 2977,
       "title": "Fukigen na Mononokean Tsuzuki",
       "rating": 5,
-      "season": "Winter",
       "average": 4.923076923076923,
       "highest": 5,
       "lowest": 4,
       "mode": 5,
       "image": "https://i.imgur.com/nbr5Did.jpg",
-      "malId": 37958,
-      "episodes": [
-        {
-          "id": 25882,
-          "episode": 1,
-          "rating": 5,
-          "note": "2.5yrs since S1, a safe start starting of more Youkai business"
-        },
-        {
-          "id": 25883,
-          "episode": 2,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 25884,
-          "episode": 3,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 25885,
-          "episode": 4,
-          "rating": 5,
-          "note": "ByeBye Kinako!"
-        },
-        {
-          "id": 25886,
-          "episode": 5,
-          "rating": 5,
-          "note": "Trouble with the executive..!"
-        },
-        {
-          "id": 25887,
-          "episode": 6,
-          "rating": 5,
-          "note": "Superpowered, but can't control it - standard stuff"
-        },
-        {
-          "id": 25888,
-          "episode": 7,
-          "rating": 4,
-          "note": "So the executive issue was resolved...just like that. Kinda lame"
-        },
-        {
-          "id": 25889,
-          "episode": 8,
-          "rating": 5,
-          "note": "The youkai in the first half was cute"
-        },
-        {
-          "id": 25890,
-          "episode": 9,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 25891,
-          "episode": 10,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 25892,
-          "episode": 11,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 25893,
-          "episode": 12,
-          "rating": 5,
-          "note": "Nice cliffhanger"
-        },
-        {
-          "id": 25894,
-          "episode": 13,
-          "rating": 5,
-          "note": "We've learnt a little more about Sakae...but there are still questions."
-        }
-      ]
+      "malId": 37958
     },
     {
       "id": 2995,
       "title": "Girly Air Force",
       "rating": 5,
-      "season": "Winter",
       "average": 4.916666666666667,
       "highest": 5,
       "lowest": 4,
       "mode": 5,
       "image": "https://i.imgur.com/PIBEMGD.jpg",
-      "malId": 37998,
-      "episodes": [
-        {
-          "id": 26061,
-          "episode": 1,
-          "rating": 5,
-          "note": "Hmm..not blown away, will probably be a middling series"
-        },
-        {
-          "id": 26062,
-          "episode": 2,
-          "rating": 5,
-          "note": "Gripen has shot up the seasonal best girl ranks. Her chopstick technique is cute"
-        },
-        {
-          "id": 26063,
-          "episode": 3,
-          "rating": 5,
-          "note": "Girl number 2 is here. Poor Gripen can't catch a break"
-        },
-        {
-          "id": 26064,
-          "episode": 4,
-          "rating": 5,
-          "note": "Finallly! Been waiting for them to go up together"
-        },
-        {
-          "id": 26065,
-          "episode": 5,
-          "rating": 5,
-          "note": "A new daughter who doesn't play nice. Not much else to the episode."
-        },
-        {
-          "id": 26066,
-          "episode": 6,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26067,
-          "episode": 7,
-          "rating": 5,
-          "note": "He's winning Phantom over with his pilot abilities!"
-        },
-        {
-          "id": 26068,
-          "episode": 8,
-          "rating": 5,
-          "note": "So-so episode. Not enough Gripen!"
-        },
-        {
-          "id": 26069,
-          "episode": 9,
-          "rating": 5,
-          "note": "Hmm...bit of a wasted episode"
-        },
-        {
-          "id": 26070,
-          "episode": 10,
-          "rating": 4,
-          "note": "Waste of time. Nothing really happened"
-        },
-        {
-          "id": 26071,
-          "episode": 11,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26072,
-          "episode": 12,
-          "rating": 5,
-          "note": "Hmm. It just sort of ended... I enjoyed the first half more, when the focus was on Gripen and Kei."
-        }
-      ]
+      "malId": 37998
     },
     {
       "id": 2996,
       "title": "Gotoubun no Hanayome",
       "rating": 5,
-      "season": "Winter",
       "average": 4.916666666666667,
       "highest": 6,
       "lowest": 4,
       "mode": 5,
       "image": "https://i.imgur.com/q8IqufB.jpg",
-      "malId": 38101,
-      "episodes": [
-        {
-          "id": 26073,
-          "episode": 1,
-          "rating": 6,
-          "note": "It was a good start."
-        },
-        {
-          "id": 26074,
-          "episode": 2,
-          "rating": 5,
-          "note": "Miku episode. The bit where he was suppose to be confused between Yotsuba and Miku was bad. All she did was put on a ribbon dude."
-        },
-        {
-          "id": 26075,
-          "episode": 3,
-          "rating": 5,
-          "note": "Were in the Nino cunt phase. The series really tries to test beliveablility when it comes to telling people apart"
-        },
-        {
-          "id": 26076,
-          "episode": 4,
-          "rating": 5,
-          "note": "The idea anyone would confuse the girls was flimsy in the manga but completely BS in the anime...the cliches grind as well"
-        },
-        {
-          "id": 26077,
-          "episode": 5,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26078,
-          "episode": 6,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26079,
-          "episode": 7,
-          "rating": 5,
-          "note": "Mistaking the sisters for each other is just unbelievable if they all have different fucking hair colours!"
-        },
-        {
-          "id": 26080,
-          "episode": 8,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26081,
-          "episode": 9,
-          "rating": 5,
-          "note": "This series continues to irritate me. Which is a same cause the potential is high"
-        },
-        {
-          "id": 26082,
-          "episode": 10,
-          "rating": 4,
-          "note": "Yeah...put a wig on and she wouldn't know who you are..for fuck sake."
-        },
-        {
-          "id": 26083,
-          "episode": 11,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26084,
-          "episode": 12,
-          "rating": 5,
-          "note": "Run of the mill harem romance...hijinks and non-committale ending"
-        }
-      ]
+      "malId": 38101
     },
     {
       "id": 3000,
       "title": "Grimms Notes The Animation",
       "rating": 4,
-      "season": "Winter",
       "average": 4.083333333333333,
       "highest": 5,
       "lowest": 3,
       "mode": 4,
       "image": "https://i.imgur.com/Dl4cUiW.jpg",
-      "malId": 37154,
-      "episodes": [
-        {
-          "id": 26157,
-          "episode": 1,
-          "rating": 5,
-          "note": "Fairy tale fanatasy but the original stories are twisted...so-so"
-        },
-        {
-          "id": 26158,
-          "episode": 2,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26159,
-          "episode": 3,
-          "rating": 5,
-          "note": "Origin of one of the main characters, mixed with Cinderella"
-        },
-        {
-          "id": 26160,
-          "episode": 4,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26161,
-          "episode": 5,
-          "rating": 4,
-          "note": "Treasure Island...was so so"
-        },
-        {
-          "id": 26162,
-          "episode": 6,
-          "rating": 4,
-          "note": "Snow white's story wasn't tampered with all that much. Another story zone saved"
-        },
-        {
-          "id": 26163,
-          "episode": 7,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26164,
-          "episode": 8,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26165,
-          "episode": 9,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26166,
-          "episode": 10,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26167,
-          "episode": 11,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26168,
-          "episode": 12,
-          "rating": 4,
-          "note": "Very \"story-zone of the week\". The stories were okay, mostly because they were inspired by real fairy tales and such"
-        }
-      ]
+      "malId": 37154
     },
     {
       "id": 3010,
       "title": "Hulaing Babies",
       "rating": 2,
-      "season": "Winter",
       "average": 2,
       "highest": 2,
       "lowest": 2,
       "mode": 2,
       "image": "https://i.imgur.com/7jDMRbh.jpg",
-      "malId": 34332,
-      "episodes": [
-        {
-          "id": 26272,
-          "episode": 1,
-          "rating": 2,
-          "note": "What?"
-        },
-        {
-          "id": 26273,
-          "episode": 2,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26274,
-          "episode": 3,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26275,
-          "episode": 4,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26276,
-          "episode": 5,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26277,
-          "episode": 6,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26278,
-          "episode": 7,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26279,
-          "episode": 8,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26280,
-          "episode": 9,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26281,
-          "episode": 10,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26282,
-          "episode": 11,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26283,
-          "episode": 12,
-          "rating": 2,
-          "note": "Awful."
-        }
-      ]
+      "malId": 34332
     },
     {
       "id": 3007,
       "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
       "rating": 6,
-      "season": "Winter",
       "average": 5.833333333333333,
       "highest": 6,
       "lowest": 5,
       "mode": 6,
       "image": "https://i.imgur.com/2zxebX8.jpg",
-      "malId": 37999,
-      "episodes": [
-        {
-          "id": 26241,
-          "episode": 1,
-          "rating": 6,
-          "note": "Good adaption so far. The narrator should be kept to a minimum though"
-        },
-        {
-          "id": 26242,
-          "episode": 2,
-          "rating": 6,
-          "note": "When's Ishigami showing up!?"
-        },
-        {
-          "id": 26243,
-          "episode": 3,
-          "rating": 6,
-          "note": "That ending was brilliant"
-        },
-        {
-          "id": 26244,
-          "episode": 4,
-          "rating": 6,
-          "note": "Some laughs were had, the french bit fell flat though."
-        },
-        {
-          "id": 26245,
-          "episode": 5,
-          "rating": 6,
-          "note": "Moderately amusing this week. When is Ishigami turning up?"
-        },
-        {
-          "id": 26246,
-          "episode": 6,
-          "rating": 6,
-          "note": "Ishigami! He's gotta be the highlight of the series for me."
-        },
-        {
-          "id": 26247,
-          "episode": 7,
-          "rating": 6,
-          "note": "Ishigami skit stole the show for me as always"
-        },
-        {
-          "id": 26248,
-          "episode": 8,
-          "rating": 5,
-          "note": "Meh week. Nothing all that good. Fujiwara with Shirogane's sister was fun"
-        },
-        {
-          "id": 26249,
-          "episode": 9,
-          "rating": 6,
-          "note": ""
-        },
-        {
-          "id": 26250,
-          "episode": 10,
-          "rating": 6,
-          "note": "Ishigami raving about women was great"
-        },
-        {
-          "id": 26251,
-          "episode": 11,
-          "rating": 5,
-          "note": "The best bit was the Ramen scene - and the old salary man made it great"
-        },
-        {
-          "id": 26252,
-          "episode": 12,
-          "rating": 6,
-          "note": "Fun RomCom with the twist just like the manga."
-        }
-      ]
+      "malId": 37999
     },
     {
       "id": 2990,
       "title": "Kakeguruixx",
       "rating": 7,
-      "season": "Winter",
       "average": 6.75,
       "highest": 7,
       "lowest": 6,
       "mode": 7,
       "image": "https://i.imgur.com/uQ3BDHj.jpg",
-      "malId": 37086,
-      "episodes": [
-        {
-          "id": 26001,
-          "episode": 1,
-          "rating": 7,
-          "note": "Interesting to jump straight into the gamble..good for manga readers at least."
-        },
-        {
-          "id": 26002,
-          "episode": 2,
-          "rating": 7,
-          "note": "Yumeko's face when Ikishima broke the rules haha"
-        },
-        {
-          "id": 26003,
-          "episode": 3,
-          "rating": 7,
-          "note": "Saotome and Ririka come to help Suzui fight the eye-shadow girls. I don't remember how this one played out (Pretty sure Mary wins though)"
-        },
-        {
-          "id": 26004,
-          "episode": 4,
-          "rating": 7,
-          "note": "Yumeko saved, looks like a Kirari focus next week?"
-        },
-        {
-          "id": 26005,
-          "episode": 5,
-          "rating": 7,
-          "note": "Blanking on this bit from the manga - loving the reaction faces though. Kirari smashing the votes"
-        },
-        {
-          "id": 26006,
-          "episode": 6,
-          "rating": 7,
-          "note": "Kakegurui reaction faces are top shelf. Yumeko losing her shit when people ruin her gambles are hilarious"
-        },
-        {
-          "id": 26007,
-          "episode": 7,
-          "rating": 7,
-          "note": "I like depressed Manyuda better than arrogant Manyuda. He's great."
-        },
-        {
-          "id": 26008,
-          "episode": 8,
-          "rating": 6,
-          "note": "Not a lot of Yumeko this gamble. Not a fan of Sumeragi"
-        },
-        {
-          "id": 26009,
-          "episode": 9,
-          "rating": 6,
-          "note": "Hurray for the President..but not all that great an episode."
-        },
-        {
-          "id": 26010,
-          "episode": 10,
-          "rating": 7,
-          "note": "I love the stylised hyper saturation of colour when characters are displaying their craziness."
-        },
-        {
-          "id": 26011,
-          "episode": 11,
-          "rating": 7,
-          "note": "Fun episode. Rei coming to the forefront was expected, cool anyway though"
-        },
-        {
-          "id": 26012,
-          "episode": 12,
-          "rating": 6,
-          "note": "Not really impressed with the ending. Overall Kakegurui is great though. (The mystery woman was definitely Yumeko's mum right?)"
-        }
-      ]
+      "malId": 37086
     },
     {
       "id": 3012,
       "title": "Kemono Friends 2",
       "rating": 5,
-      "season": "Winter",
       "average": 5.166666666666667,
       "highest": 6,
       "lowest": 5,
       "mode": 5,
       "image": "https://i.imgur.com/VYHxfox.jpg",
-      "malId": 35313,
-      "episodes": [
-        {
-          "id": 26296,
-          "episode": 1,
-          "rating": 5,
-          "note": "Another adventure trying to figure out what the human is"
-        },
-        {
-          "id": 26297,
-          "episode": 2,
-          "rating": 5,
-          "note": "Panfda girls were cute. I preferred Red Panda"
-        },
-        {
-          "id": 26298,
-          "episode": 3,
-          "rating": 5,
-          "note": "Dolphin and Seas lion...was okay."
-        },
-        {
-          "id": 26299,
-          "episode": 4,
-          "rating": 5,
-          "note": "The animals play with the picture was fun"
-        },
-        {
-          "id": 26300,
-          "episode": 5,
-          "rating": 5,
-          "note": "Skipping talking about the epiosde - Tiger at the end? Another human?! Who knows Serval!?"
-        },
-        {
-          "id": 26301,
-          "episode": 6,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26302,
-          "episode": 7,
-          "rating": 6,
-          "note": "Cheetah vs Pronhorn was fun"
-        },
-        {
-          "id": 26303,
-          "episode": 8,
-          "rating": 5,
-          "note": "PPP!"
-        },
-        {
-          "id": 26304,
-          "episode": 9,
-          "rating": 5,
-          "note": "Dog was fun. I wonder if tiger - the beast - can be \"cured\""
-        },
-        {
-          "id": 26305,
-          "episode": 10,
-          "rating": 5,
-          "note": "Kyururu is in trouble!"
-        },
-        {
-          "id": 26306,
-          "episode": 11,
-          "rating": 6,
-          "note": "Fun. I like that all the characters got to show up again"
-        },
-        {
-          "id": 26307,
-          "episode": 12,
-          "rating": 5,
-          "note": "I think season 1 was better overall. This season had its moments though - the race and Giant Panda-san"
-        }
-      ]
+      "malId": 35313
     },
     {
       "id": 2994,
       "title": "Kemurikusa (TV)",
       "rating": 6,
-      "season": "Winter",
       "average": 5.25,
       "highest": 6,
       "lowest": 4,
       "mode": 6,
       "image": "https://i.imgur.com/U4rpgjK.jpg",
-      "malId": 37302,
-      "episodes": [
-        {
-          "id": 26049,
-          "episode": 1,
-          "rating": 5,
-          "note": "Not bad. It got more interesting when the \"human\" guy show'd up"
-        },
-        {
-          "id": 26050,
-          "episode": 2,
-          "rating": 5,
-          "note": "Mostly setup for their journey. I like that hard-ass nee-san is totally into the guy"
-        },
-        {
-          "id": 26051,
-          "episode": 3,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26052,
-          "episode": 4,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26053,
-          "episode": 5,
-          "rating": 4,
-          "note": "Slow episode - but now a new  \"red girl\" appears"
-        },
-        {
-          "id": 26054,
-          "episode": 6,
-          "rating": 5,
-          "note": "Hmm...more mysteries when it comes to the \"new sister\""
-        },
-        {
-          "id": 26055,
-          "episode": 7,
-          "rating": 6,
-          "note": "Well their happiness was short lived. Off to battle next week?"
-        },
-        {
-          "id": 26056,
-          "episode": 8,
-          "rating": 6,
-          "note": "Poor roomba's. Sacrificed themselves for the journey."
-        },
-        {
-          "id": 26057,
-          "episode": 9,
-          "rating": 6,
-          "note": "I'm more and more interested as to what is causing the \"dead sisters\" to appear."
-        },
-        {
-          "id": 26058,
-          "episode": 10,
-          "rating": 6,
-          "note": "Some of the sisters are out? We might finally be unravelling the red mystery"
-        },
-        {
-          "id": 26059,
-          "episode": 11,
-          "rating": 6,
-          "note": "Cool reveal. Now we just need to know what happened to the first person and where the red heads came from."
-        },
-        {
-          "id": 26060,
-          "episode": 12,
-          "rating": 6,
-          "note": "The show got better over time. Cool story. The ending was alright too. I think I understood what went on."
-        }
-      ]
+      "malId": 37302
     },
     {
       "id": 3006,
       "title": "Kouya no Kotobuki Hikoutai",
       "rating": 6,
-      "season": "Winter",
       "average": 5.666666666666667,
       "highest": 6,
       "lowest": 5,
       "mode": 6,
       "image": "https://i.imgur.com/rlpTZYQ.jpg",
-      "malId": 38301,
-      "episodes": [
-        {
-          "id": 26229,
-          "episode": 1,
-          "rating": 6,
-          "note": "Dogfighting mercenary girls. Seems cool"
-        },
-        {
-          "id": 26230,
-          "episode": 2,
-          "rating": 5,
-          "note": "The owner ladies are hot."
-        },
-        {
-          "id": 26231,
-          "episode": 3,
-          "rating": 6,
-          "note": "What was the Mayor doing!? Least none of the girls got hurt!"
-        },
-        {
-          "id": 26232,
-          "episode": 4,
-          "rating": 6,
-          "note": "Sexy dancers were hot..but dancing was weird. The art girl was cute."
-        },
-        {
-          "id": 26233,
-          "episode": 5,
-          "rating": 5,
-          "note": "Julia got balls - didn't even flinch!"
-        },
-        {
-          "id": 26234,
-          "episode": 6,
-          "rating": 6,
-          "note": "Kylie backstory. Cool dogfight with the mystery fighter."
-        },
-        {
-          "id": 26235,
-          "episode": 7,
-          "rating": 6,
-          "note": "I'm enjoying this series. It's ever so slightly unique."
-        },
-        {
-          "id": 26236,
-          "episode": 8,
-          "rating": 5,
-          "note": "They were in hot water this week, but all was solved in the end. I wonder if their airship will actually be out of comission next week?"
-        },
-        {
-          "id": 26237,
-          "episode": 9,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26238,
-          "episode": 10,
-          "rating": 6,
-          "note": "Naomi's  design is good, but the mouth animation when they were arguing was awful"
-        },
-        {
-          "id": 26239,
-          "episode": 11,
-          "rating": 6,
-          "note": "Confrontation with the Union."
-        },
-        {
-          "id": 26240,
-          "episode": 12,
-          "rating": 6,
-          "note": "Enjoyable. Decent CG. One of the few plane anime out there too"
-        }
-      ]
+      "malId": 38301
     },
     {
       "id": 3001,
       "title": "Mahou Shoujo Tokushusen Asuka",
       "rating": 6,
-      "season": "Winter",
       "average": 6.083333333333333,
       "highest": 7,
       "lowest": 5,
       "mode": 6,
       "image": "https://i.imgur.com/QUSFery.jpg",
-      "malId": 37979,
-      "episodes": [
-        {
-          "id": 26169,
-          "episode": 1,
-          "rating": 7,
-          "note": "Great first episode. Retired magical girl with PTSD coming out of retirement to fight terrorism!"
-        },
-        {
-          "id": 26170,
-          "episode": 2,
-          "rating": 6,
-          "note": "The yuri vibes are strong with these two."
-        },
-        {
-          "id": 26171,
-          "episode": 3,
-          "rating": 6,
-          "note": "Everone's friends..but looks like trouble ahead."
-        },
-        {
-          "id": 26172,
-          "episode": 4,
-          "rating": 7,
-          "note": "Nozomi's having a rough time. Glad Rapture jumped in for the save rather than the surrendering BS"
-        },
-        {
-          "id": 26173,
-          "episode": 5,
-          "rating": 7,
-          "note": "Rapture is OP, but Jou-ou just walked in like it was nothing. Rapture joins M Squad! She should reliveve the memories with Nozomi!"
-        },
-        {
-          "id": 26174,
-          "episode": 6,
-          "rating": 6,
-          "note": "War nurse with the strong yuri aura hahha."
-        },
-        {
-          "id": 26175,
-          "episode": 7,
-          "rating": 6,
-          "note": "Generous score. Just terrorist of the week"
-        },
-        {
-          "id": 26176,
-          "episode": 8,
-          "rating": 6,
-          "note": ""
-        },
-        {
-          "id": 26177,
-          "episode": 9,
-          "rating": 5,
-          "note": "Tabira is hot. Even better that she's voiced by Ohara. We need so Ara-Ara's stat. Otherwise a build up for the conflict"
-        },
-        {
-          "id": 26178,
-          "episode": 10,
-          "rating": 6,
-          "note": "They better not have killed Tabira off?"
-        },
-        {
-          "id": 26179,
-          "episode": 11,
-          "rating": 6,
-          "note": "Tabira survived! and is cute in fluffy form. Not surprised that Chisato's injuries were orchastrated."
-        },
-        {
-          "id": 26180,
-          "episode": 12,
-          "rating": 5,
-          "note": "Pretty standard action show in the end. I much preferred the first half. The characters were what let the show down - Tabira hot though"
-        }
-      ]
+      "malId": 37979
     },
     {
       "id": 3025,
       "title": "Manaria Friends",
       "rating": 5,
-      "season": "Winter",
       "average": 4.8,
       "highest": 6,
       "lowest": 4,
       "mode": 5,
       "image": "https://i.imgur.com/vuS3zKL.jpg",
-      "malId": 31537,
-      "episodes": [
-        {
-          "id": 26456,
-          "episode": 1,
-          "rating": 5,
-          "note": "Interesting start. Needs more dragon girl"
-        },
-        {
-          "id": 26457,
-          "episode": 2,
-          "rating": 5,
-          "note": "Molting! The Yuri with these 2 is strong"
-        },
-        {
-          "id": 26458,
-          "episode": 3,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26459,
-          "episode": 4,
-          "rating": 4,
-          "note": "I got the point of the episode, but it wasn't all that engaging. Was \"nice\""
-        },
-        {
-          "id": 26460,
-          "episode": 5,
-          "rating": 6,
-          "note": "Hmm...it being a drill was a little lame. Also I'm not watching this for the action - give me more Anne x Crea"
-        },
-        {
-          "id": 26461,
-          "episode": 6,
-          "rating": 5,
-          "note": "That lagoon place they spent the episode at was cool."
-        },
-        {
-          "id": 26462,
-          "episode": 7,
-          "rating": 5,
-          "note": "Hide and seek. Wasn't super into the episode. Anne hyper creepy at the end ahha"
-        },
-        {
-          "id": 26463,
-          "episode": 8,
-          "rating": 4,
-          "note": "Lame episode. No real development between the characters or any fun happenings. Didn't care for the song."
-        },
-        {
-          "id": 26464,
-          "episode": 9,
-          "rating": 5,
-          "note": "I'm not loving these episodes with minimal interactions between the leads. I do like how it frames their relationship though"
-        },
-        {
-          "id": 26465,
-          "episode": 10,
-          "rating": 5,
-          "note": "Nice show. Some of the episode were a little boring but the main characters were fun - nice dynamic"
-        }
-      ]
+      "malId": 31537
     },
     {
       "id": 2997,
       "title": "Mini Toji",
       "rating": 2,
-      "season": "Winter",
       "average": 2.5,
       "highest": 3,
       "lowest": 2,
       "mode": 2,
       "image": "https://i.imgur.com/y1gQgD0.jpg",
-      "malId": 38673,
-      "episodes": [
-        {
-          "id": 26085,
-          "episode": 1,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26086,
-          "episode": 2,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26087,
-          "episode": 3,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26088,
-          "episode": 4,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26089,
-          "episode": 5,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26090,
-          "episode": 6,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26091,
-          "episode": 7,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26092,
-          "episode": 8,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26093,
-          "episode": 9,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26094,
-          "episode": 10,
-          "rating": 2,
-          "note": "Waste of time. Seemed like a dvd special type thing"
-        }
-      ]
+      "malId": 38673
     },
     {
       "id": 2985,
       "title": "Mob Psycho 100 II",
       "rating": 7,
-      "season": "Winter",
       "average": 6.384615384615385,
       "highest": 8,
       "lowest": 5,
       "mode": 6,
       "image": "https://i.imgur.com/aFhslCY.jpg",
-      "malId": 37510,
-      "episodes": [
-        {
-          "id": 25937,
-          "episode": 1,
-          "rating": 6,
-          "note": "So-so first episode."
-        },
-        {
-          "id": 25938,
-          "episode": 2,
-          "rating": 7,
-          "note": "Cool. The psychic in the park bit was funny."
-        },
-        {
-          "id": 25939,
-          "episode": 3,
-          "rating": 5,
-          "note": "67% exorcism of the week - nothing to write home about"
-        },
-        {
-          "id": 25940,
-          "episode": 4,
-          "rating": 7,
-          "note": "Looks like Mob lost the fight?!"
-        },
-        {
-          "id": 25941,
-          "episode": 5,
-          "rating": 6,
-          "note": "I wasn't blown away by thte episode, but it was good"
-        },
-        {
-          "id": 25942,
-          "episode": 6,
-          "rating": 6,
-          "note": "Reigen is trying to turn over a new leaf. Watching him have a meltdown cause Mob left was comical"
-        },
-        {
-          "id": 25943,
-          "episode": 7,
-          "rating": 6,
-          "note": "The feels! While Reigen is a complete tool - he is a decent guy at heart"
-        },
-        {
-          "id": 25944,
-          "episode": 8,
-          "rating": 6,
-          "note": "Average episode until the last 2 minutes when shit got real! ???%"
-        },
-        {
-          "id": 25945,
-          "episode": 9,
-          "rating": 6,
-          "note": "It's all going down now - the fact that the Mob ??? was just a tease is lame...but he was cool for ~2min"
-        },
-        {
-          "id": 25946,
-          "episode": 10,
-          "rating": 6,
-          "note": "Dimple the real MVP this episode."
-        },
-        {
-          "id": 25947,
-          "episode": 11,
-          "rating": 8,
-          "note": "SELF DEFENCE RUSH"
-        },
-        {
-          "id": 25948,
-          "episode": 12,
-          "rating": 7,
-          "note": "Start of the final fight - this should be great"
-        },
-        {
-          "id": 25949,
-          "episode": 13,
-          "rating": 7,
-          "note": "Good season. The ending was as great as I was hoping - set myself up to be lightly disappointed"
-        }
-      ]
+      "malId": 37510
     },
     {
       "id": 2983,
       "title": "Pastel Memories",
       "rating": 4,
-      "season": "Winter",
       "average": 4,
       "highest": 5,
       "lowest": 3,
       "mode": 4,
       "image": "https://i.imgur.com/rDZuGYv.jpg",
-      "malId": 37374,
-      "episodes": [
-        {
-          "id": 25913,
-          "episode": 1,
-          "rating": 5,
-          "note": "It seemed like a chill CGDCT show, until the end when we got dimensional magical girls...think Gochuu x Akanesasu"
-        },
-        {
-          "id": 25914,
-          "episode": 2,
-          "rating": 5,
-          "note": "I like that the manga they're trying to get is definitely an allousion to GochuUsa. Glad they didn't take a dark route with the \"villians\""
-        },
-        {
-          "id": 25915,
-          "episode": 3,
-          "rating": 4,
-          "note": "Rosen Maiden this week. Seems like the show is going to stick to \"save the series\" of the week formula."
-        },
-        {
-          "id": 25916,
-          "episode": 4,
-          "rating": 5,
-          "note": "Considering the childish nature of the show, the ending is ridiculously ecchi."
-        },
-        {
-          "id": 25917,
-          "episode": 5,
-          "rating": 4,
-          "note": "Ryuuou no Oshigoto was the series that needed saving this week"
-        },
-        {
-          "id": 25918,
-          "episode": 6,
-          "rating": 3,
-          "note": "I'm really loving the ending of the show...that's about it"
-        },
-        {
-          "id": 25919,
-          "episode": 7,
-          "rating": 4,
-          "note": "In a game this week rather than a manga - and the antagonist only shows up for 10sec"
-        },
-        {
-          "id": 25920,
-          "episode": 8,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 25921,
-          "episode": 9,
-          "rating": 4,
-          "note": "I like Kaoruko. There's something about that \"posh girl\" way of speaking that is fun"
-        },
-        {
-          "id": 25922,
-          "episode": 10,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 25923,
-          "episode": 11,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25924,
-          "episode": 12,
-          "rating": 4,
-          "note": "The best thing about the show is the ED animation. I've already forgotten the show."
-        }
-      ]
+      "malId": 37374
     },
     {
       "id": 3033,
       "title": "Piano no Mori (TV) 2nd Season",
       "rating": 4,
-      "season": "Winter",
       "average": 4.25,
       "highest": 5,
       "lowest": 4,
       "mode": 4,
       "image": "https://i.imgur.com/s2SwXMv.jpg",
-      "malId": 37975,
-      "episodes": [
-        {
-          "id": 26757,
-          "episode": 1,
-          "rating": 5,
-          "note": "Some super pro failed...nothing else happend..."
-        },
-        {
-          "id": 26758,
-          "episode": 2,
-          "rating": 4,
-          "note": "Backstory for some guy we don't care about. We need more of the MC's"
-        },
-        {
-          "id": 26759,
-          "episode": 3,
-          "rating": 4,
-          "note": "I'm not feeling this season at all. It's lost that spark"
-        },
-        {
-          "id": 26760,
-          "episode": 4,
-          "rating": 5,
-          "note": "Kai's killing it and I don't recognise these songs. Give me something I know please"
-        },
-        {
-          "id": 26761,
-          "episode": 5,
-          "rating": 4,
-          "note": "These judges are so far from impartial - at least it looked that way"
-        },
-        {
-          "id": 26762,
-          "episode": 6,
-          "rating": 4,
-          "note": "Quit mopping dude. Why don't you go practice or something"
-        },
-        {
-          "id": 26763,
-          "episode": 7,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26764,
-          "episode": 8,
-          "rating": 5,
-          "note": "Killing time until Pang Wei"
-        },
-        {
-          "id": 26765,
-          "episode": 9,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26766,
-          "episode": 10,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26767,
-          "episode": 11,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 26768,
-          "episode": 12,
-          "rating": 4,
-          "note": "Kai won. This season didn't hook me at all."
-        }
-      ]
+      "malId": 37975
     },
     {
       "id": 2992,
       "title": "Revisions",
       "rating": 4,
-      "season": "Winter",
       "average": 4.083333333333333,
       "highest": 5,
       "lowest": 2,
       "mode": 5,
       "image": "https://i.imgur.com/rMmtAD9.jpg",
-      "malId": 37436,
-      "episodes": [
-        {
-          "id": 26025,
-          "episode": 1,
-          "rating": 5,
-          "note": "The last 3 minutes were great...the run up to that not so much. It could be a rollercoaster of quality"
-        },
-        {
-          "id": 26026,
-          "episode": 2,
-          "rating": 5,
-          "note": "Daisuke's fucking annoying. Quit throwing a fit."
-        },
-        {
-          "id": 26027,
-          "episode": 3,
-          "rating": 5,
-          "note": "The revisions rep looks to be a babe. Fingers crossed we'll see a lot more of her"
-        },
-        {
-          "id": 26028,
-          "episode": 4,
-          "rating": 4,
-          "note": "Bunny-chan looks great...but this show is poor. MC-kun needs a fucking slap"
-        },
-        {
-          "id": 26029,
-          "episode": 5,
-          "rating": 4,
-          "note": "So the monters are human... meh, quite a common twist nowadays"
-        },
-        {
-          "id": 26030,
-          "episode": 6,
-          "rating": 5,
-          "note": "He got all kinds of fucked up by the \"Ghost\" - which was cool. Fingers crossed he'll grow from this experience."
-        },
-        {
-          "id": 26031,
-          "episode": 7,
-          "rating": 2,
-          "note": "The first half was a glorified recap!"
-        },
-        {
-          "id": 26032,
-          "episode": 8,
-          "rating": 3,
-          "note": "Did they just kill off bunny girl?"
-        },
-        {
-          "id": 26033,
-          "episode": 9,
-          "rating": 4,
-          "note": "At least the Mayor is gone."
-        },
-        {
-          "id": 26034,
-          "episode": 10,
-          "rating": 4,
-          "note": "So  the \"time demon\" could be keisaku?.."
-        },
-        {
-          "id": 26035,
-          "episode": 11,
-          "rating": 3,
-          "note": "Furry merged with Keisaku and became the big bad..."
-        },
-        {
-          "id": 26036,
-          "episode": 12,
-          "rating": 5,
-          "note": "Good start, weak middle, trash late-game twist, and a definitive ending."
-        }
-      ]
+      "malId": 37436
     },
     {
       "id": 2989,
       "title": "Rinshi!! Ekoda-chan",
       "rating": 2,
-      "season": "Winter",
       "average": 2.6363636363636362,
       "highest": 5,
       "lowest": 2,
       "mode": 2,
       "image": "https://i.imgur.com/CAM7aHC.jpg",
-      "malId": 38162,
-      "episodes": [
-        {
-          "id": 25990,
-          "episode": 1,
-          "rating": 4,
-          "note": "Well Ekoda is a character. I only watched the anime, skipped the \"Director Chat\" afterwards"
-        },
-        {
-          "id": 25991,
-          "episode": 2,
-          "rating": 3,
-          "note": "Tut-tut. Stealing a another woman's man."
-        },
-        {
-          "id": 25992,
-          "episode": 3,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 25993,
-          "episode": 4,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 25994,
-          "episode": 5,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 25995,
-          "episode": 6,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 25996,
-          "episode": 7,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 25997,
-          "episode": 8,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 25998,
-          "episode": 9,
-          "rating": 5,
-          "note": "That was pretty fun. Lady to the right was great."
-        },
-        {
-          "id": 25999,
-          "episode": 10,
-          "rating": 2,
-          "note": "The blue chick at the beginning was hot."
-        },
-        {
-          "id": 26000,
-          "episode": 11,
-          "rating": 2,
-          "note": "...There was 1 decent-ish episode... the blackout one. ( There was a 12 ep... it was kak)"
-        }
-      ]
+      "malId": 38162
     },
     {
       "id": 3008,
       "title": "Tate no Yuusha no Nariagari",
       "rating": 0,
-      "season": "Winter",
       "average": 5.470588235294118,
       "highest": 6,
       "lowest": 5,
       "mode": 5,
       "image": "https://i.imgur.com/i5XeKZy.jpg",
-      "malId": 35790,
-      "episodes": [
-        {
-          "id": 26253,
-          "episode": 1,
-          "rating": 6,
-          "note": "Good start. I do like that the shield hero's place in the world is different than the normal isekai"
-        },
-        {
-          "id": 26254,
-          "episode": 2,
-          "rating": 6,
-          "note": "He's picked up Raph-chan...and she's already committed to following him"
-        },
-        {
-          "id": 26255,
-          "episode": 3,
-          "rating": 6,
-          "note": "Raph-chan has aged up a bit and the first wave has passed."
-        },
-        {
-          "id": 26256,
-          "episode": 4,
-          "rating": 6,
-          "note": "This bitch be irredeemable!"
-        },
-        {
-          "id": 26257,
-          "episode": 5,
-          "rating": 5,
-          "note": "Firo's introduction. Spear boy and Mine still cunting around"
-        },
-        {
-          "id": 26258,
-          "episode": 6,
-          "rating": 6,
-          "note": "Firo stealing the show at the moment"
-        },
-        {
-          "id": 26259,
-          "episode": 7,
-          "rating": 5,
-          "note": "Monster of the week, Raphtalia and Firo \"competeing\" for Naofumi's attention"
-        },
-        {
-          "id": 26260,
-          "episode": 8,
-          "rating": 6,
-          "note": "Rage shield is cool. It'd be dope if he could master its power"
-        },
-        {
-          "id": 26261,
-          "episode": 9,
-          "rating": 5,
-          "note": "Firo's feathers look like they'd make a good bed. As if spear boy could be more of a cunt..."
-        },
-        {
-          "id": 26262,
-          "episode": 10,
-          "rating": 5,
-          "note": "Wave 2 be approaching!"
-        },
-        {
-          "id": 26263,
-          "episode": 11,
-          "rating": 5,
-          "note": "The Iron Maiden thing was cool"
-        },
-        {
-          "id": 26264,
-          "episode": 12,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26265,
-          "episode": 13,
-          "rating": 6,
-          "note": "What is wrong with the spear boy? At least the other heroes attempt to do something reasonable."
-        },
-        {
-          "id": 26266,
-          "episode": 14,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26267,
-          "episode": 15,
-          "rating": 6,
-          "note": "Raphtalia backstory...was nice"
-        },
-        {
-          "id": 26268,
-          "episode": 16,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 26269,
-          "episode": 17,
-          "rating": 5,
-          "note": "These episodes are getting dull...do something guys"
-        }
-      ]
+      "malId": 35790
     },
     {
       "id": 2981,
       "title": "Ueno-san wa Bukiyou",
       "rating": 5,
-      "season": "Winter",
       "average": 5.083333333333333,
       "highest": 6,
       "lowest": 4,
       "mode": 5,
       "image": "https://i.imgur.com/DRpgLz5.jpg",
-      "malId": 37920,
-      "episodes": [
-        {
-          "id": 25900,
-          "episode": 1,
-          "rating": 5,
-          "note": "It was a little funny. I like that they're taking the \"dense guy\" trope to the extreme"
-        },
-        {
-          "id": 25901,
-          "episode": 2,
-          "rating": 6,
-          "note": "He was fucking with her right? He knew what was up right?"
-        },
-        {
-          "id": 25902,
-          "episode": 3,
-          "rating": 5,
-          "note": "This guy is 100% in his own world and cannot be messed with."
-        },
-        {
-          "id": 25903,
-          "episode": 4,
-          "rating": 5,
-          "note": "Robo-Ueno and Tamon!"
-        },
-        {
-          "id": 25904,
-          "episode": 5,
-          "rating": 6,
-          "note": "Poor Yamashita! New character is too energetic for me."
-        },
-        {
-          "id": 25905,
-          "episode": 6,
-          "rating": 5,
-          "note": "If she calmed down a little things wouldn't go so horribly wrong haha"
-        },
-        {
-          "id": 25906,
-          "episode": 7,
-          "rating": 4,
-          "note": ""
-        },
-        {
-          "id": 25907,
-          "episode": 8,
-          "rating": 4,
-          "note": "Not all that fun this week"
-        },
-        {
-          "id": 25908,
-          "episode": 9,
-          "rating": 5,
-          "note": "\"It's really juicying up now\" and \"Virginal thighs\""
-        },
-        {
-          "id": 25909,
-          "episode": 10,
-          "rating": 5,
-          "note": "Ueno continues to spack out"
-        },
-        {
-          "id": 25910,
-          "episode": 11,
-          "rating": 6,
-          "note": "What are you doing Tanaka?"
-        },
-        {
-          "id": 25911,
-          "episode": 12,
-          "rating": 5,
-          "note": "Fun show. Some of the skits were lame, but I liked the execution of most"
-        }
-      ]
+      "malId": 37920
     },
     {
       "id": 3011,
       "title": "Virtual-san wa Miteiru",
       "rating": 1,
-      "season": "Winter",
       "average": 1.75,
       "highest": 3,
       "lowest": 1,
       "mode": 2,
       "image": "https://i.imgur.com/uizuZFw.jpg",
-      "malId": 38851,
-      "episodes": [
-        {
-          "id": 26284,
-          "episode": 1,
-          "rating": 2,
-          "note": "What have I committed myself to watching? Why am I even alive."
-        },
-        {
-          "id": 26285,
-          "episode": 2,
-          "rating": 1,
-          "note": "This might be the worst thing I've ever watched. I think it is suppose to be shit though - some sort of parody/comedy angle"
-        },
-        {
-          "id": 26286,
-          "episode": 3,
-          "rating": 1,
-          "note": "Shoot me"
-        },
-        {
-          "id": 26287,
-          "episode": 4,
-          "rating": 1,
-          "note": "How can something like this get funded?"
-        },
-        {
-          "id": 26288,
-          "episode": 5,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26289,
-          "episode": 6,
-          "rating": 3,
-          "note": ""
-        },
-        {
-          "id": 26290,
-          "episode": 7,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26291,
-          "episode": 8,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26292,
-          "episode": 9,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26293,
-          "episode": 10,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26294,
-          "episode": 11,
-          "rating": 2,
-          "note": ""
-        },
-        {
-          "id": 26295,
-          "episode": 12,
-          "rating": 1,
-          "note": "Abort it. How does this get made?"
-        }
-      ]
+      "malId": 38851
     },
     {
       "id": 2984,
       "title": "Watashi ni Tenshi ga Maiorita!",
       "rating": 5,
-      "season": "Winter",
       "average": 5.333333333333333,
       "highest": 6,
       "lowest": 5,
       "mode": 5,
       "image": "https://i.imgur.com/W5sACC1.jpg",
-      "malId": 37993,
-      "episodes": [
-        {
-          "id": 25925,
-          "episode": 1,
-          "rating": 5,
-          "note": "Picking up the baton from UzaMaid, grown woman being into loli's..."
-        },
-        {
-          "id": 25926,
-          "episode": 2,
-          "rating": 5,
-          "note": "Not a fan of Noa"
-        },
-        {
-          "id": 25927,
-          "episode": 3,
-          "rating": 5,
-          "note": "Mya-nee! She's trying to kill her in her sleep!"
-        },
-        {
-          "id": 25928,
-          "episode": 4,
-          "rating": 5,
-          "note": ""
-        },
-        {
-          "id": 25929,
-          "episode": 5,
-          "rating": 5,
-          "note": "I like the Kanon and Koyori's dynamic. When she launched the printouts out the window I was rolling"
-        },
-        {
-          "id": 25930,
-          "episode": 6,
-          "rating": 5,
-          "note": "University and the stalker! It seems a common trope for creepy MC's to have their own creeper (see: this and UzaMaid)"
-        },
-        {
-          "id": 25931,
-          "episode": 7,
-          "rating": 6,
-          "note": "This girl has some issues. There needs to be some boundaries. At least Mya-nee tried."
-        },
-        {
-          "id": 25932,
-          "episode": 8,
-          "rating": 6,
-          "note": "Fun episode. I liked mixing it up with it being outside."
-        },
-        {
-          "id": 25933,
-          "episode": 9,
-          "rating": 5,
-          "note": "Run of the mill stuff."
-        },
-        {
-          "id": 25934,
-          "episode": 10,
-          "rating": 6,
-          "note": "Looks like Hana is softening to Mya-nee"
-        },
-        {
-          "id": 25935,
-          "episode": 11,
-          "rating": 6,
-          "note": "The episodes are fun...CGDCT"
-        },
-        {
-          "id": 25936,
-          "episode": 12,
-          "rating": 5,
-          "note": "A weak ending, but fun show overall."
-        }
-      ]
+      "malId": 37993
     },
     {
       "id": 2991,
       "title": "Yakusoku no Neverland",
       "rating": 6,
-      "season": "Winter",
       "average": 5.833333333333333,
       "highest": 6,
       "lowest": 5,
       "mode": 6,
       "image": "https://i.imgur.com/ItYWwLE.jpg",
-      "malId": 37779,
-      "episodes": [
-        {
-          "id": 26013,
-          "episode": 1,
-          "rating": 6,
-          "note": "Some of the CG was a little off, but otherwise decent start. Grace farm arc is best arc afterall"
-        },
-        {
-          "id": 26014,
-          "episode": 2,
-          "rating": 6,
-          "note": "This unnerving look \"mama\" girves Emma in the hallway"
-        },
-        {
-          "id": 26015,
-          "episode": 3,
-          "rating": 6,
-          "note": "Sister crone is mad scary. That sprinting!"
-        },
-        {
-          "id": 26016,
-          "episode": 4,
-          "rating": 6,
-          "note": "...I'm blanking on what happens next. I remembered Ray was the \"Traitor\" but blank after that"
-        },
-        {
-          "id": 26017,
-          "episode": 5,
-          "rating": 5,
-          "note": "Fucking Don, what a waster"
-        },
-        {
-          "id": 26018,
-          "episode": 6,
-          "rating": 5,
-          "note": "Cat and mouse continues with the kids and adults"
-        },
-        {
-          "id": 26019,
-          "episode": 7,
-          "rating": 6,
-          "note": "Krone is so damn creepy"
-        },
-        {
-          "id": 26020,
-          "episode": 8,
-          "rating": 6,
-          "note": "Totally forgot what happened to Krone. Mama is cold as fuck - no hesitation on the leg breaking"
-        },
-        {
-          "id": 26021,
-          "episode": 9,
-          "rating": 6,
-          "note": "Norman's eyes after seeing the cliff haha - I shouldn't find it funny though"
-        },
-        {
-          "id": 26022,
-          "episode": 10,
-          "rating": 6,
-          "note": "Norman's gone and the guys are emoing out hard..."
-        },
-        {
-          "id": 26023,
-          "episode": 11,
-          "rating": 6,
-          "note": "What the fuck are you doing Phil!?!?"
-        },
-        {
-          "id": 26024,
-          "episode": 12,
-          "rating": 6,
-          "note": "They adapted the first arc fully. Was good. This is definitely the best arc in the series (to date at least)"
-        }
-      ]
+      "malId": 37779
     }
   ]
 }
