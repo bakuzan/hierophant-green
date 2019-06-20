@@ -54,7 +54,7 @@ function Personal() {
         <a href={info.malUrl} target="_blank" rel="noopener noreferrer">
           {info.author}
         </a>
-        . I reveal my {adjective} taste
+        . Behold my {adjective} taste
       </p>
     </div>
   );

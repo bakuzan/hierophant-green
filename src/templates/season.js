@@ -45,9 +45,10 @@ export default ({ data }) => {
             Average: {seasonAverage} for {ratedCount} rated series
           </p>
         )}
-        <p style={{ whiteSpace: 'pre' }}>
+        <p style={{ whiteSpace: 'pre-line' }}>
           In the event I have yet to rate a series, the rating will appear as a
-          hypen (-). {'\n\r'}In the cases where multiple ratings are tied in the
+          hypen (-).{'\n\r'}This is usually the case for series that are still
+          airing. {'\n\r'}In the cases where multiple ratings are tied in the
           mode calculation, one will be arbitrarily selected.
         </p>
         <Table headers={seasonHeaders}>

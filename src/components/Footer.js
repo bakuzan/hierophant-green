@@ -35,6 +35,7 @@ function Footer() {
   `);
 
   const info = data.site.siteMetadata;
+  const [date, time] = new Date().toISOString().split('T');
 
   return (
     <footer
@@ -51,6 +52,14 @@ function Footer() {
         <NewTabLink href={info.malUrl}>myanimelist</NewTabLink>
         <Divider />
         <NewTabLink href={info.tierListUrl}>make a tier list</NewTabLink>
+      </div>
+      <div>
+        Last updated{' '}
+        {date
+          .split('-')
+          .reverse()
+          .join('-')}{' '}
+        {time.slice(0, 5)} UTC
       </div>
     </footer>
   );
