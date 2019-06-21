@@ -2,7 +2,7 @@
   "name": "hierophant-green",
   "private": true,
   "description": "Seasonal Anime Statistics",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "bakuzan",
   "dependencies": {
     "gatsby": "^2.9.4",
