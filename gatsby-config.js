@@ -1,6 +1,7 @@
 module.exports = {
   pathPrefix: 'hierophant-green',
   siteMetadata: {
+    generatedDate: (() => new Date().toISOString())(),
     title: `Seasonal Anime Ratings`,
     author: `bakuzan`,
     description: `Breakdown of seasonal anime ratings for myanimelist user bakuzan`,

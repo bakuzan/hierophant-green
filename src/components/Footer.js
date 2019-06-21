@@ -25,6 +25,7 @@ function Footer() {
     query FooterMetaQuery {
       site {
         siteMetadata {
+          generatedDate
           malUrl
           tierListUrl
           repoUrl
@@ -35,7 +36,7 @@ function Footer() {
   `);
 
   const info = data.site.siteMetadata;
-  const [date, time] = new Date().toISOString().split('T');
+  const [date, time] = info.generatedDate.split('T');
 
   return (
     <footer

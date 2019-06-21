@@ -43,9 +43,10 @@ exports.createPages = ({ graphql, actions }) => {
 
   return graphql(`
     {
-      allDataJson {
+      allDataJson(sort: { fields: [season], order: DESC }) {
         edges {
           node {
+            season
             fields {
               slug
             }
@@ -60,13 +61,19 @@ exports.createPages = ({ graphql, actions }) => {
 
     const postTemplate = path.resolve(`src/templates/season.js`);
     const pages = result.data.allDataJson.edges;
+    const maxIndex = pages.length - 1;
 
-    pages.forEach(({ node }) => {
+    pages.forEach(({ node }, index) => {
+      const previous = index === maxIndex ? null : pages[index + 1].node;
+      const next = index === 0 ? null : pages[index - 1].node;
+
       createPage({
         path: node.fields.slug,
         component: postTemplate,
         context: {
-          slug: node.fields.slug
+          slug: node.fields.slug,
+          previous,
+          next
         }
       });
     });

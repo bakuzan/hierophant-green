@@ -27,26 +27,31 @@ export default ({ data }) => {
           Seasons
         </h2>
         <div>{info.totalCount} covered</div>
-        {info.edges.map(({ node }) => (
-          <div key={node.id}>
-            <Link
-              to={node.fields.slug}
-              style={{
-                textDecoration: 'none',
-                color: 'inherit'
-              }}
-            >
-              <h4
-                className="season-link"
+        <ul
+          style={{ listStyleType: 'none', margin: 0, marginBottom: rhythm(4) }}
+        >
+          {info.edges.map(({ node }) => (
+            <li key={node.id} style={{ display: 'flex' }}>
+              <Link
+                to={node.fields.slug}
                 style={{
-                  marginBottom: rhythm(1 / 4)
+                  textDecoration: 'none',
+                  color: 'inherit'
                 }}
               >
-                {getSeasonName(node.season)}
-              </h4>
-            </Link>
-          </div>
-        ))}
+                <h4
+                  className="season-link"
+                  style={{
+                    marginTop: rhythm(1),
+                    marginBottom: rhythm(1 / 4)
+                  }}
+                >
+                  {getSeasonName(node.season)}
+                </h4>
+              </Link>
+            </li>
+          ))}
+        </ul>
       </div>
     </Layout>
   );

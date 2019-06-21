@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
 
 import Layout from '../components/Layout';
@@ -24,7 +24,42 @@ const seasonHeaders = [
   { text: 'Mode', style: { ...rhsAlign } }
 ];
 
-export default ({ data }) => {
+function Navigation({ next, previous }) {
+  return (
+    <nav>
+      <ul
+        style={{
+          display: 'flex',
+          flexWrap: 'wrap',
+          justifyContent: 'space-between',
+          listStyle: 'none',
+          padding: 0
+        }}
+      >
+        <li>
+          {previous && (
+            <Link
+              to={previous.fields.slug}
+              rel="prev"
+              style={{ marginRight: 20 }}
+            >
+              ← {getSeasonName(previous.season)}
+            </Link>
+          )}
+        </li>
+        <li>
+          {next && (
+            <Link to={next.fields.slug} rel="next">
+              {getSeasonName(next.season)} →
+            </Link>
+          )}
+        </li>
+      </ul>
+    </nav>
+  );
+}
+
+export default ({ data, pageContext }) => {
   const entry = data.dataJson;
   const items = entry.series.sort((a, b) => b.average - a.average);
   const seasonName = getSeasonName(entry.season);
@@ -85,6 +120,7 @@ export default ({ data }) => {
           }
         </Table>
       </div>
+      <Navigation {...pageContext} />
     </Layout>
   );
 };
