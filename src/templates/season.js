@@ -82,7 +82,7 @@ export default ({ data, pageContext }) => {
         )}
         <p style={{ whiteSpace: 'pre-line' }}>
           In the event I have yet to rate a series, the rating will appear as a
-          hypen (-).{'\n\r'}This is usually the case for series that are still
+          hyphen (-).{'\n\r'}This is usually the case for series that are still
           airing. {'\n\r'}In the cases where multiple ratings are tied in the
           mode calculation, one will be arbitrarily selected.
         </p>
