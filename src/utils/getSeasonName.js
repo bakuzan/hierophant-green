@@ -1,10 +1,11 @@
 import { seasonNames } from '../consts';
 import { capitalise } from './helpers';
 
-export default function getSeasonName(value, includeYear = true) {
-  const [year, month] = value.includes('-') ? value.split('-') : ['', value];
+export default function getSeasonName(value) {
+  const [year, month] = value.split('-');
 
-  return capitalise(
-    `${seasonNames[month]}${includeYear && year ? ` ${year}` : ''}`
-  );
+  const m = seasonNames[month] || '';
+  const y = year ? ` ${year}` : '';
+
+  return capitalise(`${m}${y}`);
 }
