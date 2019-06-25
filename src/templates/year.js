@@ -3,8 +3,7 @@ import { graphql } from 'gatsby';
 
 import BaseTemplate from '../components/BaseTemplate';
 
-export default ({ pageResources, ...props }) => {
-  const { data } = pageResources.json;
+export default ({ data, ...props }) => {
   const seasons = data.allDataJson.nodes;
   const series = seasons.reduce((p, c) => [...p, ...c.series], []);
   const year = props['*'];
