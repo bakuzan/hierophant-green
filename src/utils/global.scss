@@ -7,6 +7,7 @@
   --dark-cyan: #1ca086;
   --moderate-cyan: #339999;
   --moderate-cyan-faded: #33999980;
+  --moderate-cyan-faded-more: #33999940;
 
   --moderate-lime: #248824;
 }
@@ -25,6 +26,7 @@
 
   --link-colour: var(--moderate-lime);
   --table-border-colour: var(--moderate-cyan-faded);
+  --table-cell-border-colour: var(--moderate-cyan-faded-more);
 }
 .theme--dark {
   --bg: var(--very-dark-cyan);
@@ -35,6 +37,7 @@
 
   --link-colour: var(--dark-cyan);
   --table-border-colour: var(--moderate-cyan-faded);
+  --table-cell-border-colour: var(--moderate-cyan-faded-more);
 }
 
 .season-link {

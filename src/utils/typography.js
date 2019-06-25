@@ -13,9 +13,13 @@ FairyGates.overrideThemeStyles = () => ({
     color: 'var(--text-title-colour)'
   },
   'td,th': {
-    padding: typography.rhythm(1 / 2)
+    padding: typography.rhythm(1 / 2),
+    borderColor: `var(--table-border-colour)`
   },
   '@media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px)': {
+    tr: {
+      marginBottom: typography.rhythm(1 / 4)
+    },
     'td:last-child': {
       'padding-right': typography.rhythm(1 / 2)
     }
