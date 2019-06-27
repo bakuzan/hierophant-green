@@ -58,7 +58,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "pretty": "lint-staged",
-    "generate-seasons": "node ./tools",
+    "cli": "node ./tools",
     "deploy": "yarn build --prefix-paths && gh-pages -d public"
   },
   "repository": {
