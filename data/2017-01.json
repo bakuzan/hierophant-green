@@ -1,0 +1,247 @@
+{
+  "season": "2017-01",
+  "series": [
+    {
+      "id": 194,
+      "title": "ACCA: 13-ku Kansatsu-ka",
+      "rating": 8,
+      "average": 6.75,
+      "highest": 8,
+      "lowest": 6,
+      "mode": 6,
+      "image": "https://i.imgur.com/wZm0HJY.jpg",
+      "malId": 33337
+    },
+    {
+      "id": 210,
+      "title": "Akiba's Trip The Animation",
+      "rating": 3,
+      "average": 3.8461538461538463,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/ZHkYTWV.jpg",
+      "malId": 34051
+    },
+    {
+      "id": 202,
+      "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+      "rating": 7,
+      "average": 7.25,
+      "highest": 8,
+      "lowest": 7,
+      "mode": 7,
+      "image": "https://i.imgur.com/Wm1QlKw.jpg",
+      "malId": 33506
+    },
+    {
+      "id": 201,
+      "title": "Chain Chronicle: Haecceitas no Hikari",
+      "rating": 4,
+      "average": 3.75,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/312Izpm.jpg",
+      "malId": 28833
+    },
+    {
+      "id": 189,
+      "title": "ChaoS;Child",
+      "rating": 3,
+      "average": 3.75,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/Wszbnyl.jpg",
+      "malId": 30485
+    },
+    {
+      "id": 200,
+      "title": "Demi-chan wa Kataritai",
+      "rating": 8,
+      "average": 7.083333333333333,
+      "highest": 8,
+      "lowest": 6,
+      "mode": 7,
+      "image": "https://i.imgur.com/iyzLr8w.jpg",
+      "malId": 33988
+    },
+    {
+      "id": 208,
+      "title": "Fuuka",
+      "rating": 5,
+      "average": 5,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/weNnifx.jpg",
+      "malId": 33743
+    },
+    {
+      "id": 181,
+      "title": "Gabriel DropOut",
+      "rating": 5,
+      "average": 4.333333333333333,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/5khwKSq.jpg",
+      "malId": 33731
+    },
+    {
+      "id": 198,
+      "title": "Gintama.",
+      "rating": 6,
+      "average": 5.833333333333333,
+      "highest": 7,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/tXUMTfi.jpg",
+      "malId": 34096
+    },
+    {
+      "id": 192,
+      "title": "Kobayashi-san Chi no Maid Dragon",
+      "rating": 7,
+      "average": 6.538461538461538,
+      "highest": 7,
+      "lowest": 6,
+      "mode": 7,
+      "image": "https://i.imgur.com/nnQX1Um.jpg",
+      "malId": 33206
+    },
+    {
+      "id": 190,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+      "rating": 6,
+      "average": 5.7,
+      "highest": 7,
+      "lowest": 4,
+      "mode": 6,
+      "image": "https://i.imgur.com/wLtoaEs.jpg",
+      "malId": 32937
+    },
+    {
+      "id": 179,
+      "title": "Kuzu no Honkai",
+      "rating": 5,
+      "average": 4.75,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/qOpHLzS.jpg",
+      "malId": 32949
+    },
+    {
+      "id": 196,
+      "title": "Little Witch Academia (TV)",
+      "rating": 7,
+      "average": 6.92,
+      "highest": 9,
+      "lowest": 6,
+      "mode": 6,
+      "image": "https://i.imgur.com/KwCAMkS.jpg",
+      "malId": 33489
+    },
+    {
+      "id": 209,
+      "title": "Masamune-kun no Revenge",
+      "rating": 6,
+      "average": 5.333333333333333,
+      "highest": 7,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/nnDnalB.jpg",
+      "malId": 33487
+    },
+    {
+      "id": 191,
+      "title": "One Room",
+      "rating": 2,
+      "average": 2.5833333333333335,
+      "highest": 4,
+      "lowest": 2,
+      "mode": 2,
+      "image": "https://i.imgur.com/YeFCsl3.jpg",
+      "malId": 34392
+    },
+    {
+      "id": 195,
+      "title": "Onihei",
+      "rating": 7,
+      "average": 6.769230769230769,
+      "highest": 8,
+      "lowest": 6,
+      "mode": 7,
+      "image": "https://i.imgur.com/2uEsl2M.jpg",
+      "malId": 33983
+    },
+    {
+      "id": 203,
+      "title": "Schoolgirl Strikers: Animation Channel",
+      "rating": 4,
+      "average": 4.153846153846154,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/cCRYBBV.jpg",
+      "malId": 34289
+    },
+    {
+      "id": 205,
+      "title": "Seiren",
+      "rating": 5,
+      "average": 4.5,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/gSUDkSf.jpg",
+      "malId": 33836
+    },
+    {
+      "id": 199,
+      "title": "Tales of Zestiria the X 2nd Season",
+      "rating": 6,
+      "average": 6.153846153846154,
+      "highest": 8,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/8Ad5IyJ.jpg",
+      "malId": 34086
+    },
+    {
+      "id": 204,
+      "title": "Urara Meirochou",
+      "rating": 4,
+      "average": 3.9166666666666665,
+      "highest": 4,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/84CFVJQ.jpg",
+      "malId": 32924
+    },
+    {
+      "id": 207,
+      "title": "Youjo Senki",
+      "rating": 8,
+      "average": 7.5,
+      "highest": 9,
+      "lowest": 6,
+      "mode": 7,
+      "image": "https://i.imgur.com/L9NpOvV.jpg",
+      "malId": 32615
+    },
+    {
+      "id": 197,
+      "title": "elDLIVE",
+      "rating": 4,
+      "average": 3.9166666666666665,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/wQeOCI8.jpg",
+      "malId": 32878
+    }
+  ]
+}
