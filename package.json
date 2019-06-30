@@ -30,8 +30,7 @@
     "gh-pages": "^2.0.1",
     "husky": "^2.4.1",
     "lint-staged": "^8.2.1",
-    "minimist": "^1.2.0",
-    "node-fetch": "^2.6.0",
+    "medea": "file:../medea",
     "prettier": "^1.18.2"
   },
   "keywords": [

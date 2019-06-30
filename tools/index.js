@@ -1,4 +1,4 @@
-const argv = require('minimist')(process.argv.slice(2));
+const { createClient } = require('medea');
 const dotenv = require('dotenv');
 dotenv.config();
 
@@ -8,34 +8,52 @@ const { readSeasonsData } = require('./utils');
 const MATCH_YYYY_MM = /^\d{4}-\d{2}$/;
 
 async function run() {
-  console.log(`***** Hierophant Green cli *****`);
-  const keys = Object.keys(argv);
-  const { help } = argv;
+  const windowColumns = process.stdout.columns || 80;
 
-  if (help || keys.length === 1) {
-    console.log(`
-    * * * * * * * * * * * * * * * * * * * * * * 
-    * Options
-    * * * * * * * * * * * * * * * * * * * * * * 
-    *
-    * --seasons  --s   STRING    yyyy-mm,yyyy-mm
-    * Creates Data files for a list of seasons
-    * 
-    * --update   --u   BOOLEAN  
-    * Update existing seasons as required
-    * 
-    * --all      --a   BOOLEAN 
-    * Tell update to update all existing seasons
-    *
-    * * * * * * * * * * * * * * * * * * * * * *
-    `);
+  const cli = createClient('Hierophant Green', {
+    windowColumns
+  })
+    .addOption({
+      option: 'help',
+      description: 'Have the client output the help text'
+    })
+    .addOption({
+      option: 'seasons',
+      shortcut: 's',
+      description:
+        'Creates Data files for a list of seasons (format: yyyy-mm,yyyy-mm)',
+      validate: (_, seasons) => {
+        if (!seasons) {
+          return false;
+        } else if (typeof seasons !== 'string') {
+          return false;
+        }
+
+        return seasons.split(',').every((x) => x.match(MATCH_YYYY_MM));
+      }
+    })
+    .addOption({
+      option: 'update',
+      shortcut: 'u',
+      description: 'Update existing seasons as required'
+    })
+    .addOption({
+      option: 'all',
+      shortcut: 'a',
+      description: 'Tell update to update all existing seasons'
+    })
+    .welcome()
+    .parse(process.argv);
+
+  if (!cli.any() || cli.has('help')) {
+    cli.helpText();
     process.exit(0);
   }
 
-  const update = argv.update || argv.u || false;
+  const update = cli.get('update', false);
 
   if (update) {
-    const includeAll = argv.all || argv.a;
+    const includeAll = cli.get('all', false);
     const toUpdate = await readSeasonsData(includeAll);
     console.log(`Updating ${includeAll ? 'all ' : ''}seasons...`);
 
@@ -43,18 +61,15 @@ async function run() {
     process.exit(0);
   }
 
-  const seasons = argv.seasons || argv.s;
-  const validSeasons = seasons && typeof seasons === 'string';
-  const inputs = validSeasons ? seasons.split(',') : [];
-
-  if (!validSeasons || inputs.some((x) => !x.match(MATCH_YYYY_MM))) {
-    console.log('Invalid run generate-seasons attempt');
-    console.log(`--seasons is required in the format yyyy-mm,yyyy-mm`);
+  if (cli.has('seasons') && cli.validate('seasons')) {
+    console.log(`Writing new seasons...`);
+    const inputs = cli.get('seasons').split(',');
+    await writeSeasonsData(inputs, `./output`);
     process.exit(0);
   }
 
-  console.log(`Writing new seasons...`);
-  await writeSeasonsData(inputs, `./output`);
+  console.log('Invalid cli run.');
+  console.log('Run without args to get help.');
 }
 
 run();

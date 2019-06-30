@@ -1,57 +1,37 @@
-const { promisify } = require('util');
-const fs = require('fs');
-const path = require('path');
-const fetch = require('node-fetch');
-
-const readdirAsync = promisify(fs.readdir);
-const readFileAsync = promisify(fs.readFile);
-
-const pathFix = (...strs) => path.resolve(path.join(...strs));
+const {
+  query: medQuery,
+  writeOut: medWriteOut,
+  readdirAsync,
+  readFileAsync,
+  pathFix
+} = require('medea');
 
 async function query(query, variables) {
   try {
-    const response = await fetch(process.env.API_ENDPOINT, {
-      method: 'POST',
-      headers: {
-        Accept: 'application/json',
-        'Content-Type': 'application/json'
-      },
+    const response = await medQuery(process.env.API_ENDPOINT, {
       body: JSON.stringify({
         query,
         variables
       })
     });
 
-    const result = await response.json();
-
-    if (result.errors) {
-      const error = result.errors[0];
-      console.log(`Bad Response.\n\r${error.message}`);
+    if (!response.success) {
       process.exit(1);
     }
 
     // Query resolve names are being aliased to 'value'
-    return result.data.value;
+    return response.data.value;
   } catch (e) {
-    console.log(`Fetch failed.\n\r${e.message}`);
+    console.error(`Query failed.\n\r${e.message}`);
     process.exit(1);
   }
 }
 
-function writeOut(season, data) {
+async function writeOut(season, data) {
   const fileName = pathFix(__dirname, `${season}.json`);
+  const payload = JSON.stringify(data, null, 2);
 
-  return new Promise((resolve) => {
-    fs.writeFile(fileName, JSON.stringify(data, null, 2), function(err) {
-      if (err) {
-        console.error(`Failed to write ${fileName}`, err);
-        return resolve(false);
-      }
-
-      console.log(`Successfully written ${fileName}`);
-      return resolve(true);
-    });
-  });
+  return await medWriteOut(fileName, payload);
 }
 
 async function readSeasonsData(includeAll = false) {
