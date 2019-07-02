@@ -1,0 +1,313 @@
+{
+  "season": "2016-10",
+  "series": [
+    {
+      "id": 301,
+      "title": "3-gatsu no Lion",
+      "rating": 5,
+      "average": 4.454545454545454,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/G7zEbD1.jpg",
+      "malId": 31646
+    },
+    {
+      "id": 296,
+      "title": "Ajin 2nd Season",
+      "rating": 7,
+      "average": 6.846153846153846,
+      "highest": 8,
+      "lowest": 6,
+      "mode": 6,
+      "image": "https://i.imgur.com/4I7QEhr.jpg",
+      "malId": 33253
+    },
+    {
+      "id": 309,
+      "title": "All Out!!",
+      "rating": 5,
+      "average": 4.96,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/U78Ktdl.jpg",
+      "malId": 31588
+    },
+    {
+      "id": 321,
+      "title": "Bloodivores",
+      "rating": 5,
+      "average": 5.083333333333333,
+      "highest": 7,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/6yDoKsk.jpg",
+      "malId": 33985
+    },
+    {
+      "id": 311,
+      "title": "Bungou Stray Dogs 2nd Season",
+      "rating": 7,
+      "average": 6.333333333333333,
+      "highest": 8,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/xl7Bvwx.jpg",
+      "malId": 32867
+    },
+    {
+      "id": 324,
+      "title": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+      "rating": 5,
+      "average": 5,
+      "highest": 5,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/hyYbjl1.jpg",
+      "malId": 34103
+    },
+    {
+      "id": 307,
+      "title": "Drifters",
+      "rating": 6,
+      "average": 6.333333333333333,
+      "highest": 8,
+      "lowest": 4,
+      "mode": 7,
+      "image": "https://i.imgur.com/xdgzKXr.jpg",
+      "malId": 31339
+    },
+    {
+      "id": 283,
+      "title": "Flip Flappers",
+      "rating": 5,
+      "average": 4.846153846153846,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/uOVXmWJ.jpg",
+      "malId": 32979
+    },
+    {
+      "id": 292,
+      "title": "Fune wo Amu",
+      "rating": 5,
+      "average": 4.818181818181818,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/VLQ0KtC.jpg",
+      "malId": 32948
+    },
+    {
+      "id": 294,
+      "title": "Getsuyoubi no Tawawa",
+      "rating": 5,
+      "average": 5.416666666666667,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/uoQZYCZ.jpg",
+      "malId": 34213
+    },
+    {
+      "id": 287,
+      "title": "Gi(a)rlish Number",
+      "rating": 6,
+      "average": 5.583333333333333,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/IpCEr7e.jpg",
+      "malId": 32607
+    },
+    {
+      "id": 306,
+      "title": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+      "rating": 6,
+      "average": 6.1,
+      "highest": 7,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/ImqDR08.jpg",
+      "malId": 32935
+    },
+    {
+      "id": 308,
+      "title": "Keijo!!!!!!!!",
+      "rating": 7,
+      "average": 6.583333333333333,
+      "highest": 7,
+      "lowest": 6,
+      "mode": 7,
+      "image": "https://i.imgur.com/UWGv393.jpg",
+      "malId": 32686
+    },
+    {
+      "id": 305,
+      "title": "Lostorage Incited WIXOSS",
+      "rating": 6,
+      "average": 5.916666666666667,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/2PoAixK.jpg",
+      "malId": 33197
+    },
+    {
+      "id": 320,
+      "title": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+      "rating": 8,
+      "average": 6.64,
+      "highest": 8,
+      "lowest": 5,
+      "mode": 7,
+      "image": "https://i.imgur.com/I9aqoq7.jpg",
+      "malId": 33051
+    },
+    {
+      "id": 313,
+      "title": "Nanbaka",
+      "rating": 3,
+      "average": 3.6923076923076925,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/LgqAU26.jpg",
+      "malId": 30016
+    },
+    {
+      "id": 314,
+      "title": "Natsume Yuujinchou Go",
+      "rating": 6,
+      "average": 6.2727272727272725,
+      "highest": 8,
+      "lowest": 4,
+      "mode": 7,
+      "image": "https://i.imgur.com/mI1KqtN.jpg",
+      "malId": 32983
+    },
+    {
+      "id": 310,
+      "title": "Nazotokine",
+      "rating": 3,
+      "average": 3.5,
+      "highest": 5,
+      "lowest": 2,
+      "mode": 3,
+      "image": "https://i.imgur.com/ATKwreU.jpg",
+      "malId": 33690
+    },
+    {
+      "id": 300,
+      "title": "Occultic;Nine",
+      "rating": 4,
+      "average": 4.666666666666667,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/UsnnQcD.jpg",
+      "malId": 32962
+    },
+    {
+      "id": 318,
+      "title": "Okusama ga Seitokaichou!+!",
+      "rating": 4,
+      "average": 4.916666666666667,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/9FnD2Kr.jpg",
+      "malId": 32603
+    },
+    {
+      "id": 299,
+      "title": "Sengoku Choujuu Giga",
+      "rating": 2,
+      "average": 2.8461538461538463,
+      "highest": 5,
+      "lowest": 2,
+      "mode": 3,
+      "image": "https://i.imgur.com/tT4xS8W.jpg",
+      "malId": 33803
+    },
+    {
+      "id": 316,
+      "title": "Shakunetsu no Takkyuu Musume",
+      "rating": 6,
+      "average": 5.416666666666667,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/PWTaTXR.jpg",
+      "malId": 33031
+    },
+    {
+      "id": 322,
+      "title": "Shuumatsu no Izetta",
+      "rating": 6,
+      "average": 5.666666666666667,
+      "highest": 7,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/EzVFRK9.jpg",
+      "malId": 33433
+    },
+    {
+      "id": 295,
+      "title": "Soul Buster",
+      "rating": 3,
+      "average": 4.333333333333333,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/eoUyLg5.jpg",
+      "malId": 33775
+    },
+    {
+      "id": 303,
+      "title": "Stella no Mahou",
+      "rating": 5,
+      "average": 4.833333333333333,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/jELHs0T.jpg",
+      "malId": 32555
+    },
+    {
+      "id": 312,
+      "title": "Teekyuu 8",
+      "rating": 3,
+      "average": 3.6666666666666665,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/sa1JcwQ.jpg",
+      "malId": 33811
+    },
+    {
+      "id": 315,
+      "title": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
+      "rating": 3,
+      "average": 3.8333333333333335,
+      "highest": 6,
+      "lowest": 2,
+      "mode": 4,
+      "image": "https://i.imgur.com/lhg6x5D.jpg",
+      "malId": 33377
+    },
+    {
+      "id": 284,
+      "title": "Yuri!!! on Ice",
+      "rating": 5,
+      "average": 4.916666666666667,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/pXVDS8D.jpg",
+      "malId": 32995
+    }
+  ]
+}

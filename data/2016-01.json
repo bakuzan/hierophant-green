@@ -1,0 +1,313 @@
+{
+  "season": "2016-01",
+  "series": [
+    {
+      "id": 677,
+      "title": "Active Raid: Kidou Kyoushuushitsu Dai Hakkei",
+      "rating": 4,
+      "average": 4.166666666666667,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/O0wvI6y.jpg",
+      "malId": 31790
+    },
+    {
+      "id": 637,
+      "title": "Ajin",
+      "rating": 7,
+      "average": 7.153846153846154,
+      "highest": 8,
+      "lowest": 6,
+      "mode": 7,
+      "image": "https://i.imgur.com/tvmccW0.jpg",
+      "malId": 31580
+    },
+    {
+      "id": 648,
+      "title": "Akagami no Shirayuki-hime 2nd Season",
+      "rating": 5,
+      "average": 4.75,
+      "highest": 5,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/oMb4IP2.jpg",
+      "malId": 31173
+    },
+    {
+      "id": 675,
+      "title": "Ansatsu Kyoushitsu (TV) 2nd Season",
+      "rating": 5,
+      "average": 4.88,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/QAVbQ0Q.jpg",
+      "malId": 30654
+    },
+    {
+      "id": 643,
+      "title": "Ao no Kanata no Four Rhythm",
+      "rating": 5,
+      "average": 4.333333333333333,
+      "highest": 6,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/QkTbX3k.jpg",
+      "malId": 28391
+    },
+    {
+      "id": 659,
+      "title": "Boku dake ga Inai Machi",
+      "rating": 9,
+      "average": 9,
+      "highest": 10,
+      "lowest": 8,
+      "mode": 9,
+      "image": "https://i.imgur.com/PUBgUOL.jpg",
+      "malId": 31043
+    },
+    {
+      "id": 654,
+      "title": "Bubuki Buranki",
+      "rating": 4,
+      "average": 4.583333333333333,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 4,
+      "image": "https://i.imgur.com/2L6El1x.jpg",
+      "malId": 32023
+    },
+    {
+      "id": 642,
+      "title": "Dagashi Kashi",
+      "rating": 6,
+      "average": 5.5,
+      "highest": 7,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/PoeHwEl.jpg",
+      "malId": 31636
+    },
+    {
+      "id": 651,
+      "title": "Dimension W",
+      "rating": 7,
+      "average": 6.75,
+      "highest": 8,
+      "lowest": 6,
+      "mode": 7,
+      "image": "https://i.imgur.com/JEjr7fY.jpg",
+      "malId": 31163
+    },
+    {
+      "id": 658,
+      "title": "Divine Gate",
+      "rating": 5,
+      "average": 5.5,
+      "highest": 7,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/bykXqjr.jpg",
+      "malId": 31710
+    },
+    {
+      "id": 653,
+      "title": "Durarara!!x2 Ketsu",
+      "rating": 9,
+      "average": 8.583333333333334,
+      "highest": 10,
+      "lowest": 8,
+      "mode": 8,
+      "image": "https://i.imgur.com/nyswU7L.jpg",
+      "malId": 27833
+    },
+    {
+      "id": 657,
+      "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen",
+      "rating": 6,
+      "average": 5.833333333333333,
+      "highest": 7,
+      "lowest": 5,
+      "mode": 6,
+      "image": "https://i.imgur.com/WLKJ72m.jpg",
+      "malId": 31637
+    },
+    {
+      "id": 650,
+      "title": "Hai to Gensou no Grimgar",
+      "rating": 6,
+      "average": 5.333333333333333,
+      "highest": 7,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/hunySuu.jpg",
+      "malId": 31859
+    },
+    {
+      "id": 680,
+      "title": "Haruchika: Haruta to Chika wa Seishun Suru",
+      "rating": 4,
+      "average": 4.5,
+      "highest": 5,
+      "lowest": 4,
+      "mode": 4,
+      "image": "https://i.imgur.com/51ZiZ0M.jpg",
+      "malId": 30895
+    },
+    {
+      "id": 640,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "rating": 6,
+      "average": 5.5,
+      "highest": 7,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/yuNPdVM.jpg",
+      "malId": 30831
+    },
+    {
+      "id": 656,
+      "title": "Koukaku no Pandora",
+      "rating": 4,
+      "average": 4.083333333333333,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/Hnht6uF.jpg",
+      "malId": 32214
+    },
+    {
+      "id": 655,
+      "title": "Luck & Logic",
+      "rating": 4,
+      "average": 4.333333333333333,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/OtIgjJZ.jpg",
+      "malId": 32083
+    },
+    {
+      "id": 646,
+      "title": "Mahou Shoujo Nante Mou Ii Desukara.",
+      "rating": 3,
+      "average": 3.3333333333333335,
+      "highest": 4,
+      "lowest": 3,
+      "mode": 3,
+      "image": "https://i.imgur.com/qFE1AxD.jpg",
+      "malId": 31793
+    },
+    {
+      "id": 652,
+      "title": "Ooyasan wa Shishunki!",
+      "rating": 3,
+      "average": 3.5,
+      "highest": 5,
+      "lowest": 2,
+      "mode": 3,
+      "image": "https://i.imgur.com/rIBEWr4.jpg",
+      "malId": 31621
+    },
+    {
+      "id": 630,
+      "title": "Oshiete! Galko-chan",
+      "rating": 6,
+      "average": 5.333333333333333,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/j72Gx8a.jpg",
+      "malId": 32013
+    },
+    {
+      "id": 682,
+      "title": "Prince of Stride: Alternative",
+      "rating": 5,
+      "average": 4.833333333333333,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/VOZwtlI.jpg",
+      "malId": 31559
+    },
+    {
+      "id": 627,
+      "title": "Reikenzan: Hoshikuzu-tachi no Utage",
+      "rating": 3,
+      "average": 3.6666666666666665,
+      "highest": 4,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/IY0aGSQ.jpg",
+      "malId": 32094
+    },
+    {
+      "id": 644,
+      "title": "Saijaku Muhai no Bahamut",
+      "rating": 4,
+      "average": 4.083333333333333,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 4,
+      "image": "https://i.imgur.com/w7Qg8CE.jpg",
+      "malId": 30749
+    },
+    {
+      "id": 649,
+      "title": "Schwarzesmarken",
+      "rating": 5,
+      "average": 5.166666666666667,
+      "highest": 6,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/A3eD8hp.jpg",
+      "malId": 30806
+    },
+    {
+      "id": 660,
+      "title": "Sekkou Boys",
+      "rating": 4,
+      "average": 4.333333333333333,
+      "highest": 5,
+      "lowest": 3,
+      "mode": 5,
+      "image": "https://i.imgur.com/CaxvzPX.jpg",
+      "malId": 31540
+    },
+    {
+      "id": 674,
+      "title": "Shoujo-tachi wa Kouya wo Mezasu",
+      "rating": 5,
+      "average": 4.833333333333333,
+      "highest": 6,
+      "lowest": 4,
+      "mode": 5,
+      "image": "https://i.imgur.com/tJfmSS7.jpg",
+      "malId": 31914
+    },
+    {
+      "id": 678,
+      "title": "Sushi Police",
+      "rating": 2,
+      "average": 2.3846153846153846,
+      "highest": 4,
+      "lowest": 2,
+      "mode": 2,
+      "image": "https://i.imgur.com/TjOvR9i.jpg",
+      "malId": 31633
+    },
+    {
+      "id": 647,
+      "title": "Teekyuu 7",
+      "rating": 5,
+      "average": 5,
+      "highest": 7,
+      "lowest": 4,
+      "mode": 4,
+      "image": "https://i.imgur.com/UpogG7P.jpg",
+      "malId": 32228
+    }
+  ]
+}
