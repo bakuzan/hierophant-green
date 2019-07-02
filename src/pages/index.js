@@ -18,15 +18,16 @@ function IndexItem({ slug, text }) {
           color: 'inherit'
         }}
       >
-        <h3
+        <h2
           className="season-link"
           style={{
+            fontSize: rhythm(1),
             marginTop: rhythm(1),
             marginBottom: rhythm(1 / 4)
           }}
         >
           {text}
-        </h3>
+        </h2>
       </Link>
     </li>
   );
@@ -46,14 +47,6 @@ export default ({ data }) => {
         <Personal />
       </aside>
       <div>
-        <h2
-          style={{
-            display: 'inline-block',
-            margin: `${rhythm(3 / 4)} 0px`
-          }}
-        >
-          Pages
-        </h2>
         <div>
           {info.totalCount} seasons, over {yearCount} years
         </div>

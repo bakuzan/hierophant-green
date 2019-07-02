@@ -46,8 +46,6 @@ function Footer() {
       }}
     >
       <div style={{ display: 'flex', alignItems: `center` }}>
-        <NewTabLink href={info.githubUrl}>creator</NewTabLink>
-        <Divider />
         <NewTabLink href={info.repoUrl}>source</NewTabLink>
         <Divider />
         <NewTabLink href={info.malUrl}>myanimelist</NewTabLink>
