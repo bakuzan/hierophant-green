@@ -2,27 +2,19 @@ import './Table.scss';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-const borderStyle = {
-  verticalAlign: 'top'
-};
-
 function Table({ style, headers, children, ...props }) {
   return (
     <table style={{ ...style }} {...props}>
       <thead>
         <tr>
           {headers.map(({ text, ...x }) => (
-            <th
-              key={text}
-              {...x}
-              style={{ ...borderStyle, ...(x.style || {}) }}
-            >
+            <th key={text} {...x} style={{ ...(x.style || {}) }}>
               {text}
             </th>
           ))}
         </tr>
       </thead>
-      <tbody>{children && children({ tdStyle: borderStyle })}</tbody>
+      <tbody>{children && children()}</tbody>
     </table>
   );
 }

@@ -20,6 +20,9 @@ FairyGates.overrideThemeStyles = () => ({
     tr: {
       marginBottom: typography.rhythm(1 / 4)
     },
+    'th, th:first-child': {
+      padding: typography.rhythm(1 / 2)
+    },
     'td:last-child': {
       'padding-right': typography.rhythm(1 / 2)
     }

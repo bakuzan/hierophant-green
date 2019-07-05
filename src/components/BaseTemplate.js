@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import React from 'react';
 import Img from 'gatsby-image';
 
@@ -6,13 +7,14 @@ import SEO from './SEO';
 import Table from './Table';
 import NewTabLink from './NewTabLink';
 import Navigation from './Navigation';
+import YearOverview from './YearOverview';
 
 import getSeriesStats from '../utils/getSeriesStats';
+import getSeasonName from '../utils/getSeasonName';
+import averageRatedTotal from '../utils/averageRatedTotal';
 import { rhythm } from '../utils/typography';
-import { roundToTwo } from '../utils/helpers';
 
 const rhsAlign = { textAlign: 'right' };
-
 const seasonHeaders = [
   { text: '#', style: { ...rhsAlign } },
   { text: 'Title' },
@@ -23,14 +25,9 @@ const seasonHeaders = [
   { text: 'Mode', style: { ...rhsAlign } }
 ];
 
-function BaseTemplate({ title, series, pageContext }) {
+function BaseTemplate({ title, series, overview, pageContext }) {
   const items = series.sort((a, b) => b.average - a.average);
-
-  const rated = series.filter((x) => x.rating !== 0);
-  const ratedCount = rated.length;
-  const average = roundToTwo(
-    rated.reduce((p, c) => p + c.rating, 0) / ratedCount
-  );
+  const { average, ratedCount } = averageRatedTotal({ series });
 
   return (
     <Layout>
@@ -42,6 +39,7 @@ function BaseTemplate({ title, series, pageContext }) {
             Average: {average} for {ratedCount} rated series
           </p>
         )}
+        {overview && <YearOverview data={overview} />}
         <p style={{ whiteSpace: 'pre-line' }}>
           In the event I have yet to rate a series, the rating will appear as a
           hyphen (-).{'\n\r'}This is usually the case for series that are still
@@ -49,15 +47,26 @@ function BaseTemplate({ title, series, pageContext }) {
           mode calculation, one will be arbitrarily selected.
         </p>
         <Table headers={seasonHeaders}>
-          {({ tdStyle }) =>
+          {() =>
             items.map((s, i) => {
               const number = i + 1;
               const stats = getSeriesStats(s);
 
               return (
                 <tr key={s.id}>
-                  <td style={{ ...tdStyle, ...rhsAlign }}>{number}</td>
-                  <td style={tdStyle}>
+                  <td column-title="#" className="cell cell--rhs">
+                    <div
+                      style={{
+                        display: 'flex',
+                        flexDirection: 'column',
+                        justifyContent: 'space-between'
+                      }}
+                    >
+                      <div>{number}</div>
+                      {s.season && <div>{getSeasonName(s.season, false)}</div>}
+                    </div>
+                  </td>
+                  <td column-title="Title" className="cell">
                     <div style={{ display: 'flex' }}>
                       <Img
                         style={{ flex: `0 0 96px` }}
@@ -71,11 +80,21 @@ function BaseTemplate({ title, series, pageContext }) {
                       </NewTabLink>
                     </div>
                   </td>
-                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.rating}</td>
-                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.average}</td>
-                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.highest}</td>
-                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.lowest}</td>
-                  <td style={{ ...tdStyle, ...rhsAlign }}>{stats.mode}</td>
+                  <td column-title="Rating" className="cell cell--rhs">
+                    {stats.rating}
+                  </td>
+                  <td column-title="Average" className="cell cell--rhs">
+                    {stats.average}
+                  </td>
+                  <td column-title="Highest" className="cell cell--rhs">
+                    {stats.highest}
+                  </td>
+                  <td column-title="Lowest" className="cell cell--rhs">
+                    {stats.lowest}
+                  </td>
+                  <td column-title="Mode" className="cell cell--rhs">
+                    {stats.mode}
+                  </td>
                 </tr>
               );
             })
@@ -86,5 +105,27 @@ function BaseTemplate({ title, series, pageContext }) {
     </Layout>
   );
 }
+
+BaseTemplate.propTypes = {
+  title: PropTypes.string.isRequired,
+  series: PropTypes.arrayOf(
+    PropTypes.shape({
+      title: PropTypes.string,
+      rating: PropTypes.number,
+      average: PropTypes.number,
+      highest: PropTypes.number,
+      lowest: PropTypes.number,
+      mode: PropTypes.number
+    })
+  ).isRequired,
+  overview: PropTypes.arrayOf(
+    PropTypes.shape({
+      season: PropTypes.string.isRequired,
+      seriesCount: PropTypes.number.isRequired,
+      ratedCount: PropTypes.number.isRequired,
+      average: PropTypes.string.isRequired
+    })
+  )
+};
 
 export default BaseTemplate;
