@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'gatsby';
 
 import Table from './Table';
 
@@ -20,9 +21,9 @@ function YearOverview({ data }) {
           data.map((season) => (
             <tr key={season.season}>
               <th>
-                <a href={`/${season.season}`}>
+                <Link to={`/${season.season}`}>
                   {getSeasonName(season.season, false)}
-                </a>
+                </Link>
               </th>
               <td column-title="Total" className="cell cell--rhs">
                 {season.seriesCount}
