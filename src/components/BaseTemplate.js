@@ -25,9 +25,13 @@ const seasonHeaders = [
   { text: 'Mode', style: { ...rhsAlign } }
 ];
 
+// order by average desc, rating desc, mode desc, none
+const seriesSorter = (a, b) =>
+  b.average - a.average || b.rating - a.rating || b.mode - a.mode || 0;
+
 function BaseTemplate({ title, series, overview, pageContext }) {
-  const items = series.sort((a, b) => b.average - a.average);
   const { average, ratedCount } = averageRatedTotal({ series });
+  const items = series.sort(seriesSorter);
 
   return (
     <Layout>

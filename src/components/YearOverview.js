@@ -14,11 +14,13 @@ const headers = [
 ];
 
 function YearOverview({ data }) {
+  const sorted = data.sort((a, b) => (a.season > b.season ? 1 : -1));
+
   return (
     <div>
       <Table headers={headers}>
         {() =>
-          data.map((season) => (
+          sorted.map((season) => (
             <tr key={season.season}>
               <th>
                 <Link to={`/${season.season}`}>
