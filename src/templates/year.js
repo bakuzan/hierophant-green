@@ -5,14 +5,14 @@ import BaseTemplate from '../components/BaseTemplate';
 import averageRatedTotal from '../utils/averageRatedTotal';
 
 export default ({ data, ...props }) => {
-  const year = props['*'];
+  const year = props.path.replace(/\//g, '');
   const seasons = data.allDataJson.nodes;
   const overview = seasons.map(averageRatedTotal);
   const series = seasons.reduce(
     (p, c) => [...p, ...c.series.map((x) => ({ ...x, season: c.season }))],
     []
   );
-
+  console.log(props);
   return (
     <BaseTemplate
       {...props}
