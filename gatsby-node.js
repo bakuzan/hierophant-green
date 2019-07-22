@@ -4,6 +4,8 @@ const {
   createRemoteFileNode
 } = require(`gatsby-source-filesystem`);
 
+const CURRENTLY_AIRING = 'Currently Airing';
+
 exports.onCreateNode = async ({ node, getNode, actions, store, cache }) => {
   if (node.internal.type !== 'DataJson') {
     return;
@@ -63,7 +65,9 @@ exports.createPages = async ({ graphql, actions }) => {
   const seasonTemplate = path.resolve(`src/templates/season.js`);
   const yearTemplate = path.resolve(`src/templates/year.js`);
 
-  const seasons = result.data.allDataJson.edges.map((x) => x.node);
+  const jsonNodes = result.data.allDataJson.edges.map((x) => x.node);
+  const seasons = jsonNodes.filter((x) => x.season !== CURRENTLY_AIRING);
+
   const years = seasons
     .map((x) => x.season.split('-')[0].concat('_'))
     .filter(
@@ -91,6 +95,27 @@ exports.createPages = async ({ graphql, actions }) => {
       context: {
         slug: node.fields.slug,
         isYear: node.isYear || false,
+        previous,
+        next
+      }
+    });
+  });
+
+  // Airing
+  const airingTemplate = path.resolve(`src/templates/airing.js`);
+  const airing = jsonNodes.filter((x) => x.season === CURRENTLY_AIRING);
+  const maxAiringIndex = airing.length;
+
+  airing.forEach((node, index) => {
+    const previous = index === maxAiringIndex ? null : airing[index + 1];
+    const next = index === 0 ? null : airing[index - 1];
+
+    createPage({
+      path: node.fields.slug,
+      component: airingTemplate,
+      context: {
+        slug: node.fields.slug,
+        isYear: false,
         previous,
         next
       }

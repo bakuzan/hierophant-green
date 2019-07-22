@@ -30,5 +30,18 @@ module.exports = {
       malId
     }
   }
+  `,
+  CURRENTLY_AIRING: `
+  query CurrentlyAiring {
+    value: currentSeason {
+      id
+      title
+      rating
+      average
+      highest
+      lowest
+      mode
+    }
+  }
   `
 };

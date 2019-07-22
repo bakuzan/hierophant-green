@@ -3,6 +3,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const writeSeasonsData = require('./writeSeasonsData');
+const writeCurrentlyAiring = require('./writeCurrentlyAiring');
 const { readSeasonsData } = require('./utils');
 
 const MATCH_YYYY_MM = /^\d{4}-\d{2}$/;
@@ -42,6 +43,11 @@ async function run() {
       shortcut: 'a',
       description: 'Tell update to update all existing seasons'
     })
+    .addOption({
+      option: 'current',
+      shortcut: 'c',
+      description: 'Update currently airing'
+    })
     .welcome()
     .parse(process.argv);
 
@@ -65,6 +71,12 @@ async function run() {
     console.log(`Writing new seasons...`);
     const inputs = cli.get('seasons').split(',');
     await writeSeasonsData(inputs, `./output`);
+    process.exit(0);
+  }
+
+  if (cli.has('current')) {
+    console.log(`Writing currently airing...`);
+    await writeCurrentlyAiring(`../data`);
     process.exit(0);
   }
 

@@ -29,7 +29,18 @@ const seasonHeaders = [
 const seriesSorter = (a, b) =>
   b.average - a.average || b.rating - a.rating || b.mode - a.mode || 0;
 
-function BaseTemplate({ title, series, overview, pageContext }) {
+function BaseTemplate({
+  title,
+  series,
+  overview,
+  hideRatingColumn,
+  customDescriptiveText,
+  pageContext
+}) {
+  const tableHeaders = hideRatingColumn
+    ? seasonHeaders.filter((x) => x.text !== `Rating`)
+    : seasonHeaders;
+
   const { average, ratedCount } = averageRatedTotal({ series });
   const items = series.sort(seriesSorter);
 
@@ -45,12 +56,14 @@ function BaseTemplate({ title, series, overview, pageContext }) {
         )}
         {overview && <YearOverview data={overview} />}
         <p style={{ whiteSpace: 'pre-line' }}>
-          In the event I have yet to rate a series, the rating will appear as a
-          hyphen (-).{'\n\r'}This is usually the case for series that are still
-          airing. {'\n\r'}In the cases where multiple ratings are tied in the
-          mode calculation, one will be arbitrarily selected.
+          {customDescriptiveText}
+          {!hideRatingColumn &&
+            `In the event I have yet to rate a series, the rating will appear as a hyphen (-).
+            This is usually the case for series that are still airing.`}
+          {'\n\r'}In the cases where multiple ratings are tied in the mode
+          calculation, one will be arbitrarily selected.
         </p>
-        <Table headers={seasonHeaders}>
+        <Table headers={tableHeaders}>
           {() =>
             items.map((s, i) => {
               const number = i + 1;
@@ -84,9 +97,11 @@ function BaseTemplate({ title, series, overview, pageContext }) {
                       </NewTabLink>
                     </div>
                   </td>
-                  <td column-title="Rating" className="cell cell--rhs">
-                    {stats.rating}
-                  </td>
+                  {!hideRatingColumn && (
+                    <td column-title="Rating" className="cell cell--rhs">
+                      {stats.rating}
+                    </td>
+                  )}
                   <td column-title="Average" className="cell cell--rhs">
                     {stats.average}
                   </td>
@@ -110,6 +125,10 @@ function BaseTemplate({ title, series, overview, pageContext }) {
   );
 }
 
+BaseTemplate.defaultProps = {
+  customDescriptiveText: ''
+};
+
 BaseTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   series: PropTypes.arrayOf(
@@ -129,7 +148,9 @@ BaseTemplate.propTypes = {
       ratedCount: PropTypes.number.isRequired,
       average: PropTypes.string.isRequired
     })
-  )
+  ),
+  hideRatingColumn: PropTypes.bool,
+  customDescriptiveText: PropTypes.string
 };
 
 export default BaseTemplate;

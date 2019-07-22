@@ -7,6 +7,7 @@ import SEO from '../components/SEO';
 
 import { rhythm } from '../utils/typography';
 import getSeasonName from '../utils/getSeasonName';
+import niceDate from '../utils/niceDate';
 
 function IndexItem({ slug, text }) {
   return (
@@ -18,7 +19,7 @@ function IndexItem({ slug, text }) {
           color: 'inherit'
         }}
       >
-        <h2
+        <h3
           className="season-link"
           style={{
             fontSize: rhythm(1),
@@ -27,16 +28,22 @@ function IndexItem({ slug, text }) {
           }}
         >
           {text}
-        </h2>
+        </h3>
       </Link>
     </li>
   );
 }
 
+const CURRENTLY_AIRING = `Currently Airing`;
+
 export default ({ data }) => {
   const info = data.allDataJson;
   const items = info.edges.map((x) => x.node);
-  const yearCount = items
+
+  const seasonal = items.filter((x) => x.season !== CURRENTLY_AIRING);
+  const airing = items.filter((x) => x.season === CURRENTLY_AIRING);
+
+  const yearCount = seasonal
     .map((x) => x.season.slice(0, 4))
     .filter((x, i, a) => a.indexOf(x) === i).length;
 
@@ -47,13 +54,31 @@ export default ({ data }) => {
         <Personal />
       </aside>
       <div>
+        <h2>Currently Airing</h2>
+        <ul
+          style={{ listStyleType: 'none', margin: 0, marginBottom: rhythm(4) }}
+        >
+          {airing.map((node) => {
+            const wkBeg = niceDate(node.fields.slug);
+            return (
+              <IndexItem
+                key={node.id}
+                slug={node.fields.slug}
+                text={`Week of ${wkBeg}`}
+              />
+            );
+          })}
+        </ul>
+      </div>
+      <div>
+        <h2>Season History</h2>
         <div>
-          {info.totalCount} seasons, over {yearCount} years
+          {seasonal.length} seasons, over {yearCount} years
         </div>
         <ul
           style={{ listStyleType: 'none', margin: 0, marginBottom: rhythm(4) }}
         >
-          {items.reduce((p, node) => {
+          {seasonal.reduce((p, node) => {
             const hasFullYear = node.season.includes('-10');
             const year = node.season.slice(0, 4);
 
