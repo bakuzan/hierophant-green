@@ -34,6 +34,7 @@ export default class HTML extends React.Component {
                   document.body.className = newTheme;
                   window.__onThemeChange(newTheme);
                 }
+
                 var preferredTheme;
                 try {
                   preferredTheme = localStorage.getItem('theme');

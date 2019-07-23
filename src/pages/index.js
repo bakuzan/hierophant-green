@@ -54,7 +54,9 @@ export default ({ data }) => {
         <Personal />
       </aside>
       <div>
-        <h2>Currently Airing</h2>
+        <h2 id="airing">
+          <Link to="/#airing">Currently Airing</Link>
+        </h2>
         <ul
           style={{ listStyleType: 'none', margin: 0, marginBottom: rhythm(4) }}
         >
@@ -71,7 +73,9 @@ export default ({ data }) => {
         </ul>
       </div>
       <div>
-        <h2>Season History</h2>
+        <h2 id="history">
+          <Link to="/#history">Season History</Link>
+        </h2>
         <div>
           {seasonal.length} seasons, over {yearCount} years
         </div>
