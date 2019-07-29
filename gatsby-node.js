@@ -49,6 +49,7 @@ exports.createPages = async ({ graphql, actions }) => {
         edges {
           node {
             season
+            date
             fields {
               slug
             }
@@ -103,9 +104,11 @@ exports.createPages = async ({ graphql, actions }) => {
 
   // Airing
   const airingTemplate = path.resolve(`src/templates/airing.js`);
-  const airing = jsonNodes.filter((x) => x.season === CURRENTLY_AIRING);
-  const maxAiringIndex = airing.length;
+  const airing = jsonNodes
+    .filter((x) => x.season === CURRENTLY_AIRING)
+    .sort((a, b) => (a.date > b.date ? -1 : 1));
 
+  const maxAiringIndex = airing.length;
   airing.forEach((node, index) => {
     const previous = index === maxAiringIndex ? null : airing[index + 1];
     const next = index === 0 ? null : airing[index - 1];

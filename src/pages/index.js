@@ -41,7 +41,9 @@ export default ({ data }) => {
   const items = info.edges.map((x) => x.node);
 
   const seasonal = items.filter((x) => x.season !== CURRENTLY_AIRING);
-  const airing = items.filter((x) => x.season === CURRENTLY_AIRING);
+  const airing = items
+    .filter((x) => x.season === CURRENTLY_AIRING)
+    .sort((a, b) => (a.date > b.date ? 1 : -1));
 
   const yearCount = seasonal
     .map((x) => x.season.slice(0, 4))

@@ -42,6 +42,12 @@ async function readSeasonsData(includeAll = false) {
   for (let filename of filenames) {
     const file = await readFileAsync(pathFix(dirname, filename), 'utf-8');
     const data = JSON.parse(file);
+
+    // Ignore currently airing files
+    if (data.hasOwnProperty('date')) {
+      continue;
+    }
+
     const hasUnratedSeries = data.series.some((x) => x.rating === 0);
 
     if (includeAll || hasUnratedSeries) {

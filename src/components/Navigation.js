@@ -3,6 +3,17 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 import getSeasonName from '../utils/getSeasonName';
+import niceDate from '../utils/niceDate';
+
+function resolveLinkText(info) {
+  if (info.date) {
+    return `Week of ${niceDate(info.date)}`;
+  } else if (info.isYear) {
+    return `${info.year} Overview`;
+  }
+
+  return getSeasonName(info.season);
+}
 
 function Navigation({ next, previous }) {
   return (
@@ -23,20 +34,14 @@ function Navigation({ next, previous }) {
               rel="prev"
               style={{ marginRight: 20 }}
             >
-              ←{' '}
-              {previous.isYear
-                ? `${previous.year} Overview`
-                : getSeasonName(previous.season)}
+              ← {resolveLinkText(previous)}
             </Link>
           )}
         </li>
         <li>
           {next && (
             <Link to={next.fields.slug} rel="next">
-              {next.isYear
-                ? `${next.year} Overview`
-                : getSeasonName(next.season)}{' '}
-              →
+              {resolveLinkText(next)} →
             </Link>
           )}
         </li>
