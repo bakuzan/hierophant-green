@@ -59,7 +59,7 @@ export default ({ data }) => {
     .filter((x) => x.season === CURRENTLY_AIRING)
     .sort((a, b) => (a.date > b.date ? -1 : 1));
 
-  airing = showMore ? airing : airing.slice(0, 1);
+  airing = showMore ? airing : airing.slice(0, 4);
 
   return (
     <Layout>
