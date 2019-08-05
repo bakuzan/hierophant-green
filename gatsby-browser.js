@@ -15,7 +15,7 @@ function getTargetOffset(hash) {
 export function onInitialClientRender() {
   requestAnimationFrame(() => {
     const offset = getTargetOffset(window.location.hash);
-    console.log(offset);
+
     if (offset !== null) {
       window.scrollTo(0, offset);
     }

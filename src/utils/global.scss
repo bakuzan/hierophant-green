@@ -45,3 +45,10 @@
     color: var(--link-colour);
   }
 }
+
+// Reset button styles
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}

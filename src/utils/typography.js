@@ -4,7 +4,7 @@ import Typography from 'typography';
 import FairyGates from 'typography-theme-fairy-gates';
 
 FairyGates.overrideThemeStyles = () => ({
-  a: {
+  'a, .foe-link': {
     color: 'var(--link-colour)',
     backgroundImage: 'none',
     textShadow: 'none'

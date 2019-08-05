@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
 import Personal from '../components/Personal';
 import SEO from '../components/SEO';
+import FoeLink from '../components/FoeLink';
 
 import { rhythm } from '../utils/typography';
 import getSeasonName from '../utils/getSeasonName';
@@ -37,17 +38,28 @@ function IndexItem({ slug, text }) {
 const CURRENTLY_AIRING = `Currently Airing`;
 
 export default ({ data }) => {
+  const [showMore, setShowMore] = useState(null);
+
+  useEffect(() => {
+    if (window.__theme) {
+      setShowMore(false);
+    }
+  }, []);
+
+  const allowMore = !showMore && showMore !== null;
   const info = data.allDataJson;
   const items = info.edges.map((x) => x.node);
 
   const seasonal = items.filter((x) => x.season !== CURRENTLY_AIRING);
-  const airing = items
-    .filter((x) => x.season === CURRENTLY_AIRING)
-    .sort((a, b) => (a.date > b.date ? -1 : 1));
-
   const yearCount = seasonal
     .map((x) => x.season.slice(0, 4))
     .filter((x, i, a) => a.indexOf(x) === i).length;
+
+  let airing = items
+    .filter((x) => x.season === CURRENTLY_AIRING)
+    .sort((a, b) => (a.date > b.date ? -1 : 1));
+
+  airing = showMore ? airing : airing.slice(0, 1);
 
   return (
     <Layout>
@@ -64,6 +76,7 @@ export default ({ data }) => {
         >
           {airing.map((node) => {
             const wkBeg = niceDate(node.fields.slug);
+
             return (
               <IndexItem
                 key={node.id}
@@ -72,6 +85,9 @@ export default ({ data }) => {
               />
             );
           })}
+          {allowMore && (
+            <FoeLink onClick={() => setShowMore(true)}>Show more weeks</FoeLink>
+          )}
         </ul>
       </div>
       <div>
