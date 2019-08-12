@@ -36,17 +36,19 @@ function IndexItem({ slug, text }) {
 }
 
 const CURRENTLY_AIRING = `Currently Airing`;
+const AIRING_LIMIT = 4;
 
 export default ({ data }) => {
   const [showMore, setShowMore] = useState(null);
 
   useEffect(() => {
+    // Why window.__theme ?
+    // If no theme then js is disabled! So showing button would be pointless
     if (window.__theme) {
       setShowMore(false);
     }
   }, []);
 
-  const allowMore = !showMore && showMore !== null;
   const info = data.allDataJson;
   const items = info.edges.map((x) => x.node);
 
@@ -59,7 +61,9 @@ export default ({ data }) => {
     .filter((x) => x.season === CURRENTLY_AIRING)
     .sort((a, b) => (a.date > b.date ? -1 : 1));
 
-  airing = showMore ? airing : airing.slice(0, 4);
+  const allowMore =
+    !showMore && showMore !== null && airing.length > AIRING_LIMIT;
+  airing = showMore ? airing : airing.slice(0, AIRING_LIMIT);
 
   return (
     <Layout>
