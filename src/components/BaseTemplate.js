@@ -27,7 +27,11 @@ const seasonHeaders = [
 
 // order by average desc, rating desc, mode desc, none
 const seriesSorter = (a, b) =>
-  b.average - a.average || b.rating - a.rating || b.mode - a.mode || 0;
+  b.average - a.average ||
+  b.rating - a.rating ||
+  b.mode - a.mode ||
+  a.title.localeCompare(b.title) ||
+  0;
 
 function BaseTemplate({
   title,
@@ -62,6 +66,8 @@ function BaseTemplate({
             This is usually the case for series that are still airing.`}
           {'\n\r'}In the cases where multiple ratings are tied in the mode
           calculation, one will be arbitrarily selected.
+          {'\n\r'}Entries are sorted by average desc, rating desc, mode desc,
+          and title asc.
         </p>
         <Table headers={tableHeaders}>
           {() =>
