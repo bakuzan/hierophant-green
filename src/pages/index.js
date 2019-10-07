@@ -49,6 +49,7 @@ export default ({ data }) => {
     }
   }, []);
 
+  const currentYear = new Date().getFullYear().toString();
   const info = data.allDataJson;
   const items = info.edges.map((x) => x.node);
 
@@ -63,6 +64,7 @@ export default ({ data }) => {
 
   const allowMore =
     !showMore && showMore !== null && airing.length > AIRING_LIMIT;
+
   airing = showMore ? airing : airing.slice(0, AIRING_LIMIT);
 
   return (
@@ -105,8 +107,9 @@ export default ({ data }) => {
           style={{ listStyleType: 'none', margin: 0, marginBottom: rhythm(4) }}
         >
           {seasonal.reduce((p, node) => {
-            const hasFullYear = node.season.includes('-10');
             const year = node.season.slice(0, 4);
+            const hasFullYear =
+              node.season.includes('-10') && year !== currentYear;
 
             return [
               ...p,

@@ -41,6 +41,7 @@ exports.onCreateNode = async ({ node, getNode, actions, store, cache }) => {
 };
 
 exports.createPages = async ({ graphql, actions }) => {
+  const currentYear = `${new Date().getFullYear()}_`;
   const { createPage } = actions;
 
   const result = await graphql(`
@@ -72,7 +73,10 @@ exports.createPages = async ({ graphql, actions }) => {
   const years = seasons
     .map((x) => x.season.split('-')[0].concat('_'))
     .filter(
-      (x, i, a) => a.indexOf(x) === i && a.filter((y) => y === x).length === 4
+      (x, i, a) =>
+        a.indexOf(x) === i &&
+        a.filter((y) => y === x).length === 4 &&
+        x !== currentYear
     )
     .map((season) => ({
       season,

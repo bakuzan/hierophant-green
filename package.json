@@ -54,7 +54,7 @@
   "scripts": {
     "clear-cache": "rmdir /s /q public && rmdir /s /q .cache",
     "build": "npm run clear-cache && gatsby build",
-    "develop": "npm run clear-cache && gatsby develop",
+    "develop": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "pretty": "lint-staged",
