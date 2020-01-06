@@ -1,0 +1,49 @@
+{
+  "season": "2020-01",
+  "series": [
+    {
+      "id": 3721,
+      "title": "Darwin's Game",
+      "rating": 0,
+      "average": 6,
+      "highest": 6,
+      "lowest": 6,
+      "mode": 6,
+      "image": "https://i.imgur.com/OaZO0kZ.jpg",
+      "malId": 38656
+    },
+    {
+      "id": 3715,
+      "title": "Koisuru Asteroid",
+      "rating": 0,
+      "average": 5,
+      "highest": 5,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/PsYOWjZ.jpg",
+      "malId": 39388
+    },
+    {
+      "id": 3722,
+      "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
+      "rating": 0,
+      "average": 5,
+      "highest": 5,
+      "lowest": 5,
+      "mode": 5,
+      "image": "https://i.imgur.com/6YquXLS.jpg",
+      "malId": 38256
+    },
+    {
+      "id": 3713,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban",
+      "rating": 0,
+      "average": 6,
+      "highest": 6,
+      "lowest": 6,
+      "mode": 6,
+      "image": "https://i.imgur.com/mtzZOwH.jpg",
+      "malId": 40937
+    }
+  ]
+}

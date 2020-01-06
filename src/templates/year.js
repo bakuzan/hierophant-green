@@ -4,15 +4,20 @@ import { graphql } from 'gatsby';
 import BaseTemplate from '../components/BaseTemplate';
 import averageRatedTotal from '../utils/averageRatedTotal';
 
+const CURRENTLY_AIRING = 'Currently Airing';
+
 export default ({ data, ...props }) => {
   const year = props.path.replace(/\//g, '');
-  const seasons = data.allDataJson.nodes;
+  const seasons = data.allDataJson.nodes.filter(
+    (x) => x.season !== CURRENTLY_AIRING
+  );
+
   const overview = seasons.map(averageRatedTotal);
   const series = seasons.reduce(
     (p, c) => [...p, ...c.series.map((x) => ({ ...x, season: c.season }))],
     []
   );
-  console.log(props);
+
   return (
     <BaseTemplate
       {...props}
