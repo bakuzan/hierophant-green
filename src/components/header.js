@@ -7,6 +7,17 @@ import RadioToggle from './RadioToggle';
 import { rhythm } from '../utils/typography';
 import { Icons } from '../consts';
 
+const NavLink = (props) => (
+  <Link
+    style={{ padding: `0 5px`, margin: `0 10px` }}
+    activeStyle={{
+      backgroundColor: 'var(--primary-colour)',
+      color: `var(--primary-contrast)`
+    }}
+    {...props}
+  />
+);
+
 function Header({ siteTitle }) {
   const [theme, setTheme] = useState(null);
 
@@ -58,6 +69,17 @@ function Header({ siteTitle }) {
           />
         )}
       </div>
+      <nav
+        style={{
+          display: 'flex',
+          justifyContent: 'flex-end',
+          alignItems: 'center',
+          padding: `0 ${rhythm(1)}`
+        }}
+      >
+        <NavLink to="/">Home</NavLink>
+        <NavLink to="/honours">Honours</NavLink>
+      </nav>
     </header>
   );
 }
