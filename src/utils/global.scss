@@ -1,11 +1,9 @@
-/* TODO check theme is AA */
-
 :root {
   /* Generics */
   --very-dark-cyan: #002727;
 
   --dark-cyan: #1ca086;
-  --moderate-cyan: #339999;
+  --moderate-cyan: #2a7e7e;
   --moderate-cyan-faded: #33999980;
   --moderate-cyan-faded-more: #33999940;
 
@@ -60,4 +58,8 @@
 // Overrides
 .radio-toggle__control {
   top: 0 !important;
+}
+
+.hide-carry-overs {
+  margin: 0 10px;
 }
