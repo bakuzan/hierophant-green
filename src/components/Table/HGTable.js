@@ -3,8 +3,9 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import Img from 'gatsby-image';
 
+import NewTabLink from 'meiko/NewTabLink';
+
 import Table from './index';
-import NewTabLink from '@/components/NewTabLink';
 import getSeriesStats from '@/utils/getSeriesStats';
 import getEpisodeText from '@/utils/getEpisodeText';
 import { rhythm } from '@/utils/typography';
