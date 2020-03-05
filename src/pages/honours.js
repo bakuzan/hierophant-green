@@ -1,17 +1,18 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 
+import { capitalise } from 'ayaka/capitalise';
+import groupBy from 'ayaka/groupBy';
+
 import Layout from '@/components/AppLayout';
 import SEO from '@/components/AppSEO';
 import HGTable from '@/components/Table/HGTable';
 
-import groupBy from '@/utils/groupBy';
 import seriesSorter from '@/utils/seriesSorter';
 import reduceSeasons from '@/utils/reduceSeasons';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import getSeasonName from '@/utils/getSeasonName';
 import { rhythm } from '@/utils/typography';
-import { capitalise } from '@/utils/helpers';
 
 const minEpisodeCarryOver = (x) => !x.isCarryOver || x.episodes.length > 4;
 const selectTop = (items, n) => items.filter(minEpisodeCarryOver).slice(0, n);
@@ -56,7 +57,6 @@ function Section({ title, items }) {
     allEpisodes
   ).sort(seriesSorter);
 
-  console.log(title, seasons, allSeasons);
   return (
     <section style={{ margin: `${rhythm(1)} 0` }}>
       <header
@@ -121,7 +121,7 @@ export default ({ data }) => {
   const seasons = data.allDataJson.nodes ?? [];
   const groups = groupBy(seasons, (x) => x.season.split('-')[0]);
   const years = Array.from(groups.entries());
-  console.log('Honours');
+
   return (
     <Layout>
       <SEO title="Honours" />

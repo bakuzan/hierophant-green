@@ -57,9 +57,7 @@
   }
 }
 
-// Reset button styles
-button {
-  background: none;
-  border: none;
-  cursor: pointer;
+// Overrides
+.radio-toggle__control {
+  top: 0 !important;
 }

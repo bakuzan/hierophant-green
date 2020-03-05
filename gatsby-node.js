@@ -3,7 +3,23 @@ const path = require(`path`);
 exports.onCreateNode = require('./gatsby/onCreateNode');
 exports.createPages = require('./gatsby/createPages');
 
-exports.onCreateWebpackConfig = ({ actions }) => {
+exports.onCreateWebpackConfig = ({ actions, getConfig }) => {
+  const config = getConfig();
+
+  const { rules } = config.module;
+  const eslintLoader = rules.find((x) => x.enforce === 'pre');
+  const leaveAlone = rules.filter((x) => x.enforce !== 'pre');
+
+  config.module.rules = [
+    ...leaveAlone,
+    {
+      ...eslintLoader,
+      include: path.resolve(__dirname)
+    }
+  ];
+
+  actions.replaceWebpackConfig(config);
+
   actions.setWebpackConfig({
     resolve: {
       alias: {

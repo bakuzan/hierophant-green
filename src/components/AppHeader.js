@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
 
-import RadioToggle from './RadioToggle';
+import RadioToggle from 'meiko/RadioToggle';
 import { rhythm } from '@/utils/typography';
 import { Icons } from '@/consts';
 

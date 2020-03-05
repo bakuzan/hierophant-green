@@ -3,12 +3,9 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 import getSeasonName from '../utils/getSeasonName';
-import niceDate from '../utils/niceDate';
 
 function resolveLinkText(info) {
-  if (info.date) {
-    return `Week of ${niceDate(info.date)}`;
-  } else if (info.isYear) {
+  if (info.isYear) {
     return `${info.year} Overview`;
   }
 
