@@ -10,7 +10,7 @@ import SEO from '@/components/AppSEO';
 import HGTable from '@/components/Table/HGTable';
 
 import { useMountedOnClient } from '@/hooks/useMountedOnClient';
-
+import { MIN_EPISODES } from '@/consts';
 import seriesSorter from '@/utils/seriesSorter';
 import reduceSeasons from '@/utils/reduceSeasons';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
@@ -19,11 +19,12 @@ import { rhythm } from '@/utils/typography';
 
 function selectTop(items, opts) {
   const n = opts.top ?? 3;
-  const hideCarryOvers = opts.hideCarryOvers ?? false;
+  const hide = opts.hideCarryOvers ?? false;
+  const filtered = items.filter((x) => {
+    return !x.isCarryOver || (!hide && x.episodes.length > MIN_EPISODES);
+  });
 
-  return items
-    .filter((x) => !x.isCarryOver || (!hideCarryOvers && x.episodes.length > 4))
-    .slice(0, n);
+  return filtered.slice(0, n);
 }
 
 function SubSection({ slug, title, ...props }) {
@@ -50,10 +51,10 @@ function SubSection({ slug, title, ...props }) {
 function Section({ title, items }) {
   const mounted = useMountedOnClient();
   const [hideCarryOvers, setHideCarryOvers] = useState(false);
-  const hideCarryOversId = `hideCarryOvers_${title}`;
 
   const seasonCount = items.length;
   const hasAllSeasons = seasonCount === 4;
+  const hideCarryOversId = `hideCarryOvers_${title}`;
 
   const seasons = items.map((x) => ({
     season: x.season,
