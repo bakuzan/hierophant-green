@@ -5,6 +5,7 @@ import BaseTemplate from '@/components/BaseTemplate';
 import averageRatedTotal from '@/utils/averageRatedTotal';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import reduceSeasons from '@/utils/reduceSeasons';
+import { MIN_EPISODES } from '@/consts';
 
 export default ({ data, ...props }) => {
   const year = props.path.replace(/\//g, '');
@@ -14,8 +15,10 @@ export default ({ data, ...props }) => {
   const series = reduceSeasons(seasons, 'series');
   const episodes = reduceSeasons(seasons, 'episodes');
 
-  const items = generateSeriesStatistics(year, series, episodes);
-  console.log('Year : ', items);
+  const items = generateSeriesStatistics(year, series, episodes).filter(
+    (x) => x.episodes.length > MIN_EPISODES
+  );
+
   return (
     <BaseTemplate
       {...props}

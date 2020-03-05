@@ -25,3 +25,5 @@ export const words = Object.freeze([
   'perverted',
   'pathetic'
 ]);
+
+export const MIN_EPISODES = 4;
