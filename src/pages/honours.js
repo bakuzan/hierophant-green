@@ -1,12 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { graphql, Link } from 'gatsby';
 
 import { capitalise } from 'ayaka/capitalise';
 import groupBy from 'ayaka/groupBy';
+import Tickbox from 'meiko/Tickbox';
 
 import Layout from '@/components/AppLayout';
 import SEO from '@/components/AppSEO';
 import HGTable from '@/components/Table/HGTable';
+
+import { useMountedOnClient } from '@/hooks/useMountedOnClient';
 
 import seriesSorter from '@/utils/seriesSorter';
 import reduceSeasons from '@/utils/reduceSeasons';
@@ -14,8 +17,14 @@ import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import getSeasonName from '@/utils/getSeasonName';
 import { rhythm } from '@/utils/typography';
 
-const minEpisodeCarryOver = (x) => !x.isCarryOver || x.episodes.length > 4;
-const selectTop = (items, n) => items.filter(minEpisodeCarryOver).slice(0, n);
+function selectTop(items, opts) {
+  const n = opts.top ?? 3;
+  const hideCarryOvers = opts.hideCarryOvers ?? false;
+
+  return items
+    .filter((x) => !x.isCarryOver || (!hideCarryOvers && x.episodes.length > 4))
+    .slice(0, n);
+}
 
 function SubSection({ slug, title, ...props }) {
   return (
@@ -28,7 +37,9 @@ function SubSection({ slug, title, ...props }) {
             color: 'inherit'
           }}
         >
-          <h4 className="season-link">{capitalise(title)}</h4>
+          <h4 className="season-link" style={{ margin: `${rhythm(3 / 4)} 0` }}>
+            {capitalise(title)}
+          </h4>
         </Link>
       </header>
       <HGTable hideSeason {...props} />
@@ -37,6 +48,10 @@ function SubSection({ slug, title, ...props }) {
 }
 
 function Section({ title, items }) {
+  const mounted = useMountedOnClient();
+  const [hideCarryOvers, setHideCarryOvers] = useState(false);
+  const hideCarryOversId = `hideCarryOvers_${title}`;
+
   const seasonCount = items.length;
   const hasAllSeasons = seasonCount === 4;
 
@@ -73,12 +88,23 @@ function Section({ title, items }) {
             color: 'inherit'
           }}
         >
-          <h3 className="season-link">
+          <h3 className="season-link" style={{ margin: `${rhythm(3 / 4)} 0` }}>
             {title}
             {hasAllSeasons ? ' - Overview' : ''}
           </h3>
         </Link>
-        <div>checkbox</div>
+        {mounted && (
+          <div>
+            <Tickbox
+              className="hide-carry-overs"
+              id={hideCarryOversId}
+              name={hideCarryOversId}
+              checked={hideCarryOvers}
+              text={' Hide carry overs'}
+              onChange={(e) => setHideCarryOvers((p) => !p)}
+            />
+          </div>
+        )}
       </header>
 
       {!hasAllSeasons && (
@@ -97,7 +123,7 @@ function Section({ title, items }) {
             Following that each individual season for {title} has a top 3
             ranking.
           </p>
-          <HGTable items={selectTop(allSeasons, 5)} />
+          <HGTable items={selectTop(allSeasons, { top: 5, hideCarryOvers })} />
         </React.Fragment>
       )}
 
@@ -108,7 +134,7 @@ function Section({ title, items }) {
             key={entry.season}
             slug={`/${entry.season}/`}
             title={name}
-            items={selectTop(entry.items, 3)}
+            items={selectTop(entry.items, { top: 3, hideCarryOvers })}
             hideRatingColumn={i + 1 >= seasonCount}
           />
         );
