@@ -3,7 +3,6 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const writeSeasonsData = require('./writeSeasonsData');
-const writeCurrentlyAiring = require('./writeCurrentlyAiring');
 const { readSeasonsData } = require('./utils');
 
 const MATCH_YYYY_MM = /^\d{4}-\d{2}$/;
@@ -36,17 +35,7 @@ async function run() {
     .addOption({
       option: 'update',
       shortcut: 'u',
-      description: 'Update existing seasons as required'
-    })
-    .addOption({
-      option: 'all',
-      shortcut: 'a',
-      description: 'Tell update to update all existing seasons'
-    })
-    .addOption({
-      option: 'current',
-      shortcut: 'c',
-      description: 'Update currently airing'
+      description: 'Update seasons as required'
     })
     .welcome()
     .parse(process.argv);
@@ -59,9 +48,14 @@ async function run() {
   const update = cli.get('update', false);
 
   if (update) {
-    const includeAll = cli.get('all', false);
-    const toUpdate = await readSeasonsData(includeAll);
-    console.log(`Updating ${includeAll ? 'all ' : ''}seasons...`);
+    console.log(`Updating seasons...`);
+
+    const toUpdate = await readSeasonsData();
+
+    if (!toUpdate.length) {
+      console.log('Everything is update to date.');
+      process.exit(0);
+    }
 
     await writeSeasonsData(toUpdate, `../data`);
     process.exit(0);
@@ -69,14 +63,9 @@ async function run() {
 
   if (cli.has('seasons') && cli.validate('seasons')) {
     console.log(`Writing new seasons...`);
-    const inputs = cli.get('seasons').split(',');
-    await writeSeasonsData(inputs, `./output`);
-    process.exit(0);
-  }
 
-  if (cli.has('current')) {
-    console.log(`Writing currently airing...`);
-    await writeCurrentlyAiring(`../data`);
+    const inputs = cli.get('seasons').split(',');
+    await writeSeasonsData(inputs, `../data`);
     process.exit(0);
   }
 

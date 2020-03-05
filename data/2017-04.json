@@ -2,422 +2,3736 @@
   "season": "2017-04",
   "series": [
     {
-      "id": 130,
-      "title": "Alice to Zouroku",
-      "rating": 5,
-      "average": 5,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/ZGh9e1Z.jpg",
-      "malId": 34350
-    },
-    {
-      "id": 93,
-      "title": "Ani ni Tsukeru Kusuri wa Nai!",
-      "rating": 2,
-      "average": 2.8333333333333335,
-      "highest": 4,
-      "lowest": 2,
-      "mode": 3,
-      "image": "https://i.imgur.com/2TK04l4.jpg",
-      "malId": 35015
-    },
-    {
-      "id": 81,
-      "title": "Atom: The Beginning",
-      "rating": 5,
-      "average": 5.166666666666667,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/QfBnQyO.jpg",
-      "malId": 33371
-    },
-    {
-      "id": 114,
-      "title": "Berserk (2017)",
-      "rating": 7,
-      "average": 6.916666666666667,
-      "highest": 8,
-      "lowest": 6,
-      "mode": 7,
-      "image": "https://i.imgur.com/PAqMFVk.jpg",
-      "malId": 34055
-    },
-    {
-      "id": 134,
-      "title": "Boku no Hero Academia 2nd Season",
-      "rating": 6,
-      "average": 6.16,
-      "highest": 9,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/yjN78lL.jpg",
-      "malId": 33486
-    },
-    {
-      "id": 122,
-      "title": "Boruto: Naruto Next Generations",
-      "rating": 0,
-      "average": 4.136986301369863,
-      "highest": 7,
-      "lowest": 2,
-      "mode": 4,
-      "image": "https://i.imgur.com/O5vYeDw.jpg",
-      "malId": 34566
-    },
-    {
-      "id": 120,
-      "title": "Busou Shoujo Machiavellianism",
-      "rating": 6,
-      "average": 5.25,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/bFx3S91.jpg",
-      "malId": 33475
-    },
-    {
-      "id": 108,
-      "title": "Clockwork Planet",
-      "rating": 2,
-      "average": 2.8333333333333335,
-      "highest": 4,
-      "lowest": 2,
-      "mode": 3,
-      "image": "https://i.imgur.com/hyU62GQ.jpg",
-      "malId": 32407
-    },
-    {
-      "id": 85,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+      "id": 203,
+      "title": "Schoolgirl Strikers: Animation Channel",
+      "image": "https://i.imgur.com/cCRYBBV.jpg",
+      "malId": 34289,
       "rating": 4,
-      "average": 4.333333333333333,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/H2FBkS6.jpg",
-      "malId": 32887
-    },
-    {
-      "id": 104,
-      "title": "Eromanga-sensei",
-      "rating": 3,
-      "average": 3.9166666666666665,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/fXNjgkH.jpg",
-      "malId": 32901
-    },
-    {
-      "id": 125,
-      "title": "Frame Arms Girl",
-      "rating": 4,
-      "average": 3.8333333333333335,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/bJyRRXT.jpg",
-      "malId": 34427
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2017,
+        "season": "Winter"
+      }
     },
     {
       "id": 135,
       "title": "Gin no Guardian",
-      "rating": 3,
-      "average": 3.3333333333333335,
-      "highest": 5,
-      "lowest": 2,
-      "mode": 3,
       "image": "https://i.imgur.com/CEG2YAe.jpg",
-      "malId": 32936
-    },
-    {
-      "id": 83,
-      "title": "Granblue Fantasy The Animation",
-      "rating": 5,
-      "average": 4.916666666666667,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/NML0G6l.jpg",
-      "malId": 31629
-    },
-    {
-      "id": 110,
-      "title": "Hinako Note",
+      "malId": 32936,
       "rating": 3,
-      "average": 3.9166666666666665,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/xmu2qvl.jpg",
-      "malId": 33948
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
     },
     {
-      "id": 92,
-      "title": "ID-0",
-      "rating": 3,
-      "average": 3.4166666666666665,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 3,
-      "image": "https://i.imgur.com/aCEnaem.jpg",
-      "malId": 33797
-    },
-    {
-      "id": 111,
-      "title": "Kaitou Tenshi Twin Angel (TV)",
-      "rating": 4,
-      "average": 3.75,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/z0vF8tO.jpg",
-      "malId": 33532
-    },
-    {
-      "id": 94,
-      "title": "Kenka Banchou Otome: Girl Beats Boys",
-      "rating": 3,
-      "average": 3.25,
-      "highest": 5,
-      "lowest": 2,
-      "mode": 3,
-      "image": "https://i.imgur.com/k5xRiyF.jpg",
-      "malId": 34501
-    },
-    {
-      "id": 66,
-      "title": "Monster Strike 2",
-      "rating": 4,
-      "average": 4,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/4rfULBz.jpg",
-      "malId": 34670
-    },
-    {
-      "id": 96,
-      "title": "Natsume Yuujinchou Roku",
+      "id": 134,
+      "title": "Boku no Hero Academia 2nd Season",
+      "image": "https://i.imgur.com/yjN78lL.jpg",
+      "malId": 33486,
       "rating": 6,
-      "average": 6.181818181818182,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/3ZO3rvD.jpg",
-      "malId": 34591
-    },
-    {
-      "id": 103,
-      "title": "Quan Zhi Gao Shou",
-      "rating": 6,
-      "average": 5.416666666666667,
-      "highest": 7,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/r6WyNm7.jpg",
-      "malId": 33926
-    },
-    {
-      "id": 107,
-      "title": "Re:Creators",
-      "rating": 5,
-      "average": 5.363636363636363,
-      "highest": 8,
-      "lowest": 1,
-      "mode": 5,
-      "image": "https://i.imgur.com/YtASLQ1.jpg",
-      "malId": 34561
-    },
-    {
-      "id": 109,
-      "title": "Renai Boukun",
-      "rating": 5,
-      "average": 4.5,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/oct9ziP.jpg",
-      "malId": 32262
-    },
-    {
-      "id": 88,
-      "title": "Saenai Heroine no Sodatekata ♭",
-      "rating": 4,
-      "average": 4.2727272727272725,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/UsP0Lsh.jpg",
-      "malId": 30727
-    },
-    {
-      "id": 121,
-      "title": "Sakura Quest",
-      "rating": 4,
-      "average": 4.44,
-      "highest": 6,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/3wUgEQ4.jpg",
-      "malId": 34494
-    },
-    {
-      "id": 119,
-      "title": "Sakurada Reset",
-      "rating": 5,
-      "average": 5.130434782608695,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/ETDTSf2.jpg",
-      "malId": 34102
-    },
-    {
-      "id": 117,
-      "title": "Seikaisuru Kado",
-      "rating": 5,
-      "average": 5.583333333333333,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 6,
-      "image": "https://i.imgur.com/ZLwIPWA.jpg",
-      "malId": 32032
-    },
-    {
-      "id": 116,
-      "title": "Seikaisuru Kado Episode 0",
-      "rating": 4,
-      "average": 4,
-      "highest": 4,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/k7FD0p8.jpg",
-      "malId": 35369
-    },
-    {
-      "id": 129,
-      "title": "Sekai no Yami Zukan",
-      "rating": 4,
-      "average": 3.8461538461538463,
-      "highest": 6,
-      "lowest": 2,
-      "mode": 4,
-      "image": "https://i.imgur.com/zmUJdtc.jpg",
-      "malId": 35069
-    },
-    {
-      "id": 106,
-      "title": "Shingeki no Bahamut: Virgin Soul",
-      "rating": 7,
-      "average": 6.916666666666667,
-      "highest": 9,
-      "lowest": 5,
-      "mode": 7,
-      "image": "https://i.imgur.com/bfGkkv7.jpg",
-      "malId": 30736
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
     },
     {
       "id": 133,
       "title": "Shingeki no Kyojin Season 2",
-      "rating": 7,
-      "average": 7.083333333333333,
-      "highest": 9,
-      "lowest": 6,
-      "mode": 7,
       "image": "https://i.imgur.com/GqoJkNv.jpg",
-      "malId": 25777
+      "malId": 25777,
+      "rating": 7,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
     },
     {
-      "id": 97,
-      "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
-      "rating": 4,
-      "average": 4.333333333333333,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/cit6LCA.jpg",
-      "malId": 33502
+      "id": 320,
+      "title": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+      "image": "https://i.imgur.com/I9aqoq7.jpg",
+      "malId": 33051,
+      "rating": 8,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2016,
+        "season": "Fall"
+      }
     },
     {
-      "id": 84,
-      "title": "Sin: Nanatsu no Taizai",
-      "rating": 4,
-      "average": 4.333333333333333,
-      "highest": 6,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/IyYjmiv.jpg",
-      "malId": 33834
-    },
-    {
-      "id": 127,
-      "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-      "rating": 2,
-      "average": 2.5833333333333335,
-      "highest": 5,
-      "lowest": 2,
-      "mode": 2,
-      "image": "https://i.imgur.com/RjbHvhp.jpg",
-      "malId": 34823
-    },
-    {
-      "id": 124,
-      "title": "Tsugumomo",
+      "id": 130,
+      "title": "Alice to Zouroku",
+      "image": "https://i.imgur.com/ZGh9e1Z.jpg",
+      "malId": 34350,
       "rating": 5,
-      "average": 4.75,
-      "highest": 6,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/eiXiCmL.jpg",
-      "malId": 34019
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
     },
     {
-      "id": 115,
-      "title": "Tsuki ga Kirei",
-      "rating": 5,
-      "average": 5,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/mZJ4AwM.jpg",
-      "malId": 34822
+      "id": 129,
+      "title": "Sekai no Yami Zukan",
+      "image": "https://i.imgur.com/zmUJdtc.jpg",
+      "malId": 35069,
+      "rating": 4,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
     },
     {
       "id": 128,
       "title": "Warau Salesman New",
-      "rating": 6,
-      "average": 5.666666666666667,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 6,
       "image": "https://i.imgur.com/B0pypE2.jpg",
-      "malId": 34550
+      "malId": 34550,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
     },
     {
-      "id": 31,
-      "title": "Yao Shen Ji",
+      "id": 127,
+      "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+      "image": "https://i.imgur.com/RjbHvhp.jpg",
+      "malId": 34823,
+      "rating": 2,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 125,
+      "title": "Frame Arms Girl",
+      "image": "https://i.imgur.com/bJyRRXT.jpg",
+      "malId": 34427,
       "rating": 4,
-      "average": 4,
-      "highest": 4,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/tGEp9vI.jpg",
-      "malId": 35626
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 124,
+      "title": "Tsugumomo",
+      "image": "https://i.imgur.com/eiXiCmL.jpg",
+      "malId": 34019,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 195,
+      "title": "Onihei",
+      "image": "https://i.imgur.com/2uEsl2M.jpg",
+      "malId": 33983,
+      "rating": 7,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2017,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 196,
+      "title": "Little Witch Academia (TV)",
+      "image": "https://i.imgur.com/KwCAMkS.jpg",
+      "malId": 33489,
+      "rating": 7,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2017,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 192,
+      "title": "Kobayashi-san Chi no Maid Dragon",
+      "image": "https://i.imgur.com/nnQX1Um.jpg",
+      "malId": 33206,
+      "rating": 7,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2017,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 121,
+      "title": "Sakura Quest",
+      "image": "https://i.imgur.com/3wUgEQ4.jpg",
+      "malId": 34494,
+      "rating": 4,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 122,
+      "title": "Boruto: Naruto Next Generations",
+      "image": "https://i.imgur.com/O5vYeDw.jpg",
+      "malId": 34566,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 508,
+      "title": "Aggressive Retsuko",
+      "image": "https://i.imgur.com/lC79mym.jpg",
+      "malId": 32977,
+      "rating": 3,
+      "totalEpisodes": 100,
+      "season": {
+        "year": 2016,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 120,
+      "title": "Busou Shoujo Machiavellianism",
+      "image": "https://i.imgur.com/bFx3S91.jpg",
+      "malId": 33475,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 119,
+      "title": "Sakurada Reset",
+      "image": "https://i.imgur.com/ETDTSf2.jpg",
+      "malId": 34102,
+      "rating": 5,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 116,
+      "title": "Seikaisuru Kado Episode 0",
+      "image": "https://i.imgur.com/k7FD0p8.jpg",
+      "malId": 35369,
+      "rating": 4,
+      "totalEpisodes": 1,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 117,
+      "title": "Seikaisuru Kado",
+      "image": "https://i.imgur.com/ZLwIPWA.jpg",
+      "malId": 32032,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 115,
+      "title": "Tsuki ga Kirei",
+      "image": "https://i.imgur.com/mZJ4AwM.jpg",
+      "malId": 34822,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 114,
+      "title": "Berserk (2017)",
+      "image": "https://i.imgur.com/PAqMFVk.jpg",
+      "malId": 34055,
+      "rating": 7,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 111,
+      "title": "Kaitou Tenshi Twin Angel (TV)",
+      "image": "https://i.imgur.com/z0vF8tO.jpg",
+      "malId": 33532,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 110,
+      "title": "Hinako Note",
+      "image": "https://i.imgur.com/xmu2qvl.jpg",
+      "malId": 33948,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 109,
+      "title": "Renai Boukun",
+      "image": "https://i.imgur.com/oct9ziP.jpg",
+      "malId": 32262,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 108,
+      "title": "Clockwork Planet",
+      "image": "https://i.imgur.com/hyU62GQ.jpg",
+      "malId": 32407,
+      "rating": 2,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 107,
+      "title": "Re:Creators",
+      "image": "https://i.imgur.com/YtASLQ1.jpg",
+      "malId": 34561,
+      "rating": 5,
+      "totalEpisodes": 22,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 106,
+      "title": "Shingeki no Bahamut: Virgin Soul",
+      "image": "https://i.imgur.com/bfGkkv7.jpg",
+      "malId": 30736,
+      "rating": 7,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 104,
+      "title": "Eromanga-sensei",
+      "image": "https://i.imgur.com/fXNjgkH.jpg",
+      "malId": 32901,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 103,
+      "title": "Quan Zhi Gao Shou",
+      "image": "https://i.imgur.com/r6WyNm7.jpg",
+      "malId": 33926,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
     },
     {
       "id": 98,
       "title": "Zero kara Hajimeru Mahou no Sho",
-      "rating": 5,
-      "average": 4.75,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 4,
       "image": "https://i.imgur.com/C3fYnMD.jpg",
-      "malId": 34176
+      "malId": 34176,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 97,
+      "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+      "image": "https://i.imgur.com/cit6LCA.jpg",
+      "malId": 33502,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 96,
+      "title": "Natsume Yuujinchou Roku",
+      "image": "https://i.imgur.com/3ZO3rvD.jpg",
+      "malId": 34591,
+      "rating": 6,
+      "totalEpisodes": 11,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 94,
+      "title": "Kenka Banchou Otome: Girl Beats Boys",
+      "image": "https://i.imgur.com/k5xRiyF.jpg",
+      "malId": 34501,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 93,
+      "title": "Ani ni Tsukeru Kusuri wa Nai!",
+      "image": "https://i.imgur.com/2TK04l4.jpg",
+      "malId": 35015,
+      "rating": 2,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 92,
+      "title": "ID-0",
+      "image": "https://i.imgur.com/aCEnaem.jpg",
+      "malId": 33797,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 88,
+      "title": "Saenai Heroine no Sodatekata ♭",
+      "image": "https://i.imgur.com/UsP0Lsh.jpg",
+      "malId": 30727,
+      "rating": 4,
+      "totalEpisodes": 11,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 85,
+      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+      "image": "https://i.imgur.com/H2FBkS6.jpg",
+      "malId": 32887,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 84,
+      "title": "Sin: Nanatsu no Taizai",
+      "image": "https://i.imgur.com/IyYjmiv.jpg",
+      "malId": 33834,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 83,
+      "title": "Granblue Fantasy The Animation",
+      "image": "https://i.imgur.com/NML0G6l.jpg",
+      "malId": 31629,
+      "rating": 5,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 81,
+      "title": "Atom: The Beginning",
+      "image": "https://i.imgur.com/QfBnQyO.jpg",
+      "malId": 33371,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 66,
+      "title": "Monster Strike 2",
+      "image": "https://i.imgur.com/4rfULBz.jpg",
+      "malId": 34670,
+      "rating": 4,
+      "totalEpisodes": 23,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 199,
+      "title": "Tales of Zestiria the X 2nd Season",
+      "image": "https://i.imgur.com/8Ad5IyJ.jpg",
+      "malId": 34086,
+      "rating": 6,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2017,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 31,
+      "title": "Yao Shen Ji",
+      "image": "https://i.imgur.com/tGEp9vI.jpg",
+      "malId": 35626,
+      "rating": 4,
+      "totalEpisodes": 40,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mobile Suit Gundam: Twilight Axis",
+      "image": "https://i.imgur.com/VwKRJMX.jpg",
+      "malId": 35224,
+      "rating": 1,
+      "totalEpisodes": 6,
+      "season": {
+        "year": 2017,
+        "season": "Summer"
+      }
+    }
+  ],
+  "episodes": [
+    {
+      "id": 2694,
+      "date": "2017-04-01 15:07:45.344 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 203
+    },
+    {
+      "id": 1753,
+      "date": "2017-04-01 15:50:54.522 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 135
+    },
+    {
+      "id": 1729,
+      "date": "2017-04-01 16:10:26.648 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 134
+    },
+    {
+      "id": 1716,
+      "date": "2017-04-01 16:34:05.885 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 133
+    },
+    {
+      "id": 4288,
+      "date": "2017-04-02 16:28:35.181 +00:00",
+      "episode": 25,
+      "rating": 8,
+      "animeId": 320
+    },
+    {
+      "id": 1678,
+      "date": "2017-04-02 17:33:12.040 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 130
+    },
+    {
+      "id": 1666,
+      "date": "2017-04-03 16:17:35.726 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 129
+    },
+    {
+      "id": 1653,
+      "date": "2017-04-03 18:02:13.111 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 128
+    },
+    {
+      "id": 1633,
+      "date": "2017-04-03 21:41:27.414 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 127
+    },
+    {
+      "id": 1577,
+      "date": "2017-04-04 16:37:54.310 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 125
+    },
+    {
+      "id": 1565,
+      "date": "2017-04-04 17:00:47.178 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 124
+    },
+    {
+      "id": 2583,
+      "date": "2017-04-04 17:52:42.885 +00:00",
+      "episode": 13,
+      "rating": 7,
+      "animeId": 195
+    },
+    {
+      "id": 2608,
+      "date": "2017-04-04 18:14:52.410 +00:00",
+      "episode": 13,
+      "rating": 7,
+      "animeId": 196
+    },
+    {
+      "id": 2521,
+      "date": "2017-04-05 17:00:54.201 +00:00",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 192
+    },
+    {
+      "id": 1423,
+      "date": "2017-04-05 17:56:26.478 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 121
+    },
+    {
+      "id": 1448,
+      "date": "2017-04-05 18:04:24.172 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 7132,
+      "date": "2017-04-06 07:19:25.687 +00:00",
+      "episode": 50,
+      "rating": 3,
+      "animeId": 508
+    },
+    {
+      "id": 7131,
+      "date": "2017-04-06 07:19:46.967 +00:00",
+      "episode": 51,
+      "rating": 3,
+      "animeId": 508
+    },
+    {
+      "id": 1411,
+      "date": "2017-04-06 16:42:32.354 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 120
+    },
+    {
+      "id": 1388,
+      "date": "2017-04-06 18:05:59.799 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 119
+    },
+    {
+      "id": 1363,
+      "date": "2017-04-06 21:09:51.023 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 116
+    },
+    {
+      "id": 1374,
+      "date": "2017-04-07 16:37:50.893 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 117
+    },
+    {
+      "id": 1361,
+      "date": "2017-04-07 17:00:59.860 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 115
+    },
+    {
+      "id": 1350,
+      "date": "2017-04-07 22:09:06.227 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 114
+    },
+    {
+      "id": 1349,
+      "date": "2017-04-07 22:09:11.767 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 114
+    },
+    {
+      "id": 1752,
+      "date": "2017-04-08 14:11:07.282 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 135
+    },
+    {
+      "id": 1320,
+      "date": "2017-04-08 14:34:59.576 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 111
+    },
+    {
+      "id": 1308,
+      "date": "2017-04-08 14:56:39.083 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 1296,
+      "date": "2017-04-08 15:18:13.855 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 109
+    },
+    {
+      "id": 1284,
+      "date": "2017-04-08 15:39:27.875 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 108
+    },
+    {
+      "id": 1728,
+      "date": "2017-04-08 16:02:02.764 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 134
+    },
+    {
+      "id": 1262,
+      "date": "2017-04-08 16:24:01.053 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 107
+    },
+    {
+      "id": 1238,
+      "date": "2017-04-08 16:46:02.234 +00:00",
+      "episode": 1,
+      "rating": 8,
+      "animeId": 106
+    },
+    {
+      "id": 1225,
+      "date": "2017-04-09 14:26:16.473 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 104
+    },
+    {
+      "id": 1213,
+      "date": "2017-04-09 15:13:38.802 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 103
+    },
+    {
+      "id": 1677,
+      "date": "2017-04-09 15:36:26.789 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 130
+    },
+    {
+      "id": 1715,
+      "date": "2017-04-09 15:59:39.957 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 133
+    },
+    {
+      "id": 1632,
+      "date": "2017-04-10 07:19:41.056 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 127
+    },
+    {
+      "id": 1665,
+      "date": "2017-04-10 16:16:44.058 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 129
+    },
+    {
+      "id": 1564,
+      "date": "2017-04-10 16:37:28.861 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 124
+    },
+    {
+      "id": 1652,
+      "date": "2017-04-10 17:42:26.527 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 128
+    },
+    {
+      "id": 2607,
+      "date": "2017-04-10 18:09:27.616 +00:00",
+      "episode": 14,
+      "rating": 6,
+      "animeId": 196
+    },
+    {
+      "id": 1576,
+      "date": "2017-04-11 16:34:08.712 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 125
+    },
+    {
+      "id": 1185,
+      "date": "2017-04-11 17:57:21.315 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 98
+    },
+    {
+      "id": 1172,
+      "date": "2017-04-12 16:42:50.788 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 97
+    },
+    {
+      "id": 1447,
+      "date": "2017-04-12 17:19:16.764 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 1422,
+      "date": "2017-04-12 17:37:29.940 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 121
+    },
+    {
+      "id": 1161,
+      "date": "2017-04-12 18:07:30.534 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 96
+    },
+    {
+      "id": 1137,
+      "date": "2017-04-13 16:19:46.460 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 94
+    },
+    {
+      "id": 1125,
+      "date": "2017-04-13 16:23:53.044 +00:00",
+      "episode": 1,
+      "rating": 3,
+      "animeId": 93
+    },
+    {
+      "id": 1113,
+      "date": "2017-04-13 16:47:37.770 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 92
+    },
+    {
+      "id": 1410,
+      "date": "2017-04-13 17:36:54.374 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 120
+    },
+    {
+      "id": 1387,
+      "date": "2017-04-13 17:56:42.363 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 119
+    },
+    {
+      "id": 1360,
+      "date": "2017-04-14 15:34:53.491 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 115
+    },
+    {
+      "id": 1099,
+      "date": "2017-04-14 16:04:13.500 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 88
+    },
+    {
+      "id": 1348,
+      "date": "2017-04-14 22:06:55.880 +00:00",
+      "episode": 3,
+      "rating": 7,
+      "animeId": 114
+    },
+    {
+      "id": 1283,
+      "date": "2017-04-15 14:27:05.685 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 108
+    },
+    {
+      "id": 1319,
+      "date": "2017-04-15 14:46:41.614 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 111
+    },
+    {
+      "id": 1307,
+      "date": "2017-04-15 15:13:55.227 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 110
+    },
+    {
+      "id": 1048,
+      "date": "2017-04-15 15:29:41.286 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 85
+    },
+    {
+      "id": 1373,
+      "date": "2017-04-15 15:53:21.152 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 117
+    },
+    {
+      "id": 1295,
+      "date": "2017-04-15 16:14:17.239 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 109
+    },
+    {
+      "id": 1212,
+      "date": "2017-04-15 16:36:46.124 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 103
+    },
+    {
+      "id": 1237,
+      "date": "2017-04-15 16:56:35.572 +00:00",
+      "episode": 2,
+      "rating": 8,
+      "animeId": 106
+    },
+    {
+      "id": 1035,
+      "date": "2017-04-15 21:31:50.913 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 84
+    },
+    {
+      "id": 1751,
+      "date": "2017-04-16 13:59:37.982 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 135
+    },
+    {
+      "id": 1224,
+      "date": "2017-04-16 14:23:47.413 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 104
+    },
+    {
+      "id": 1025,
+      "date": "2017-04-16 14:42:48.504 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 83
+    },
+    {
+      "id": 1727,
+      "date": "2017-04-16 15:34:21.718 +00:00",
+      "episode": 3,
+      "rating": 8,
+      "animeId": 134
+    },
+    {
+      "id": 1714,
+      "date": "2017-04-16 15:55:30.546 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 133
+    },
+    {
+      "id": 1261,
+      "date": "2017-04-16 16:16:52.399 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 107
+    },
+    {
+      "id": 1024,
+      "date": "2017-04-17 11:13:09.607 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 83
+    },
+    {
+      "id": 1023,
+      "date": "2017-04-17 11:33:39.060 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 83
+    },
+    {
+      "id": 1631,
+      "date": "2017-04-17 13:58:37.463 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 127
+    },
+    {
+      "id": 1676,
+      "date": "2017-04-17 15:40:48.011 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 130
+    },
+    {
+      "id": 1563,
+      "date": "2017-04-17 16:01:28.522 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 124
+    },
+    {
+      "id": 1664,
+      "date": "2017-04-17 16:06:17.181 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 129
+    },
+    {
+      "id": 998,
+      "date": "2017-04-17 16:26:46.091 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 81
+    },
+    {
+      "id": 2606,
+      "date": "2017-04-17 16:49:34.067 +00:00",
+      "episode": 15,
+      "rating": 7,
+      "animeId": 196
+    },
+    {
+      "id": 1575,
+      "date": "2017-04-18 16:37:27.785 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 125
+    },
+    {
+      "id": 1184,
+      "date": "2017-04-18 17:01:38.349 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 98
+    },
+    {
+      "id": 1651,
+      "date": "2017-04-18 17:47:43.525 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 128
+    },
+    {
+      "id": 1446,
+      "date": "2017-04-19 16:34:45.192 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 1171,
+      "date": "2017-04-19 16:59:39.616 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 97
+    },
+    {
+      "id": 1160,
+      "date": "2017-04-19 17:48:11.787 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 96
+    },
+    {
+      "id": 1421,
+      "date": "2017-04-19 18:10:39.595 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 121
+    },
+    {
+      "id": 1136,
+      "date": "2017-04-19 21:24:38.962 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 94
+    },
+    {
+      "id": 1112,
+      "date": "2017-04-20 16:35:13.612 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1386,
+      "date": "2017-04-20 17:44:27.393 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 119
+    },
+    {
+      "id": 1409,
+      "date": "2017-04-20 18:09:39.429 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 120
+    },
+    {
+      "id": 1359,
+      "date": "2017-04-21 16:37:13.827 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 115
+    },
+    {
+      "id": 1098,
+      "date": "2017-04-21 17:00:59.409 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 88
+    },
+    {
+      "id": 1347,
+      "date": "2017-04-21 22:34:21.484 +00:00",
+      "episode": 4,
+      "rating": 8,
+      "animeId": 114
+    },
+    {
+      "id": 1282,
+      "date": "2017-04-22 13:58:00.277 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 108
+    },
+    {
+      "id": 1318,
+      "date": "2017-04-22 14:18:46.158 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 111
+    },
+    {
+      "id": 1047,
+      "date": "2017-04-22 14:46:19.526 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 85
+    },
+    {
+      "id": 1306,
+      "date": "2017-04-22 15:06:11.656 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 1034,
+      "date": "2017-04-22 15:29:21.026 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 84
+    },
+    {
+      "id": 1294,
+      "date": "2017-04-22 15:51:07.020 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 109
+    },
+    {
+      "id": 1372,
+      "date": "2017-04-22 16:12:34.561 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 117
+    },
+    {
+      "id": 1726,
+      "date": "2017-04-22 16:30:45.679 +00:00",
+      "episode": 4,
+      "rating": 7,
+      "animeId": 134
+    },
+    {
+      "id": 1236,
+      "date": "2017-04-22 16:53:02.322 +00:00",
+      "episode": 3,
+      "rating": 7,
+      "animeId": 106
+    },
+    {
+      "id": 1124,
+      "date": "2017-04-23 08:56:42.357 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 93
+    },
+    {
+      "id": 1123,
+      "date": "2017-04-23 08:57:09.103 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 93
+    },
+    {
+      "id": 1750,
+      "date": "2017-04-23 13:55:32.216 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 135
+    },
+    {
+      "id": 1223,
+      "date": "2017-04-23 14:28:31.718 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 104
+    },
+    {
+      "id": 1022,
+      "date": "2017-04-23 15:10:43.853 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 83
+    },
+    {
+      "id": 1211,
+      "date": "2017-04-23 15:33:53.394 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 103
+    },
+    {
+      "id": 1260,
+      "date": "2017-04-23 15:55:12.232 +00:00",
+      "episode": 3,
+      "rating": 7,
+      "animeId": 107
+    },
+    {
+      "id": 1713,
+      "date": "2017-04-23 16:17:34.122 +00:00",
+      "episode": 4,
+      "rating": 7,
+      "animeId": 133
+    },
+    {
+      "id": 1675,
+      "date": "2017-04-24 16:40:36.055 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 130
+    },
+    {
+      "id": 1562,
+      "date": "2017-04-24 17:04:37.254 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 124
+    },
+    {
+      "id": 997,
+      "date": "2017-04-24 17:53:55.696 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 81
+    },
+    {
+      "id": 2605,
+      "date": "2017-04-24 18:17:09.832 +00:00",
+      "episode": 16,
+      "rating": 6,
+      "animeId": 196
+    },
+    {
+      "id": 1630,
+      "date": "2017-04-24 19:54:20.987 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 127
+    },
+    {
+      "id": 1663,
+      "date": "2017-04-24 19:58:47.784 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 129
+    },
+    {
+      "id": 1574,
+      "date": "2017-04-25 16:34:27.377 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 125
+    },
+    {
+      "id": 1183,
+      "date": "2017-04-25 16:58:55.669 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 98
+    },
+    {
+      "id": 1650,
+      "date": "2017-04-25 18:11:22.661 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 128
+    },
+    {
+      "id": 1445,
+      "date": "2017-04-26 16:37:10.880 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 1170,
+      "date": "2017-04-26 16:59:37.643 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 97
+    },
+    {
+      "id": 1420,
+      "date": "2017-04-26 17:19:09.756 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 121
+    },
+    {
+      "id": 1159,
+      "date": "2017-04-26 18:13:12.443 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 96
+    },
+    {
+      "id": 1135,
+      "date": "2017-04-26 21:15:41.175 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 94
+    },
+    {
+      "id": 1111,
+      "date": "2017-04-27 16:40:08.644 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1385,
+      "date": "2017-04-27 17:22:11.743 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 119
+    },
+    {
+      "id": 1408,
+      "date": "2017-04-27 17:47:59.273 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 120
+    },
+    {
+      "id": 7130,
+      "date": "2017-04-27 18:19:17.336 +00:00",
+      "episode": 52,
+      "rating": 2,
+      "animeId": 508
+    },
+    {
+      "id": 7129,
+      "date": "2017-04-27 18:19:24.364 +00:00",
+      "episode": 53,
+      "rating": 3,
+      "animeId": 508
+    },
+    {
+      "id": 7128,
+      "date": "2017-04-27 18:19:24.877 +00:00",
+      "episode": 54,
+      "rating": 3,
+      "animeId": 508
+    },
+    {
+      "id": 1358,
+      "date": "2017-04-28 16:27:26.148 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 115
+    },
+    {
+      "id": 1097,
+      "date": "2017-04-28 16:55:15.015 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 88
+    },
+    {
+      "id": 1346,
+      "date": "2017-04-28 22:30:52.836 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 114
+    },
+    {
+      "id": 1281,
+      "date": "2017-04-29 14:07:38.591 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 108
+    },
+    {
+      "id": 1317,
+      "date": "2017-04-29 14:30:57.705 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 111
+    },
+    {
+      "id": 1046,
+      "date": "2017-04-29 14:54:20.903 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 85
+    },
+    {
+      "id": 1305,
+      "date": "2017-04-29 15:15:42.911 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 7127,
+      "date": "2017-04-29 15:16:01.570 +00:00",
+      "episode": 55,
+      "rating": 4,
+      "animeId": 508
+    },
+    {
+      "id": 1033,
+      "date": "2017-04-29 15:34:30.623 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 84
+    },
+    {
+      "id": 1293,
+      "date": "2017-04-29 15:57:02.510 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 109
+    },
+    {
+      "id": 1371,
+      "date": "2017-04-29 16:18:33.347 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 117
+    },
+    {
+      "id": 1725,
+      "date": "2017-04-29 16:37:57.533 +00:00",
+      "episode": 5,
+      "rating": 8,
+      "animeId": 134
+    },
+    {
+      "id": 1235,
+      "date": "2017-04-29 17:00:16.466 +00:00",
+      "episode": 4,
+      "rating": 9,
+      "animeId": 106
+    },
+    {
+      "id": 728,
+      "date": "2017-04-30 11:43:28.835 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 66
+    },
+    {
+      "id": 727,
+      "date": "2017-04-30 11:55:14.683 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 66
+    },
+    {
+      "id": 726,
+      "date": "2017-04-30 12:03:38.540 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 66
+    },
+    {
+      "id": 725,
+      "date": "2017-04-30 12:11:52.571 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 66
+    },
+    {
+      "id": 724,
+      "date": "2017-04-30 12:19:03.220 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 66
+    },
+    {
+      "id": 1749,
+      "date": "2017-04-30 14:03:05.426 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 135
+    },
+    {
+      "id": 1222,
+      "date": "2017-04-30 14:23:36.943 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 104
+    },
+    {
+      "id": 1210,
+      "date": "2017-04-30 15:19:23.788 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 103
+    },
+    {
+      "id": 1021,
+      "date": "2017-04-30 15:36:45.679 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 83
+    },
+    {
+      "id": 1259,
+      "date": "2017-04-30 16:02:46.096 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 107
+    },
+    {
+      "id": 1712,
+      "date": "2017-04-30 16:23:54.296 +00:00",
+      "episode": 5,
+      "rating": 7,
+      "animeId": 133
+    },
+    {
+      "id": 2645,
+      "date": "2017-05-01 11:56:39.365 +00:00",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 199
+    },
+    {
+      "id": 1662,
+      "date": "2017-05-01 12:15:27.528 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 129
+    },
+    {
+      "id": 996,
+      "date": "2017-05-01 15:26:08.611 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 81
+    },
+    {
+      "id": 1674,
+      "date": "2017-05-01 15:46:29.081 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 130
+    },
+    {
+      "id": 1561,
+      "date": "2017-05-01 16:10:40.000 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 124
+    },
+    {
+      "id": 2604,
+      "date": "2017-05-01 16:32:44.916 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 196
+    },
+    {
+      "id": 1573,
+      "date": "2017-05-02 16:31:36.558 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 125
+    },
+    {
+      "id": 1182,
+      "date": "2017-05-02 16:54:33.002 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 98
+    },
+    {
+      "id": 1649,
+      "date": "2017-05-02 18:06:06.026 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 128
+    },
+    {
+      "id": 1169,
+      "date": "2017-05-03 16:35:05.225 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 97
+    },
+    {
+      "id": 1444,
+      "date": "2017-05-03 16:57:29.997 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 1419,
+      "date": "2017-05-03 17:15:29.833 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 121
+    },
+    {
+      "id": 1158,
+      "date": "2017-05-03 18:06:01.649 +00:00",
+      "episode": 4,
+      "rating": 7,
+      "animeId": 96
+    },
+    {
+      "id": 1134,
+      "date": "2017-05-03 21:19:15.532 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 94
+    },
+    {
+      "id": 1110,
+      "date": "2017-05-04 16:31:59.888 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 92
+    },
+    {
+      "id": 1384,
+      "date": "2017-05-04 17:26:47.741 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 119
+    },
+    {
+      "id": 1407,
+      "date": "2017-05-04 18:07:27.466 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 120
+    },
+    {
+      "id": 1096,
+      "date": "2017-05-05 16:26:42.112 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 88
+    },
+    {
+      "id": 1357,
+      "date": "2017-05-05 16:53:00.783 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 115
+    },
+    {
+      "id": 1032,
+      "date": "2017-05-05 21:26:51.225 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 84
+    },
+    {
+      "id": 1345,
+      "date": "2017-05-05 22:12:12.462 +00:00",
+      "episode": 6,
+      "rating": 7,
+      "animeId": 114
+    },
+    {
+      "id": 1280,
+      "date": "2017-05-06 07:34:50.544 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 108
+    },
+    {
+      "id": 1316,
+      "date": "2017-05-06 07:54:27.246 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 111
+    },
+    {
+      "id": 1045,
+      "date": "2017-05-06 08:32:20.670 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 85
+    },
+    {
+      "id": 1304,
+      "date": "2017-05-06 08:56:31.884 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 1292,
+      "date": "2017-05-06 09:18:51.675 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 109
+    },
+    {
+      "id": 1370,
+      "date": "2017-05-06 09:39:24.351 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 117
+    },
+    {
+      "id": 1724,
+      "date": "2017-05-06 09:55:33.544 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 134
+    },
+    {
+      "id": 1234,
+      "date": "2017-05-06 10:18:26.290 +00:00",
+      "episode": 5,
+      "rating": 7,
+      "animeId": 106
+    },
+    {
+      "id": 1122,
+      "date": "2017-05-07 13:53:49.064 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 93
+    },
+    {
+      "id": 1121,
+      "date": "2017-05-07 13:54:00.271 +00:00",
+      "episode": 5,
+      "rating": 2,
+      "animeId": 93
+    },
+    {
+      "id": 1748,
+      "date": "2017-05-07 14:10:11.464 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 135
+    },
+    {
+      "id": 1221,
+      "date": "2017-05-07 14:32:49.888 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 104
+    },
+    {
+      "id": 723,
+      "date": "2017-05-07 14:43:34.914 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 66
+    },
+    {
+      "id": 1020,
+      "date": "2017-05-07 15:48:22.279 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 83
+    },
+    {
+      "id": 1209,
+      "date": "2017-05-07 16:08:13.054 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 103
+    },
+    {
+      "id": 1258,
+      "date": "2017-05-07 16:29:01.476 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 107
+    },
+    {
+      "id": 1711,
+      "date": "2017-05-07 16:50:08.285 +00:00",
+      "episode": 6,
+      "rating": 8,
+      "animeId": 133
+    },
+    {
+      "id": 1661,
+      "date": "2017-05-08 14:20:43.865 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 129
+    },
+    {
+      "id": 995,
+      "date": "2017-05-08 14:44:35.640 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 81
+    },
+    {
+      "id": 1560,
+      "date": "2017-05-08 15:06:41.321 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 124
+    },
+    {
+      "id": 1181,
+      "date": "2017-05-08 17:53:38.990 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 98
+    },
+    {
+      "id": 1572,
+      "date": "2017-05-09 16:34:20.401 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 125
+    },
+    {
+      "id": 1648,
+      "date": "2017-05-09 17:42:00.610 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 128
+    },
+    {
+      "id": 2603,
+      "date": "2017-05-09 18:06:28.433 +00:00",
+      "episode": 18,
+      "rating": 6,
+      "animeId": 196
+    },
+    {
+      "id": 1168,
+      "date": "2017-05-10 16:43:23.826 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 97
+    },
+    {
+      "id": 1443,
+      "date": "2017-05-10 17:01:10.149 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 1418,
+      "date": "2017-05-10 17:48:48.863 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 121
+    },
+    {
+      "id": 1157,
+      "date": "2017-05-10 18:08:50.850 +00:00",
+      "episode": 5,
+      "rating": 7,
+      "animeId": 96
+    },
+    {
+      "id": 1133,
+      "date": "2017-05-10 19:11:41.858 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 94
+    },
+    {
+      "id": 1109,
+      "date": "2017-05-11 16:45:51.894 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1095,
+      "date": "2017-05-11 16:58:40.048 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 88
+    },
+    {
+      "id": 1406,
+      "date": "2017-05-11 17:45:05.863 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 120
+    },
+    {
+      "id": 1383,
+      "date": "2017-05-11 18:08:01.472 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 119
+    },
+    {
+      "id": 1356,
+      "date": "2017-05-12 16:35:24.686 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 115
+    },
+    {
+      "id": 1344,
+      "date": "2017-05-12 22:53:32.436 +00:00",
+      "episode": 7,
+      "rating": 7,
+      "animeId": 114
+    },
+    {
+      "id": 1279,
+      "date": "2017-05-13 14:35:27.865 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 108
+    },
+    {
+      "id": 1315,
+      "date": "2017-05-13 14:58:05.645 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 111
+    },
+    {
+      "id": 1303,
+      "date": "2017-05-13 15:17:35.744 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 1044,
+      "date": "2017-05-13 15:42:01.656 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 85
+    },
+    {
+      "id": 1291,
+      "date": "2017-05-13 16:06:14.792 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 109
+    },
+    {
+      "id": 1369,
+      "date": "2017-05-13 16:28:46.761 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 117
+    },
+    {
+      "id": 1723,
+      "date": "2017-05-13 16:49:12.718 +00:00",
+      "episode": 7,
+      "rating": 7,
+      "animeId": 134
+    },
+    {
+      "id": 1233,
+      "date": "2017-05-13 17:13:49.792 +00:00",
+      "episode": 6,
+      "rating": 7,
+      "animeId": 106
+    },
+    {
+      "id": 1747,
+      "date": "2017-05-14 14:12:24.087 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 135
+    },
+    {
+      "id": 1220,
+      "date": "2017-05-14 14:33:45.794 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 104
+    },
+    {
+      "id": 722,
+      "date": "2017-05-14 14:43:11.665 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 66
+    },
+    {
+      "id": 1019,
+      "date": "2017-05-14 15:56:16.130 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 83
+    },
+    {
+      "id": 1208,
+      "date": "2017-05-14 16:16:45.255 +00:00",
+      "episode": 6,
+      "rating": 7,
+      "animeId": 103
+    },
+    {
+      "id": 1257,
+      "date": "2017-05-14 16:39:40.076 +00:00",
+      "episode": 6,
+      "rating": 8,
+      "animeId": 107
+    },
+    {
+      "id": 1710,
+      "date": "2017-05-14 17:00:19.248 +00:00",
+      "episode": 7,
+      "rating": 9,
+      "animeId": 133
+    },
+    {
+      "id": 1120,
+      "date": "2017-05-15 14:11:39.070 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 93
+    },
+    {
+      "id": 1660,
+      "date": "2017-05-15 14:16:21.498 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 129
+    },
+    {
+      "id": 1673,
+      "date": "2017-05-15 16:56:50.844 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 130
+    },
+    {
+      "id": 994,
+      "date": "2017-05-15 17:47:28.354 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 81
+    },
+    {
+      "id": 1559,
+      "date": "2017-05-15 18:09:45.827 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 124
+    },
+    {
+      "id": 1647,
+      "date": "2017-05-15 18:33:39.645 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 128
+    },
+    {
+      "id": 1571,
+      "date": "2017-05-16 16:31:05.304 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 125
+    },
+    {
+      "id": 1180,
+      "date": "2017-05-16 17:42:38.908 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 98
+    },
+    {
+      "id": 2602,
+      "date": "2017-05-16 18:05:49.717 +00:00",
+      "episode": 19,
+      "rating": 7,
+      "animeId": 196
+    },
+    {
+      "id": 1167,
+      "date": "2017-05-17 16:33:23.454 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 97
+    },
+    {
+      "id": 1442,
+      "date": "2017-05-17 16:55:20.365 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 1417,
+      "date": "2017-05-17 17:19:18.375 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 121
+    },
+    {
+      "id": 1156,
+      "date": "2017-05-17 17:42:26.883 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 96
+    },
+    {
+      "id": 1132,
+      "date": "2017-05-17 21:17:44.957 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 94
+    },
+    {
+      "id": 1108,
+      "date": "2017-05-18 16:30:06.124 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1405,
+      "date": "2017-05-18 17:45:58.063 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 120
+    },
+    {
+      "id": 1382,
+      "date": "2017-05-18 18:12:31.243 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 119
+    },
+    {
+      "id": 1094,
+      "date": "2017-05-19 16:40:31.600 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 88
+    },
+    {
+      "id": 1343,
+      "date": "2017-05-19 22:00:24.329 +00:00",
+      "episode": 8,
+      "rating": 8,
+      "animeId": 114
+    },
+    {
+      "id": 721,
+      "date": "2017-05-20 14:06:21.416 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 66
+    },
+    {
+      "id": 1278,
+      "date": "2017-05-20 14:27:57.800 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 108
+    },
+    {
+      "id": 1314,
+      "date": "2017-05-20 14:51:23.998 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 111
+    },
+    {
+      "id": 1043,
+      "date": "2017-05-20 15:14:06.323 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 85
+    },
+    {
+      "id": 1302,
+      "date": "2017-05-20 15:37:26.972 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 110
+    },
+    {
+      "id": 1031,
+      "date": "2017-05-20 16:02:08.163 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 84
+    },
+    {
+      "id": 1290,
+      "date": "2017-05-20 16:22:47.148 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 109
+    },
+    {
+      "id": 1722,
+      "date": "2017-05-20 16:44:25.426 +00:00",
+      "episode": 8,
+      "rating": 7,
+      "animeId": 134
+    },
+    {
+      "id": 1232,
+      "date": "2017-05-20 17:10:37.560 +00:00",
+      "episode": 7,
+      "rating": 8,
+      "animeId": 106
+    },
+    {
+      "id": 1746,
+      "date": "2017-05-21 13:55:19.709 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 135
+    },
+    {
+      "id": 1219,
+      "date": "2017-05-21 14:15:11.728 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 104
+    },
+    {
+      "id": 1018,
+      "date": "2017-05-21 15:40:09.067 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 83
+    },
+    {
+      "id": 1207,
+      "date": "2017-05-21 16:02:01.720 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 103
+    },
+    {
+      "id": 1256,
+      "date": "2017-05-21 16:23:02.143 +00:00",
+      "episode": 7,
+      "rating": 7,
+      "animeId": 107
+    },
+    {
+      "id": 1709,
+      "date": "2017-05-21 16:44:45.278 +00:00",
+      "episode": 8,
+      "rating": 7,
+      "animeId": 133
+    },
+    {
+      "id": 1659,
+      "date": "2017-05-22 13:36:09.603 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 129
+    },
+    {
+      "id": 1672,
+      "date": "2017-05-22 17:37:25.364 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 130
+    },
+    {
+      "id": 993,
+      "date": "2017-05-22 18:02:58.819 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 81
+    },
+    {
+      "id": 1558,
+      "date": "2017-05-22 18:26:03.364 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 124
+    },
+    {
+      "id": 2601,
+      "date": "2017-05-22 18:46:49.414 +00:00",
+      "episode": 20,
+      "rating": 6,
+      "animeId": 196
+    },
+    {
+      "id": 7126,
+      "date": "2017-05-23 16:31:58.883 +00:00",
+      "episode": 56,
+      "rating": 3,
+      "animeId": 508
+    },
+    {
+      "id": 7124,
+      "date": "2017-05-23 16:32:31.313 +00:00",
+      "episode": 58,
+      "rating": 3,
+      "animeId": 508
+    },
+    {
+      "id": 7125,
+      "date": "2017-05-23 16:32:31.313 +00:00",
+      "episode": 57,
+      "rating": 2,
+      "animeId": 508
+    },
+    {
+      "id": 1570,
+      "date": "2017-05-23 16:33:23.685 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 125
+    },
+    {
+      "id": 1119,
+      "date": "2017-05-23 16:45:24.744 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 93
+    },
+    {
+      "id": 1179,
+      "date": "2017-05-23 17:39:58.151 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 98
+    },
+    {
+      "id": 1646,
+      "date": "2017-05-23 18:06:49.662 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 128
+    },
+    {
+      "id": 1166,
+      "date": "2017-05-24 16:35:16.479 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 97
+    },
+    {
+      "id": 1441,
+      "date": "2017-05-24 16:55:28.753 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 1416,
+      "date": "2017-05-24 17:21:20.660 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 121
+    },
+    {
+      "id": 1155,
+      "date": "2017-05-24 17:45:08.204 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 96
+    },
+    {
+      "id": 1131,
+      "date": "2017-05-24 19:10:18.121 +00:00",
+      "episode": 7,
+      "rating": 2,
+      "animeId": 94
+    },
+    {
+      "id": 1107,
+      "date": "2017-05-25 16:33:43.352 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1381,
+      "date": "2017-05-25 17:47:15.353 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 119
+    },
+    {
+      "id": 1404,
+      "date": "2017-05-25 18:07:46.824 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 120
+    },
+    {
+      "id": 1093,
+      "date": "2017-05-26 16:36:46.538 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 88
+    },
+    {
+      "id": 1355,
+      "date": "2017-05-26 17:00:44.969 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 115
+    },
+    {
+      "id": 1342,
+      "date": "2017-05-26 22:09:14.080 +00:00",
+      "episode": 9,
+      "rating": 7,
+      "animeId": 114
+    },
+    {
+      "id": 1277,
+      "date": "2017-05-27 14:49:27.761 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 108
+    },
+    {
+      "id": 1313,
+      "date": "2017-05-27 14:49:32.303 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 111
+    },
+    {
+      "id": 1042,
+      "date": "2017-05-27 15:10:57.018 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 85
+    },
+    {
+      "id": 1301,
+      "date": "2017-05-27 15:36:03.571 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 1030,
+      "date": "2017-05-27 16:01:28.588 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 84
+    },
+    {
+      "id": 1289,
+      "date": "2017-05-27 16:22:04.250 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 109
+    },
+    {
+      "id": 1368,
+      "date": "2017-05-27 16:44:47.499 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 117
+    },
+    {
+      "id": 1721,
+      "date": "2017-05-27 17:03:55.740 +00:00",
+      "episode": 9,
+      "rating": 7,
+      "animeId": 134
+    },
+    {
+      "id": 1231,
+      "date": "2017-05-27 17:28:33.596 +00:00",
+      "episode": 8,
+      "rating": 8,
+      "animeId": 106
+    },
+    {
+      "id": 1745,
+      "date": "2017-05-28 13:59:03.940 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 135
+    },
+    {
+      "id": 720,
+      "date": "2017-05-28 14:07:09.420 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 66
+    },
+    {
+      "id": 1218,
+      "date": "2017-05-28 14:27:12.753 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 104
+    },
+    {
+      "id": 1017,
+      "date": "2017-05-28 15:23:30.033 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 83
+    },
+    {
+      "id": 1206,
+      "date": "2017-05-28 15:46:04.095 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 103
+    },
+    {
+      "id": 1255,
+      "date": "2017-05-28 16:08:59.880 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 107
+    },
+    {
+      "id": 1708,
+      "date": "2017-05-28 16:29:59.473 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 133
+    },
+    {
+      "id": 377,
+      "date": "2017-05-29 05:33:53.321 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 31
+    },
+    {
+      "id": 1658,
+      "date": "2017-05-29 11:59:56.033 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 129
+    },
+    {
+      "id": 1671,
+      "date": "2017-05-29 16:02:08.893 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 130
+    },
+    {
+      "id": 1557,
+      "date": "2017-05-29 16:23:36.610 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 124
+    },
+    {
+      "id": 1645,
+      "date": "2017-05-29 17:18:25.430 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 128
+    },
+    {
+      "id": 2600,
+      "date": "2017-05-29 17:42:34.248 +00:00",
+      "episode": 21,
+      "rating": 7,
+      "animeId": 196
+    },
+    {
+      "id": 1569,
+      "date": "2017-05-30 16:30:09.098 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 125
+    },
+    {
+      "id": 1178,
+      "date": "2017-05-30 17:59:54.622 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 98
+    },
+    {
+      "id": 1165,
+      "date": "2017-05-31 16:33:53.673 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 97
+    },
+    {
+      "id": 1440,
+      "date": "2017-05-31 16:53:18.387 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 1154,
+      "date": "2017-05-31 17:42:27.411 +00:00",
+      "episode": 8,
+      "rating": 7,
+      "animeId": 96
+    },
+    {
+      "id": 1130,
+      "date": "2017-05-31 19:07:45.316 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 94
+    },
+    {
+      "id": 1106,
+      "date": "2017-06-01 16:37:10.120 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1415,
+      "date": "2017-06-01 17:00:42.840 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 121
+    },
+    {
+      "id": 1380,
+      "date": "2017-06-01 17:50:39.416 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 119
+    },
+    {
+      "id": 1403,
+      "date": "2017-06-01 18:11:48.287 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 120
+    },
+    {
+      "id": 1092,
+      "date": "2017-06-02 16:40:54.724 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 88
+    },
+    {
+      "id": 1354,
+      "date": "2017-06-02 16:59:39.338 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 115
+    },
+    {
+      "id": 7123,
+      "date": "2017-06-02 17:07:18.954 +00:00",
+      "episode": 59,
+      "rating": 5,
+      "animeId": 508
+    },
+    {
+      "id": 1029,
+      "date": "2017-06-02 22:22:06.175 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 84
+    },
+    {
+      "id": 1276,
+      "date": "2017-06-03 14:49:58.703 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 108
+    },
+    {
+      "id": 1312,
+      "date": "2017-06-03 15:12:03.030 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 111
+    },
+    {
+      "id": 1041,
+      "date": "2017-06-03 15:32:44.577 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 85
+    },
+    {
+      "id": 1300,
+      "date": "2017-06-03 15:57:28.024 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 1288,
+      "date": "2017-06-03 16:20:18.328 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 109
+    },
+    {
+      "id": 1367,
+      "date": "2017-06-03 16:43:51.734 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 117
+    },
+    {
+      "id": 1720,
+      "date": "2017-06-03 17:32:41.704 +00:00",
+      "episode": 10,
+      "rating": 9,
+      "animeId": 134
+    },
+    {
+      "id": 1230,
+      "date": "2017-06-03 17:57:24.615 +00:00",
+      "episode": 9,
+      "rating": 8,
+      "animeId": 106
+    },
+    {
+      "id": 1744,
+      "date": "2017-06-04 14:04:58.619 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 135
+    },
+    {
+      "id": 719,
+      "date": "2017-06-04 14:17:25.649 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 66
+    },
+    {
+      "id": 1217,
+      "date": "2017-06-04 14:39:49.252 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 104
+    },
+    {
+      "id": 1016,
+      "date": "2017-06-04 15:43:12.646 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 83
+    },
+    {
+      "id": 1205,
+      "date": "2017-06-04 16:07:16.055 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 103
+    },
+    {
+      "id": 1254,
+      "date": "2017-06-04 16:29:38.816 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 107
+    },
+    {
+      "id": 1707,
+      "date": "2017-06-04 16:50:55.095 +00:00",
+      "episode": 10,
+      "rating": 7,
+      "animeId": 133
+    },
+    {
+      "id": 1670,
+      "date": "2017-06-05 16:38:32.503 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 130
+    },
+    {
+      "id": 1556,
+      "date": "2017-06-05 17:00:38.207 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 124
+    },
+    {
+      "id": 1644,
+      "date": "2017-06-05 17:51:25.620 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 128
+    },
+    {
+      "id": 2599,
+      "date": "2017-06-05 18:14:18.368 +00:00",
+      "episode": 22,
+      "rating": 6,
+      "animeId": 196
+    },
+    {
+      "id": 1657,
+      "date": "2017-06-05 19:12:19.403 +00:00",
+      "episode": 10,
+      "rating": 2,
+      "animeId": 129
+    },
+    {
+      "id": 1568,
+      "date": "2017-06-06 16:32:43.852 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 125
+    },
+    {
+      "id": 1177,
+      "date": "2017-06-06 17:47:38.230 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 98
+    },
+    {
+      "id": 992,
+      "date": "2017-06-06 18:09:44.726 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 81
+    },
+    {
+      "id": 1118,
+      "date": "2017-06-06 19:12:58.135 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 93
+    },
+    {
+      "id": 1117,
+      "date": "2017-06-06 19:13:04.407 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 93
+    },
+    {
+      "id": 1164,
+      "date": "2017-06-07 16:34:33.014 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 97
+    },
+    {
+      "id": 1439,
+      "date": "2017-06-07 16:58:32.964 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 1153,
+      "date": "2017-06-07 17:43:01.048 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 96
+    },
+    {
+      "id": 1129,
+      "date": "2017-06-07 19:41:57.720 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 94
+    },
+    {
+      "id": 1105,
+      "date": "2017-06-08 16:36:59.322 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1414,
+      "date": "2017-06-08 17:00:28.897 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 121
+    },
+    {
+      "id": 1379,
+      "date": "2017-06-08 18:05:52.282 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 119
+    },
+    {
+      "id": 1091,
+      "date": "2017-06-09 16:30:53.753 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 88
+    },
+    {
+      "id": 1353,
+      "date": "2017-06-09 16:54:30.806 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 115
+    },
+    {
+      "id": 1402,
+      "date": "2017-06-09 21:58:51.624 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 120
+    },
+    {
+      "id": 1341,
+      "date": "2017-06-09 22:20:22.066 +00:00",
+      "episode": 10,
+      "rating": 7,
+      "animeId": 114
+    },
+    {
+      "id": 1275,
+      "date": "2017-06-10 14:31:56.612 +00:00",
+      "episode": 10,
+      "rating": 2,
+      "animeId": 108
+    },
+    {
+      "id": 1311,
+      "date": "2017-06-10 14:52:46.532 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 111
+    },
+    {
+      "id": 1040,
+      "date": "2017-06-10 15:17:01.900 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 85
+    },
+    {
+      "id": 1299,
+      "date": "2017-06-10 15:38:43.198 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 1028,
+      "date": "2017-06-10 15:59:55.127 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 84
+    },
+    {
+      "id": 1287,
+      "date": "2017-06-10 16:20:19.062 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 109
+    },
+    {
+      "id": 1366,
+      "date": "2017-06-10 16:43:53.796 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 117
+    },
+    {
+      "id": 1719,
+      "date": "2017-06-10 16:57:26.719 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 134
+    },
+    {
+      "id": 1229,
+      "date": "2017-06-10 17:21:10.729 +00:00",
+      "episode": 10,
+      "rating": 7,
+      "animeId": 106
+    },
+    {
+      "id": 1743,
+      "date": "2017-06-11 13:59:16.427 +00:00",
+      "episode": 11,
+      "rating": 2,
+      "animeId": 135
+    },
+    {
+      "id": 718,
+      "date": "2017-06-11 14:10:16.441 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 66
+    },
+    {
+      "id": 1216,
+      "date": "2017-06-11 14:29:58.084 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 104
+    },
+    {
+      "id": 1015,
+      "date": "2017-06-11 15:31:20.344 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 83
+    },
+    {
+      "id": 1204,
+      "date": "2017-06-11 15:53:35.066 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 103
+    },
+    {
+      "id": 1253,
+      "date": "2017-06-11 16:16:03.959 +00:00",
+      "episode": 10,
+      "rating": 7,
+      "animeId": 107
+    },
+    {
+      "id": 1706,
+      "date": "2017-06-11 16:38:24.578 +00:00",
+      "episode": 11,
+      "rating": 8,
+      "animeId": 133
+    },
+    {
+      "id": 1669,
+      "date": "2017-06-12 16:37:25.596 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 130
+    },
+    {
+      "id": 1555,
+      "date": "2017-06-12 16:59:39.084 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 124
+    },
+    {
+      "id": 991,
+      "date": "2017-06-12 17:24:40.896 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 81
+    },
+    {
+      "id": 2598,
+      "date": "2017-06-12 18:14:28.134 +00:00",
+      "episode": 23,
+      "rating": 6,
+      "animeId": 196
+    },
+    {
+      "id": 1567,
+      "date": "2017-06-13 16:40:08.218 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 125
+    },
+    {
+      "id": 1176,
+      "date": "2017-06-13 17:27:40.859 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 98
+    },
+    {
+      "id": 1643,
+      "date": "2017-06-13 17:47:49.215 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 128
+    },
+    {
+      "id": 1163,
+      "date": "2017-06-14 16:43:38.266 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 97
+    },
+    {
+      "id": 1438,
+      "date": "2017-06-14 17:07:46.585 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 1413,
+      "date": "2017-06-14 17:30:28.348 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 121
+    },
+    {
+      "id": 1152,
+      "date": "2017-06-14 18:12:33.030 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 96
+    },
+    {
+      "id": 1128,
+      "date": "2017-06-14 19:07:23.699 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 94
+    },
+    {
+      "id": 1104,
+      "date": "2017-06-15 16:37:05.988 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 92
+    },
+    {
+      "id": 1378,
+      "date": "2017-06-15 17:42:40.343 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 119
+    },
+    {
+      "id": 1401,
+      "date": "2017-06-15 18:04:39.576 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 120
+    },
+    {
+      "id": 1116,
+      "date": "2017-06-16 16:24:21.069 +00:00",
+      "episode": 10,
+      "rating": 2,
+      "animeId": 93
+    },
+    {
+      "id": 1090,
+      "date": "2017-06-16 16:40:27.397 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 88
+    },
+    {
+      "id": 1352,
+      "date": "2017-06-16 17:07:02.326 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 115
+    },
+    {
+      "id": 1340,
+      "date": "2017-06-16 21:58:33.810 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 114
+    },
+    {
+      "id": 1274,
+      "date": "2017-06-17 14:22:21.117 +00:00",
+      "episode": 11,
+      "rating": 2,
+      "animeId": 108
+    },
+    {
+      "id": 1310,
+      "date": "2017-06-17 14:50:49.153 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 111
+    },
+    {
+      "id": 1039,
+      "date": "2017-06-17 15:12:13.269 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 85
+    },
+    {
+      "id": 1298,
+      "date": "2017-06-17 15:35:10.928 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 110
+    },
+    {
+      "id": 1027,
+      "date": "2017-06-17 15:56:01.400 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 84
+    },
+    {
+      "id": 1286,
+      "date": "2017-06-17 16:17:53.149 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 109
+    },
+    {
+      "id": 1365,
+      "date": "2017-06-17 16:37:08.697 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 117
+    },
+    {
+      "id": 1718,
+      "date": "2017-06-17 16:58:35.720 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 134
+    },
+    {
+      "id": 1228,
+      "date": "2017-06-17 17:56:00.645 +00:00",
+      "episode": 11,
+      "rating": 7,
+      "animeId": 106
+    },
+    {
+      "id": 1742,
+      "date": "2017-06-18 14:06:21.660 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 135
+    },
+    {
+      "id": 717,
+      "date": "2017-06-18 14:14:28.026 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 66
+    },
+    {
+      "id": 1215,
+      "date": "2017-06-18 14:39:31.312 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 104
+    },
+    {
+      "id": 1014,
+      "date": "2017-06-18 15:33:18.240 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 83
+    },
+    {
+      "id": 1203,
+      "date": "2017-06-18 15:40:16.862 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 103
+    },
+    {
+      "id": 1252,
+      "date": "2017-06-18 16:08:16.083 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 107
+    },
+    {
+      "id": 1705,
+      "date": "2017-06-18 16:29:44.898 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 133
+    },
+    {
+      "id": 1668,
+      "date": "2017-06-19 16:31:37.733 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 130
+    },
+    {
+      "id": 1554,
+      "date": "2017-06-19 16:52:24.991 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 124
+    },
+    {
+      "id": 990,
+      "date": "2017-06-19 17:11:01.389 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 81
+    },
+    {
+      "id": 2597,
+      "date": "2017-06-19 17:57:46.815 +00:00",
+      "episode": 24,
+      "rating": 6,
+      "animeId": 196
+    },
+    {
+      "id": 1656,
+      "date": "2017-06-19 21:20:06.341 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 129
+    },
+    {
+      "id": 1566,
+      "date": "2017-06-20 16:29:14.585 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 125
+    },
+    {
+      "id": 1175,
+      "date": "2017-06-20 17:16:13.729 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 98
+    },
+    {
+      "id": 1115,
+      "date": "2017-06-20 17:19:18.242 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 93
+    },
+    {
+      "id": 1642,
+      "date": "2017-06-20 18:05:13.100 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 128
+    },
+    {
+      "id": 1162,
+      "date": "2017-06-21 16:35:36.265 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 97
+    },
+    {
+      "id": 1437,
+      "date": "2017-06-21 17:00:18.449 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 122
+    },
+    {
+      "id": 1412,
+      "date": "2017-06-21 17:53:21.005 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 121
+    },
+    {
+      "id": 1151,
+      "date": "2017-06-21 18:13:35.670 +00:00",
+      "episode": 11,
+      "rating": 7,
+      "animeId": 96
+    },
+    {
+      "id": 1127,
+      "date": "2017-06-21 19:11:19.286 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 94
+    },
+    {
+      "id": 1103,
+      "date": "2017-06-22 16:36:32.064 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1377,
+      "date": "2017-06-22 17:54:30.495 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 119
+    },
+    {
+      "id": 1400,
+      "date": "2017-06-22 18:17:08.073 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 120
+    },
+    {
+      "id": 1089,
+      "date": "2017-06-23 16:41:47.826 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 88
+    },
+    {
+      "id": 1351,
+      "date": "2017-06-23 17:04:25.209 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 115
+    },
+    {
+      "id": 1339,
+      "date": "2017-06-23 22:44:39.590 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 114
+    },
+    {
+      "id": 1273,
+      "date": "2017-06-24 14:53:15.163 +00:00",
+      "episode": 12,
+      "rating": 2,
+      "animeId": 108
+    },
+    {
+      "id": 1309,
+      "date": "2017-06-24 15:16:55.263 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 111
+    },
+    {
+      "id": 1038,
+      "date": "2017-06-24 15:38:14.410 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 85
+    },
+    {
+      "id": 1297,
+      "date": "2017-06-24 16:01:50.806 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 110
+    },
+    {
+      "id": 1026,
+      "date": "2017-06-24 16:15:49.996 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 84
+    },
+    {
+      "id": 1285,
+      "date": "2017-06-24 16:59:14.369 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 109
+    },
+    {
+      "id": 1364,
+      "date": "2017-06-24 17:23:01.103 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 117
+    },
+    {
+      "id": 1717,
+      "date": "2017-06-24 17:42:49.325 +00:00",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 134
+    },
+    {
+      "id": 1227,
+      "date": "2017-06-24 18:04:00.783 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 106
+    },
+    {
+      "id": 29,
+      "date": "2017-06-24 18:08:49.686 +00:00",
+      "episode": 1,
+      "rating": 2,
+      "animeId": 4
+    },
+    {
+      "id": 716,
+      "date": "2017-06-25 14:58:00.810 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 66
+    },
+    {
+      "id": 1214,
+      "date": "2017-06-25 15:17:46.614 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 104
+    },
+    {
+      "id": 1202,
+      "date": "2017-06-25 16:13:20.018 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 103
+    },
+    {
+      "id": 1013,
+      "date": "2017-06-25 16:34:21.473 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 83
+    },
+    {
+      "id": 1251,
+      "date": "2017-06-25 16:54:44.112 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 107
+    },
+    {
+      "id": 1667,
+      "date": "2017-06-26 16:49:26.238 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 130
+    },
+    {
+      "id": 989,
+      "date": "2017-06-26 17:16:34.160 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 81
+    },
+    {
+      "id": 2596,
+      "date": "2017-06-26 18:08:49.579 +00:00",
+      "episode": 25,
+      "rating": 7,
+      "animeId": 196
+    },
+    {
+      "id": 1655,
+      "date": "2017-06-26 19:04:03.329 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 129
+    },
+    {
+      "id": 1654,
+      "date": "2017-06-26 19:04:03.840 +00:00",
+      "episode": 13,
+      "rating": 2,
+      "animeId": 129
+    },
+    {
+      "id": 1174,
+      "date": "2017-06-27 16:55:01.156 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 98
+    },
+    {
+      "id": 1173,
+      "date": "2017-06-28 16:48:55.320 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 97
+    },
+    {
+      "id": 1449,
+      "date": "2017-06-28 17:12:23.209 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 1424,
+      "date": "2017-06-28 17:33:21.860 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 121
+    },
+    {
+      "id": 1138,
+      "date": "2017-06-28 19:21:05.183 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 94
+    },
+    {
+      "id": 1114,
+      "date": "2017-06-29 16:51:51.050 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 92
+    },
+    {
+      "id": 1126,
+      "date": "2017-06-29 17:22:22.221 +00:00",
+      "episode": 12,
+      "rating": 2,
+      "animeId": 93
+    },
+    {
+      "id": 1389,
+      "date": "2017-06-29 18:04:33.457 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 119
+    },
+    {
+      "id": 1362,
+      "date": "2017-06-30 16:43:16.314 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 115
     }
   ]
 }

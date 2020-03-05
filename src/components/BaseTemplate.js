@@ -15,6 +15,7 @@ function BaseTemplate({
   series,
   overview,
   hideRatingColumn,
+  getSeason,
   customDescriptiveText,
   pageContext
 }) {
@@ -42,7 +43,11 @@ function BaseTemplate({
           {'\n\r'}Entries are sorted by average desc, rating desc, mode desc,
           and title asc.
         </p>
-        <HGTable hideRatingColumn={hideRatingColumn} items={items} />
+        <HGTable
+          hideRatingColumn={hideRatingColumn}
+          getSeason={getSeason}
+          items={items}
+        />
       </div>
       <Navigation {...pageContext} />
     </Layout>
@@ -74,7 +79,8 @@ BaseTemplate.propTypes = {
     })
   ),
   hideRatingColumn: PropTypes.bool,
-  customDescriptiveText: PropTypes.string
+  customDescriptiveText: PropTypes.string,
+  getSeason: PropTypes.func
 };
 
 export default BaseTemplate;

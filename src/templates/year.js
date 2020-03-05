@@ -1,29 +1,28 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import BaseTemplate from '../components/BaseTemplate';
-import averageRatedTotal from '../utils/averageRatedTotal';
-
-const CURRENTLY_AIRING = 'Currently Airing';
+import BaseTemplate from '@/components/BaseTemplate';
+import averageRatedTotal from '@/utils/averageRatedTotal';
+import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
+import reduceSeasons from '@/utils/reduceSeasons';
 
 export default ({ data, ...props }) => {
   const year = props.path.replace(/\//g, '');
-  const seasons = data.allDataJson.nodes.filter(
-    (x) => x.season !== CURRENTLY_AIRING
-  );
+  const seasons = data.allDataJson.nodes;
 
   const overview = seasons.map(averageRatedTotal);
-  const series = seasons.reduce(
-    (p, c) => [...p, ...c.series.map((x) => ({ ...x, season: c.season }))],
-    []
-  );
+  const series = reduceSeasons(seasons, 'series');
+  const episodes = reduceSeasons(seasons, 'episodes');
 
+  const items = generateSeriesStatistics(year, series, episodes);
+  console.log('Year : ', items);
   return (
     <BaseTemplate
       {...props}
       title={`Overview of ${year}`}
       overview={overview}
-      series={series}
+      series={items}
+      getSeason={(_, season) => `${season.season} ${season.year}`}
     />
   );
 };
@@ -32,7 +31,6 @@ export const query = graphql`
   query($slug: String!) {
     allDataJson(filter: { fields: { slug: { regex: $slug } } }) {
       nodes {
-        id
         season
         series {
           id
@@ -46,10 +44,18 @@ export const query = graphql`
           }
           malId
           rating
-          average
-          highest
-          lowest
-          mode
+          totalEpisodes
+          season {
+            year
+            season
+          }
+        }
+        episodes {
+          id
+          date
+          episode
+          rating
+          animeId
         }
       }
     }

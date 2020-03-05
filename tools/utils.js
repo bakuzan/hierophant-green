@@ -34,7 +34,7 @@ async function writeOut(season, data) {
   return await medWriteOut(fileName, payload);
 }
 
-async function readSeasonsData(includeAll = false) {
+async function readSeasonsData() {
   const dirname = pathFix(__dirname, '..', './data');
   const filenames = await readdirAsync(dirname);
   const result = [];
@@ -42,15 +42,9 @@ async function readSeasonsData(includeAll = false) {
   for (let filename of filenames) {
     const file = await readFileAsync(pathFix(dirname, filename), 'utf-8');
     const data = JSON.parse(file);
-
-    // Ignore currently airing files
-    if (data.hasOwnProperty('date')) {
-      continue;
-    }
-
     const hasUnratedSeries = data.series.some((x) => x.rating === 0);
 
-    if (includeAll || hasUnratedSeries) {
+    if (hasUnratedSeries) {
       result.push(data.season);
     }
   }
