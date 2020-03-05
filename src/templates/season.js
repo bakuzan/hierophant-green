@@ -1,20 +1,26 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import BaseTemplate from '../components/BaseTemplate';
-import getSeasonName from '../utils/getSeasonName';
+import BaseTemplate from '@/components/BaseTemplate';
+import getSeasonName from '@/utils/getSeasonName';
+import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 
 export default ({ data, ...props }) => {
   const entry = data.dataJson;
   const seasonName = getSeasonName(entry.season);
 
-  return <BaseTemplate {...props} title={seasonName} series={entry.series} />;
+  const items = generateSeriesStatistics(
+    seasonName,
+    entry.series,
+    entry.episodes
+  );
+  console.log('Season : ', items);
+  return <BaseTemplate {...props} title={seasonName} series={items} />;
 };
 
 export const query = graphql`
   query($slug: String!) {
     dataJson(fields: { slug: { eq: $slug } }) {
-      id
       season
       series {
         id
@@ -28,10 +34,18 @@ export const query = graphql`
         }
         malId
         rating
-        average
-        highest
-        lowest
-        mode
+        totalEpisodes
+        season {
+          year
+          season
+        }
+      }
+      episodes {
+        id
+        date
+        episode
+        rating
+        animeId
       }
     }
   }

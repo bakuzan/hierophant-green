@@ -2,444 +2,5801 @@
   "season": "2018-07",
   "series": [
     {
-      "id": 2609,
-      "title": "Aguu: Tensai Ningyou",
-      "rating": 5,
-      "average": 5,
-      "highest": 6,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/EaSgGp3.jpg",
-      "malId": 37769
+      "id": 2306,
+      "title": "Gegege no Kitarou (2018)",
+      "image": "https://i.imgur.com/p0ftolA.jpg",
+      "malId": 37140,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
     },
     {
-      "id": 2565,
-      "title": "Angolmois: Genkou Kassenki",
-      "rating": 7,
-      "average": 6.333333333333333,
-      "highest": 7,
-      "lowest": 6,
-      "mode": 6,
-      "image": "https://i.imgur.com/7fVyJEZ.jpg",
-      "malId": 35834
-    },
-    {
-      "id": 2573,
-      "title": "Ani ni Tsukeru Kusuri wa Nai! 2",
-      "rating": 3,
-      "average": 2.9565217391304346,
-      "highest": 5,
-      "lowest": 2,
-      "mode": 3,
-      "image": "https://i.imgur.com/GpALFVf.jpg",
-      "malId": 37924
-    },
-    {
-      "id": 2552,
-      "title": "Asobi Asobase",
-      "rating": 6,
-      "average": 5,
-      "highest": 7,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/FIBVCGD.jpg",
-      "malId": 37171
-    },
-    {
-      "id": 2537,
-      "title": "Back Street Girls: Gokudolls",
+      "id": 2354,
+      "title": "Hoozuki no Reitetsu 2nd Season: Sono Ni",
+      "image": "https://i.imgur.com/Gl7DnMx.jpg",
+      "malId": 37029,
       "rating": 4,
-      "average": 3.8,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 3,
-      "image": "https://i.imgur.com/sxS8bzq.jpg",
-      "malId": 36873
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
     },
     {
-      "id": 2535,
-      "title": "Baki (2018)",
+      "id": 2414,
+      "title": "Cardfight!! Vanguard (2018)",
+      "image": "https://i.imgur.com/YlDGLCX.jpg",
+      "malId": 37476,
+      "rating": 5,
+      "totalEpisodes": 52,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2355,
+      "title": "Major 2nd (TV)",
+      "image": "https://i.imgur.com/gtZi0ni.jpg",
+      "malId": 36565,
+      "rating": 5,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2349,
+      "title": "Boku no Hero Academia 3rd Season",
+      "image": "https://i.imgur.com/kbRVj6o.jpg",
+      "malId": 36456,
       "rating": 6,
-      "average": 5.269230769230769,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/7sfFFPm.jpg",
-      "malId": 34443
-    },
-    {
-      "id": 2571,
-      "title": "Banana Fish",
-      "rating": 6,
-      "average": 5.916666666666667,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/39p4qwK.jpg",
-      "malId": 36649
-    },
-    {
-      "id": 2542,
-      "title": "Chio-chan no Tsuugakuro",
-      "rating": 6,
-      "average": 5.583333333333333,
-      "highest": 7,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/E7hTOOu.jpg",
-      "malId": 35821
-    },
-    {
-      "id": 2531,
-      "title": "Chuukan Kanriroku Tonegawa",
-      "rating": 6,
-      "average": 5.125,
-      "highest": 7,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/2xkqhZ4.jpg",
-      "malId": 37338
-    },
-    {
-      "id": 2523,
-      "title": "Cinderella Girls Gekijou 3rd Season",
-      "rating": 2,
-      "average": 2.076923076923077,
-      "highest": 3,
-      "lowest": 2,
-      "mode": 2,
-      "image": "https://i.imgur.com/U4TkPZO.jpg",
-      "malId": 37422
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
     },
     {
       "id": 2515,
       "title": "Dragon Ball Heroes",
-      "rating": 0,
-      "average": 3.8421052631578947,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
       "image": "https://i.imgur.com/ajG41Y3.jpg",
-      "malId": 37885
+      "malId": 37885,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
     },
     {
-      "id": 2566,
-      "title": "Free!: Dive to the Future",
-      "rating": 5,
-      "average": 4.25,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/Seuh9Oi.jpg",
-      "malId": 36704
-    },
-    {
-      "id": 2556,
-      "title": "Gintama.: Shirogane no Tamashii-hen 2",
-      "rating": 5,
-      "average": 4.357142857142857,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/NXdybtG.jpg",
-      "malId": 37491
-    },
-    {
-      "id": 2579,
-      "title": "Grand Blue",
-      "rating": 6,
-      "average": 5.666666666666667,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/g7qxbFB.jpg",
-      "malId": 37105
-    },
-    {
-      "id": 2517,
-      "title": "Hanebado!",
+      "id": 2180,
+      "title": "Darling in the FranXX",
+      "image": "https://i.imgur.com/hNyTOMP.jpg",
+      "malId": 35849,
       "rating": 7,
-      "average": 6,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/uhbpeUH.jpg",
-      "malId": 37259
-    },
-    {
-      "id": 2577,
-      "title": "Happy Sugar Life",
-      "rating": 7,
-      "average": 6.333333333333333,
-      "highest": 7,
-      "lowest": 6,
-      "mode": 6,
-      "image": "https://i.imgur.com/Ym0cD2m.jpg",
-      "malId": 37517
-    },
-    {
-      "id": 2540,
-      "title": "Harukana Receive",
-      "rating": 6,
-      "average": 6,
-      "highest": 6,
-      "lowest": 6,
-      "mode": 6,
-      "image": "https://i.imgur.com/2R1yep9.jpg",
-      "malId": 35983
-    },
-    {
-      "id": 2554,
-      "title": "Hataraku Saibou (TV)",
-      "rating": 7,
-      "average": 6.230769230769231,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/OxDe3kJ.jpg",
-      "malId": 37141
-    },
-    {
-      "id": 2590,
-      "title": "High Score Girl",
-      "rating": 4,
-      "average": 4.166666666666667,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/IlNrqyG.jpg",
-      "malId": 21877
-    },
-    {
-      "id": 2555,
-      "title": "Hyakuren no Haou to Seiyaku no Valkyria",
-      "rating": 4,
-      "average": 3.9166666666666665,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/YNF8Q4z.jpg",
-      "malId": 37446
-    },
-    {
-      "id": 2538,
-      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
-      "rating": 5,
-      "average": 4.416666666666667,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/Wz13e1G.jpg",
-      "malId": 37210
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Winter"
+      }
     },
     {
       "id": 2516,
       "title": "Island",
-      "rating": 5,
-      "average": 4.25,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
       "image": "https://i.imgur.com/vOdLIQF.jpg",
-      "malId": 33012
-    },
-    {
-      "id": 2560,
-      "title": "Jashin-chan Dropkick",
-      "rating": 4,
-      "average": 4,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/yvzTszZ.jpg",
-      "malId": 36906
-    },
-    {
-      "id": 2592,
-      "title": "Joshiochi!: 2-kai kara Onnanoko ga... Futtekita!?",
-      "rating": 4,
-      "average": 3.888888888888889,
-      "highest": 6,
-      "lowest": 2,
-      "mode": 5,
-      "image": "https://i.imgur.com/pKiLIlL.jpg",
-      "malId": null
-    },
-    {
-      "id": 2561,
-      "title": "Kyoto Teramachi Sanjou no Holmes",
+      "malId": 33012,
       "rating": 5,
-      "average": 4.833333333333333,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/M985HXt.jpg",
-      "malId": 37458
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
     },
     {
-      "id": 2580,
-      "title": "Lord of Vermilion: Guren no Ou",
+      "id": 2517,
+      "title": "Hanebado!",
+      "image": "https://i.imgur.com/uhbpeUH.jpg",
+      "malId": 37259,
+      "rating": 7,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2358,
+      "title": "Persona 5 the Animation",
+      "image": "https://i.imgur.com/nyMqbud.jpg",
+      "malId": 36023,
+      "rating": 7,
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2367,
+      "title": "Juushinki Pandora",
+      "image": "https://i.imgur.com/LlOFtYb.jpg",
+      "malId": 33531,
       "rating": 3,
-      "average": 3.6666666666666665,
-      "highest": 4,
-      "lowest": 2,
-      "mode": 4,
-      "image": "https://i.imgur.com/zw4dGq7.jpg",
-      "malId": 37601
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2381,
+      "title": "Hisone to Maso-tan",
+      "image": "https://i.imgur.com/JLnjTYJ.jpg",
+      "malId": 36884,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2189,
+      "title": "Saiki Kusuo no Ψ-nan 2",
+      "image": "https://i.imgur.com/Hry2sIJ.jpg",
+      "malId": 34612,
+      "rating": 6,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Winter"
+      }
     },
     {
       "id": 2522,
       "title": "One Room 2nd Season",
-      "rating": 3,
-      "average": 2.6363636363636362,
-      "highest": 3,
-      "lowest": 2,
-      "mode": 3,
       "image": "https://i.imgur.com/KOLxxOa.jpg",
-      "malId": 36431
-    },
-    {
-      "id": 2553,
-      "title": "Ongaku Shoujo (TV)",
-      "rating": 4,
-      "average": 4.083333333333333,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/w6C8d8C.jpg",
-      "malId": 37481
-    },
-    {
-      "id": 2564,
-      "title": "Overlord III",
-      "rating": 6,
-      "average": 5.461538461538462,
-      "highest": 7,
-      "lowest": 3,
-      "mode": 6,
-      "image": "https://i.imgur.com/0KAxeay.jpg",
-      "malId": 37675
-    },
-    {
-      "id": 2551,
-      "title": "Planet With",
-      "rating": 6,
-      "average": 5.333333333333333,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/DFTkICP.jpg",
-      "malId": 37578
-    },
-    {
-      "id": 2541,
-      "title": "Satsuriku no Tenshi",
-      "rating": 6,
-      "average": 5.2727272727272725,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/CxUyA2g.jpg",
-      "malId": 35994
-    },
-    {
-      "id": 2524,
-      "title": "Senjuushi",
+      "malId": 36431,
       "rating": 3,
-      "average": 3.3333333333333335,
-      "highest": 4,
-      "lowest": 3,
-      "mode": 3,
-      "image": "https://i.imgur.com/8etwtBu.jpg",
-      "malId": 37571
-    },
-    {
-      "id": 2539,
-      "title": "Shichisei no Subaru",
-      "rating": 4,
-      "average": 3.8333333333333335,
-      "highest": 4,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/hcPY4lD.jpg",
-      "malId": 36316
-    },
-    {
-      "id": 2615,
-      "title": "Shingeki no Kyojin Season 3",
-      "rating": 6,
-      "average": 5.916666666666667,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/pgdj8mX.jpg",
-      "malId": 35760
-    },
-    {
-      "id": 2586,
-      "title": "Shoujo☆Kageki Revue Starlight",
-      "rating": 5,
-      "average": 4,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/7U1fPRQ.jpg",
-      "malId": 35503
-    },
-    {
-      "id": 2547,
-      "title": "Sunoharasou no Kanrinin-san",
-      "rating": 5,
-      "average": 4.75,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/tZR6WcS.jpg",
-      "malId": 36817
-    },
-    {
-      "id": 2578,
-      "title": "Tenrou: Sirius the Jaeger",
-      "rating": 5,
-      "average": 5.5,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/WJkzlME.jpg",
-      "malId": 37569
-    },
-    {
-      "id": 2616,
-      "title": "Tsukumogami Kashimasu",
-      "rating": 5,
-      "average": 4.583333333333333,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/D7HuEee.jpg",
-      "malId": 36654
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
     },
     {
       "id": 2521,
       "title": "Yama no Susume: Third Season",
-      "rating": 5,
-      "average": 4.6923076923076925,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
       "image": "https://i.imgur.com/VRdRzWs.jpg",
-      "malId": 35672
+      "malId": 35672,
+      "rating": 5,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2317,
+      "title": "Kakuriyo no Yadomeshi",
+      "image": "https://i.imgur.com/s1MWiiK.jpg",
+      "malId": 36754,
+      "rating": 6,
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2324,
+      "title": "Gundam Build Divers",
+      "image": "https://i.imgur.com/9QQVkns.jpg",
+      "malId": 37245,
+      "rating": 4,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2523,
+      "title": "Cinderella Girls Gekijou 3rd Season",
+      "image": "https://i.imgur.com/U4TkPZO.jpg",
+      "malId": 37422,
+      "rating": 2,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2322,
+      "title": "Captain Tsubasa (2018)",
+      "image": "https://i.imgur.com/SJ5VStv.jpg",
+      "malId": 36934,
+      "rating": 4,
+      "totalEpisodes": 52,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 1929,
+      "title": "Black Clover (TV)",
+      "image": "https://i.imgur.com/a8CF1mA.jpg",
+      "malId": 34572,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2017,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 2524,
+      "title": "Senjuushi",
+      "image": "https://i.imgur.com/8etwtBu.jpg",
+      "malId": 37571,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2374,
+      "title": "High School DxD Hero",
+      "image": "https://i.imgur.com/e23seus.jpg",
+      "malId": 34281,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2531,
+      "title": "Chuukan Kanriroku Tonegawa",
+      "image": "https://i.imgur.com/2xkqhZ4.jpg",
+      "malId": 37338,
+      "rating": 6,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2353,
+      "title": "Inazuma Eleven: Ares no Tenbin",
+      "image": "https://i.imgur.com/ZwjA3uT.jpg",
+      "malId": 33733,
+      "rating": 4,
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 122,
+      "title": "Boruto: Naruto Next Generations",
+      "image": "https://i.imgur.com/O5vYeDw.jpg",
+      "malId": 34566,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2535,
+      "title": "Baki (2018)",
+      "image": "https://i.imgur.com/7sfFFPm.jpg",
+      "malId": 34443,
+      "rating": 6,
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2330,
+      "title": "Lupin III: Part 5",
+      "image": "https://i.imgur.com/Gn6lEST.jpg",
+      "malId": 35857,
+      "rating": 7,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2338,
+      "title": "Akkun to Kanojo",
+      "image": "https://i.imgur.com/Mn77GaB.jpg",
+      "malId": 36864,
+      "rating": 5,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2537,
+      "title": "Back Street Girls: Gokudolls",
+      "image": "https://i.imgur.com/sxS8bzq.jpg",
+      "malId": 36873,
+      "rating": 4,
+      "totalEpisodes": 10,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2538,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "image": "https://i.imgur.com/Wz13e1G.jpg",
+      "malId": 37210,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2340,
+      "title": "Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+      "image": "https://i.imgur.com/xjBMrx1.jpg",
+      "malId": 37126,
+      "rating": 3,
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2383,
+      "title": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
+      "image": "https://i.imgur.com/I5EHcxL.jpg",
+      "malId": 34420,
+      "rating": 4,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2539,
+      "title": "Shichisei no Subaru",
+      "image": "https://i.imgur.com/hcPY4lD.jpg",
+      "malId": 36316,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2541,
+      "title": "Satsuriku no Tenshi",
+      "image": "https://i.imgur.com/CxUyA2g.jpg",
+      "malId": 35994,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2547,
+      "title": "Sunoharasou no Kanrinin-san",
+      "image": "https://i.imgur.com/tZR6WcS.jpg",
+      "malId": 36817,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2373,
+      "title": "Steins;Gate 0",
+      "image": "https://i.imgur.com/5gWY4EP.jpg",
+      "malId": 30484,
+      "rating": 6,
+      "totalEpisodes": 23,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2542,
+      "title": "Chio-chan no Tsuugakuro",
+      "image": "https://i.imgur.com/E7hTOOu.jpg",
+      "malId": 35821,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2540,
+      "title": "Harukana Receive",
+      "image": "https://i.imgur.com/2R1yep9.jpg",
+      "malId": 35983,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2553,
+      "title": "Ongaku Shoujo (TV)",
+      "image": "https://i.imgur.com/w6C8d8C.jpg",
+      "malId": 37481,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2552,
+      "title": "Asobi Asobase",
+      "image": "https://i.imgur.com/FIBVCGD.jpg",
+      "malId": 37171,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2551,
+      "title": "Planet With",
+      "image": "https://i.imgur.com/DFTkICP.jpg",
+      "malId": 37578,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2554,
+      "title": "Hataraku Saibou (TV)",
+      "image": "https://i.imgur.com/OxDe3kJ.jpg",
+      "malId": 37141,
+      "rating": 7,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2555,
+      "title": "Hyakuren no Haou to Seiyaku no Valkyria",
+      "image": "https://i.imgur.com/YNF8Q4z.jpg",
+      "malId": 37446,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2363,
+      "title": "Piano no Mori (TV)",
+      "image": "https://i.imgur.com/YwWWUIQ.jpg",
+      "malId": 36652,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2556,
+      "title": "Gintama.: Shirogane no Tamashii-hen 2",
+      "image": "https://i.imgur.com/NXdybtG.jpg",
+      "malId": 37491,
+      "rating": 5,
+      "totalEpisodes": 14,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2560,
+      "title": "Jashin-chan Dropkick",
+      "image": "https://i.imgur.com/yvzTszZ.jpg",
+      "malId": 36906,
+      "rating": 4,
+      "totalEpisodes": 11,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2561,
+      "title": "Kyoto Teramachi Sanjou no Holmes",
+      "image": "https://i.imgur.com/M985HXt.jpg",
+      "malId": 37458,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2564,
+      "title": "Overlord III",
+      "image": "https://i.imgur.com/0KAxeay.jpg",
+      "malId": 37675,
+      "rating": 6,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2565,
+      "title": "Angolmois: Genkou Kassenki",
+      "image": "https://i.imgur.com/7fVyJEZ.jpg",
+      "malId": 35834,
+      "rating": 7,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2566,
+      "title": "Free!: Dive to the Future",
+      "image": "https://i.imgur.com/Seuh9Oi.jpg",
+      "malId": 36704,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2573,
+      "title": "Ani ni Tsukeru Kusuri wa Nai! 2",
+      "image": "https://i.imgur.com/GpALFVf.jpg",
+      "malId": 37924,
+      "rating": 3,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2571,
+      "title": "Banana Fish",
+      "image": "https://i.imgur.com/39p4qwK.jpg",
+      "malId": 36649,
+      "rating": 6,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2577,
+      "title": "Happy Sugar Life",
+      "image": "https://i.imgur.com/Ym0cD2m.jpg",
+      "malId": 37517,
+      "rating": 7,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2578,
+      "title": "Tenrou: Sirius the Jaeger",
+      "image": "https://i.imgur.com/WJkzlME.jpg",
+      "malId": 37569,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2580,
+      "title": "Lord of Vermilion: Guren no Ou",
+      "image": "https://i.imgur.com/zw4dGq7.jpg",
+      "malId": 37601,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2579,
+      "title": "Grand Blue",
+      "image": "https://i.imgur.com/g7qxbFB.jpg",
+      "malId": 37105,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2586,
+      "title": "Shoujo☆Kageki Revue Starlight",
+      "image": "https://i.imgur.com/7U1fPRQ.jpg",
+      "malId": 35503,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2590,
+      "title": "High Score Girl",
+      "image": "https://i.imgur.com/IlNrqyG.jpg",
+      "malId": 21877,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
     },
     {
       "id": 2587,
       "title": "Yuragi-sou no Yuuna-san",
-      "rating": 6,
-      "average": 5.5,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 6,
       "image": "https://i.imgur.com/ceGE4QO.jpg",
-      "malId": 36726
+      "malId": 36726,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2592,
+      "title": "Joshiochi!: 2-kai kara Onnanoko ga... Futtekita!?",
+      "image": "https://i.imgur.com/pKiLIlL.jpg",
+      "malId": null,
+      "rating": 4,
+      "totalEpisodes": 9,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2375,
+      "title": "Wakaokami wa Shougakusei!",
+      "image": "https://i.imgur.com/DYsiRDl.jpg",
+      "malId": 37433,
+      "rating": 6,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2609,
+      "title": "Aguu: Tensai Ningyou",
+      "image": "https://i.imgur.com/EaSgGp3.jpg",
+      "malId": 37769,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2382,
+      "title": "Full Metal Panic! Invisible Victory",
+      "image": "https://i.imgur.com/F4dyJSA.jpg",
+      "malId": 31931,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 2616,
+      "title": "Tsukumogami Kashimasu",
+      "image": "https://i.imgur.com/D7HuEee.jpg",
+      "malId": 36654,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2615,
+      "title": "Shingeki no Kyojin Season 3",
+      "image": "https://i.imgur.com/pgdj8mX.jpg",
+      "malId": 35760,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2368,
+      "title": "Layton Mystery Tanteisha: Katri no Nazotoki File",
+      "image": "https://i.imgur.com/UtSA4tw.jpg",
+      "malId": 37023,
+      "rating": 5,
+      "totalEpisodes": 50,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 1963,
+      "title": "Fireball Humorous",
+      "image": "https://i.imgur.com/utKOnzc.jpg",
+      "malId": 36166,
+      "rating": 1,
+      "totalEpisodes": 3,
+      "season": {
+        "year": 2017,
+        "season": "Fall"
+      }
+    }
+  ],
+  "episodes": [
+    {
+      "id": 19249,
+      "date": "2018-07-01 12:01:43.672 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 20121,
+      "date": "2018-07-01 14:39:54.208 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 2354
+    },
+    {
+      "id": 20782,
+      "date": "2018-07-01 15:00:55.305 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 20134,
+      "date": "2018-07-01 16:39:59.452 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 2355
+    },
+    {
+      "id": 20056,
+      "date": "2018-07-01 16:55:50.855 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 2349
+    },
+    {
+      "id": 21449,
+      "date": "2018-07-01 17:11:53.288 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2515
+    },
+    {
+      "id": 18025,
+      "date": "2018-07-01 17:37:46.125 +00:00",
+      "episode": 23,
+      "rating": 6,
+      "animeId": 2180
+    },
+    {
+      "id": 21459,
+      "date": "2018-07-01 18:07:26.571 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2516
+    },
+    {
+      "id": 21471,
+      "date": "2018-07-01 18:30:43.243 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 2517
+    },
+    {
+      "id": 20183,
+      "date": "2018-07-01 21:43:15.538 +00:00",
+      "episode": 13,
+      "rating": 7,
+      "animeId": 2358
+    },
+    {
+      "id": 20292,
+      "date": "2018-07-02 15:59:10.503 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2367
+    },
+    {
+      "id": 20554,
+      "date": "2018-07-02 16:15:49.849 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2381
+    },
+    {
+      "id": 18150,
+      "date": "2018-07-02 18:00:36.803 +00:00",
+      "episode": 24,
+      "rating": 5,
+      "animeId": 2189
+    },
+    {
+      "id": 21522,
+      "date": "2018-07-02 21:49:55.636 +00:00",
+      "episode": 1,
+      "rating": 3,
+      "animeId": 2522
+    },
+    {
+      "id": 21509,
+      "date": "2018-07-02 21:57:48.453 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2521
+    },
+    {
+      "id": 19637,
+      "date": "2018-07-03 16:03:25.440 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 2317
+    },
+    {
+      "id": 19754,
+      "date": "2018-07-03 16:19:51.834 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 2324
+    },
+    {
+      "id": 21534,
+      "date": "2018-07-03 16:21:41.473 +00:00",
+      "episode": 1,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 19690,
+      "date": "2018-07-03 16:39:26.746 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 16070,
+      "date": "2018-07-03 16:55:22.753 +00:00",
+      "episode": 39,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 21547,
+      "date": "2018-07-03 17:15:47.558 +00:00",
+      "episode": 1,
+      "rating": 3,
+      "animeId": 2524
+    },
+    {
+      "id": 20469,
+      "date": "2018-07-04 16:05:59.601 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2374
+    },
+    {
+      "id": 21568,
+      "date": "2018-07-04 17:23:55.784 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 2531
+    },
+    {
+      "id": 20095,
+      "date": "2018-07-05 16:07:46.199 +00:00",
+      "episode": 13,
+      "rating": 3,
+      "animeId": 2353
+    },
+    {
+      "id": 1500,
+      "date": "2018-07-05 16:23:34.897 +00:00",
+      "episode": 64,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 21635,
+      "date": "2018-07-05 17:34:49.100 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 2535
+    },
+    {
+      "id": 21636,
+      "date": "2018-07-05 17:58:51.374 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 19827,
+      "date": "2018-07-05 21:47:53.337 +00:00",
+      "episode": 13,
+      "rating": 8,
+      "animeId": 2330
+    },
+    {
+      "id": 20293,
+      "date": "2018-07-06 16:00:33.820 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 2367
+    },
+    {
+      "id": 19906,
+      "date": "2018-07-06 16:04:32.848 +00:00",
+      "episode": 14,
+      "rating": 3,
+      "animeId": 2338
+    },
+    {
+      "id": 21685,
+      "date": "2018-07-06 16:38:45.365 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2537
+    },
+    {
+      "id": 21695,
+      "date": "2018-07-06 17:02:29.181 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 2538
+    },
+    {
+      "id": 19956,
+      "date": "2018-07-06 21:28:19.851 +00:00",
+      "episode": 14,
+      "rating": 3,
+      "animeId": 2340
+    },
+    {
+      "id": 20579,
+      "date": "2018-07-06 21:50:51.021 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 2383
+    },
+    {
+      "id": 20580,
+      "date": "2018-07-06 21:50:51.022 +00:00",
+      "episode": 14,
+      "rating": 3,
+      "animeId": 2383
+    },
+    {
+      "id": 20783,
+      "date": "2018-07-07 14:40:18.180 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 20135,
+      "date": "2018-07-07 15:01:55.640 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 2355
+    },
+    {
+      "id": 21707,
+      "date": "2018-07-07 16:00:42.514 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 21731,
+      "date": "2018-07-07 16:24:58.659 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 21782,
+      "date": "2018-07-07 16:50:30.281 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 20447,
+      "date": "2018-07-07 17:09:40.831 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 2373
+    },
+    {
+      "id": 21743,
+      "date": "2018-07-07 17:29:27.550 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 2542
+    },
+    {
+      "id": 21719,
+      "date": "2018-07-07 18:31:56.120 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 19250,
+      "date": "2018-07-08 14:24:59.564 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 21844,
+      "date": "2018-07-08 15:29:37.060 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 21832,
+      "date": "2018-07-08 15:52:16.446 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 2552
+    },
+    {
+      "id": 21820,
+      "date": "2018-07-08 16:16:23.987 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 2551
+    },
+    {
+      "id": 21856,
+      "date": "2018-07-08 16:40:38.308 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 2554
+    },
+    {
+      "id": 21869,
+      "date": "2018-07-08 17:02:44.229 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2555
+    },
+    {
+      "id": 21460,
+      "date": "2018-07-08 17:51:06.797 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2516
+    },
+    {
+      "id": 18026,
+      "date": "2018-07-08 18:20:41.150 +00:00",
+      "episode": 24,
+      "rating": 7,
+      "animeId": 2180
+    },
+    {
+      "id": 20184,
+      "date": "2018-07-08 21:50:02.503 +00:00",
+      "episode": 14,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 20256,
+      "date": "2018-07-09 06:42:45.868 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2363
+    },
+    {
+      "id": 20294,
+      "date": "2018-07-09 15:55:23.660 +00:00",
+      "episode": 13,
+      "rating": 3,
+      "animeId": 2367
+    },
+    {
+      "id": 19638,
+      "date": "2018-07-09 16:18:39.515 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 2317
+    },
+    {
+      "id": 21881,
+      "date": "2018-07-09 16:44:51.754 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 2556
+    },
+    {
+      "id": 21637,
+      "date": "2018-07-09 17:09:58.436 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 21472,
+      "date": "2018-07-09 17:57:36.132 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 2517
+    },
+    {
+      "id": 21523,
+      "date": "2018-07-09 18:46:25.184 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 2522
+    },
+    {
+      "id": 21510,
+      "date": "2018-07-09 21:20:40.123 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2521
+    },
+    {
+      "id": 21535,
+      "date": "2018-07-10 15:35:47.486 +00:00",
+      "episode": 2,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 19755,
+      "date": "2018-07-10 16:00:47.776 +00:00",
+      "episode": 15,
+      "rating": 3,
+      "animeId": 2324
+    },
+    {
+      "id": 21548,
+      "date": "2018-07-10 16:24:00.744 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 2524
+    },
+    {
+      "id": 16071,
+      "date": "2018-07-10 16:44:54.984 +00:00",
+      "episode": 40,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 21938,
+      "date": "2018-07-10 17:06:35.128 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 2560
+    },
+    {
+      "id": 21949,
+      "date": "2018-07-10 18:05:50.100 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 19691,
+      "date": "2018-07-11 15:56:33.688 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 21969,
+      "date": "2018-07-11 16:45:00.615 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2564
+    },
+    {
+      "id": 21569,
+      "date": "2018-07-11 17:34:11.617 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 2531
+    },
+    {
+      "id": 21982,
+      "date": "2018-07-11 17:57:26.739 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 2565
+    },
+    {
+      "id": 21994,
+      "date": "2018-07-12 15:59:59.187 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2566
+    },
+    {
+      "id": 21686,
+      "date": "2018-07-12 16:22:00.847 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2537
+    },
+    {
+      "id": 21696,
+      "date": "2018-07-12 17:18:25.085 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2538
+    },
+    {
+      "id": 19828,
+      "date": "2018-07-12 21:42:57.774 +00:00",
+      "episode": 14,
+      "rating": 7,
+      "animeId": 2330
+    },
+    {
+      "id": 19907,
+      "date": "2018-07-13 15:35:16.290 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 2338
+    },
+    {
+      "id": 22057,
+      "date": "2018-07-13 15:39:24.894 +00:00",
+      "episode": 1,
+      "rating": 3,
+      "animeId": 2573
+    },
+    {
+      "id": 21708,
+      "date": "2018-07-13 16:03:30.602 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 21732,
+      "date": "2018-07-13 16:27:44.166 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 22021,
+      "date": "2018-07-13 17:04:07.984 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 2571
+    },
+    {
+      "id": 19957,
+      "date": "2018-07-13 21:46:39.145 +00:00",
+      "episode": 15,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 22022,
+      "date": "2018-07-13 22:15:22.443 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 2571
+    },
+    {
+      "id": 20784,
+      "date": "2018-07-14 14:17:02.912 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 20136,
+      "date": "2018-07-14 14:36:08.432 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 2355
+    },
+    {
+      "id": 21744,
+      "date": "2018-07-14 15:22:48.647 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2542
+    },
+    {
+      "id": 22085,
+      "date": "2018-07-14 15:45:26.717 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 2577
+    },
+    {
+      "id": 20057,
+      "date": "2018-07-14 16:00:53.917 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 2349
+    },
+    {
+      "id": 21783,
+      "date": "2018-07-14 16:22:17.859 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 22097,
+      "date": "2018-07-14 16:50:32.741 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 2578
+    },
+    {
+      "id": 21720,
+      "date": "2018-07-14 17:43:38.000 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 22121,
+      "date": "2018-07-14 18:05:34.910 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 22109,
+      "date": "2018-07-14 18:28:06.294 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2579
+    },
+    {
+      "id": 22200,
+      "date": "2018-07-15 14:40:53.119 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2586
+    },
+    {
+      "id": 21870,
+      "date": "2018-07-15 15:01:23.622 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21845,
+      "date": "2018-07-15 15:34:31.523 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 21833,
+      "date": "2018-07-15 15:47:33.703 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2552
+    },
+    {
+      "id": 21461,
+      "date": "2018-07-15 16:06:54.288 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2516
+    },
+    {
+      "id": 19251,
+      "date": "2018-07-15 16:29:25.296 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 21821,
+      "date": "2018-07-15 17:22:09.417 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 2551
+    },
+    {
+      "id": 22229,
+      "date": "2018-07-15 17:41:50.832 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2590
+    },
+    {
+      "id": 22212,
+      "date": "2018-07-15 18:06:55.570 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2587
+    },
+    {
+      "id": 21857,
+      "date": "2018-07-15 18:28:38.280 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 2554
+    },
+    {
+      "id": 22253,
+      "date": "2018-07-15 21:07:13.418 +00:00",
+      "episode": 1,
+      "rating": 3,
+      "animeId": 2592
+    },
+    {
+      "id": 20478,
+      "date": "2018-07-15 21:28:25.683 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2375
+    },
+    {
+      "id": 20185,
+      "date": "2018-07-15 21:52:32.292 +00:00",
+      "episode": 15,
+      "rating": 7,
+      "animeId": 2358
+    },
+    {
+      "id": 22254,
+      "date": "2018-07-16 13:43:02.997 +00:00",
+      "episode": 2,
+      "rating": 2,
+      "animeId": 2592
+    },
+    {
+      "id": 21450,
+      "date": "2018-07-16 13:52:35.490 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2515
+    },
+    {
+      "id": 20096,
+      "date": "2018-07-16 14:13:04.271 +00:00",
+      "episode": 14,
+      "rating": 3,
+      "animeId": 2353
+    },
+    {
+      "id": 21882,
+      "date": "2018-07-16 14:37:01.124 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2556
+    },
+    {
+      "id": 21939,
+      "date": "2018-07-16 17:18:15.351 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 2560
+    },
+    {
+      "id": 19639,
+      "date": "2018-07-16 17:40:25.288 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 2317
+    },
+    {
+      "id": 21473,
+      "date": "2018-07-16 18:05:26.944 +00:00",
+      "episode": 3,
+      "rating": 7,
+      "animeId": 2517
+    },
+    {
+      "id": 21524,
+      "date": "2018-07-16 21:47:41.234 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 2522
+    },
+    {
+      "id": 21511,
+      "date": "2018-07-16 21:56:37.267 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2521
+    },
+    {
+      "id": 21536,
+      "date": "2018-07-17 13:37:18.924 +00:00",
+      "episode": 3,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 19756,
+      "date": "2018-07-17 14:12:14.984 +00:00",
+      "episode": 16,
+      "rating": 3,
+      "animeId": 2324
+    },
+    {
+      "id": 16072,
+      "date": "2018-07-17 14:36:15.370 +00:00",
+      "episode": 41,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 20295,
+      "date": "2018-07-17 17:10:51.592 +00:00",
+      "episode": 14,
+      "rating": 3,
+      "animeId": 2367
+    },
+    {
+      "id": 21549,
+      "date": "2018-07-17 17:31:53.655 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 2524
+    },
+    {
+      "id": 21950,
+      "date": "2018-07-17 17:57:58.774 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 22255,
+      "date": "2018-07-17 21:32:39.712 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 2592
+    },
+    {
+      "id": 19692,
+      "date": "2018-07-18 13:56:11.094 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 21570,
+      "date": "2018-07-18 14:20:16.617 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2531
+    },
+    {
+      "id": 22364,
+      "date": "2018-07-18 14:43:09.206 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 2609
+    },
+    {
+      "id": 21638,
+      "date": "2018-07-18 16:45:49.910 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 21970,
+      "date": "2018-07-18 17:08:55.293 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 2564
+    },
+    {
+      "id": 21983,
+      "date": "2018-07-18 18:07:57.805 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 2565
+    },
+    {
+      "id": 21995,
+      "date": "2018-07-19 15:33:44.699 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21697,
+      "date": "2018-07-19 16:12:11.531 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2538
+    },
+    {
+      "id": 1501,
+      "date": "2018-07-19 16:34:53.349 +00:00",
+      "episode": 65,
+      "rating": 7,
+      "animeId": 122
+    },
+    {
+      "id": 20448,
+      "date": "2018-07-19 17:45:35.958 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 2373
+    },
+    {
+      "id": 19829,
+      "date": "2018-07-19 22:02:40.325 +00:00",
+      "episode": 15,
+      "rating": 8,
+      "animeId": 2330
+    },
+    {
+      "id": 22058,
+      "date": "2018-07-20 06:55:01.587 +00:00",
+      "episode": 2,
+      "rating": 2,
+      "animeId": 2573
+    },
+    {
+      "id": 19908,
+      "date": "2018-07-20 15:51:37.692 +00:00",
+      "episode": 16,
+      "rating": 3,
+      "animeId": 2338
+    },
+    {
+      "id": 21709,
+      "date": "2018-07-20 16:19:01.274 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 21733,
+      "date": "2018-07-20 16:59:49.274 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 22023,
+      "date": "2018-07-20 17:22:28.665 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 2571
+    },
+    {
+      "id": 19958,
+      "date": "2018-07-20 21:27:11.290 +00:00",
+      "episode": 16,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 20581,
+      "date": "2018-07-21 06:33:40.115 +00:00",
+      "episode": 15,
+      "rating": 3,
+      "animeId": 2383
+    },
+    {
+      "id": 20785,
+      "date": "2018-07-21 13:59:07.710 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2414
+    },
+    {
+      "id": 22201,
+      "date": "2018-07-21 14:23:34.740 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 22122,
+      "date": "2018-07-21 14:46:02.186 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 21745,
+      "date": "2018-07-21 15:09:42.365 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2542
+    },
+    {
+      "id": 20137,
+      "date": "2018-07-21 15:34:25.093 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 2355
+    },
+    {
+      "id": 20058,
+      "date": "2018-07-21 15:55:20.926 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 2349
+    },
+    {
+      "id": 21784,
+      "date": "2018-07-21 16:16:25.319 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 22086,
+      "date": "2018-07-21 16:38:48.648 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 2577
+    },
+    {
+      "id": 22098,
+      "date": "2018-07-21 17:01:07.550 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 2578
+    },
+    {
+      "id": 22110,
+      "date": "2018-07-21 17:22:06.453 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 2579
+    },
+    {
+      "id": 21721,
+      "date": "2018-07-21 18:03:08.352 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 20582,
+      "date": "2018-07-22 06:39:20.726 +00:00",
+      "episode": 16,
+      "rating": 3,
+      "animeId": 2383
+    },
+    {
+      "id": 20565,
+      "date": "2018-07-22 06:39:34.172 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 2382
+    },
+    {
+      "id": 20566,
+      "date": "2018-07-22 06:54:59.586 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 2382
+    },
+    {
+      "id": 21846,
+      "date": "2018-07-22 14:32:44.186 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 21834,
+      "date": "2018-07-22 14:51:48.200 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2552
+    },
+    {
+      "id": 21871,
+      "date": "2018-07-22 15:13:57.698 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21462,
+      "date": "2018-07-22 15:35:40.769 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2516
+    },
+    {
+      "id": 19252,
+      "date": "2018-07-22 15:52:52.121 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 22230,
+      "date": "2018-07-22 16:17:06.532 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2590
+    },
+    {
+      "id": 21822,
+      "date": "2018-07-22 16:39:46.811 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2551
+    },
+    {
+      "id": 21687,
+      "date": "2018-07-22 17:33:39.123 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2537
+    },
+    {
+      "id": 22213,
+      "date": "2018-07-22 17:45:06.586 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2587
+    },
+    {
+      "id": 21858,
+      "date": "2018-07-22 18:07:29.371 +00:00",
+      "episode": 3,
+      "rating": 7,
+      "animeId": 2554
+    },
+    {
+      "id": 20186,
+      "date": "2018-07-22 21:43:50.271 +00:00",
+      "episode": 16,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 20296,
+      "date": "2018-07-23 15:54:21.099 +00:00",
+      "episode": 15,
+      "rating": 3,
+      "animeId": 2367
+    },
+    {
+      "id": 20097,
+      "date": "2018-07-23 16:07:13.614 +00:00",
+      "episode": 15,
+      "rating": 3,
+      "animeId": 2353
+    },
+    {
+      "id": 21883,
+      "date": "2018-07-23 16:27:33.615 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2556
+    },
+    {
+      "id": 21940,
+      "date": "2018-07-23 16:48:46.986 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 2560
+    },
+    {
+      "id": 22410,
+      "date": "2018-07-23 17:44:22.499 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2616
+    },
+    {
+      "id": 21474,
+      "date": "2018-07-23 18:07:21.552 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2517
+    },
+    {
+      "id": 21512,
+      "date": "2018-07-23 21:19:56.432 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2521
+    },
+    {
+      "id": 22398,
+      "date": "2018-07-23 21:57:56.833 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 2615
+    },
+    {
+      "id": 20098,
+      "date": "2018-07-24 15:51:41.459 +00:00",
+      "episode": 16,
+      "rating": 3,
+      "animeId": 2353
+    },
+    {
+      "id": 21537,
+      "date": "2018-07-24 15:54:40.370 +00:00",
+      "episode": 4,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 21550,
+      "date": "2018-07-24 16:11:49.144 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2524
+    },
+    {
+      "id": 16073,
+      "date": "2018-07-24 16:31:36.508 +00:00",
+      "episode": 42,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 19640,
+      "date": "2018-07-24 16:50:16.065 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 2317
+    },
+    {
+      "id": 21951,
+      "date": "2018-07-24 17:42:59.649 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 20319,
+      "date": "2018-07-24 18:01:33.890 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 2368
+    },
+    {
+      "id": 20320,
+      "date": "2018-07-24 21:52:56.278 +00:00",
+      "episode": 13,
+      "rating": 3,
+      "animeId": 2368
+    },
+    {
+      "id": 22256,
+      "date": "2018-07-24 22:01:19.240 +00:00",
+      "episode": 4,
+      "rating": 2,
+      "animeId": 2592
+    },
+    {
+      "id": 19693,
+      "date": "2018-07-25 15:52:38.627 +00:00",
+      "episode": 17,
+      "rating": 3,
+      "animeId": 2322
+    },
+    {
+      "id": 20321,
+      "date": "2018-07-25 16:13:34.748 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 2368
+    },
+    {
+      "id": 21571,
+      "date": "2018-07-25 16:30:24.343 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2531
+    },
+    {
+      "id": 22365,
+      "date": "2018-07-25 16:51:03.144 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 2609
+    },
+    {
+      "id": 21639,
+      "date": "2018-07-25 17:45:48.437 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 21971,
+      "date": "2018-07-25 18:00:54.712 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 2564
+    },
+    {
+      "id": 21984,
+      "date": "2018-07-25 22:00:20.547 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 2565
+    },
+    {
+      "id": 21996,
+      "date": "2018-07-26 16:00:45.997 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21698,
+      "date": "2018-07-26 16:16:28.850 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2538
+    },
+    {
+      "id": 20322,
+      "date": "2018-07-26 16:31:36.882 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 2368
+    },
+    {
+      "id": 1502,
+      "date": "2018-07-26 17:10:00.862 +00:00",
+      "episode": 66,
+      "rating": 2,
+      "animeId": 122
+    },
+    {
+      "id": 20449,
+      "date": "2018-07-26 17:31:20.758 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 2373
+    },
+    {
+      "id": 19830,
+      "date": "2018-07-26 21:54:57.747 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 2330
+    },
+    {
+      "id": 21710,
+      "date": "2018-07-27 15:52:32.689 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2539
+    },
+    {
+      "id": 19909,
+      "date": "2018-07-27 15:55:47.014 +00:00",
+      "episode": 17,
+      "rating": 3,
+      "animeId": 2338
+    },
+    {
+      "id": 21734,
+      "date": "2018-07-27 16:11:13.025 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 20323,
+      "date": "2018-07-27 16:40:06.305 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 2368
+    },
+    {
+      "id": 22024,
+      "date": "2018-07-27 17:00:48.380 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2571
+    },
+    {
+      "id": 19959,
+      "date": "2018-07-27 21:49:17.081 +00:00",
+      "episode": 17,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 21722,
+      "date": "2018-07-27 22:07:56.344 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 22202,
+      "date": "2018-07-28 08:30:44.748 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 21746,
+      "date": "2018-07-28 08:48:30.087 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2542
+    },
+    {
+      "id": 22123,
+      "date": "2018-07-28 09:06:57.427 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 21785,
+      "date": "2018-07-28 09:25:16.772 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2547
+    },
+    {
+      "id": 22087,
+      "date": "2018-07-28 09:59:12.065 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 2577
+    },
+    {
+      "id": 16469,
+      "date": "2018-07-29 06:13:19.711 +00:00",
+      "episode": 2,
+      "rating": 1,
+      "animeId": 1963
+    },
+    {
+      "id": 16470,
+      "date": "2018-07-29 06:13:19.712 +00:00",
+      "episode": 3,
+      "rating": 1,
+      "animeId": 1963
+    },
+    {
+      "id": 20786,
+      "date": "2018-07-29 06:42:16.886 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 20138,
+      "date": "2018-07-29 06:58:52.498 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 2355
+    },
+    {
+      "id": 20059,
+      "date": "2018-07-29 10:58:34.164 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 2349
+    },
+    {
+      "id": 22099,
+      "date": "2018-07-29 11:41:53.982 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2578
+    },
+    {
+      "id": 22111,
+      "date": "2018-07-29 12:03:44.639 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2579
+    },
+    {
+      "id": 21847,
+      "date": "2018-07-29 14:39:00.996 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 21872,
+      "date": "2018-07-29 15:00:54.601 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2555
+    },
+    {
+      "id": 21463,
+      "date": "2018-07-29 15:22:54.412 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 2516
+    },
+    {
+      "id": 21835,
+      "date": "2018-07-29 15:45:20.741 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2552
+    },
+    {
+      "id": 19253,
+      "date": "2018-07-29 16:08:04.228 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 22231,
+      "date": "2018-07-29 16:30:14.497 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2590
+    },
+    {
+      "id": 22214,
+      "date": "2018-07-29 16:52:06.461 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2587
+    },
+    {
+      "id": 21823,
+      "date": "2018-07-29 17:11:36.538 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2551
+    },
+    {
+      "id": 20479,
+      "date": "2018-07-29 17:44:55.384 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2375
+    },
+    {
+      "id": 21859,
+      "date": "2018-07-29 18:07:10.764 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 2554
+    },
+    {
+      "id": 20187,
+      "date": "2018-07-29 21:42:20.631 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 21688,
+      "date": "2018-07-30 11:58:31.184 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2537
+    },
+    {
+      "id": 20297,
+      "date": "2018-07-30 14:10:08.359 +00:00",
+      "episode": 16,
+      "rating": 3,
+      "animeId": 2367
+    },
+    {
+      "id": 21884,
+      "date": "2018-07-30 14:34:39.422 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2556
+    },
+    {
+      "id": 21941,
+      "date": "2018-07-30 14:57:19.612 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2560
+    },
+    {
+      "id": 22411,
+      "date": "2018-07-30 17:04:06.291 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 2616
+    },
+    {
+      "id": 21475,
+      "date": "2018-07-30 17:27:03.446 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2517
+    },
+    {
+      "id": 22257,
+      "date": "2018-07-30 17:35:05.003 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 2592
+    },
+    {
+      "id": 21525,
+      "date": "2018-07-30 21:14:17.883 +00:00",
+      "episode": 4,
+      "rating": 2,
+      "animeId": 2522
+    },
+    {
+      "id": 21513,
+      "date": "2018-07-30 21:21:01.153 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2521
+    },
+    {
+      "id": 22059,
+      "date": "2018-07-30 21:22:53.215 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 2573
+    },
+    {
+      "id": 22399,
+      "date": "2018-07-30 21:45:27.139 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 2615
+    },
+    {
+      "id": 21538,
+      "date": "2018-07-31 15:40:11.999 +00:00",
+      "episode": 5,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 21551,
+      "date": "2018-07-31 15:58:49.929 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 2524
+    },
+    {
+      "id": 19757,
+      "date": "2018-07-31 16:14:30.181 +00:00",
+      "episode": 17,
+      "rating": 3,
+      "animeId": 2324
+    },
+    {
+      "id": 20099,
+      "date": "2018-07-31 16:31:56.821 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 2353
+    },
+    {
+      "id": 16074,
+      "date": "2018-07-31 16:49:27.578 +00:00",
+      "episode": 43,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 19641,
+      "date": "2018-07-31 17:09:38.551 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 2317
+    },
+    {
+      "id": 21952,
+      "date": "2018-07-31 17:27:48.596 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 22366,
+      "date": "2018-07-31 21:48:52.403 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 2609
+    },
+    {
+      "id": 22060,
+      "date": "2018-08-01 05:19:29.859 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2573
+    },
+    {
+      "id": 19694,
+      "date": "2018-08-01 16:41:29.779 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 21572,
+      "date": "2018-08-01 17:34:17.467 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2531
+    },
+    {
+      "id": 21640,
+      "date": "2018-08-01 17:56:46.807 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 21972,
+      "date": "2018-08-01 18:20:13.325 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2564
+    },
+    {
+      "id": 21985,
+      "date": "2018-08-01 22:00:11.070 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 2565
+    },
+    {
+      "id": 21997,
+      "date": "2018-08-02 15:52:13.279 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21699,
+      "date": "2018-08-02 16:11:12.836 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 2538
+    },
+    {
+      "id": 1503,
+      "date": "2018-08-02 16:50:53.190 +00:00",
+      "episode": 67,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 20450,
+      "date": "2018-08-02 18:02:27.048 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 2373
+    },
+    {
+      "id": 19831,
+      "date": "2018-08-02 21:38:51.132 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 2330
+    },
+    {
+      "id": 21711,
+      "date": "2018-08-03 15:54:10.873 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 19910,
+      "date": "2018-08-03 15:57:03.890 +00:00",
+      "episode": 18,
+      "rating": 2,
+      "animeId": 2338
+    },
+    {
+      "id": 21735,
+      "date": "2018-08-03 16:15:16.311 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 22025,
+      "date": "2018-08-03 16:48:53.746 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 2571
+    },
+    {
+      "id": 19960,
+      "date": "2018-08-04 06:26:23.818 +00:00",
+      "episode": 18,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 20583,
+      "date": "2018-08-04 06:34:30.733 +00:00",
+      "episode": 17,
+      "rating": 3,
+      "animeId": 2383
+    },
+    {
+      "id": 20787,
+      "date": "2018-08-04 14:23:07.714 +00:00",
+      "episode": 14,
+      "rating": 3,
+      "animeId": 2414
+    },
+    {
+      "id": 22203,
+      "date": "2018-08-04 14:49:08.084 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2586
+    },
+    {
+      "id": 21747,
+      "date": "2018-08-04 15:11:07.720 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2542
+    },
+    {
+      "id": 22124,
+      "date": "2018-08-04 15:32:21.797 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2580
+    },
+    {
+      "id": 20139,
+      "date": "2018-08-04 15:51:17.797 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2355
+    },
+    {
+      "id": 22100,
+      "date": "2018-08-04 16:20:21.122 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2578
+    },
+    {
+      "id": 20060,
+      "date": "2018-08-04 16:39:54.725 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 2349
+    },
+    {
+      "id": 22088,
+      "date": "2018-08-04 17:19:27.489 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 2577
+    },
+    {
+      "id": 21723,
+      "date": "2018-08-04 17:40:55.394 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 22112,
+      "date": "2018-08-04 18:02:07.059 +00:00",
+      "episode": 4,
+      "rating": 7,
+      "animeId": 2579
+    },
+    {
+      "id": 20584,
+      "date": "2018-08-05 06:57:15.709 +00:00",
+      "episode": 18,
+      "rating": 3,
+      "animeId": 2383
+    },
+    {
+      "id": 21848,
+      "date": "2018-08-05 14:35:32.807 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 21873,
+      "date": "2018-08-05 14:56:24.465 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21464,
+      "date": "2018-08-05 15:14:19.727 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2516
+    },
+    {
+      "id": 22232,
+      "date": "2018-08-05 15:34:43.667 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2590
+    },
+    {
+      "id": 21836,
+      "date": "2018-08-05 15:54:52.125 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2552
+    },
+    {
+      "id": 21786,
+      "date": "2018-08-05 16:11:43.810 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 19254,
+      "date": "2018-08-05 16:29:00.034 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 22215,
+      "date": "2018-08-05 17:18:22.660 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2587
+    },
+    {
+      "id": 21824,
+      "date": "2018-08-05 17:36:17.912 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2551
+    },
+    {
+      "id": 21860,
+      "date": "2018-08-05 17:59:46.975 +00:00",
+      "episode": 5,
+      "rating": 7,
+      "animeId": 2554
+    },
+    {
+      "id": 20188,
+      "date": "2018-08-05 21:42:57.416 +00:00",
+      "episode": 18,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 20298,
+      "date": "2018-08-06 15:53:09.694 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 2367
+    },
+    {
+      "id": 21885,
+      "date": "2018-08-06 16:09:06.686 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2556
+    },
+    {
+      "id": 21689,
+      "date": "2018-08-06 16:26:55.090 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2537
+    },
+    {
+      "id": 21942,
+      "date": "2018-08-06 16:46:18.560 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2560
+    },
+    {
+      "id": 22412,
+      "date": "2018-08-06 17:06:55.263 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 2616
+    },
+    {
+      "id": 21476,
+      "date": "2018-08-06 17:28:35.099 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2517
+    },
+    {
+      "id": 22258,
+      "date": "2018-08-06 21:18:32.277 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2592
+    },
+    {
+      "id": 21526,
+      "date": "2018-08-06 21:34:45.169 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 2522
+    },
+    {
+      "id": 22061,
+      "date": "2018-08-06 21:36:42.772 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 2573
+    },
+    {
+      "id": 21514,
+      "date": "2018-08-06 21:41:22.780 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2521
+    },
+    {
+      "id": 22400,
+      "date": "2018-08-06 21:59:21.716 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 2615
+    },
+    {
+      "id": 21539,
+      "date": "2018-08-07 15:37:19.723 +00:00",
+      "episode": 6,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 21552,
+      "date": "2018-08-07 16:00:25.242 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 2524
+    },
+    {
+      "id": 20100,
+      "date": "2018-08-07 16:13:51.461 +00:00",
+      "episode": 18,
+      "rating": 3,
+      "animeId": 2353
+    },
+    {
+      "id": 19758,
+      "date": "2018-08-07 16:28:42.100 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2324
+    },
+    {
+      "id": 16075,
+      "date": "2018-08-07 16:45:52.770 +00:00",
+      "episode": 44,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 19642,
+      "date": "2018-08-07 17:44:11.251 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 2317
+    },
+    {
+      "id": 21953,
+      "date": "2018-08-07 17:59:38.219 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 20480,
+      "date": "2018-08-07 21:18:48.064 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2375
+    },
+    {
+      "id": 22367,
+      "date": "2018-08-07 21:42:58.937 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 2609
+    },
+    {
+      "id": 20324,
+      "date": "2018-08-08 15:51:05.239 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 2368
+    },
+    {
+      "id": 21573,
+      "date": "2018-08-08 16:21:16.380 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2531
+    },
+    {
+      "id": 21998,
+      "date": "2018-08-08 16:38:54.050 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21641,
+      "date": "2018-08-08 16:58:47.263 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 2535
+    },
+    {
+      "id": 21973,
+      "date": "2018-08-08 17:53:35.058 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2564
+    },
+    {
+      "id": 21986,
+      "date": "2018-08-08 21:38:26.182 +00:00",
+      "episode": 5,
+      "rating": 7,
+      "animeId": 2565
+    },
+    {
+      "id": 19695,
+      "date": "2018-08-09 15:54:23.847 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 2322
+    },
+    {
+      "id": 21700,
+      "date": "2018-08-09 16:13:32.460 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2538
+    },
+    {
+      "id": 1504,
+      "date": "2018-08-09 16:30:10.135 +00:00",
+      "episode": 68,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 20325,
+      "date": "2018-08-09 17:09:23.644 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2368
+    },
+    {
+      "id": 20451,
+      "date": "2018-08-09 17:27:13.912 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 2373
+    },
+    {
+      "id": 19832,
+      "date": "2018-08-09 21:40:12.270 +00:00",
+      "episode": 18,
+      "rating": 7,
+      "animeId": 2330
+    },
+    {
+      "id": 21712,
+      "date": "2018-08-10 15:52:59.211 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 19911,
+      "date": "2018-08-10 15:57:05.660 +00:00",
+      "episode": 19,
+      "rating": 2,
+      "animeId": 2338
+    },
+    {
+      "id": 21736,
+      "date": "2018-08-10 16:14:32.737 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 22026,
+      "date": "2018-08-10 17:11:49.457 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2571
+    },
+    {
+      "id": 19961,
+      "date": "2018-08-10 18:46:33.640 +00:00",
+      "episode": 19,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 20788,
+      "date": "2018-08-11 14:42:18.245 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 22204,
+      "date": "2018-08-11 14:42:51.540 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 22125,
+      "date": "2018-08-11 15:03:22.848 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 21787,
+      "date": "2018-08-11 15:25:32.574 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 21748,
+      "date": "2018-08-11 15:47:10.476 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2542
+    },
+    {
+      "id": 20140,
+      "date": "2018-08-11 16:05:26.868 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 2355
+    },
+    {
+      "id": 20061,
+      "date": "2018-08-11 16:31:54.729 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 2349
+    },
+    {
+      "id": 22089,
+      "date": "2018-08-11 16:56:08.344 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 2577
+    },
+    {
+      "id": 21724,
+      "date": "2018-08-11 17:27:29.867 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 22113,
+      "date": "2018-08-11 17:54:47.759 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2579
+    },
+    {
+      "id": 21849,
+      "date": "2018-08-12 14:47:07.194 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2553
+    },
+    {
+      "id": 21874,
+      "date": "2018-08-12 15:05:03.769 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21465,
+      "date": "2018-08-12 15:23:40.486 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2516
+    },
+    {
+      "id": 21837,
+      "date": "2018-08-12 15:46:57.262 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2552
+    },
+    {
+      "id": 19255,
+      "date": "2018-08-12 16:06:45.165 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 21690,
+      "date": "2018-08-12 16:26:12.971 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2537
+    },
+    {
+      "id": 22101,
+      "date": "2018-08-12 16:48:27.343 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 2578
+    },
+    {
+      "id": 22216,
+      "date": "2018-08-12 17:11:24.109 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2587
+    },
+    {
+      "id": 21825,
+      "date": "2018-08-12 17:53:24.522 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2551
+    },
+    {
+      "id": 21861,
+      "date": "2018-08-12 18:17:31.283 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2554
+    },
+    {
+      "id": 20189,
+      "date": "2018-08-12 21:35:33.449 +00:00",
+      "episode": 19,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 20299,
+      "date": "2018-08-13 15:53:50.290 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2367
+    },
+    {
+      "id": 21886,
+      "date": "2018-08-13 16:10:58.238 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2556
+    },
+    {
+      "id": 21943,
+      "date": "2018-08-13 16:30:10.490 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2560
+    },
+    {
+      "id": 22233,
+      "date": "2018-08-13 16:53:01.372 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 2590
+    },
+    {
+      "id": 22413,
+      "date": "2018-08-13 17:44:25.061 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 2616
+    },
+    {
+      "id": 21477,
+      "date": "2018-08-13 18:08:58.900 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2517
+    },
+    {
+      "id": 21527,
+      "date": "2018-08-13 21:18:58.892 +00:00",
+      "episode": 6,
+      "rating": 2,
+      "animeId": 2522
+    },
+    {
+      "id": 22062,
+      "date": "2018-08-13 21:21:21.307 +00:00",
+      "episode": 6,
+      "rating": 2,
+      "animeId": 2573
+    },
+    {
+      "id": 22259,
+      "date": "2018-08-13 21:26:46.751 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2592
+    },
+    {
+      "id": 21515,
+      "date": "2018-08-13 21:33:35.382 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2521
+    },
+    {
+      "id": 22401,
+      "date": "2018-08-13 21:57:21.008 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 2615
+    },
+    {
+      "id": 21540,
+      "date": "2018-08-14 15:39:47.740 +00:00",
+      "episode": 7,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 21553,
+      "date": "2018-08-14 16:01:26.098 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 2524
+    },
+    {
+      "id": 20101,
+      "date": "2018-08-14 16:18:09.869 +00:00",
+      "episode": 19,
+      "rating": 3,
+      "animeId": 2353
+    },
+    {
+      "id": 19759,
+      "date": "2018-08-14 16:34:56.459 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 2324
+    },
+    {
+      "id": 16076,
+      "date": "2018-08-14 16:51:39.164 +00:00",
+      "episode": 45,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 19643,
+      "date": "2018-08-14 17:09:24.032 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 2317
+    },
+    {
+      "id": 21954,
+      "date": "2018-08-14 17:27:19.273 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 22368,
+      "date": "2018-08-14 21:49:05.285 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 2609
+    },
+    {
+      "id": 19696,
+      "date": "2018-08-15 16:03:44.121 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 20326,
+      "date": "2018-08-15 16:21:47.287 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 2368
+    },
+    {
+      "id": 21574,
+      "date": "2018-08-15 16:40:07.201 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2531
+    },
+    {
+      "id": 21642,
+      "date": "2018-08-15 17:03:06.710 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 21974,
+      "date": "2018-08-15 17:52:04.307 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2564
+    },
+    {
+      "id": 21987,
+      "date": "2018-08-15 21:56:40.533 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2565
+    },
+    {
+      "id": 21999,
+      "date": "2018-08-16 15:53:19.265 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21701,
+      "date": "2018-08-16 16:14:12.706 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2538
+    },
+    {
+      "id": 1505,
+      "date": "2018-08-16 16:28:54.323 +00:00",
+      "episode": 69,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 20452,
+      "date": "2018-08-16 16:49:36.567 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 2373
+    },
+    {
+      "id": 19833,
+      "date": "2018-08-16 21:42:51.317 +00:00",
+      "episode": 19,
+      "rating": 6,
+      "animeId": 2330
+    },
+    {
+      "id": 21713,
+      "date": "2018-08-17 15:51:12.912 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 19912,
+      "date": "2018-08-17 15:53:51.720 +00:00",
+      "episode": 20,
+      "rating": 3,
+      "animeId": 2338
+    },
+    {
+      "id": 21737,
+      "date": "2018-08-17 16:35:21.941 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 22027,
+      "date": "2018-08-17 16:58:01.836 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2571
+    },
+    {
+      "id": 20585,
+      "date": "2018-08-18 06:33:47.834 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 2383
+    },
+    {
+      "id": 20481,
+      "date": "2018-08-18 06:45:13.412 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2375
+    },
+    {
+      "id": 19962,
+      "date": "2018-08-18 09:07:17.065 +00:00",
+      "episode": 20,
+      "rating": 3,
+      "animeId": 2340
+    },
+    {
+      "id": 20789,
+      "date": "2018-08-18 13:57:56.216 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 22126,
+      "date": "2018-08-18 14:22:17.141 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 22205,
+      "date": "2018-08-18 14:45:41.751 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 21788,
+      "date": "2018-08-18 15:07:17.366 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2547
+    },
+    {
+      "id": 21749,
+      "date": "2018-08-18 15:29:51.219 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2542
+    },
+    {
+      "id": 20141,
+      "date": "2018-08-18 15:53:59.483 +00:00",
+      "episode": 20,
+      "rating": 5,
+      "animeId": 2355
+    },
+    {
+      "id": 20062,
+      "date": "2018-08-18 16:13:29.788 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 2349
+    },
+    {
+      "id": 22102,
+      "date": "2018-08-18 16:34:57.021 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2578
+    },
+    {
+      "id": 22090,
+      "date": "2018-08-18 16:57:30.464 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2577
+    },
+    {
+      "id": 21725,
+      "date": "2018-08-18 17:45:08.746 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 22114,
+      "date": "2018-08-18 18:06:42.378 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2579
+    },
+    {
+      "id": 20586,
+      "date": "2018-08-19 06:48:25.466 +00:00",
+      "episode": 20,
+      "rating": 3,
+      "animeId": 2383
+    },
+    {
+      "id": 20482,
+      "date": "2018-08-19 06:59:05.937 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 2375
+    },
+    {
+      "id": 21850,
+      "date": "2018-08-19 14:35:33.701 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 21691,
+      "date": "2018-08-19 14:56:14.260 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 2537
+    },
+    {
+      "id": 21875,
+      "date": "2018-08-19 15:15:44.353 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21466,
+      "date": "2018-08-19 15:40:40.674 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2516
+    },
+    {
+      "id": 21838,
+      "date": "2018-08-19 16:01:01.879 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2552
+    },
+    {
+      "id": 19256,
+      "date": "2018-08-19 16:30:22.475 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 22217,
+      "date": "2018-08-19 16:53:14.310 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2587
+    },
+    {
+      "id": 21826,
+      "date": "2018-08-19 17:14:43.562 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2551
+    },
+    {
+      "id": 21862,
+      "date": "2018-08-19 18:08:29.074 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2554
+    },
+    {
+      "id": 20190,
+      "date": "2018-08-19 21:49:51.693 +00:00",
+      "episode": 20,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 20300,
+      "date": "2018-08-20 15:50:12.690 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 2367
+    },
+    {
+      "id": 21887,
+      "date": "2018-08-20 16:07:08.940 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2556
+    },
+    {
+      "id": 21944,
+      "date": "2018-08-20 16:26:22.524 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2560
+    },
+    {
+      "id": 22414,
+      "date": "2018-08-20 16:44:39.551 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 2616
+    },
+    {
+      "id": 19644,
+      "date": "2018-08-20 17:38:36.718 +00:00",
+      "episode": 21,
+      "rating": 5,
+      "animeId": 2317
+    },
+    {
+      "id": 21478,
+      "date": "2018-08-20 18:01:20.733 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2517
+    },
+    {
+      "id": 21528,
+      "date": "2018-08-20 21:17:29.579 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 2522
+    },
+    {
+      "id": 21516,
+      "date": "2018-08-20 21:36:59.156 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2521
+    },
+    {
+      "id": 22402,
+      "date": "2018-08-20 21:53:53.090 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 2615
+    },
+    {
+      "id": 22063,
+      "date": "2018-08-21 15:35:30.378 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2573
+    },
+    {
+      "id": 21541,
+      "date": "2018-08-21 15:37:32.716 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 2523
+    },
+    {
+      "id": 19760,
+      "date": "2018-08-21 15:58:05.358 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 2324
+    },
+    {
+      "id": 19697,
+      "date": "2018-08-21 16:16:01.182 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 20327,
+      "date": "2018-08-21 16:33:03.994 +00:00",
+      "episode": 20,
+      "rating": 5,
+      "animeId": 2368
+    },
+    {
+      "id": 16077,
+      "date": "2018-08-21 16:49:24.586 +00:00",
+      "episode": 46,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 21955,
+      "date": "2018-08-21 17:27:01.053 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 22369,
+      "date": "2018-08-21 17:50:10.822 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 2609
+    },
+    {
+      "id": 21975,
+      "date": "2018-08-21 21:39:27.718 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 2564
+    },
+    {
+      "id": 21554,
+      "date": "2018-08-22 15:50:56.291 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2524
+    },
+    {
+      "id": 22234,
+      "date": "2018-08-22 16:10:01.784 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2590
+    },
+    {
+      "id": 21575,
+      "date": "2018-08-22 16:59:36.806 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2531
+    },
+    {
+      "id": 21643,
+      "date": "2018-08-22 17:49:10.547 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 21988,
+      "date": "2018-08-22 21:49:30.503 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 2565
+    },
+    {
+      "id": 22000,
+      "date": "2018-08-23 15:51:43.028 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21702,
+      "date": "2018-08-23 16:14:07.821 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2538
+    },
+    {
+      "id": 1506,
+      "date": "2018-08-23 16:32:46.618 +00:00",
+      "episode": 70,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 20453,
+      "date": "2018-08-23 16:57:17.785 +00:00",
+      "episode": 19,
+      "rating": 6,
+      "animeId": 2373
+    },
+    {
+      "id": 19834,
+      "date": "2018-08-23 21:39:16.948 +00:00",
+      "episode": 20,
+      "rating": 7,
+      "animeId": 2330
+    },
+    {
+      "id": 19913,
+      "date": "2018-08-24 15:40:37.658 +00:00",
+      "episode": 21,
+      "rating": 3,
+      "animeId": 2338
+    },
+    {
+      "id": 21714,
+      "date": "2018-08-24 16:06:15.423 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 21738,
+      "date": "2018-08-24 16:50:54.763 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2541
+    },
+    {
+      "id": 22028,
+      "date": "2018-08-24 17:12:00.653 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2571
+    },
+    {
+      "id": 19963,
+      "date": "2018-08-24 21:18:23.383 +00:00",
+      "episode": 21,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 22127,
+      "date": "2018-08-25 08:43:14.768 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 2580
+    },
+    {
+      "id": 21692,
+      "date": "2018-08-25 09:00:57.601 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 2537
+    },
+    {
+      "id": 22206,
+      "date": "2018-08-25 09:20:04.478 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 21750,
+      "date": "2018-08-25 09:41:19.594 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2542
+    },
+    {
+      "id": 20063,
+      "date": "2018-08-25 10:04:54.338 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 2349
+    },
+    {
+      "id": 22091,
+      "date": "2018-08-25 10:33:23.772 +00:00",
+      "episode": 7,
+      "rating": 7,
+      "animeId": 2577
+    },
+    {
+      "id": 21726,
+      "date": "2018-08-25 10:52:13.976 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 22115,
+      "date": "2018-08-25 11:14:51.673 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 2579
+    },
+    {
+      "id": 20790,
+      "date": "2018-08-26 10:41:43.100 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 21789,
+      "date": "2018-08-26 10:56:02.790 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 20142,
+      "date": "2018-08-26 11:07:50.251 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 2355
+    },
+    {
+      "id": 21876,
+      "date": "2018-08-26 14:32:23.567 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21851,
+      "date": "2018-08-26 14:54:12.582 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 20301,
+      "date": "2018-08-26 15:23:06.590 +00:00",
+      "episode": 20,
+      "rating": 3,
+      "animeId": 2367
+    },
+    {
+      "id": 19257,
+      "date": "2018-08-26 15:38:35.666 +00:00",
+      "episode": 22,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 21467,
+      "date": "2018-08-26 16:01:39.881 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2516
+    },
+    {
+      "id": 21839,
+      "date": "2018-08-26 16:20:20.201 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2552
+    },
+    {
+      "id": 22103,
+      "date": "2018-08-26 16:42:56.623 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 2578
+    },
+    {
+      "id": 22218,
+      "date": "2018-08-26 17:05:25.455 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 2587
+    },
+    {
+      "id": 21827,
+      "date": "2018-08-26 17:55:35.467 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2551
+    },
+    {
+      "id": 21863,
+      "date": "2018-08-26 18:15:53.171 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2554
+    },
+    {
+      "id": 20191,
+      "date": "2018-08-26 21:30:47.360 +00:00",
+      "episode": 21,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 21888,
+      "date": "2018-08-27 14:02:20.918 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2556
+    },
+    {
+      "id": 21945,
+      "date": "2018-08-27 14:20:35.029 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2560
+    },
+    {
+      "id": 22415,
+      "date": "2018-08-27 16:04:55.306 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 2616
+    },
+    {
+      "id": 19645,
+      "date": "2018-08-27 16:24:07.575 +00:00",
+      "episode": 22,
+      "rating": 5,
+      "animeId": 2317
+    },
+    {
+      "id": 21479,
+      "date": "2018-08-27 16:59:30.138 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2517
+    },
+    {
+      "id": 22260,
+      "date": "2018-08-27 18:22:25.468 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2592
+    },
+    {
+      "id": 22261,
+      "date": "2018-08-27 18:22:25.469 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2592
+    },
+    {
+      "id": 22064,
+      "date": "2018-08-27 21:01:50.322 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 2573
+    },
+    {
+      "id": 21529,
+      "date": "2018-08-27 21:03:32.847 +00:00",
+      "episode": 8,
+      "rating": 2,
+      "animeId": 2522
+    },
+    {
+      "id": 21517,
+      "date": "2018-08-27 21:21:27.144 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2521
+    },
+    {
+      "id": 22403,
+      "date": "2018-08-27 21:43:05.064 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 2615
+    },
+    {
+      "id": 21542,
+      "date": "2018-08-28 15:39:34.643 +00:00",
+      "episode": 9,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 19761,
+      "date": "2018-08-28 15:54:22.786 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 2324
+    },
+    {
+      "id": 21555,
+      "date": "2018-08-28 16:12:59.334 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2524
+    },
+    {
+      "id": 16078,
+      "date": "2018-08-28 16:29:09.641 +00:00",
+      "episode": 47,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 20328,
+      "date": "2018-08-28 16:46:16.217 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 2368
+    },
+    {
+      "id": 21956,
+      "date": "2018-08-28 17:38:07.580 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2561
+    },
+    {
+      "id": 22370,
+      "date": "2018-08-28 17:57:31.170 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2609
+    },
+    {
+      "id": 21976,
+      "date": "2018-08-28 21:34:22.670 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2564
+    },
+    {
+      "id": 19698,
+      "date": "2018-08-29 15:53:34.780 +00:00",
+      "episode": 22,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 22235,
+      "date": "2018-08-29 16:16:00.374 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 2590
+    },
+    {
+      "id": 22001,
+      "date": "2018-08-29 16:35:09.727 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2566
+    },
+    {
+      "id": 21576,
+      "date": "2018-08-29 16:55:19.160 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2531
+    },
+    {
+      "id": 21644,
+      "date": "2018-08-29 17:41:02.405 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 21989,
+      "date": "2018-08-29 21:40:27.255 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2565
+    },
+    {
+      "id": 20102,
+      "date": "2018-08-30 16:02:29.330 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 2353
+    },
+    {
+      "id": 20103,
+      "date": "2018-08-30 16:06:04.088 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 2353
+    },
+    {
+      "id": 1507,
+      "date": "2018-08-30 16:36:07.169 +00:00",
+      "episode": 71,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 21703,
+      "date": "2018-08-30 17:49:06.296 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2538
+    },
+    {
+      "id": 19835,
+      "date": "2018-08-30 21:41:08.078 +00:00",
+      "episode": 21,
+      "rating": 6,
+      "animeId": 2330
+    },
+    {
+      "id": 19914,
+      "date": "2018-08-31 15:38:49.484 +00:00",
+      "episode": 22,
+      "rating": 4,
+      "animeId": 2338
+    },
+    {
+      "id": 21715,
+      "date": "2018-08-31 16:03:06.901 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 21739,
+      "date": "2018-08-31 16:40:20.484 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2541
+    },
+    {
+      "id": 22029,
+      "date": "2018-08-31 17:00:43.514 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2571
+    },
+    {
+      "id": 20587,
+      "date": "2018-09-01 06:42:17.990 +00:00",
+      "episode": 21,
+      "rating": 3,
+      "animeId": 2383
+    },
+    {
+      "id": 19964,
+      "date": "2018-09-01 06:45:22.302 +00:00",
+      "episode": 22,
+      "rating": 3,
+      "animeId": 2340
+    },
+    {
+      "id": 22128,
+      "date": "2018-09-01 14:14:47.572 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 20791,
+      "date": "2018-09-01 14:31:13.568 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 21693,
+      "date": "2018-09-01 14:50:15.152 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 2537
+    },
+    {
+      "id": 22207,
+      "date": "2018-09-01 15:09:46.713 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 20143,
+      "date": "2018-09-01 15:27:37.257 +00:00",
+      "episode": 22,
+      "rating": 5,
+      "animeId": 2355
+    },
+    {
+      "id": 20064,
+      "date": "2018-09-01 15:53:55.084 +00:00",
+      "episode": 21,
+      "rating": 5,
+      "animeId": 2349
+    },
+    {
+      "id": 22104,
+      "date": "2018-09-01 16:15:40.278 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2578
+    },
+    {
+      "id": 21751,
+      "date": "2018-09-01 16:38:59.089 +00:00",
+      "episode": 9,
+      "rating": 7,
+      "animeId": 2542
+    },
+    {
+      "id": 22092,
+      "date": "2018-09-01 17:02:43.999 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2577
+    },
+    {
+      "id": 22116,
+      "date": "2018-09-01 17:35:42.269 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2579
+    },
+    {
+      "id": 21727,
+      "date": "2018-09-01 18:02:26.999 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 20588,
+      "date": "2018-09-02 06:24:13.064 +00:00",
+      "episode": 22,
+      "rating": 4,
+      "animeId": 2383
+    },
+    {
+      "id": 21877,
+      "date": "2018-09-02 14:35:50.395 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21852,
+      "date": "2018-09-02 14:53:23.944 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 19258,
+      "date": "2018-09-02 15:15:12.439 +00:00",
+      "episode": 23,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 21468,
+      "date": "2018-09-02 15:34:58.911 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2516
+    },
+    {
+      "id": 21790,
+      "date": "2018-09-02 15:56:30.477 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 20329,
+      "date": "2018-09-02 16:16:47.303 +00:00",
+      "episode": 22,
+      "rating": 4,
+      "animeId": 2368
+    },
+    {
+      "id": 21840,
+      "date": "2018-09-02 16:39:09.184 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2552
+    },
+    {
+      "id": 21828,
+      "date": "2018-09-02 17:06:24.040 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2551
+    },
+    {
+      "id": 22219,
+      "date": "2018-09-02 18:06:19.979 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2587
+    },
+    {
+      "id": 21864,
+      "date": "2018-09-02 18:31:23.374 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2554
+    },
+    {
+      "id": 20192,
+      "date": "2018-09-02 21:45:02.931 +00:00",
+      "episode": 22,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 20104,
+      "date": "2018-09-03 14:01:26.803 +00:00",
+      "episode": 22,
+      "rating": 4,
+      "animeId": 2353
+    },
+    {
+      "id": 21889,
+      "date": "2018-09-03 14:20:18.302 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2556
+    },
+    {
+      "id": 22236,
+      "date": "2018-09-03 14:41:07.347 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 2590
+    },
+    {
+      "id": 22416,
+      "date": "2018-09-03 16:24:16.800 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 2616
+    },
+    {
+      "id": 22371,
+      "date": "2018-09-03 16:46:32.728 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2609
+    },
+    {
+      "id": 21480,
+      "date": "2018-09-03 17:06:59.854 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2517
+    },
+    {
+      "id": 22404,
+      "date": "2018-09-03 18:06:25.960 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 2615
+    },
+    {
+      "id": 20483,
+      "date": "2018-09-03 18:15:31.819 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 2375
+    },
+    {
+      "id": 22065,
+      "date": "2018-09-04 11:52:18.314 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2573
+    },
+    {
+      "id": 21530,
+      "date": "2018-09-04 11:54:31.875 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 2522
+    },
+    {
+      "id": 21543,
+      "date": "2018-09-04 13:39:00.917 +00:00",
+      "episode": 10,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 19762,
+      "date": "2018-09-04 14:03:03.648 +00:00",
+      "episode": 22,
+      "rating": 3,
+      "animeId": 2324
+    },
+    {
+      "id": 21946,
+      "date": "2018-09-04 14:25:36.783 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2560
+    },
+    {
+      "id": 16079,
+      "date": "2018-09-04 14:42:34.079 +00:00",
+      "episode": 48,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 21518,
+      "date": "2018-09-04 14:52:43.719 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2521
+    },
+    {
+      "id": 19646,
+      "date": "2018-09-04 16:27:52.056 +00:00",
+      "episode": 23,
+      "rating": 5,
+      "animeId": 2317
+    },
+    {
+      "id": 21957,
+      "date": "2018-09-04 16:45:35.505 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 21645,
+      "date": "2018-09-04 17:47:28.819 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 20484,
+      "date": "2018-09-04 17:56:06.787 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 2375
+    },
+    {
+      "id": 21977,
+      "date": "2018-09-04 21:40:33.976 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2564
+    },
+    {
+      "id": 19699,
+      "date": "2018-09-05 14:10:01.361 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 21577,
+      "date": "2018-09-05 17:29:24.404 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2531
+    },
+    {
+      "id": 21990,
+      "date": "2018-09-05 17:52:53.652 +00:00",
+      "episode": 9,
+      "rating": 7,
+      "animeId": 2565
+    },
+    {
+      "id": 21451,
+      "date": "2018-09-06 11:54:44.151 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 2515
+    },
+    {
+      "id": 22002,
+      "date": "2018-09-06 14:14:37.707 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21704,
+      "date": "2018-09-06 14:37:31.843 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2538
+    },
+    {
+      "id": 1508,
+      "date": "2018-09-06 17:30:17.904 +00:00",
+      "episode": 72,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 20454,
+      "date": "2018-09-06 17:53:23.112 +00:00",
+      "episode": 20,
+      "rating": 6,
+      "animeId": 2373
+    },
+    {
+      "id": 19836,
+      "date": "2018-09-06 21:36:59.517 +00:00",
+      "episode": 22,
+      "rating": 7,
+      "animeId": 2330
+    },
+    {
+      "id": 21716,
+      "date": "2018-09-07 14:31:05.106 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 19915,
+      "date": "2018-09-07 16:42:33.226 +00:00",
+      "episode": 23,
+      "rating": 5,
+      "animeId": 2338
+    },
+    {
+      "id": 21740,
+      "date": "2018-09-07 17:02:42.965 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 22030,
+      "date": "2018-09-07 17:23:41.338 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2571
+    },
+    {
+      "id": 19965,
+      "date": "2018-09-08 06:32:33.702 +00:00",
+      "episode": 23,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 22129,
+      "date": "2018-09-08 14:07:58.285 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 20792,
+      "date": "2018-09-08 14:23:14.185 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 22208,
+      "date": "2018-09-08 14:41:30.598 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 20144,
+      "date": "2018-09-08 15:03:10.982 +00:00",
+      "episode": 23,
+      "rating": 5,
+      "animeId": 2355
+    },
+    {
+      "id": 20065,
+      "date": "2018-09-08 15:22:36.026 +00:00",
+      "episode": 22,
+      "rating": 5,
+      "animeId": 2349
+    },
+    {
+      "id": 22105,
+      "date": "2018-09-08 15:40:58.302 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2578
+    },
+    {
+      "id": 21752,
+      "date": "2018-09-08 16:01:47.886 +00:00",
+      "episode": 10,
+      "rating": 7,
+      "animeId": 2542
+    },
+    {
+      "id": 22093,
+      "date": "2018-09-08 16:23:30.681 +00:00",
+      "episode": 9,
+      "rating": 7,
+      "animeId": 2577
+    },
+    {
+      "id": 22117,
+      "date": "2018-09-08 17:11:04.636 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2579
+    },
+    {
+      "id": 21728,
+      "date": "2018-09-08 17:28:14.643 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 21878,
+      "date": "2018-09-09 14:08:42.028 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21853,
+      "date": "2018-09-09 14:28:26.530 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 21791,
+      "date": "2018-09-09 14:49:45.099 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 21469,
+      "date": "2018-09-09 15:12:43.715 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2516
+    },
+    {
+      "id": 21841,
+      "date": "2018-09-09 15:30:58.412 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2552
+    },
+    {
+      "id": 21829,
+      "date": "2018-09-09 15:50:07.283 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2551
+    },
+    {
+      "id": 22220,
+      "date": "2018-09-09 16:09:49.237 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2587
+    },
+    {
+      "id": 21865,
+      "date": "2018-09-09 16:29:55.503 +00:00",
+      "episode": 10,
+      "rating": 7,
+      "animeId": 2554
+    },
+    {
+      "id": 20193,
+      "date": "2018-09-09 21:37:49.042 +00:00",
+      "episode": 23,
+      "rating": 7,
+      "animeId": 2358
+    },
+    {
+      "id": 21890,
+      "date": "2018-09-10 15:56:01.262 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2556
+    },
+    {
+      "id": 21947,
+      "date": "2018-09-10 16:19:44.105 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2560
+    },
+    {
+      "id": 22417,
+      "date": "2018-09-10 16:41:46.986 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 2616
+    },
+    {
+      "id": 19647,
+      "date": "2018-09-10 17:04:05.412 +00:00",
+      "episode": 24,
+      "rating": 6,
+      "animeId": 2317
+    },
+    {
+      "id": 22066,
+      "date": "2018-09-10 17:31:56.508 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 2573
+    },
+    {
+      "id": 21646,
+      "date": "2018-09-10 17:55:24.172 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2535
+    },
+    {
+      "id": 21531,
+      "date": "2018-09-10 21:06:12.386 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 2522
+    },
+    {
+      "id": 21519,
+      "date": "2018-09-10 21:22:06.005 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2521
+    },
+    {
+      "id": 22405,
+      "date": "2018-09-10 21:44:28.073 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 2615
+    },
+    {
+      "id": 21544,
+      "date": "2018-09-11 15:35:53.549 +00:00",
+      "episode": 11,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 20105,
+      "date": "2018-09-11 15:54:33.452 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 2353
+    },
+    {
+      "id": 19763,
+      "date": "2018-09-11 16:14:27.858 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 2324
+    },
+    {
+      "id": 16080,
+      "date": "2018-09-11 16:30:02.203 +00:00",
+      "episode": 49,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 21958,
+      "date": "2018-09-11 16:54:49.932 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 22372,
+      "date": "2018-09-11 17:52:48.880 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 2609
+    },
+    {
+      "id": 21978,
+      "date": "2018-09-11 21:41:23.068 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2564
+    },
+    {
+      "id": 21556,
+      "date": "2018-09-12 15:54:42.566 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2524
+    },
+    {
+      "id": 19700,
+      "date": "2018-09-12 16:18:22.981 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 21578,
+      "date": "2018-09-12 16:56:42.668 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2531
+    },
+    {
+      "id": 21991,
+      "date": "2018-09-12 17:20:51.970 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2565
+    },
+    {
+      "id": 19837,
+      "date": "2018-09-12 21:43:56.104 +00:00",
+      "episode": 23,
+      "rating": 6,
+      "animeId": 2330
+    },
+    {
+      "id": 22003,
+      "date": "2018-09-13 16:02:08.202 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21705,
+      "date": "2018-09-13 17:13:06.044 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2538
+    },
+    {
+      "id": 1509,
+      "date": "2018-09-13 18:01:25.738 +00:00",
+      "episode": 73,
+      "rating": 6,
+      "animeId": 122
+    },
+    {
+      "id": 20455,
+      "date": "2018-09-13 21:41:08.543 +00:00",
+      "episode": 21,
+      "rating": 6,
+      "animeId": 2373
+    },
+    {
+      "id": 19916,
+      "date": "2018-09-14 15:38:37.380 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 2338
+    },
+    {
+      "id": 21717,
+      "date": "2018-09-14 15:58:15.710 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2539
+    },
+    {
+      "id": 22237,
+      "date": "2018-09-14 16:21:06.781 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2590
+    },
+    {
+      "id": 22031,
+      "date": "2018-09-14 17:16:50.312 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2571
+    },
+    {
+      "id": 20485,
+      "date": "2018-09-14 17:36:29.399 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 2375
+    },
+    {
+      "id": 20486,
+      "date": "2018-09-14 17:36:29.400 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 2375
+    },
+    {
+      "id": 21741,
+      "date": "2018-09-14 17:58:46.202 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2541
+    },
+    {
+      "id": 19966,
+      "date": "2018-09-14 21:09:59.956 +00:00",
+      "episode": 24,
+      "rating": 3,
+      "animeId": 2340
+    },
+    {
+      "id": 20589,
+      "date": "2018-09-15 06:31:18.202 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 2383
+    },
+    {
+      "id": 20590,
+      "date": "2018-09-15 06:31:18.203 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 2383
+    },
+    {
+      "id": 22130,
+      "date": "2018-09-15 14:02:15.878 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 20793,
+      "date": "2018-09-15 14:19:24.478 +00:00",
+      "episode": 20,
+      "rating": 5,
+      "animeId": 2414
+    },
+    {
+      "id": 22209,
+      "date": "2018-09-15 14:40:08.217 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 20145,
+      "date": "2018-09-15 14:58:31.558 +00:00",
+      "episode": 24,
+      "rating": 5,
+      "animeId": 2355
+    },
+    {
+      "id": 22106,
+      "date": "2018-09-15 15:22:02.880 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2578
+    },
+    {
+      "id": 22118,
+      "date": "2018-09-15 15:47:09.198 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2579
+    },
+    {
+      "id": 20066,
+      "date": "2018-09-15 16:12:18.826 +00:00",
+      "episode": 23,
+      "rating": 7,
+      "animeId": 2349
+    },
+    {
+      "id": 21753,
+      "date": "2018-09-15 16:35:30.743 +00:00",
+      "episode": 11,
+      "rating": 7,
+      "animeId": 2542
+    },
+    {
+      "id": 22094,
+      "date": "2018-09-15 16:59:52.575 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2577
+    },
+    {
+      "id": 21729,
+      "date": "2018-09-15 17:24:24.914 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 21879,
+      "date": "2018-09-16 14:25:19.493 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2555
+    },
+    {
+      "id": 21854,
+      "date": "2018-09-16 14:43:22.115 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 22238,
+      "date": "2018-09-16 15:00:24.777 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2590
+    },
+    {
+      "id": 19259,
+      "date": "2018-09-16 15:19:21.457 +00:00",
+      "episode": 24,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 21470,
+      "date": "2018-09-16 15:36:07.650 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 2516
+    },
+    {
+      "id": 21792,
+      "date": "2018-09-16 15:53:36.261 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2547
+    },
+    {
+      "id": 21842,
+      "date": "2018-09-16 16:14:19.321 +00:00",
+      "episode": 11,
+      "rating": 7,
+      "animeId": 2552
+    },
+    {
+      "id": 21830,
+      "date": "2018-09-16 16:35:10.720 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2551
+    },
+    {
+      "id": 22221,
+      "date": "2018-09-16 17:17:25.567 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2587
+    },
+    {
+      "id": 21866,
+      "date": "2018-09-16 17:49:52.418 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2554
+    },
+    {
+      "id": 20194,
+      "date": "2018-09-16 21:39:20.625 +00:00",
+      "episode": 24,
+      "rating": 6,
+      "animeId": 2358
+    },
+    {
+      "id": 21694,
+      "date": "2018-09-17 15:52:55.578 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 2537
+    },
+    {
+      "id": 21891,
+      "date": "2018-09-17 16:10:46.928 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2556
+    },
+    {
+      "id": 21948,
+      "date": "2018-09-17 16:30:57.174 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2560
+    },
+    {
+      "id": 22418,
+      "date": "2018-09-17 16:49:03.054 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 2616
+    },
+    {
+      "id": 21647,
+      "date": "2018-09-17 17:10:27.161 +00:00",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 2535
+    },
+    {
+      "id": 21481,
+      "date": "2018-09-17 18:03:39.441 +00:00",
+      "episode": 11,
+      "rating": 7,
+      "animeId": 2517
+    },
+    {
+      "id": 21532,
+      "date": "2018-09-17 21:14:13.330 +00:00",
+      "episode": 11,
+      "rating": 2,
+      "animeId": 2522
+    },
+    {
+      "id": 21520,
+      "date": "2018-09-17 21:22:22.008 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2521
+    },
+    {
+      "id": 22406,
+      "date": "2018-09-17 21:44:25.758 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 2615
+    },
+    {
+      "id": 22067,
+      "date": "2018-09-18 05:18:34.715 +00:00",
+      "episode": 11,
+      "rating": 2,
+      "animeId": 2573
+    },
+    {
+      "id": 21545,
+      "date": "2018-09-18 15:34:31.002 +00:00",
+      "episode": 12,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 19764,
+      "date": "2018-09-18 15:51:40.657 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 2324
+    },
+    {
+      "id": 16081,
+      "date": "2018-09-18 16:10:09.742 +00:00",
+      "episode": 50,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 20330,
+      "date": "2018-09-18 16:27:11.637 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 2368
+    },
+    {
+      "id": 21959,
+      "date": "2018-09-18 16:46:04.398 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2561
+    },
+    {
+      "id": 19648,
+      "date": "2018-09-18 17:07:49.240 +00:00",
+      "episode": 25,
+      "rating": 6,
+      "animeId": 2317
+    },
+    {
+      "id": 22373,
+      "date": "2018-09-18 18:02:45.196 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2609
+    },
+    {
+      "id": 21979,
+      "date": "2018-09-18 21:35:56.809 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2564
+    },
+    {
+      "id": 21557,
+      "date": "2018-09-19 15:53:19.779 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2524
+    },
+    {
+      "id": 19701,
+      "date": "2018-09-19 16:12:31.920 +00:00",
+      "episode": 25,
+      "rating": 5,
+      "animeId": 2322
+    },
+    {
+      "id": 21579,
+      "date": "2018-09-19 17:32:28.096 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2531
+    },
+    {
+      "id": 21992,
+      "date": "2018-09-19 17:57:09.261 +00:00",
+      "episode": 11,
+      "rating": 7,
+      "animeId": 2565
+    },
+    {
+      "id": 19838,
+      "date": "2018-09-19 21:38:20.072 +00:00",
+      "episode": 24,
+      "rating": 7,
+      "animeId": 2330
+    },
+    {
+      "id": 22004,
+      "date": "2018-09-20 16:13:09.114 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2566
+    },
+    {
+      "id": 21706,
+      "date": "2018-09-20 16:32:56.826 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2538
+    },
+    {
+      "id": 1510,
+      "date": "2018-09-20 16:59:41.109 +00:00",
+      "episode": 74,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 1511,
+      "date": "2018-09-20 17:20:13.413 +00:00",
+      "episode": 75,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 20456,
+      "date": "2018-09-20 21:42:31.642 +00:00",
+      "episode": 22,
+      "rating": 6,
+      "animeId": 2373
+    },
+    {
+      "id": 21718,
+      "date": "2018-09-21 16:13:52.805 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 2539
+    },
+    {
+      "id": 19917,
+      "date": "2018-09-21 16:18:34.965 +00:00",
+      "episode": 25,
+      "rating": 4,
+      "animeId": 2338
+    },
+    {
+      "id": 22032,
+      "date": "2018-09-21 16:41:01.002 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2571
+    },
+    {
+      "id": 21742,
+      "date": "2018-09-21 17:05:46.244 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2541
+    },
+    {
+      "id": 19967,
+      "date": "2018-09-22 06:38:06.490 +00:00",
+      "episode": 25,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 22131,
+      "date": "2018-09-22 14:07:47.528 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2580
+    },
+    {
+      "id": 20794,
+      "date": "2018-09-22 14:45:48.217 +00:00",
+      "episode": 21,
+      "rating": 5,
+      "animeId": 2414
+    },
+    {
+      "id": 22210,
+      "date": "2018-09-22 14:45:54.059 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 20146,
+      "date": "2018-09-22 15:04:47.621 +00:00",
+      "episode": 25,
+      "rating": 7,
+      "animeId": 2355
+    },
+    {
+      "id": 22107,
+      "date": "2018-09-22 15:23:40.994 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 2578
+    },
+    {
+      "id": 22119,
+      "date": "2018-09-22 15:46:33.633 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2579
+    },
+    {
+      "id": 20067,
+      "date": "2018-09-22 16:05:28.734 +00:00",
+      "episode": 24,
+      "rating": 5,
+      "animeId": 2349
+    },
+    {
+      "id": 22095,
+      "date": "2018-09-22 16:28:55.842 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2577
+    },
+    {
+      "id": 21754,
+      "date": "2018-09-22 17:20:55.370 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2542
+    },
+    {
+      "id": 21730,
+      "date": "2018-09-22 17:40:40.064 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2540
+    },
+    {
+      "id": 20302,
+      "date": "2018-09-23 14:29:31.564 +00:00",
+      "episode": 21,
+      "rating": 3,
+      "animeId": 2367
+    },
+    {
+      "id": 21880,
+      "date": "2018-09-23 14:47:09.543 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 2555
+    },
+    {
+      "id": 21855,
+      "date": "2018-09-23 15:05:56.525 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 2553
+    },
+    {
+      "id": 22239,
+      "date": "2018-09-23 15:31:26.748 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 2590
+    },
+    {
+      "id": 19260,
+      "date": "2018-09-23 15:49:25.820 +00:00",
+      "episode": 25,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 21793,
+      "date": "2018-09-23 16:07:31.753 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 2547
+    },
+    {
+      "id": 21831,
+      "date": "2018-09-23 16:29:03.744 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2551
+    },
+    {
+      "id": 21843,
+      "date": "2018-09-23 17:24:39.043 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2552
+    },
+    {
+      "id": 22222,
+      "date": "2018-09-23 17:42:47.352 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 2587
+    },
+    {
+      "id": 21867,
+      "date": "2018-09-23 18:04:32.251 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2554
+    },
+    {
+      "id": 20195,
+      "date": "2018-09-23 21:45:12.358 +00:00",
+      "episode": 25,
+      "rating": 7,
+      "animeId": 2358
+    },
+    {
+      "id": 21892,
+      "date": "2018-09-24 16:01:01.917 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 2556
+    },
+    {
+      "id": 22419,
+      "date": "2018-09-24 16:20:47.099 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 2616
+    },
+    {
+      "id": 19649,
+      "date": "2018-09-24 16:41:32.621 +00:00",
+      "episode": 26,
+      "rating": 6,
+      "animeId": 2317
+    },
+    {
+      "id": 21648,
+      "date": "2018-09-24 17:08:09.785 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 2535
+    },
+    {
+      "id": 21482,
+      "date": "2018-09-24 17:30:40.034 +00:00",
+      "episode": 12,
+      "rating": 7,
+      "animeId": 2517
+    },
+    {
+      "id": 21533,
+      "date": "2018-09-24 21:10:25.290 +00:00",
+      "episode": 12,
+      "rating": 2,
+      "animeId": 2522
+    },
+    {
+      "id": 22068,
+      "date": "2018-09-24 21:13:13.851 +00:00",
+      "episode": 12,
+      "rating": 2,
+      "animeId": 2573
+    },
+    {
+      "id": 21521,
+      "date": "2018-09-24 21:25:54.566 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 2521
+    },
+    {
+      "id": 22407,
+      "date": "2018-09-24 21:52:40.155 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 2615
+    },
+    {
+      "id": 21546,
+      "date": "2018-09-25 15:40:25.091 +00:00",
+      "episode": 13,
+      "rating": 2,
+      "animeId": 2523
+    },
+    {
+      "id": 21558,
+      "date": "2018-09-25 15:58:23.066 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 2524
+    },
+    {
+      "id": 19765,
+      "date": "2018-09-25 16:21:00.647 +00:00",
+      "episode": 25,
+      "rating": 4,
+      "animeId": 2324
+    },
+    {
+      "id": 16082,
+      "date": "2018-09-25 16:38:14.588 +00:00",
+      "episode": 51,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 21960,
+      "date": "2018-09-25 17:02:59.981 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 2561
+    },
+    {
+      "id": 22374,
+      "date": "2018-09-25 17:57:09.843 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 2609
+    },
+    {
+      "id": 21980,
+      "date": "2018-09-25 21:41:21.392 +00:00",
+      "episode": 12,
+      "rating": 7,
+      "animeId": 2564
+    },
+    {
+      "id": 19702,
+      "date": "2018-09-26 15:55:20.537 +00:00",
+      "episode": 26,
+      "rating": 4,
+      "animeId": 2322
+    },
+    {
+      "id": 22005,
+      "date": "2018-09-26 16:41:08.904 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2566
+    },
+    {
+      "id": 21993,
+      "date": "2018-09-26 17:27:56.770 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2565
+    },
+    {
+      "id": 21452,
+      "date": "2018-09-27 16:04:03.086 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 2515
+    },
+    {
+      "id": 20457,
+      "date": "2018-09-27 16:47:38.347 +00:00",
+      "episode": 23,
+      "rating": 6,
+      "animeId": 2373
+    },
+    {
+      "id": 19968,
+      "date": "2018-09-29 06:50:54.667 +00:00",
+      "episode": 26,
+      "rating": 2,
+      "animeId": 2340
+    },
+    {
+      "id": 20303,
+      "date": "2018-09-29 14:38:08.139 +00:00",
+      "episode": 22,
+      "rating": 3,
+      "animeId": 2367
+    },
+    {
+      "id": 22132,
+      "date": "2018-09-29 14:54:45.970 +00:00",
+      "episode": 12,
+      "rating": 2,
+      "animeId": 2580
+    },
+    {
+      "id": 22240,
+      "date": "2018-09-29 15:15:22.552 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 2590
+    },
+    {
+      "id": 20795,
+      "date": "2018-09-29 15:32:45.848 +00:00",
+      "episode": 22,
+      "rating": 4,
+      "animeId": 2414
+    },
+    {
+      "id": 22211,
+      "date": "2018-09-29 15:58:09.779 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 2586
+    },
+    {
+      "id": 20331,
+      "date": "2018-09-29 16:18:44.744 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 2368
+    },
+    {
+      "id": 20068,
+      "date": "2018-09-29 16:44:32.412 +00:00",
+      "episode": 25,
+      "rating": 6,
+      "animeId": 2349
+    },
+    {
+      "id": 22120,
+      "date": "2018-09-29 17:04:18.223 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2579
+    },
+    {
+      "id": 22096,
+      "date": "2018-09-29 17:52:48.950 +00:00",
+      "episode": 12,
+      "rating": 7,
+      "animeId": 2577
+    },
+    {
+      "id": 20106,
+      "date": "2018-09-30 15:54:01.886 +00:00",
+      "episode": 24,
+      "rating": 3,
+      "animeId": 2353
+    },
+    {
+      "id": 19261,
+      "date": "2018-09-30 16:14:48.816 +00:00",
+      "episode": 26,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 22375,
+      "date": "2018-09-30 16:35:18.933 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 2609
+    },
+    {
+      "id": 22223,
+      "date": "2018-09-30 16:57:34.774 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 2587
+    },
+    {
+      "id": 21868,
+      "date": "2018-09-30 17:24:38.692 +00:00",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 2554
+    },
+    {
+      "id": 20196,
+      "date": "2018-09-30 21:47:22.443 +00:00",
+      "episode": 26,
+      "rating": 6,
+      "animeId": 2358
     }
   ]
 }

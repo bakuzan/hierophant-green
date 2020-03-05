@@ -1,14 +1,12 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
 import Personal from '../components/Personal';
 import SEO from '../components/SEO';
-import FoeLink from '../components/FoeLink';
 
 import { rhythm } from '../utils/typography';
 import getSeasonName from '../utils/getSeasonName';
-import niceDate from '../utils/niceDate';
 
 function IndexItem({ slug, text }) {
   return (
@@ -35,37 +33,14 @@ function IndexItem({ slug, text }) {
   );
 }
 
-const CURRENTLY_AIRING = `Currently Airing`;
-const AIRING_LIMIT = 4;
-
 export default ({ data }) => {
-  const [showMore, setShowMore] = useState(null);
-
-  useEffect(() => {
-    // Why window.__theme ?
-    // If no theme then js is disabled! So showing button would be pointless
-    if (window.__theme) {
-      setShowMore(false);
-    }
-  }, []);
-
   const currentYear = new Date().getFullYear().toString();
   const info = data.allDataJson;
-  const items = info.edges.map((x) => x.node);
+  const seasonal = info.nodes;
 
-  const seasonal = items.filter((x) => x.season !== CURRENTLY_AIRING);
   const yearCount = seasonal
     .map((x) => x.season.slice(0, 4))
     .filter((x, i, a) => a.indexOf(x) === i).length;
-
-  let airing = items
-    .filter((x) => x.season === CURRENTLY_AIRING)
-    .sort((a, b) => (a.date > b.date ? -1 : 1));
-
-  const allowMore =
-    !showMore && showMore !== null && airing.length > AIRING_LIMIT;
-
-  airing = showMore ? airing : airing.slice(0, AIRING_LIMIT);
 
   return (
     <Layout>
@@ -73,29 +48,7 @@ export default ({ data }) => {
       <aside>
         <Personal />
       </aside>
-      <div>
-        <h2 id="airing">
-          <Link to="/#airing">Currently Airing</Link>
-        </h2>
-        <ul
-          style={{ listStyleType: 'none', margin: 0, marginBottom: rhythm(4) }}
-        >
-          {airing.map((node) => {
-            const wkBeg = niceDate(node.fields.slug);
 
-            return (
-              <IndexItem
-                key={node.id}
-                slug={node.fields.slug}
-                text={`Week of ${wkBeg}`}
-              />
-            );
-          })}
-          {allowMore && (
-            <FoeLink onClick={() => setShowMore(true)}>Show more weeks</FoeLink>
-          )}
-        </ul>
-      </div>
       <div>
         <h2 id="history">
           <Link to="/#history">Season History</Link>
@@ -137,14 +90,11 @@ export const query = graphql`
   query {
     allDataJson(sort: { fields: [season], order: DESC }) {
       totalCount
-      edges {
-        node {
-          id
-          season
-          date
-          fields {
-            slug
-          }
+      nodes {
+        id
+        season
+        fields {
+          slug
         }
       }
     }

@@ -2,455 +2,4101 @@
   "season": "2020-01",
   "series": [
     {
-      "id": 3756,
-      "title": "22/7",
+      "id": 3630,
+      "title": "Super Shiro",
+      "image": "https://i.imgur.com/yNoXb5d.jpg",
+      "malId": 39183,
       "rating": 0,
-      "average": 4.857142857142857,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/RUmATpA.jpg",
-      "malId": 40148
-    },
-    {
-      "id": 3731,
-      "title": "BanG Dream! 3rd Season",
-      "rating": 0,
-      "average": 4.4,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/KztDkIa.jpg",
-      "malId": 37870
-    },
-    {
-      "id": 3744,
-      "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
-      "rating": 0,
-      "average": 4.375,
-      "highest": 6,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/Gjp1gNu.jpg",
-      "malId": 38302
-    },
-    {
-      "id": 3755,
-      "title": "Breakers",
-      "rating": 0,
-      "average": 4.714285714285714,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/g6uf43X.jpg",
-      "malId": 40850
-    },
-    {
-      "id": 3721,
-      "title": "Darwin's Game",
-      "rating": 0,
-      "average": 5.25,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/OaZO0kZ.jpg",
-      "malId": 38656
-    },
-    {
-      "id": 3759,
-      "title": "Dorohedoro",
-      "rating": 0,
-      "average": 6.285714285714286,
-      "highest": 7,
-      "lowest": 6,
-      "mode": 6,
-      "image": "https://i.imgur.com/8fhJpyK.jpg",
-      "malId": 38668
-    },
-    {
-      "id": 3726,
-      "title": "Eizouken ni wa Te wo Dasu na!",
-      "rating": 0,
-      "average": 6.25,
-      "highest": 7,
-      "lowest": 6,
-      "mode": 6,
-      "image": "https://i.imgur.com/4IwtIzK.jpg",
-      "malId": 39792
-    },
-    {
-      "id": 3750,
-      "title": "Haikyuu!!: To the Top",
-      "rating": 0,
-      "average": 4.875,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/5aiDQzc.jpg",
-      "malId": 38883
-    },
-    {
-      "id": 3761,
-      "title": "Hakumei no Tsubasa",
-      "rating": 0,
-      "average": 5,
-      "highest": 5,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/ktuGBP3.jpg",
-      "malId": 40861
-    },
-    {
-      "id": 3736,
-      "title": "Hatena☆Illusion",
-      "rating": 0,
-      "average": 4.714285714285714,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/YRWQKuX.jpg",
-      "malId": 35252
-    },
-    {
-      "id": 3784,
-      "title": "Healin' Good♡Precure",
-      "rating": 0,
-      "average": 5,
-      "highest": 5,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/OFOxRvD.jpg",
-      "malId": 40610
-    },
-    {
-      "id": 3728,
-      "title": "Hentatsu (TV)",
-      "rating": 0,
-      "average": 2.4444444444444446,
-      "highest": 4,
-      "lowest": 2,
-      "mode": 2,
-      "image": "https://i.imgur.com/kO6bx8Z.jpg",
-      "malId": 40995
-    },
-    {
-      "id": 3724,
-      "title": "Heya Camp△",
-      "rating": 0,
-      "average": 4.25,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/wKZ2POH.jpg",
-      "malId": 38476
-    },
-    {
-      "id": 3743,
-      "title": "Housekishou Richard-shi no Nazo Kantei",
-      "rating": 0,
-      "average": 5.875,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/EYtZyy3.jpg",
-      "malId": 40230
-    },
-    {
-      "id": 3738,
-      "title": "Infinite Dendrogram",
-      "rating": 0,
-      "average": 4.714285714285714,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/yuo72n1.jpg",
-      "malId": 38909
-    },
-    {
-      "id": 3760,
-      "title": "Isekai Quartet 2nd Season",
-      "rating": 0,
-      "average": 4.142857142857143,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/0a0UNw8.jpg",
-      "malId": 39988
-    },
-    {
-      "id": 3754,
-      "title": "Ishuzoku Reviewers",
-      "rating": 0,
-      "average": 5.625,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/9fjpgOc.jpg",
-      "malId": 40010
-    },
-    {
-      "id": 3735,
-      "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
-      "rating": 0,
-      "average": 5,
-      "highest": 5,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/OigfF1b.jpg",
-      "malId": 38790
-    },
-    {
-      "id": 3747,
-      "title": "Jibaku Shounen Hanako-kun",
-      "rating": 0,
-      "average": 6.375,
-      "highest": 7,
-      "lowest": 6,
-      "mode": 6,
-      "image": "https://i.imgur.com/4SsJWYE.jpg",
-      "malId": 39534
-    },
-    {
-      "id": 3715,
-      "title": "Koisuru Asteroid",
-      "rating": 0,
-      "average": 4.5,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/PsYOWjZ.jpg",
-      "malId": 39388
-    },
-    {
-      "id": 3774,
-      "title": "Kuutei Dragons",
-      "rating": 6,
-      "average": 5.5,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/VgW63mi.jpg",
-      "malId": 39531
-    },
-    {
-      "id": 3757,
-      "title": "Kyokou Suiri",
-      "rating": 0,
-      "average": 6.428571428571429,
-      "highest": 7,
-      "lowest": 6,
-      "mode": 6,
-      "image": "https://i.imgur.com/FXuijZT.jpg",
-      "malId": 39017
-    },
-    {
-      "id": 3722,
-      "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
-      "rating": 0,
-      "average": 5.111111111111111,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/6YquXLS.jpg",
-      "malId": 38256
-    },
-    {
-      "id": 3734,
-      "title": "Majutsushi Orphen Hagure Tabi",
-      "rating": 0,
-      "average": 4.25,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/LlrDdCZ.jpg",
-      "malId": 37576
-    },
-    {
-      "id": 3730,
-      "title": "Murenase! Seton Gakuen",
-      "rating": 0,
-      "average": 4.75,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/9HwwLRJ.jpg",
-      "malId": 40483
-    },
-    {
-      "id": 3758,
-      "title": "Natsunagu!",
-      "rating": 0,
-      "average": 3.5,
-      "highest": 4,
-      "lowest": 3,
-      "mode": 3,
-      "image": "https://i.imgur.com/lAqo3oN.jpg",
-      "malId": 40738
-    },
-    {
-      "id": 3740,
-      "title": "Nekopara",
-      "rating": 0,
-      "average": 4.875,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/bGWCJ7e.jpg",
-      "malId": 38924
-    },
-    {
-      "id": 3745,
-      "title": "Oda Cinnamon Nobunaga",
-      "rating": 0,
-      "average": 4.375,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/qGrinno.jpg",
-      "malId": 40136
-    },
-    {
-      "id": 3739,
-      "title": "Oshi ga Budoukan Ittekuretara Shinu",
-      "rating": 0,
-      "average": 5.625,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/16rF1LW.jpg",
-      "malId": 37890
-    },
-    {
-      "id": 3732,
-      "title": "Overflow",
-      "rating": 3,
-      "average": 3.375,
-      "highest": 4,
-      "lowest": 3,
-      "mode": 3,
-      "image": "https://i.imgur.com/ygZwtoN.jpg",
-      "malId": 40746
-    },
-    {
-      "id": 3727,
-      "title": "Pet",
-      "rating": 0,
-      "average": 5.5,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/Pd4XRfh.jpg",
-      "malId": 37522
+      "totalEpisodes": 48,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
     },
     {
       "id": 3713,
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban",
-      "rating": 0,
-      "average": 5,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
       "image": "https://i.imgur.com/mtzZOwH.jpg",
-      "malId": null
+      "malId": null,
+      "rating": 0,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
     },
     {
-      "id": 3764,
-      "title": "Rebirth",
-      "rating": 0,
-      "average": 3,
-      "highest": 3,
-      "lowest": 3,
-      "mode": 3,
-      "image": "https://i.imgur.com/5hQU3fE.jpg",
-      "malId": 40129
+      "id": 3610,
+      "title": "Tenka Hyakken: Meiji-kan e Youkoso!",
+      "image": "https://i.imgur.com/QGXshBs.jpg",
+      "malId": 40320,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
     },
     {
-      "id": 3763,
-      "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+      "id": 3594,
+      "title": "Mugen no Juunin: Immortal",
+      "image": "https://i.imgur.com/mAvj94I.jpg",
+      "malId": 39806,
       "rating": 0,
-      "average": 5.777777777777778,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/7o1kHLs.jpg",
-      "malId": 38992
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
     },
     {
-      "id": 3749,
-      "title": "Runway de Waratte",
+      "id": 3715,
+      "title": "Koisuru Asteroid",
+      "image": "https://i.imgur.com/PsYOWjZ.jpg",
+      "malId": 39388,
       "rating": 0,
-      "average": 6.625,
-      "highest": 7,
-      "lowest": 6,
-      "mode": 7,
-      "image": "https://i.imgur.com/iZBfaxR.jpg",
-      "malId": 40392
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
     },
     {
-      "id": 3762,
-      "title": "Show By Rock!! Mashumairesh!!",
+      "id": 3575,
+      "title": "Mairimashita! Iruma-kun",
+      "image": "https://i.imgur.com/8MuhfCe.jpg",
+      "malId": 39196,
       "rating": 0,
-      "average": 4.25,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/lW8K9yQ.jpg",
-      "malId": 40763
+      "totalEpisodes": 23,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
     },
     {
-      "id": 3753,
-      "title": "Somali to Mori no Kamisama",
+      "id": 3608,
+      "title": "Boku no Hero Academia 4th Season",
+      "image": "https://i.imgur.com/OsnIhhD.jpg",
+      "malId": 38408,
       "rating": 0,
-      "average": 7.25,
-      "highest": 8,
-      "lowest": 7,
-      "mode": 7,
-      "image": "https://i.imgur.com/JFs9kxx.jpg",
-      "malId": 39575
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
     },
     {
-      "id": 3748,
-      "title": "Toaru Kagaku no Railgun T",
+      "id": 3721,
+      "title": "Darwin's Game",
+      "image": "https://i.imgur.com/OaZO0kZ.jpg",
+      "malId": 38656,
       "rating": 0,
-      "average": 4.857142857142857,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/a6NuQrx.jpg",
-      "malId": 38481
+      "totalEpisodes": 11,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
     },
     {
-      "id": 3746,
-      "title": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
+      "id": 3580,
+      "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+      "image": "https://i.imgur.com/6DAaJ21.jpg",
+      "malId": 38084,
       "rating": 0,
-      "average": 4.125,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/n12X2Wn.jpg",
-      "malId": 39942
+      "totalEpisodes": 21,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 2306,
+      "title": "Gegege no Kitarou (2018)",
+      "image": "https://i.imgur.com/p0ftolA.jpg",
+      "malId": 37140,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3722,
+      "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
+      "image": "https://i.imgur.com/6YquXLS.jpg",
+      "malId": 38256,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3585,
+      "title": "Phantasy Star Online 2: Episode Oracle",
+      "image": "https://i.imgur.com/GzDH2ew.jpg",
+      "malId": 39506,
+      "rating": 0,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3724,
+      "title": "Heya Camp△",
+      "image": "https://i.imgur.com/wKZ2POH.jpg",
+      "malId": 38476,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3726,
+      "title": "Eizouken ni wa Te wo Dasu na!",
+      "image": "https://i.imgur.com/4IwtIzK.jpg",
+      "malId": 39792,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3727,
+      "title": "Pet",
+      "image": "https://i.imgur.com/Pd4XRfh.jpg",
+      "malId": 37522,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3583,
+      "title": "Babylon",
+      "image": "https://i.imgur.com/p3ff0eh.jpg",
+      "malId": 37525,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3728,
+      "title": "Hentatsu (TV)",
+      "image": "https://i.imgur.com/kO6bx8Z.jpg",
+      "malId": 40995,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
     },
     {
       "id": 3729,
       "title": "Yatogame-chan Kansatsu Nikki Nisatsume",
-      "rating": 0,
-      "average": 3.25,
-      "highest": 4,
-      "lowest": 3,
-      "mode": 3,
       "image": "https://i.imgur.com/vHW23Xd.jpg",
-      "malId": 39960
+      "malId": 39960,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3087,
+      "title": "Diamond no Ace: Act II",
+      "image": "https://i.imgur.com/8pOLWdG.jpg",
+      "malId": 38731,
+      "rating": 0,
+      "totalEpisodes": 52,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 1929,
+      "title": "Black Clover (TV)",
+      "image": "https://i.imgur.com/a8CF1mA.jpg",
+      "malId": 34572,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2017,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3731,
+      "title": "BanG Dream! 3rd Season",
+      "image": "https://i.imgur.com/KztDkIa.jpg",
+      "malId": 37870,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3730,
+      "title": "Murenase! Seton Gakuen",
+      "image": "https://i.imgur.com/9HwwLRJ.jpg",
+      "malId": 40483,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3592,
+      "title": "Kandagawa Jet Girls",
+      "image": "https://i.imgur.com/viH3A45.jpg",
+      "malId": 40196,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3545,
+      "title": "Radiant 2nd Season",
+      "image": "https://i.imgur.com/qV68eTp.jpg",
+      "malId": 39355,
+      "rating": 4,
+      "totalEpisodes": 21,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3626,
+      "title": "Chihayafuru 3",
+      "image": "https://i.imgur.com/bChdePJ.jpg",
+      "malId": 37379,
+      "rating": 0,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
     },
     {
       "id": 3733,
       "title": "number24",
-      "rating": 0,
-      "average": 3.75,
-      "highest": 4,
-      "lowest": 3,
-      "mode": 4,
       "image": "https://i.imgur.com/BcFWljZ.jpg",
-      "malId": 39583
+      "malId": 39583,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3734,
+      "title": "Majutsushi Orphen Hagure Tabi",
+      "image": "https://i.imgur.com/LlrDdCZ.jpg",
+      "malId": 37576,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3732,
+      "title": "Overflow",
+      "image": "https://i.imgur.com/ygZwtoN.jpg",
+      "malId": 40746,
+      "rating": 3,
+      "totalEpisodes": 8,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3547,
+      "title": "Ahiru no Sora",
+      "image": "https://i.imgur.com/c9oC5a2.jpg",
+      "malId": 37403,
+      "rating": 0,
+      "totalEpisodes": 50,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3593,
+      "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+      "image": "https://i.imgur.com/J9Scoz8.jpg",
+      "malId": 39701,
+      "rating": 0,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 2515,
+      "title": "Dragon Ball Heroes",
+      "image": "https://i.imgur.com/ajG41Y3.jpg",
+      "malId": 37885,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3735,
+      "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+      "image": "https://i.imgur.com/OigfF1b.jpg",
+      "malId": 38790,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3736,
+      "title": "Hatena☆Illusion",
+      "image": "https://i.imgur.com/YRWQKuX.jpg",
+      "malId": 35252,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3740,
+      "title": "Nekopara",
+      "image": "https://i.imgur.com/bGWCJ7e.jpg",
+      "malId": 38924,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3738,
+      "title": "Infinite Dendrogram",
+      "image": "https://i.imgur.com/yuo72n1.jpg",
+      "malId": 38909,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3739,
+      "title": "Oshi ga Budoukan Ittekuretara Shinu",
+      "image": "https://i.imgur.com/16rF1LW.jpg",
+      "malId": 37890,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3743,
+      "title": "Housekishou Richard-shi no Nazo Kantei",
+      "image": "https://i.imgur.com/EYtZyy3.jpg",
+      "malId": 40230,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3602,
+      "title": "Kabukichou Sherlock",
+      "image": "https://i.imgur.com/zOxH8cv.jpg",
+      "malId": 38161,
+      "rating": 0,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3745,
+      "title": "Oda Cinnamon Nobunaga",
+      "image": "https://i.imgur.com/qGrinno.jpg",
+      "malId": 40136,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3746,
+      "title": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
+      "image": "https://i.imgur.com/n12X2Wn.jpg",
+      "malId": 39942,
+      "rating": 0,
+      "totalEpisodes": 11,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3747,
+      "title": "Jibaku Shounen Hanako-kun",
+      "image": "https://i.imgur.com/4SsJWYE.jpg",
+      "malId": 39534,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3748,
+      "title": "Toaru Kagaku no Railgun T",
+      "image": "https://i.imgur.com/a6NuQrx.jpg",
+      "malId": 38481,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3749,
+      "title": "Runway de Waratte",
+      "image": "https://i.imgur.com/iZBfaxR.jpg",
+      "malId": 40392,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3750,
+      "title": "Haikyuu!!: To the Top",
+      "image": "https://i.imgur.com/5aiDQzc.jpg",
+      "malId": 38883,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 122,
+      "title": "Boruto: Naruto Next Generations",
+      "image": "https://i.imgur.com/O5vYeDw.jpg",
+      "malId": 34566,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3462,
+      "title": "Cardfight!! Vanguard: Shinemon-hen",
+      "image": "https://i.imgur.com/MNpAQY1.jpg",
+      "malId": 40167,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3744,
+      "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+      "image": "https://i.imgur.com/Gjp1gNu.jpg",
+      "malId": 38302,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3753,
+      "title": "Somali to Mori no Kamisama",
+      "image": "https://i.imgur.com/JFs9kxx.jpg",
+      "malId": 39575,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3754,
+      "title": "Ishuzoku Reviewers",
+      "image": "https://i.imgur.com/9fjpgOc.jpg",
+      "malId": 40010,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3664,
+      "title": "Pokemon (2019)",
+      "image": "https://i.imgur.com/v0EKbYF.jpg",
+      "malId": 40351,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3756,
+      "title": "22/7",
+      "image": "https://i.imgur.com/RUmATpA.jpg",
+      "malId": 40148,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3757,
+      "title": "Kyokou Suiri",
+      "image": "https://i.imgur.com/FXuijZT.jpg",
+      "malId": 39017,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3758,
+      "title": "Natsunagu!",
+      "image": "https://i.imgur.com/lAqo3oN.jpg",
+      "malId": 40738,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3755,
+      "title": "Breakers",
+      "image": "https://i.imgur.com/g6uf43X.jpg",
+      "malId": 40850,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3759,
+      "title": "Dorohedoro",
+      "image": "https://i.imgur.com/8fhJpyK.jpg",
+      "malId": 38668,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3760,
+      "title": "Isekai Quartet 2nd Season",
+      "image": "https://i.imgur.com/0a0UNw8.jpg",
+      "malId": 39988,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3761,
+      "title": "Hakumei no Tsubasa",
+      "image": "https://i.imgur.com/ktuGBP3.jpg",
+      "malId": 40861,
+      "rating": 0,
+      "totalEpisodes": 7,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3762,
+      "title": "Show By Rock!! Mashumairesh!!",
+      "image": "https://i.imgur.com/lW8K9yQ.jpg",
+      "malId": 40763,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3763,
+      "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+      "image": "https://i.imgur.com/7o1kHLs.jpg",
+      "malId": 38992,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3764,
+      "title": "Rebirth",
+      "image": "https://i.imgur.com/5hQU3fE.jpg",
+      "malId": 40129,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3609,
+      "title": "Rifle Is Beautiful",
+      "image": "https://i.imgur.com/zHuCvkJ.jpg",
+      "malId": 38529,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3774,
+      "title": "Kuutei Dragons",
+      "image": "https://i.imgur.com/VgW63mi.jpg",
+      "malId": 39531,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3784,
+      "title": "Healin' Good♡Precure",
+      "image": "https://i.imgur.com/OFOxRvD.jpg",
+      "malId": 40610,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    }
+  ],
+  "episodes": [
+    {
+      "id": 33158,
+      "date": "2020-01-01 09:08:06.869 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 33159,
+      "date": "2020-01-01 09:08:06.870 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 33177,
+      "date": "2020-01-01 22:38:22.134 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3713
+    },
+    {
+      "id": 33186,
+      "date": "2020-01-02 16:35:20.045 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 3610
+    },
+    {
+      "id": 33190,
+      "date": "2020-01-02 22:34:34.706 +00:00",
+      "episode": 14,
+      "rating": 6,
+      "animeId": 3594
+    },
+    {
+      "id": 33198,
+      "date": "2020-01-03 17:01:58.083 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3715
+    },
+    {
+      "id": 33242,
+      "date": "2020-01-04 17:26:13.116 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 3575
+    },
+    {
+      "id": 33243,
+      "date": "2020-01-04 17:42:58.224 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3608
+    },
+    {
+      "id": 33244,
+      "date": "2020-01-04 18:33:27.376 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3721
+    },
+    {
+      "id": 33271,
+      "date": "2020-01-05 16:35:23.143 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3580
+    },
+    {
+      "id": 33274,
+      "date": "2020-01-05 17:31:30.171 +00:00",
+      "episode": 87,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 33275,
+      "date": "2020-01-05 18:25:31.421 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3722
+    },
+    {
+      "id": 33284,
+      "date": "2020-01-06 16:55:20.943 +00:00",
+      "episode": 13,
+      "rating": 3,
+      "animeId": 3585
+    },
+    {
+      "id": 33287,
+      "date": "2020-01-06 17:01:11.547 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3724
+    },
+    {
+      "id": 33290,
+      "date": "2020-01-06 18:07:39.090 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3726
+    },
+    {
+      "id": 33291,
+      "date": "2020-01-06 18:58:04.694 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3727
+    },
+    {
+      "id": 33292,
+      "date": "2020-01-06 22:39:05.193 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3583
+    },
+    {
+      "id": 33293,
+      "date": "2020-01-07 05:51:35.316 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3728
+    },
+    {
+      "id": 33301,
+      "date": "2020-01-07 16:40:59.705 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3729
+    },
+    {
+      "id": 33302,
+      "date": "2020-01-07 16:58:07.134 +00:00",
+      "episode": 40,
+      "rating": 3,
+      "animeId": 3087
+    },
+    {
+      "id": 33304,
+      "date": "2020-01-07 17:34:22.145 +00:00",
+      "episode": 116,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 33305,
+      "date": "2020-01-07 17:54:30.937 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3731
+    },
+    {
+      "id": 33306,
+      "date": "2020-01-07 18:56:59.561 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3730
+    },
+    {
+      "id": 33309,
+      "date": "2020-01-07 22:35:21.615 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3592
+    },
+    {
+      "id": 33317,
+      "date": "2020-01-08 16:42:45.792 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 33318,
+      "date": "2020-01-08 17:00:53.628 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 3545
+    },
+    {
+      "id": 33319,
+      "date": "2020-01-08 17:39:27.052 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 3626
+    },
+    {
+      "id": 33321,
+      "date": "2020-01-08 18:35:20.012 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3733
+    },
+    {
+      "id": 33322,
+      "date": "2020-01-08 19:00:07.055 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3734
+    },
+    {
+      "id": 33325,
+      "date": "2020-01-08 22:13:20.253 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3732
+    },
+    {
+      "id": 33326,
+      "date": "2020-01-08 22:37:59.583 +00:00",
+      "episode": 14,
+      "rating": 6,
+      "animeId": 3547
+    },
+    {
+      "id": 33334,
+      "date": "2020-01-09 17:01:28.245 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3713
+    },
+    {
+      "id": 33335,
+      "date": "2020-01-09 17:19:39.681 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 3593
+    },
+    {
+      "id": 33338,
+      "date": "2020-01-09 17:27:35.069 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2515
+    },
+    {
+      "id": 33339,
+      "date": "2020-01-09 17:29:51.744 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 2515
+    },
+    {
+      "id": 33340,
+      "date": "2020-01-09 17:52:45.559 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 33341,
+      "date": "2020-01-09 18:44:44.608 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3736
+    },
+    {
+      "id": 33354,
+      "date": "2020-01-10 17:09:47.244 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3740
+    },
+    {
+      "id": 33355,
+      "date": "2020-01-10 17:33:30.359 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3738
+    },
+    {
+      "id": 33356,
+      "date": "2020-01-10 17:56:12.971 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3739
+    },
+    {
+      "id": 33380,
+      "date": "2020-01-11 15:49:16.087 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3743
+    },
+    {
+      "id": 33381,
+      "date": "2020-01-11 16:07:07.419 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3715
+    },
+    {
+      "id": 33382,
+      "date": "2020-01-11 16:23:12.677 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 3602
+    },
+    {
+      "id": 33383,
+      "date": "2020-01-11 16:45:03.053 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3745
+    },
+    {
+      "id": 33384,
+      "date": "2020-01-11 17:03:07.502 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3746
+    },
+    {
+      "id": 33385,
+      "date": "2020-01-11 17:28:30.204 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3747
+    },
+    {
+      "id": 33386,
+      "date": "2020-01-11 17:46:30.114 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3748
+    },
+    {
+      "id": 33387,
+      "date": "2020-01-11 18:15:08.366 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3721
+    },
+    {
+      "id": 33388,
+      "date": "2020-01-11 18:40:54.320 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3749
+    },
+    {
+      "id": 33389,
+      "date": "2020-01-11 18:57:39.840 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3750
+    },
+    {
+      "id": 33410,
+      "date": "2020-01-12 15:13:46.234 +00:00",
+      "episode": 139,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 33412,
+      "date": "2020-01-12 15:40:23.732 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 3580
+    },
+    {
+      "id": 33413,
+      "date": "2020-01-12 15:55:59.212 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 3575
+    },
+    {
+      "id": 33414,
+      "date": "2020-01-12 16:10:49.144 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3462
+    },
+    {
+      "id": 33415,
+      "date": "2020-01-12 16:28:51.034 +00:00",
+      "episode": 88,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 33416,
+      "date": "2020-01-12 16:48:41.244 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3722
+    },
+    {
+      "id": 33417,
+      "date": "2020-01-12 17:06:27.232 +00:00",
+      "episode": 13,
+      "rating": 7,
+      "animeId": 3608
+    },
+    {
+      "id": 33419,
+      "date": "2020-01-12 17:49:07.515 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3744
+    },
+    {
+      "id": 33420,
+      "date": "2020-01-12 18:39:23.110 +00:00",
+      "episode": 1,
+      "rating": 8,
+      "animeId": 3753
+    },
+    {
+      "id": 33421,
+      "date": "2020-01-12 22:30:00.275 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3754
+    },
+    {
+      "id": 33428,
+      "date": "2020-01-13 16:37:49.313 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3724
+    },
+    {
+      "id": 33429,
+      "date": "2020-01-13 16:55:42.957 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 33430,
+      "date": "2020-01-13 17:15:22.174 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3756
+    },
+    {
+      "id": 33432,
+      "date": "2020-01-13 18:03:18.439 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3757
+    },
+    {
+      "id": 33433,
+      "date": "2020-01-13 18:58:45.133 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 3726
+    },
+    {
+      "id": 33434,
+      "date": "2020-01-13 22:10:01.442 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3758
+    },
+    {
+      "id": 33435,
+      "date": "2020-01-13 22:41:29.131 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3583
+    },
+    {
+      "id": 33443,
+      "date": "2020-01-14 16:33:46.817 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 3728
+    },
+    {
+      "id": 33444,
+      "date": "2020-01-14 16:35:45.837 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 3729
+    },
+    {
+      "id": 33445,
+      "date": "2020-01-14 16:50:40.644 +00:00",
+      "episode": 41,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 33446,
+      "date": "2020-01-14 17:08:19.658 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 3585
+    },
+    {
+      "id": 33447,
+      "date": "2020-01-14 17:21:42.842 +00:00",
+      "episode": 117,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 33448,
+      "date": "2020-01-14 17:24:39.910 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3758
+    },
+    {
+      "id": 33449,
+      "date": "2020-01-14 17:48:23.571 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3731
+    },
+    {
+      "id": 33450,
+      "date": "2020-01-14 17:56:55.585 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3755
+    },
+    {
+      "id": 33451,
+      "date": "2020-01-14 18:47:57.449 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3727
+    },
+    {
+      "id": 33452,
+      "date": "2020-01-14 22:39:43.326 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3759
+    },
+    {
+      "id": 33460,
+      "date": "2020-01-15 16:41:14.730 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3760
+    },
+    {
+      "id": 33461,
+      "date": "2020-01-15 16:44:26.263 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 33462,
+      "date": "2020-01-15 17:02:34.158 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3734
+    },
+    {
+      "id": 33463,
+      "date": "2020-01-15 17:19:15.729 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3545
+    },
+    {
+      "id": 33464,
+      "date": "2020-01-15 17:33:09.805 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3733
+    },
+    {
+      "id": 33465,
+      "date": "2020-01-15 17:49:51.486 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 3626
+    },
+    {
+      "id": 33466,
+      "date": "2020-01-15 18:35:39.281 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3730
+    },
+    {
+      "id": 33468,
+      "date": "2020-01-15 19:04:47.469 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3732
+    },
+    {
+      "id": 33469,
+      "date": "2020-01-15 22:40:33.160 +00:00",
+      "episode": 15,
+      "rating": 8,
+      "animeId": 3547
+    },
+    {
+      "id": 33477,
+      "date": "2020-01-16 16:33:57.408 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3761
+    },
+    {
+      "id": 33479,
+      "date": "2020-01-16 17:02:08.987 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3713
+    },
+    {
+      "id": 33480,
+      "date": "2020-01-16 17:27:24.319 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 33481,
+      "date": "2020-01-16 18:13:47.527 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3762
+    },
+    {
+      "id": 33482,
+      "date": "2020-01-16 18:36:59.656 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3736
+    },
+    {
+      "id": 33484,
+      "date": "2020-01-16 22:38:36.250 +00:00",
+      "episode": 15,
+      "rating": 6,
+      "animeId": 3594
+    },
+    {
+      "id": 33489,
+      "date": "2020-01-17 07:24:38.526 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3763
+    },
+    {
+      "id": 33490,
+      "date": "2020-01-17 07:45:37.610 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3763
+    },
+    {
+      "id": 33491,
+      "date": "2020-01-17 17:00:44.759 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3740
+    },
+    {
+      "id": 33492,
+      "date": "2020-01-17 17:19:16.275 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3738
+    },
+    {
+      "id": 33493,
+      "date": "2020-01-17 18:03:25.150 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3739
+    },
+    {
+      "id": 33502,
+      "date": "2020-01-18 08:58:54.176 +00:00",
+      "episode": 1,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
+      "id": 33510,
+      "date": "2020-01-18 10:58:31.597 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 3593
+    },
+    {
+      "id": 33517,
+      "date": "2020-01-18 15:11:41.883 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3746
+    },
+    {
+      "id": 33518,
+      "date": "2020-01-18 15:30:00.668 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3745
+    },
+    {
+      "id": 33519,
+      "date": "2020-01-18 15:48:00.134 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3715
+    },
+    {
+      "id": 33520,
+      "date": "2020-01-18 16:05:04.237 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3748
+    },
+    {
+      "id": 33521,
+      "date": "2020-01-18 16:22:52.936 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 3602
+    },
+    {
+      "id": 33522,
+      "date": "2020-01-18 16:45:30.409 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3743
+    },
+    {
+      "id": 33523,
+      "date": "2020-01-18 17:07:40.527 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3721
+    },
+    {
+      "id": 33524,
+      "date": "2020-01-18 17:28:58.077 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3750
+    },
+    {
+      "id": 33525,
+      "date": "2020-01-18 17:51:40.782 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3747
+    },
+    {
+      "id": 33526,
+      "date": "2020-01-18 18:55:54.146 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 3749
+    },
+    {
+      "id": 33549,
+      "date": "2020-01-19 12:52:01.782 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3609
+    },
+    {
+      "id": 33550,
+      "date": "2020-01-19 15:18:47.664 +00:00",
+      "episode": 140,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 33552,
+      "date": "2020-01-19 15:46:48.210 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 3580
+    },
+    {
+      "id": 33553,
+      "date": "2020-01-19 16:04:00.879 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3575
+    },
+    {
+      "id": 33554,
+      "date": "2020-01-19 16:17:09.645 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 3462
+    },
+    {
+      "id": 33555,
+      "date": "2020-01-19 16:40:30.480 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3722
+    },
+    {
+      "id": 33556,
+      "date": "2020-01-19 17:02:02.934 +00:00",
+      "episode": 89,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 33557,
+      "date": "2020-01-19 17:25:11.177 +00:00",
+      "episode": 14,
+      "rating": 6,
+      "animeId": 3608
+    },
+    {
+      "id": 33558,
+      "date": "2020-01-19 18:10:34.885 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3744
+    },
+    {
+      "id": 33559,
+      "date": "2020-01-19 18:35:16.536 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 3753
+    },
+    {
+      "id": 33560,
+      "date": "2020-01-19 22:32:24.239 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3754
+    },
+    {
+      "id": 33568,
+      "date": "2020-01-20 16:36:00.495 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3724
+    },
+    {
+      "id": 33569,
+      "date": "2020-01-20 16:53:34.229 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 33570,
+      "date": "2020-01-20 17:19:54.778 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3756
+    },
+    {
+      "id": 33572,
+      "date": "2020-01-20 18:33:01.401 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3726
+    },
+    {
+      "id": 33573,
+      "date": "2020-01-20 18:56:00.149 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 3757
+    },
+    {
+      "id": 33574,
+      "date": "2020-01-20 22:40:16.661 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3583
+    },
+    {
+      "id": 33582,
+      "date": "2020-01-21 16:33:15.258 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 3729
+    },
+    {
+      "id": 33583,
+      "date": "2020-01-21 16:50:17.722 +00:00",
+      "episode": 42,
+      "rating": 3,
+      "animeId": 3087
+    },
+    {
+      "id": 33584,
+      "date": "2020-01-21 17:11:47.348 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3585
+    },
+    {
+      "id": 33585,
+      "date": "2020-01-21 17:11:53.342 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3755
+    },
+    {
+      "id": 33586,
+      "date": "2020-01-21 17:27:06.905 +00:00",
+      "episode": 118,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 33587,
+      "date": "2020-01-21 17:45:29.638 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3731
+    },
+    {
+      "id": 33588,
+      "date": "2020-01-21 18:03:26.450 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3731
+    },
+    {
+      "id": 33589,
+      "date": "2020-01-21 18:54:22.182 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3727
+    },
+    {
+      "id": 33590,
+      "date": "2020-01-21 22:34:41.061 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 3759
+    },
+    {
+      "id": 33597,
+      "date": "2020-01-22 07:44:00.300 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3763
+    },
+    {
+      "id": 33598,
+      "date": "2020-01-22 16:37:20.681 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3760
+    },
+    {
+      "id": 33599,
+      "date": "2020-01-22 16:41:57.583 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 33600,
+      "date": "2020-01-22 16:57:59.357 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3733
+    },
+    {
+      "id": 33601,
+      "date": "2020-01-22 17:13:17.150 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3734
+    },
+    {
+      "id": 33602,
+      "date": "2020-01-22 17:30:52.403 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3545
+    },
+    {
+      "id": 33603,
+      "date": "2020-01-22 17:47:45.328 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 3626
+    },
+    {
+      "id": 33604,
+      "date": "2020-01-22 18:29:20.503 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3730
+    },
+    {
+      "id": 33606,
+      "date": "2020-01-22 22:04:49.243 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 3732
+    },
+    {
+      "id": 33607,
+      "date": "2020-01-22 22:34:06.905 +00:00",
+      "episode": 16,
+      "rating": 7,
+      "animeId": 3547
+    },
+    {
+      "id": 33615,
+      "date": "2020-01-23 16:58:42.046 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3713
+    },
+    {
+      "id": 33616,
+      "date": "2020-01-23 17:16:58.248 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3762
+    },
+    {
+      "id": 33617,
+      "date": "2020-01-23 18:02:48.538 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3762
+    },
+    {
+      "id": 33619,
+      "date": "2020-01-23 18:39:56.094 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3736
+    },
+    {
+      "id": 33620,
+      "date": "2020-01-23 18:56:23.303 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 33622,
+      "date": "2020-01-23 22:34:37.425 +00:00",
+      "episode": 16,
+      "rating": 6,
+      "animeId": 3594
+    },
+    {
+      "id": 33630,
+      "date": "2020-01-24 16:58:04.532 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3740
+    },
+    {
+      "id": 33631,
+      "date": "2020-01-24 17:35:50.214 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3738
+    },
+    {
+      "id": 33632,
+      "date": "2020-01-24 17:59:03.891 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3739
+    },
+    {
+      "id": 33653,
+      "date": "2020-01-25 10:53:54.134 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 3728
+    },
+    {
+      "id": 33662,
+      "date": "2020-01-25 12:56:12.241 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 3593
+    },
+    {
+      "id": 33663,
+      "date": "2020-01-25 15:26:10.571 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3746
+    },
+    {
+      "id": 33664,
+      "date": "2020-01-25 15:45:21.564 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3745
+    },
+    {
+      "id": 33665,
+      "date": "2020-01-25 16:01:52.359 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3715
+    },
+    {
+      "id": 33666,
+      "date": "2020-01-25 16:46:19.816 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3748
+    },
+    {
+      "id": 33667,
+      "date": "2020-01-25 16:46:26.375 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 3602
+    },
+    {
+      "id": 33668,
+      "date": "2020-01-25 17:09:00.518 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3750
+    },
+    {
+      "id": 33669,
+      "date": "2020-01-25 17:29:34.603 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3743
+    },
+    {
+      "id": 33670,
+      "date": "2020-01-25 17:56:16.748 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3721
+    },
+    {
+      "id": 33671,
+      "date": "2020-01-25 18:17:28.251 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3747
+    },
+    {
+      "id": 33672,
+      "date": "2020-01-25 19:05:45.582 +00:00",
+      "episode": 3,
+      "rating": 7,
+      "animeId": 3749
+    },
+    {
+      "id": 33680,
+      "date": "2020-01-26 07:17:56.182 +00:00",
+      "episode": 4,
+      "rating": 2,
+      "animeId": 3728
+    },
+    {
+      "id": 33706,
+      "date": "2020-01-26 15:21:51.141 +00:00",
+      "episode": 141,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 33708,
+      "date": "2020-01-26 15:49:14.955 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3580
+    },
+    {
+      "id": 33709,
+      "date": "2020-01-26 16:07:12.943 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 3575
+    },
+    {
+      "id": 33710,
+      "date": "2020-01-26 16:24:17.363 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3744
+    },
+    {
+      "id": 33711,
+      "date": "2020-01-26 16:41:50.263 +00:00",
+      "episode": 22,
+      "rating": 5,
+      "animeId": 3462
+    },
+    {
+      "id": 33712,
+      "date": "2020-01-26 17:04:32.133 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3722
+    },
+    {
+      "id": 33713,
+      "date": "2020-01-26 17:30:36.726 +00:00",
+      "episode": 90,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 33714,
+      "date": "2020-01-26 18:13:27.969 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 3608
+    },
+    {
+      "id": 33715,
+      "date": "2020-01-26 18:37:15.962 +00:00",
+      "episode": 3,
+      "rating": 7,
+      "animeId": 3753
+    },
+    {
+      "id": 33716,
+      "date": "2020-01-26 22:32:37.301 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3754
+    },
+    {
+      "id": 33721,
+      "date": "2020-01-27 07:28:04.583 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3774
+    },
+    {
+      "id": 33724,
+      "date": "2020-01-27 16:35:36.119 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3724
+    },
+    {
+      "id": 33725,
+      "date": "2020-01-27 16:58:58.585 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3664
+    },
+    {
+      "id": 33726,
+      "date": "2020-01-27 17:20:59.226 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3756
+    },
+    {
+      "id": 33728,
+      "date": "2020-01-27 18:40:35.070 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3726
+    },
+    {
+      "id": 33729,
+      "date": "2020-01-27 19:04:48.293 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3757
+    },
+    {
+      "id": 33730,
+      "date": "2020-01-27 22:38:04.243 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3583
+    },
+    {
+      "id": 33735,
+      "date": "2020-01-28 07:26:51.852 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3774
+    },
+    {
+      "id": 33737,
+      "date": "2020-01-28 07:44:53.478 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3755
+    },
+    {
+      "id": 33738,
+      "date": "2020-01-28 16:34:35.047 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 3729
+    },
+    {
+      "id": 33739,
+      "date": "2020-01-28 16:50:15.698 +00:00",
+      "episode": 43,
+      "rating": 3,
+      "animeId": 3087
+    },
+    {
+      "id": 33740,
+      "date": "2020-01-28 17:06:06.419 +00:00",
+      "episode": 16,
+      "rating": 3,
+      "animeId": 3585
+    },
+    {
+      "id": 33741,
+      "date": "2020-01-28 17:23:55.514 +00:00",
+      "episode": 119,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 33742,
+      "date": "2020-01-28 17:42:00.922 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3731
+    },
+    {
+      "id": 33743,
+      "date": "2020-01-28 18:04:53.832 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3727
+    },
+    {
+      "id": 33744,
+      "date": "2020-01-28 18:27:51.387 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3763
+    },
+    {
+      "id": 33745,
+      "date": "2020-01-28 22:41:07.125 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3759
+    },
+    {
+      "id": 33750,
+      "date": "2020-01-29 07:22:17.818 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3774
+    },
+    {
+      "id": 33753,
+      "date": "2020-01-29 16:48:06.887 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 3760
+    },
+    {
+      "id": 33754,
+      "date": "2020-01-29 16:52:18.663 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 33755,
+      "date": "2020-01-29 17:07:23.299 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3733
+    },
+    {
+      "id": 33756,
+      "date": "2020-01-29 17:24:04.660 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3734
+    },
+    {
+      "id": 33757,
+      "date": "2020-01-29 17:37:01.142 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3545
+    },
+    {
+      "id": 33758,
+      "date": "2020-01-29 18:20:36.039 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3626
+    },
+    {
+      "id": 33759,
+      "date": "2020-01-29 18:20:50.931 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3730
+    },
+    {
+      "id": 33761,
+      "date": "2020-01-29 19:08:34.356 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3732
+    },
+    {
+      "id": 33762,
+      "date": "2020-01-29 22:31:36.829 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 3547
+    },
+    {
+      "id": 33767,
+      "date": "2020-01-30 07:21:18.209 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3774
+    },
+    {
+      "id": 33770,
+      "date": "2020-01-30 17:02:07.450 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3713
+    },
+    {
+      "id": 33771,
+      "date": "2020-01-30 17:25:15.332 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3762
+    },
+    {
+      "id": 33773,
+      "date": "2020-01-30 18:35:01.523 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3736
+    },
+    {
+      "id": 33774,
+      "date": "2020-01-30 18:52:56.233 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 33775,
+      "date": "2020-01-30 22:33:22.570 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 3594
+    },
+    {
+      "id": 33780,
+      "date": "2020-01-31 07:25:10.988 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3774
+    },
+    {
+      "id": 33783,
+      "date": "2020-01-31 16:58:55.183 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3740
+    },
+    {
+      "id": 33784,
+      "date": "2020-01-31 17:32:03.530 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3738
+    },
+    {
+      "id": 33785,
+      "date": "2020-01-31 17:59:08.746 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3739
+    },
+    {
+      "id": 33798,
+      "date": "2020-02-01 12:18:10.992 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 3593
+    },
+    {
+      "id": 33801,
+      "date": "2020-02-01 15:07:03.426 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 3758
+    },
+    {
+      "id": 33802,
+      "date": "2020-02-01 15:26:25.206 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3746
+    },
+    {
+      "id": 33803,
+      "date": "2020-02-01 15:41:26.924 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3745
+    },
+    {
+      "id": 33804,
+      "date": "2020-02-01 15:59:02.052 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3715
+    },
+    {
+      "id": 33805,
+      "date": "2020-02-01 16:16:56.089 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3748
+    },
+    {
+      "id": 33806,
+      "date": "2020-02-01 16:35:30.167 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3750
+    },
+    {
+      "id": 33807,
+      "date": "2020-02-01 16:53:26.630 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 3602
+    },
+    {
+      "id": 33808,
+      "date": "2020-02-01 17:20:04.386 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3763
+    },
+    {
+      "id": 33809,
+      "date": "2020-02-01 17:42:04.184 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3743
+    },
+    {
+      "id": 33810,
+      "date": "2020-02-01 18:32:51.598 +00:00",
+      "episode": 4,
+      "rating": 7,
+      "animeId": 3747
+    },
+    {
+      "id": 33811,
+      "date": "2020-02-01 18:57:47.058 +00:00",
+      "episode": 4,
+      "rating": 7,
+      "animeId": 3749
+    },
+    {
+      "id": 33824,
+      "date": "2020-02-02 12:57:44.828 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3784
+    },
+    {
+      "id": 33825,
+      "date": "2020-02-02 15:23:07.612 +00:00",
+      "episode": 142,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 33827,
+      "date": "2020-02-02 15:54:41.364 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3744
+    },
+    {
+      "id": 33828,
+      "date": "2020-02-02 16:17:10.929 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 3575
+    },
+    {
+      "id": 33829,
+      "date": "2020-02-02 16:38:15.545 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 3462
+    },
+    {
+      "id": 33830,
+      "date": "2020-02-02 17:02:06.231 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3722
+    },
+    {
+      "id": 33831,
+      "date": "2020-02-02 17:22:21.171 +00:00",
+      "episode": 91,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 33832,
+      "date": "2020-02-02 17:43:01.091 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 3608
+    },
+    {
+      "id": 33833,
+      "date": "2020-02-02 18:30:14.254 +00:00",
+      "episode": 4,
+      "rating": 7,
+      "animeId": 3753
+    },
+    {
+      "id": 33834,
+      "date": "2020-02-02 22:32:15.911 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3754
+    },
+    {
+      "id": 33841,
+      "date": "2020-02-03 07:25:42.496 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3774
+    },
+    {
+      "id": 33843,
+      "date": "2020-02-03 16:35:11.454 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3724
+    },
+    {
+      "id": 33844,
+      "date": "2020-02-03 16:58:20.197 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 33846,
+      "date": "2020-02-03 17:44:41.855 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3756
+    },
+    {
+      "id": 33847,
+      "date": "2020-02-03 18:37:12.568 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3763
+    },
+    {
+      "id": 33848,
+      "date": "2020-02-03 18:59:38.471 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3726
+    },
+    {
+      "id": 33849,
+      "date": "2020-02-03 22:40:39.191 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3757
+    },
+    {
+      "id": 33854,
+      "date": "2020-02-04 07:27:35.971 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3774
+    },
+    {
+      "id": 33857,
+      "date": "2020-02-04 16:34:38.916 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 3758
+    },
+    {
+      "id": 33858,
+      "date": "2020-02-04 16:37:09.091 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 3729
+    },
+    {
+      "id": 33859,
+      "date": "2020-02-04 16:41:41.842 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3755
+    },
+    {
+      "id": 33860,
+      "date": "2020-02-04 17:01:59.939 +00:00",
+      "episode": 44,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 33861,
+      "date": "2020-02-04 17:20:09.967 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3585
+    },
+    {
+      "id": 33862,
+      "date": "2020-02-04 17:43:25.133 +00:00",
+      "episode": 120,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 33863,
+      "date": "2020-02-04 18:07:08.989 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3730
+    },
+    {
+      "id": 33864,
+      "date": "2020-02-04 18:57:57.407 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3727
+    },
+    {
+      "id": 33865,
+      "date": "2020-02-04 22:43:19.336 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3759
+    },
+    {
+      "id": 33869,
+      "date": "2020-02-05 07:27:19.863 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3774
+    },
+    {
+      "id": 33871,
+      "date": "2020-02-05 16:37:53.466 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 3758
+    },
+    {
+      "id": 33872,
+      "date": "2020-02-05 16:43:46.189 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 33873,
+      "date": "2020-02-05 16:52:11.499 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3760
+    },
+    {
+      "id": 33874,
+      "date": "2020-02-05 17:07:46.957 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3733
+    },
+    {
+      "id": 33875,
+      "date": "2020-02-05 17:22:05.588 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3734
+    },
+    {
+      "id": 33876,
+      "date": "2020-02-05 17:45:13.529 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 3545
+    },
+    {
+      "id": 33877,
+      "date": "2020-02-05 18:36:32.147 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 3626
+    },
+    {
+      "id": 33879,
+      "date": "2020-02-05 19:23:51.239 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 3732
+    },
+    {
+      "id": 33881,
+      "date": "2020-02-05 22:34:00.449 +00:00",
+      "episode": 18,
+      "rating": 6,
+      "animeId": 3547
+    },
+    {
+      "id": 33886,
+      "date": "2020-02-06 07:25:25.887 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3774
+    },
+    {
+      "id": 33888,
+      "date": "2020-02-06 17:05:05.026 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3713
+    },
+    {
+      "id": 33889,
+      "date": "2020-02-06 17:26:29.996 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3762
+    },
+    {
+      "id": 33891,
+      "date": "2020-02-06 18:40:36.418 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3736
+    },
+    {
+      "id": 33892,
+      "date": "2020-02-06 19:01:41.046 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 33893,
+      "date": "2020-02-06 22:39:47.209 +00:00",
+      "episode": 18,
+      "rating": 6,
+      "animeId": 3594
+    },
+    {
+      "id": 33899,
+      "date": "2020-02-07 07:25:04.690 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3774
+    },
+    {
+      "id": 33901,
+      "date": "2020-02-07 17:00:22.311 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3740
+    },
+    {
+      "id": 33902,
+      "date": "2020-02-07 17:37:40.721 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3738
+    },
+    {
+      "id": 33903,
+      "date": "2020-02-07 18:00:22.253 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3739
+    },
+    {
+      "id": 33923,
+      "date": "2020-02-08 12:56:42.934 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 3593
+    },
+    {
+      "id": 33927,
+      "date": "2020-02-08 15:27:05.861 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3746
+    },
+    {
+      "id": 33928,
+      "date": "2020-02-08 15:41:34.167 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3745
+    },
+    {
+      "id": 33929,
+      "date": "2020-02-08 15:59:08.412 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3715
+    },
+    {
+      "id": 33930,
+      "date": "2020-02-08 16:13:36.251 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3748
+    },
+    {
+      "id": 33931,
+      "date": "2020-02-08 16:31:57.069 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3750
+    },
+    {
+      "id": 33932,
+      "date": "2020-02-08 16:50:05.935 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 3602
+    },
+    {
+      "id": 33933,
+      "date": "2020-02-08 17:11:31.871 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3721
+    },
+    {
+      "id": 33934,
+      "date": "2020-02-08 17:33:31.131 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3743
+    },
+    {
+      "id": 33935,
+      "date": "2020-02-08 17:55:26.030 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3747
+    },
+    {
+      "id": 33936,
+      "date": "2020-02-08 18:45:59.349 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3749
+    },
+    {
+      "id": 33967,
+      "date": "2020-02-09 15:28:11.030 +00:00",
+      "episode": 143,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 33969,
+      "date": "2020-02-09 15:53:06.975 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3580
+    },
+    {
+      "id": 33970,
+      "date": "2020-02-09 16:09:58.820 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3744
+    },
+    {
+      "id": 33971,
+      "date": "2020-02-09 16:26:25.538 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 3575
+    },
+    {
+      "id": 33972,
+      "date": "2020-02-09 16:59:08.003 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 3462
+    },
+    {
+      "id": 33973,
+      "date": "2020-02-09 16:59:13.701 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3784
+    },
+    {
+      "id": 33974,
+      "date": "2020-02-09 17:22:18.045 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3722
+    },
+    {
+      "id": 33975,
+      "date": "2020-02-09 17:43:00.291 +00:00",
+      "episode": 92,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 33976,
+      "date": "2020-02-09 18:39:03.849 +00:00",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 3608
+    },
+    {
+      "id": 33977,
+      "date": "2020-02-09 19:03:14.795 +00:00",
+      "episode": 5,
+      "rating": 7,
+      "animeId": 3753
+    },
+    {
+      "id": 33978,
+      "date": "2020-02-09 22:35:36.782 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3754
+    },
+    {
+      "id": 33984,
+      "date": "2020-02-10 07:26:15.367 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3774
+    },
+    {
+      "id": 33986,
+      "date": "2020-02-10 16:37:28.284 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3724
+    },
+    {
+      "id": 33987,
+      "date": "2020-02-10 17:07:30.341 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 33989,
+      "date": "2020-02-10 17:48:42.893 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3756
+    },
+    {
+      "id": 33990,
+      "date": "2020-02-10 18:59:50.015 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3763
+    },
+    {
+      "id": 33991,
+      "date": "2020-02-10 19:00:18.917 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3726
+    },
+    {
+      "id": 33992,
+      "date": "2020-02-10 22:37:11.922 +00:00",
+      "episode": 5,
+      "rating": 7,
+      "animeId": 3757
+    },
+    {
+      "id": 33997,
+      "date": "2020-02-11 07:27:33.052 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3774
+    },
+    {
+      "id": 33999,
+      "date": "2020-02-11 16:39:10.853 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3729
+    },
+    {
+      "id": 34000,
+      "date": "2020-02-11 16:46:26.001 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3755
+    },
+    {
+      "id": 34001,
+      "date": "2020-02-11 17:07:34.854 +00:00",
+      "episode": 45,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 34002,
+      "date": "2020-02-11 17:23:45.668 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 3585
+    },
+    {
+      "id": 34003,
+      "date": "2020-02-11 17:46:22.863 +00:00",
+      "episode": 121,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 34004,
+      "date": "2020-02-11 18:11:46.333 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3730
+    },
+    {
+      "id": 34005,
+      "date": "2020-02-11 19:02:10.601 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3727
+    },
+    {
+      "id": 34006,
+      "date": "2020-02-11 22:34:57.448 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3759
+    },
+    {
+      "id": 34016,
+      "date": "2020-02-12 16:42:09.061 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3758
+    },
+    {
+      "id": 34017,
+      "date": "2020-02-12 16:48:52.375 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 34018,
+      "date": "2020-02-12 16:57:18.413 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3760
+    },
+    {
+      "id": 34019,
+      "date": "2020-02-12 17:13:11.717 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 3733
+    },
+    {
+      "id": 34020,
+      "date": "2020-02-12 17:29:56.455 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3734
+    },
+    {
+      "id": 34022,
+      "date": "2020-02-12 17:36:13.045 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 3732
+    },
+    {
+      "id": 34023,
+      "date": "2020-02-12 18:07:21.766 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 3545
+    },
+    {
+      "id": 34024,
+      "date": "2020-02-12 18:59:22.508 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 3626
+    },
+    {
+      "id": 34025,
+      "date": "2020-02-12 22:40:23.263 +00:00",
+      "episode": 19,
+      "rating": 7,
+      "animeId": 3547
+    },
+    {
+      "id": 34034,
+      "date": "2020-02-13 17:21:28.628 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3762
+    },
+    {
+      "id": 34036,
+      "date": "2020-02-13 18:33:12.987 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3736
+    },
+    {
+      "id": 34037,
+      "date": "2020-02-13 18:53:32.407 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 34038,
+      "date": "2020-02-13 22:36:21.840 +00:00",
+      "episode": 19,
+      "rating": 6,
+      "animeId": 3594
+    },
+    {
+      "id": 34072,
+      "date": "2020-02-14 17:29:33.573 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3740
+    },
+    {
+      "id": 34073,
+      "date": "2020-02-14 17:54:28.270 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3738
+    },
+    {
+      "id": 34074,
+      "date": "2020-02-14 18:16:31.539 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3739
+    },
+    {
+      "id": 34096,
+      "date": "2020-02-15 12:09:13.318 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 3593
+    },
+    {
+      "id": 34105,
+      "date": "2020-02-15 15:31:37.542 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3746
+    },
+    {
+      "id": 34106,
+      "date": "2020-02-15 15:48:38.576 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3745
+    },
+    {
+      "id": 34110,
+      "date": "2020-02-15 16:17:14.389 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3748
+    },
+    {
+      "id": 34111,
+      "date": "2020-02-15 16:34:56.404 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3750
+    },
+    {
+      "id": 34112,
+      "date": "2020-02-15 17:15:25.771 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 3602
+    },
+    {
+      "id": 34113,
+      "date": "2020-02-15 17:17:38.620 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3721
+    },
+    {
+      "id": 34114,
+      "date": "2020-02-15 17:34:16.014 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3743
+    },
+    {
+      "id": 34115,
+      "date": "2020-02-15 18:21:08.701 +00:00",
+      "episode": 6,
+      "rating": 7,
+      "animeId": 3747
+    },
+    {
+      "id": 34116,
+      "date": "2020-02-15 18:45:32.488 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3749
+    },
+    {
+      "id": 34148,
+      "date": "2020-02-16 15:20:12.953 +00:00",
+      "episode": 144,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 34150,
+      "date": "2020-02-16 15:48:26.787 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3580
+    },
+    {
+      "id": 34151,
+      "date": "2020-02-16 16:01:38.295 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3744
+    },
+    {
+      "id": 34152,
+      "date": "2020-02-16 16:16:08.293 +00:00",
+      "episode": 20,
+      "rating": 5,
+      "animeId": 3575
+    },
+    {
+      "id": 34153,
+      "date": "2020-02-16 16:29:44.928 +00:00",
+      "episode": 25,
+      "rating": 4,
+      "animeId": 3462
+    },
+    {
+      "id": 34154,
+      "date": "2020-02-16 16:52:10.694 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3722
+    },
+    {
+      "id": 34155,
+      "date": "2020-02-16 17:13:26.704 +00:00",
+      "episode": 93,
+      "rating": 7,
+      "animeId": 2306
+    },
+    {
+      "id": 34156,
+      "date": "2020-02-16 17:29:03.774 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 3608
+    },
+    {
+      "id": 34157,
+      "date": "2020-02-16 17:46:16.462 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3784
+    },
+    {
+      "id": 34158,
+      "date": "2020-02-16 18:09:00.343 +00:00",
+      "episode": 6,
+      "rating": 7,
+      "animeId": 3753
+    },
+    {
+      "id": 34159,
+      "date": "2020-02-16 22:39:53.473 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3754
+    },
+    {
+      "id": 34192,
+      "date": "2020-02-17 16:47:46.978 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3724
+    },
+    {
+      "id": 34193,
+      "date": "2020-02-17 16:55:08.062 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 34195,
+      "date": "2020-02-17 17:45:34.588 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3756
+    },
+    {
+      "id": 34196,
+      "date": "2020-02-17 18:34:22.117 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3763
+    },
+    {
+      "id": 34197,
+      "date": "2020-02-17 18:59:31.297 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3726
+    },
+    {
+      "id": 34198,
+      "date": "2020-02-17 22:44:04.011 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3757
+    },
+    {
+      "id": 34206,
+      "date": "2020-02-18 16:38:44.738 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 3729
+    },
+    {
+      "id": 34207,
+      "date": "2020-02-18 16:47:06.155 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3755
+    },
+    {
+      "id": 34208,
+      "date": "2020-02-18 17:03:16.378 +00:00",
+      "episode": 46,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 34209,
+      "date": "2020-02-18 17:24:48.893 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 3585
+    },
+    {
+      "id": 34210,
+      "date": "2020-02-18 17:46:08.312 +00:00",
+      "episode": 122,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 34211,
+      "date": "2020-02-18 18:10:04.396 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3730
+    },
+    {
+      "id": 34212,
+      "date": "2020-02-18 19:02:25.217 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3727
+    },
+    {
+      "id": 34213,
+      "date": "2020-02-18 22:37:13.627 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3759
+    },
+    {
+      "id": 34221,
+      "date": "2020-02-19 16:47:02.278 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 3758
+    },
+    {
+      "id": 34222,
+      "date": "2020-02-19 16:52:53.728 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3760
+    },
+    {
+      "id": 34223,
+      "date": "2020-02-19 16:57:51.823 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 34224,
+      "date": "2020-02-19 17:15:16.374 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3733
+    },
+    {
+      "id": 34225,
+      "date": "2020-02-19 17:31:00.275 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3734
+    },
+    {
+      "id": 34226,
+      "date": "2020-02-19 17:31:23.817 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 3732
+    },
+    {
+      "id": 34227,
+      "date": "2020-02-19 17:45:14.074 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3545
+    },
+    {
+      "id": 34229,
+      "date": "2020-02-19 18:47:22.961 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 3626
+    },
+    {
+      "id": 34230,
+      "date": "2020-02-19 18:49:06.571 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3761
+    },
+    {
+      "id": 34231,
+      "date": "2020-02-19 22:38:50.143 +00:00",
+      "episode": 20,
+      "rating": 7,
+      "animeId": 3547
+    },
+    {
+      "id": 34239,
+      "date": "2020-02-20 17:05:21.683 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3713
+    },
+    {
+      "id": 34240,
+      "date": "2020-02-20 17:24:46.926 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 3762
+    },
+    {
+      "id": 34243,
+      "date": "2020-02-20 18:53:32.786 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 34254,
+      "date": "2020-02-21 17:31:36.062 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3740
+    },
+    {
+      "id": 34255,
+      "date": "2020-02-21 17:56:05.897 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3739
+    },
+    {
+      "id": 34274,
+      "date": "2020-02-22 12:44:23.224 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 3593
+    },
+    {
+      "id": 34275,
+      "date": "2020-02-22 15:28:08.604 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3746
+    },
+    {
+      "id": 34276,
+      "date": "2020-02-22 15:43:42.329 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3745
+    },
+    {
+      "id": 34277,
+      "date": "2020-02-22 15:58:55.871 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3715
+    },
+    {
+      "id": 34279,
+      "date": "2020-02-22 16:38:20.776 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3750
+    },
+    {
+      "id": 34280,
+      "date": "2020-02-22 17:00:29.393 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 3602
+    },
+    {
+      "id": 34281,
+      "date": "2020-02-22 17:23:22.711 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3743
+    },
+    {
+      "id": 34282,
+      "date": "2020-02-22 17:46:37.512 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3721
+    },
+    {
+      "id": 34283,
+      "date": "2020-02-22 18:15:43.215 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3747
+    },
+    {
+      "id": 34284,
+      "date": "2020-02-22 18:59:58.694 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3749
+    },
+    {
+      "id": 34316,
+      "date": "2020-02-23 15:20:54.641 +00:00",
+      "episode": 145,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 34318,
+      "date": "2020-02-23 15:48:54.971 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 3580
+    },
+    {
+      "id": 34319,
+      "date": "2020-02-23 16:12:16.418 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3744
+    },
+    {
+      "id": 34320,
+      "date": "2020-02-23 16:17:32.476 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 3575
+    },
+    {
+      "id": 34321,
+      "date": "2020-02-23 16:31:49.029 +00:00",
+      "episode": 26,
+      "rating": 4,
+      "animeId": 3462
+    },
+    {
+      "id": 34322,
+      "date": "2020-02-23 16:53:54.644 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3722
+    },
+    {
+      "id": 34323,
+      "date": "2020-02-23 17:12:29.095 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3784
+    },
+    {
+      "id": 34324,
+      "date": "2020-02-23 17:38:47.909 +00:00",
+      "episode": 94,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 34325,
+      "date": "2020-02-23 17:54:22.733 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 3608
+    },
+    {
+      "id": 34326,
+      "date": "2020-02-23 18:49:24.824 +00:00",
+      "episode": 7,
+      "rating": 7,
+      "animeId": 3753
+    },
+    {
+      "id": 34327,
+      "date": "2020-02-23 22:28:31.875 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3754
+    },
+    {
+      "id": 34337,
+      "date": "2020-02-24 16:40:13.415 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3724
+    },
+    {
+      "id": 34338,
+      "date": "2020-02-24 16:58:25.633 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 3664
+    },
+    {
+      "id": 34340,
+      "date": "2020-02-24 17:46:31.800 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3756
+    },
+    {
+      "id": 34341,
+      "date": "2020-02-24 18:34:02.919 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3763
+    },
+    {
+      "id": 34342,
+      "date": "2020-02-24 18:57:47.761 +00:00",
+      "episode": 8,
+      "rating": 7,
+      "animeId": 3726
+    },
+    {
+      "id": 34343,
+      "date": "2020-02-24 22:40:34.980 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3757
+    },
+    {
+      "id": 34357,
+      "date": "2020-02-25 16:51:26.668 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 3729
+    },
+    {
+      "id": 34358,
+      "date": "2020-02-25 16:56:59.027 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3755
+    },
+    {
+      "id": 34359,
+      "date": "2020-02-25 17:09:24.117 +00:00",
+      "episode": 47,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 34360,
+      "date": "2020-02-25 17:25:11.329 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3585
+    },
+    {
+      "id": 34361,
+      "date": "2020-02-25 17:42:58.962 +00:00",
+      "episode": 123,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 34362,
+      "date": "2020-02-25 18:05:41.457 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3730
+    },
+    {
+      "id": 34363,
+      "date": "2020-02-25 19:02:49.801 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3727
+    },
+    {
+      "id": 34364,
+      "date": "2020-02-25 22:38:03.270 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3759
+    },
+    {
+      "id": 34371,
+      "date": "2020-02-26 16:45:41.506 +00:00",
+      "episode": 20,
+      "rating": 3,
+      "animeId": 3630
+    },
+    {
+      "id": 34372,
+      "date": "2020-02-26 16:52:50.838 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 3760
+    },
+    {
+      "id": 34373,
+      "date": "2020-02-26 17:09:10.589 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 3733
+    },
+    {
+      "id": 34374,
+      "date": "2020-02-26 17:24:59.640 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3734
+    },
+    {
+      "id": 34375,
+      "date": "2020-02-26 17:30:58.868 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 3732
+    },
+    {
+      "id": 34376,
+      "date": "2020-02-26 17:35:33.606 +00:00",
+      "episode": 5,
+      "rating": 2,
+      "animeId": 3728
+    },
+    {
+      "id": 34377,
+      "date": "2020-02-26 17:35:33.607 +00:00",
+      "episode": 6,
+      "rating": 2,
+      "animeId": 3728
+    },
+    {
+      "id": 34378,
+      "date": "2020-02-26 17:35:33.608 +00:00",
+      "episode": 7,
+      "rating": 2,
+      "animeId": 3728
+    },
+    {
+      "id": 34379,
+      "date": "2020-02-26 17:35:33.609 +00:00",
+      "episode": 8,
+      "rating": 2,
+      "animeId": 3728
+    },
+    {
+      "id": 34380,
+      "date": "2020-02-26 18:18:30.043 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 3545
+    },
+    {
+      "id": 34382,
+      "date": "2020-02-26 19:02:14.708 +00:00",
+      "episode": 20,
+      "rating": 6,
+      "animeId": 3626
+    },
+    {
+      "id": 34383,
+      "date": "2020-02-26 22:14:42.267 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3758
+    },
+    {
+      "id": 34384,
+      "date": "2020-02-26 22:37:34.720 +00:00",
+      "episode": 21,
+      "rating": 6,
+      "animeId": 3547
+    },
+    {
+      "id": 34390,
+      "date": "2020-02-27 17:04:57.576 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3713
+    },
+    {
+      "id": 34391,
+      "date": "2020-02-27 17:23:56.995 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3762
+    },
+    {
+      "id": 34393,
+      "date": "2020-02-27 18:26:16.432 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3736
+    },
+    {
+      "id": 34394,
+      "date": "2020-02-27 18:49:48.679 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 34395,
+      "date": "2020-02-27 22:36:47.009 +00:00",
+      "episode": 20,
+      "rating": 6,
+      "animeId": 3594
+    },
+    {
+      "id": 34401,
+      "date": "2020-02-28 16:56:43.466 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3738
+    },
+    {
+      "id": 34402,
+      "date": "2020-02-28 17:15:32.798 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3740
+    },
+    {
+      "id": 34403,
+      "date": "2020-02-28 18:24:50.576 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3739
+    },
+    {
+      "id": 34436,
+      "date": "2020-02-29 12:56:19.777 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3593
+    },
+    {
+      "id": 34437,
+      "date": "2020-02-29 15:31:38.956 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3746
+    },
+    {
+      "id": 34438,
+      "date": "2020-02-29 15:43:51.318 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3745
+    },
+    {
+      "id": 34439,
+      "date": "2020-02-29 15:56:43.636 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3715
+    },
+    {
+      "id": 34440,
+      "date": "2020-02-29 16:11:45.199 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3748
+    },
+    {
+      "id": 34441,
+      "date": "2020-02-29 16:28:24.356 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3750
+    },
+    {
+      "id": 34442,
+      "date": "2020-02-29 16:46:49.296 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3602
+    },
+    {
+      "id": 34443,
+      "date": "2020-02-29 17:12:19.609 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3743
+    },
+    {
+      "id": 34444,
+      "date": "2020-02-29 17:39:44.513 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3721
+    },
+    {
+      "id": 34445,
+      "date": "2020-02-29 18:02:42.099 +00:00",
+      "episode": 8,
+      "rating": 7,
+      "animeId": 3747
+    },
+    {
+      "id": 34446,
+      "date": "2020-02-29 19:09:33.034 +00:00",
+      "episode": 8,
+      "rating": 7,
+      "animeId": 3749
+    },
+    {
+      "id": 34452,
+      "date": "2020-03-01 06:55:30.074 +00:00",
+      "episode": 9,
+      "rating": 2,
+      "animeId": 3728
+    },
+    {
+      "id": 34478,
+      "date": "2020-03-01 15:37:39.408 +00:00",
+      "episode": 146,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 34479,
+      "date": "2020-03-01 15:51:06.987 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 3744
+    },
+    {
+      "id": 34483,
+      "date": "2020-03-01 16:42:33.891 +00:00",
+      "episode": 22,
+      "rating": 4,
+      "animeId": 3575
+    },
+    {
+      "id": 34484,
+      "date": "2020-03-01 16:58:38.886 +00:00",
+      "episode": 27,
+      "rating": 4,
+      "animeId": 3462
+    },
+    {
+      "id": 34485,
+      "date": "2020-03-01 17:19:50.265 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3784
+    },
+    {
+      "id": 34486,
+      "date": "2020-03-01 17:37:00.801 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3722
+    },
+    {
+      "id": 34487,
+      "date": "2020-03-01 17:55:49.531 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3608
+    },
+    {
+      "id": 34488,
+      "date": "2020-03-01 18:25:12.163 +00:00",
+      "episode": 8,
+      "rating": 8,
+      "animeId": 3753
+    },
+    {
+      "id": 34489,
+      "date": "2020-03-01 22:34:03.940 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3754
+    },
+    {
+      "id": 34500,
+      "date": "2020-03-02 16:39:27.241 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3724
+    },
+    {
+      "id": 34501,
+      "date": "2020-03-02 16:56:51.012 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 34502,
+      "date": "2020-03-02 17:21:00.850 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3756
+    },
+    {
+      "id": 34504,
+      "date": "2020-03-02 18:33:28.422 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3763
+    },
+    {
+      "id": 34505,
+      "date": "2020-03-02 18:58:55.426 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3726
+    },
+    {
+      "id": 34506,
+      "date": "2020-03-02 22:32:10.295 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3757
+    },
+    {
+      "id": 34516,
+      "date": "2020-03-03 16:39:11.478 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 3729
+    },
+    {
+      "id": 34517,
+      "date": "2020-03-03 16:45:03.511 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3755
+    },
+    {
+      "id": 34518,
+      "date": "2020-03-03 17:02:41.259 +00:00",
+      "episode": 48,
+      "rating": 3,
+      "animeId": 3087
+    },
+    {
+      "id": 34519,
+      "date": "2020-03-03 17:17:34.534 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 3585
+    },
+    {
+      "id": 34520,
+      "date": "2020-03-03 17:33:10.862 +00:00",
+      "episode": 124,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 34521,
+      "date": "2020-03-03 17:51:06.831 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3731
+    },
+    {
+      "id": 34522,
+      "date": "2020-03-03 18:11:35.592 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3730
+    },
+    {
+      "id": 34523,
+      "date": "2020-03-03 19:03:31.193 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3727
+    },
+    {
+      "id": 34524,
+      "date": "2020-03-03 22:37:51.137 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3759
+    },
+    {
+      "id": 34532,
+      "date": "2020-03-04 16:48:50.726 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 3630
+    },
+    {
+      "id": 34533,
+      "date": "2020-03-04 16:57:18.219 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3760
+    },
+    {
+      "id": 34534,
+      "date": "2020-03-04 17:14:29.342 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3733
+    },
+    {
+      "id": 34535,
+      "date": "2020-03-04 17:14:48.371 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3758
+    },
+    {
+      "id": 34536,
+      "date": "2020-03-04 17:31:31.193 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3734
+    },
+    {
+      "id": 34537,
+      "date": "2020-03-04 17:50:03.737 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3731
+    },
+    {
+      "id": 34538,
+      "date": "2020-03-04 18:32:05.708 +00:00",
+      "episode": 21,
+      "rating": 5,
+      "animeId": 3626
+    },
+    {
+      "id": 34540,
+      "date": "2020-03-04 22:38:47.444 +00:00",
+      "episode": 22,
+      "rating": 7,
+      "animeId": 3547
     }
   ]
 }

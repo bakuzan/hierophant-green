@@ -6,7 +6,7 @@ import Img from 'gatsby-image';
 import Table from './index';
 import NewTabLink from '@/components/NewTabLink';
 import getSeriesStats from '@/utils/getSeriesStats';
-import getSeasonName from '@/utils/getSeasonName';
+import getEpisodeText from '@/utils/getEpisodeText';
 import { rhythm } from '@/utils/typography';
 
 const rhsAlign = { textAlign: 'right' };
@@ -20,7 +20,7 @@ const seasonHeaders = [
   { text: 'Mode', style: { ...rhsAlign } }
 ];
 
-function HGTable({ hideRatingColumn, items, hideSeason }) {
+function HGTable({ hideRatingColumn, items, hideSeason, getSeason }) {
   const headers = hideRatingColumn
     ? seasonHeaders.filter((x) => x.text !== 'Rating')
     : seasonHeaders;
@@ -31,6 +31,8 @@ function HGTable({ hideRatingColumn, items, hideSeason }) {
         items.map((s, i) => {
           const number = i + 1;
           const stats = getSeriesStats(s);
+          const season = getSeason(s.isCarryOver, s.season);
+          const episodesText = getEpisodeText(s.episodes);
 
           return (
             <tr key={s.id}>
@@ -43,8 +45,8 @@ function HGTable({ hideRatingColumn, items, hideSeason }) {
                   }}
                 >
                   <div>{number}</div>
-                  {!hideSeason && s.season && (
-                    <div>{getSeasonName(s.season, false)}</div>
+                  {!hideSeason && season && (
+                    <div style={{ fontSize: `0.75rem` }}>{season}</div>
                   )}
                 </div>
               </td>
@@ -54,12 +56,15 @@ function HGTable({ hideRatingColumn, items, hideSeason }) {
                     style={{ flex: `0 0 96px` }}
                     {...s.image.childImageSharp}
                   />
-                  <NewTabLink
-                    style={{ margin: `0 ${rhythm(1 / 2)}` }}
-                    href={`https://myanimelist.net/anime/${s.malId}`}
-                  >
-                    {s.title}
-                  </NewTabLink>
+                  <div style={{ margin: `0 ${rhythm(1 / 2)}` }}>
+                    <NewTabLink
+                      style={{ display: 'flex', justifyContent: 'flex-start' }}
+                      href={`https://myanimelist.net/anime/${s.malId}`}
+                    >
+                      {s.title}
+                    </NewTabLink>
+                    <div style={{ fontSize: `0.75rem` }}>{episodesText}</div>
+                  </div>
                 </div>
               </td>
               {!hideRatingColumn && (
@@ -90,13 +95,16 @@ function HGTable({ hideRatingColumn, items, hideSeason }) {
 HGTable.defaultProps = {
   style: {},
   hideRatingColumn: false,
-  hideSeason: false
+  hideSeason: false,
+  getSeason: (isCarryOver, season) =>
+    isCarryOver ? `${season.season} ${season.year}` : null
 };
 
 HGTable.propTypes = {
   items: PropTypes.arrayOf(PropTypes.object).isRequired,
   hideRatingColumn: PropTypes.bool,
-  hideSeason: PropTypes.bool
+  hideSeason: PropTypes.bool,
+  getSeason: PropTypes.func
 };
 
 export default HGTable;

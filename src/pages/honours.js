@@ -7,6 +7,8 @@ import HGTable from '@/components/Table/HGTable';
 
 import groupBy from '@/utils/groupBy';
 import seriesSorter from '@/utils/seriesSorter';
+import reduceSeasons from '@/utils/reduceSeasons';
+import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import { rhythm } from '@/utils/typography';
 import { capitalise } from '@/utils/helpers';
 import { seasonNames } from '@/consts';
@@ -105,16 +107,13 @@ export default ({ data }) => {
   const seasons = data.allDataJson.nodes ?? [];
   const groups = groupBy(seasons, (x) => x.season.split('-')[0]);
 
-  const years = Array.from(groups.entries()).map(([key, items]) => [
-    key,
-    items
-      .reduce(
-        (p, c) => [...p, ...c.series.map((x) => ({ ...x, season: c.season }))],
-        []
-      )
-      .sort(seriesSorter)
-  ]);
-
+  const years = Array.from(groups.entries()).map(([key, items]) => {
+    const s = reduceSeasons(items, 'series');
+    const e = reduceSeasons(items, 'episodes');
+    const se = generateSeriesStatistics('', s, e).sort(seriesSorter);
+    return [key, se];
+  });
+  console.log('Honours');
   return (
     <Layout>
       <SEO title="Honours" />
@@ -138,12 +137,8 @@ export default ({ data }) => {
 
 export const query = graphql`
   query {
-    allDataJson(
-      filter: { date: { eq: null } }
-      sort: { order: DESC, fields: season }
-    ) {
+    allDataJson(sort: { order: DESC, fields: season }) {
       nodes {
-        id
         season
         series {
           id
@@ -157,10 +152,18 @@ export const query = graphql`
           }
           malId
           rating
-          average
-          highest
-          lowest
-          mode
+          totalEpisodes
+          season {
+            year
+            season
+          }
+        }
+        episodes {
+          id
+          date
+          episode
+          rating
+          animeId
         }
       }
     }

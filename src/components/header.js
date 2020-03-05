@@ -9,7 +9,11 @@ import { Icons } from '../consts';
 
 const NavLink = (props) => (
   <Link
-    style={{ padding: `0 5px`, margin: `0 10px` }}
+    className="hig-nav-link"
+    style={{
+      padding: `0 5px`,
+      margin: `0 10px`
+    }}
     activeStyle={{
       backgroundColor: 'var(--primary-colour)',
       color: `var(--primary-contrast)`

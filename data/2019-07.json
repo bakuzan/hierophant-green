@@ -2,334 +2,4202 @@
   "season": "2019-07",
   "series": [
     {
-      "id": 3278,
-      "title": "Araburu Kisetsu no Otome-domo yo.",
-      "rating": 6,
-      "average": 5.666666666666667,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/9X6bjDs.jpg",
-      "malId": 38753
-    },
-    {
-      "id": 3300,
-      "title": "Arifureta Shokugyou de Sekai Saikyou",
-      "rating": 5,
-      "average": 4.6923076923076925,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/jcFzey0.jpg",
-      "malId": 36882
-    },
-    {
-      "id": 3316,
-      "title": "Bem",
-      "rating": 6,
-      "average": 5.666666666666667,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/pQFJiYs.jpg",
-      "malId": 39221
-    },
-    {
-      "id": 3462,
-      "title": "Cardfight!! Vanguard: Shinemon-hen",
-      "rating": 0,
-      "average": 4.62962962962963,
-      "highest": 6,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/MNpAQY1.jpg",
-      "malId": 40167
-    },
-    {
-      "id": 3301,
-      "title": "Cop Craft",
-      "rating": 5,
-      "average": 5.25,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/aCzI7gy.jpg",
-      "malId": 38940
-    },
-    {
-      "id": 3285,
-      "title": "Dr. Stone",
-      "rating": 6,
-      "average": 5.916666666666667,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/kl6Kt5l.jpg",
-      "malId": 38691
-    },
-    {
-      "id": 3271,
-      "title": "Dumbbell Nan Kilo Moteru?",
-      "rating": 6,
-      "average": 5.583333333333333,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/9FaftPv.jpg",
-      "malId": 39026
-    },
-    {
-      "id": 3310,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "rating": 5,
-      "average": 5.166666666666667,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/Lv74cDF.jpg",
-      "malId": 37347
-    },
-    {
-      "id": 3287,
-      "title": "Enen no Shouboutai",
-      "rating": 6,
-      "average": 6.125,
-      "highest": 8,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/AnS2EYG.jpg",
-      "malId": 38671
-    },
-    {
-      "id": 3286,
-      "title": "Granbelm",
+      "id": 3116,
+      "title": "Hachigatsu no Cinderella Nine",
+      "image": "https://i.imgur.com/JNdMfAS.jpg",
+      "malId": 38091,
       "rating": 4,
-      "average": 4.384615384615385,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/Np6bFY3.jpg",
-      "malId": 39417
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
     },
     {
-      "id": 3289,
-      "title": "Hakata Mentai! Pirikarako-chan",
-      "rating": 3,
-      "average": 2.909090909090909,
-      "highest": 4,
-      "lowest": 2,
-      "mode": 3,
-      "image": "https://i.imgur.com/yjb3Biz.jpg",
-      "malId": 39620
-    },
-    {
-      "id": 3305,
-      "title": "Isekai Cheat Magician",
-      "rating": 4,
-      "average": 4,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/xGGyaYo.jpg",
-      "malId": 37744
-    },
-    {
-      "id": 3284,
-      "title": "Joshikousei no Mudazukai",
-      "rating": 6,
-      "average": 5.5,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/pfSRfya.jpg",
-      "malId": 38619
-    },
-    {
-      "id": 3272,
-      "title": "Kanata no Astra",
-      "rating": 6,
-      "average": 5.75,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 6,
-      "image": "https://i.imgur.com/qVDw3aQ.jpg",
-      "malId": 39198
-    },
-    {
-      "id": 3299,
-      "title": "Karakai Jouzu no Takagi-san 2",
-      "rating": 5,
-      "average": 4.583333333333333,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/3aTOOuC.jpg",
-      "malId": 38993
-    },
-    {
-      "id": 3269,
-      "title": "Katsute Kami Datta Kemono-tachi e",
-      "rating": 6,
-      "average": 6.333333333333333,
-      "highest": 8,
-      "lowest": 6,
-      "mode": 6,
-      "image": "https://i.imgur.com/5ySxuUv.jpg",
-      "malId": 39199
-    },
-    {
-      "id": 3297,
-      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
-      "rating": 5,
-      "average": 5.083333333333333,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/ZxK244v.jpg",
-      "malId": 39326
-    },
-    {
-      "id": 3295,
-      "title": "Kochouki: Wakaki Nobunaga",
-      "rating": 5,
-      "average": 4.75,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/jF6UHdP.jpg",
-      "malId": 38920
-    },
-    {
-      "id": 3291,
-      "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
-      "rating": 5,
-      "average": 4.923076923076923,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/TzVTPXB.jpg",
-      "malId": 38959
-    },
-    {
-      "id": 3307,
-      "title": "Machikado Mazoku",
-      "rating": 5,
-      "average": 4.666666666666667,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/SCj5kdM.jpg",
-      "malId": 39071
-    },
-    {
-      "id": 3275,
-      "title": "Maou-sama, Retry!",
-      "rating": 4,
-      "average": 4.5,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 5,
-      "image": "https://i.imgur.com/SF6gg9H.jpg",
-      "malId": 38297
-    },
-    {
-      "id": 3294,
-      "title": "Nakanohito Genome [Jikkyouchuu]",
-      "rating": 4,
-      "average": 3.8333333333333335,
-      "highest": 5,
-      "lowest": 3,
-      "mode": 4,
-      "image": "https://i.imgur.com/MTdOuAy.jpg",
-      "malId": 37926
-    },
-    {
-      "id": 3293,
-      "title": "Re:Stage! Dream Days",
-      "rating": 5,
-      "average": 5.083333333333333,
-      "highest": 6,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/blTwX12.jpg",
-      "malId": 38009
-    },
-    {
-      "id": 3292,
-      "title": "Senki Zesshou Symphogear XV",
-      "rating": 4,
-      "average": 4.076923076923077,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 4,
-      "image": "https://i.imgur.com/gDuQj1A.jpg",
-      "malId": 32843
+      "id": 3185,
+      "title": "Shingeki no Kyojin Season 3 Part 2",
+      "image": "https://i.imgur.com/R95n8JR.jpg",
+      "malId": 38524,
+      "rating": 7,
+      "totalEpisodes": 10,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
     },
     {
       "id": 3268,
       "title": "Sounan Desu ka?",
-      "rating": 6,
-      "average": 5.75,
-      "highest": 7,
-      "lowest": 5,
-      "mode": 6,
       "image": "https://i.imgur.com/vw15C4q.jpg",
-      "malId": 39456
+      "malId": 39456,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3269,
+      "title": "Katsute Kami Datta Kemono-tachi e",
+      "image": "https://i.imgur.com/5ySxuUv.jpg",
+      "malId": 39199,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3142,
+      "title": "King of Prism: Shiny Seven Stars",
+      "image": "https://i.imgur.com/e9GI7aA.jpg",
+      "malId": 39699,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3087,
+      "title": "Diamond no Ace: Act II",
+      "image": "https://i.imgur.com/8pOLWdG.jpg",
+      "malId": 38731,
+      "rating": 0,
+      "totalEpisodes": 52,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 1929,
+      "title": "Black Clover (TV)",
+      "image": "https://i.imgur.com/a8CF1mA.jpg",
+      "malId": 34572,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2017,
+        "season": "Fall"
+      }
     },
     {
       "id": 3270,
       "title": "Tejina-senpai",
-      "rating": 6,
-      "average": 6,
-      "highest": 6,
-      "lowest": 6,
-      "mode": 6,
       "image": "https://i.imgur.com/7zPGuv9.jpg",
-      "malId": 38610
+      "malId": 38610,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
     },
     {
-      "id": 3312,
-      "title": "Toaru Kagaku no Accelerator",
-      "rating": 5,
-      "average": 5.25,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
-      "image": "https://i.imgur.com/oLgSA5X.jpg",
-      "malId": 38480
+      "id": 3124,
+      "title": "One Punch Man 2nd Season",
+      "image": "https://i.imgur.com/ueW1ueY.jpg",
+      "malId": 34134,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
     },
     {
-      "id": 3311,
-      "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?",
+      "id": 3091,
+      "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+      "image": "https://i.imgur.com/dHKKHXU.jpg",
+      "malId": 34620,
       "rating": 5,
-      "average": 4.916666666666667,
-      "highest": 5,
-      "lowest": 4,
-      "mode": 5,
-      "image": "https://i.imgur.com/8uDeoik.jpg",
-      "malId": 38573
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3272,
+      "title": "Kanata no Astra",
+      "image": "https://i.imgur.com/qVDw3aQ.jpg",
+      "malId": 39198,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3271,
+      "title": "Dumbbell Nan Kilo Moteru?",
+      "image": "https://i.imgur.com/9FaftPv.jpg",
+      "malId": 39026,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3132,
+      "title": "Gunjou no Magmel",
+      "image": "https://i.imgur.com/jUQ6sqU.jpg",
+      "malId": 37806,
+      "rating": 6,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3275,
+      "title": "Maou-sama, Retry!",
+      "image": "https://i.imgur.com/SF6gg9H.jpg",
+      "malId": 38297,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3040,
+      "title": "Fight League: Gear Gadget Generators",
+      "image": "https://i.imgur.com/FdFDTZm.jpg",
+      "malId": 38719,
+      "rating": 3,
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2019,
+        "season": "Winter"
+      }
     },
     {
       "id": 3277,
       "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
-      "rating": 5,
-      "average": 5.166666666666667,
-      "highest": 6,
-      "lowest": 5,
-      "mode": 5,
       "image": "https://i.imgur.com/GDoBqmg.jpg",
-      "malId": 39324
+      "malId": 39324,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3278,
+      "title": "Araburu Kisetsu no Otome-domo yo.",
+      "image": "https://i.imgur.com/9X6bjDs.jpg",
+      "malId": 38753,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2652,
+      "title": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+      "image": "https://i.imgur.com/zaNflT2.jpg",
+      "malId": 37991,
+      "rating": 9,
+      "totalEpisodes": 39,
+      "season": {
+        "year": 2018,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3216,
+      "title": "Cardfight!! Vanguard: Zoku Koukousei-hen",
+      "image": "https://i.imgur.com/zbaLdcE.jpg",
+      "malId": 39244,
+      "rating": 4,
+      "totalEpisodes": 14,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3102,
+      "title": "Fruits Basket (2019)",
+      "image": "https://i.imgur.com/5XuppGv.jpg",
+      "malId": 38680,
+      "rating": 5,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3284,
+      "title": "Joshikousei no Mudazukai",
+      "image": "https://i.imgur.com/pfSRfya.jpg",
+      "malId": 38619,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3285,
+      "title": "Dr. Stone",
+      "image": "https://i.imgur.com/kl6Kt5l.jpg",
+      "malId": 38691,
+      "rating": 6,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3286,
+      "title": "Granbelm",
+      "image": "https://i.imgur.com/Np6bFY3.jpg",
+      "malId": 39417,
+      "rating": 4,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3287,
+      "title": "Enen no Shouboutai",
+      "image": "https://i.imgur.com/AnS2EYG.jpg",
+      "malId": 38671,
+      "rating": 6,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3212,
+      "title": "Miru Tights",
+      "image": "https://i.imgur.com/rzToxFj.jpg",
+      "malId": 38935,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 122,
+      "title": "Boruto: Naruto Next Generations",
+      "image": "https://i.imgur.com/O5vYeDw.jpg",
+      "malId": 34566,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3289,
+      "title": "Hakata Mentai! Pirikarako-chan",
+      "image": "https://i.imgur.com/yjb3Biz.jpg",
+      "malId": 39620,
+      "rating": 3,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3292,
+      "title": "Senki Zesshou Symphogear XV",
+      "image": "https://i.imgur.com/gDuQj1A.jpg",
+      "malId": 32843,
+      "rating": 4,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2805,
+      "title": "Fairy Tail: Final Series",
+      "image": "https://i.imgur.com/1ogsfhX.jpg",
+      "malId": 35972,
+      "rating": 5,
+      "totalEpisodes": 51,
+      "season": {
+        "year": 2018,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 2306,
+      "title": "Gegege no Kitarou (2018)",
+      "image": "https://i.imgur.com/p0ftolA.jpg",
+      "malId": 37140,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2018,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3291,
+      "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+      "image": "https://i.imgur.com/TzVTPXB.jpg",
+      "malId": 38959,
+      "rating": 5,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3111,
+      "title": "Kimetsu no Yaiba",
+      "image": "https://i.imgur.com/wfLo5pf.jpg",
+      "malId": 38000,
+      "rating": 7,
+      "totalEpisodes": 26,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3293,
+      "title": "Re:Stage! Dream Days",
+      "image": "https://i.imgur.com/blTwX12.jpg",
+      "malId": 38009,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3294,
+      "title": "Nakanohito Genome [Jikkyouchuu]",
+      "image": "https://i.imgur.com/MTdOuAy.jpg",
+      "malId": 37926,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3295,
+      "title": "Kochouki: Wakaki Nobunaga",
+      "image": "https://i.imgur.com/jF6UHdP.jpg",
+      "malId": 38920,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
     },
     {
       "id": 3296,
       "title": "Vinland Saga",
-      "rating": 8,
-      "average": 7.541666666666667,
-      "highest": 10,
-      "lowest": 7,
-      "mode": 7,
       "image": "https://i.imgur.com/Kpbixge.jpg",
-      "malId": 37521
+      "malId": 37521,
+      "rating": 8,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3297,
+      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "image": "https://i.imgur.com/ZxK244v.jpg",
+      "malId": 39326,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3301,
+      "title": "Cop Craft",
+      "image": "https://i.imgur.com/aCzI7gy.jpg",
+      "malId": 38940,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3300,
+      "title": "Arifureta Shokugyou de Sekai Saikyou",
+      "image": "https://i.imgur.com/jcFzey0.jpg",
+      "malId": 36882,
+      "rating": 5,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3305,
+      "title": "Isekai Cheat Magician",
+      "image": "https://i.imgur.com/xGGyaYo.jpg",
+      "malId": 37744,
+      "rating": 4,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3299,
+      "title": "Karakai Jouzu no Takagi-san 2",
+      "image": "https://i.imgur.com/3aTOOuC.jpg",
+      "malId": 38993,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2515,
+      "title": "Dragon Ball Heroes",
+      "image": "https://i.imgur.com/ajG41Y3.jpg",
+      "malId": 37885,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3131,
+      "title": "Carole & Tuesday",
+      "image": "https://i.imgur.com/nrf2tSE.jpg",
+      "malId": 37435,
+      "rating": 5,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3307,
+      "title": "Machikado Mazoku",
+      "image": "https://i.imgur.com/SCj5kdM.jpg",
+      "malId": 39071,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3310,
+      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+      "image": "https://i.imgur.com/Lv74cDF.jpg",
+      "malId": 37347,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3311,
+      "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?",
+      "image": "https://i.imgur.com/8uDeoik.jpg",
+      "malId": 38573,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3312,
+      "title": "Toaru Kagaku no Accelerator",
+      "image": "https://i.imgur.com/oLgSA5X.jpg",
+      "malId": 38480,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 3107,
+      "title": "Mix: Meisei Story",
+      "image": "https://i.imgur.com/Vcvy9RT.jpg",
+      "malId": 38098,
+      "rating": 4,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3316,
+      "title": "Bem",
+      "image": "https://i.imgur.com/pQFJiYs.jpg",
+      "malId": 39221,
+      "rating": 6,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    },
+    {
+      "id": 2806,
+      "title": "Okoshiyasu, Chitose-chan",
+      "image": "https://i.imgur.com/CuGZWQU.jpg",
+      "malId": 38089,
+      "rating": 3,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2018,
+        "season": "Fall"
+      }
+    },
+    {
+      "id": 3462,
+      "title": "Cardfight!! Vanguard: Shinemon-hen",
+      "image": "https://i.imgur.com/MNpAQY1.jpg",
+      "malId": 40167,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2019,
+        "season": "Summer"
+      }
+    }
+  ],
+  "episodes": [
+    {
+      "id": 28738,
+      "date": "2019-07-01 17:17:46.737 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3116
+    },
+    {
+      "id": 28739,
+      "date": "2019-07-01 17:40:46.065 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3185
+    },
+    {
+      "id": 28740,
+      "date": "2019-07-01 17:57:41.000 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3268
+    },
+    {
+      "id": 28741,
+      "date": "2019-07-01 21:40:26.833 +00:00",
+      "episode": 1,
+      "rating": 8,
+      "animeId": 3269
+    },
+    {
+      "id": 28749,
+      "date": "2019-07-02 15:52:40.600 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 3142
+    },
+    {
+      "id": 28752,
+      "date": "2019-07-02 16:40:41.419 +00:00",
+      "episode": 14,
+      "rating": 3,
+      "animeId": 3087
+    },
+    {
+      "id": 28753,
+      "date": "2019-07-02 16:54:59.728 +00:00",
+      "episode": 90,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 28754,
+      "date": "2019-07-02 17:55:17.969 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 28755,
+      "date": "2019-07-02 21:41:57.075 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3124
+    },
+    {
+      "id": 28766,
+      "date": "2019-07-03 16:41:10.692 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 3091
+    },
+    {
+      "id": 28768,
+      "date": "2019-07-03 18:05:37.878 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3272
+    },
+    {
+      "id": 28769,
+      "date": "2019-07-03 21:38:54.158 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3271
+    },
+    {
+      "id": 28784,
+      "date": "2019-07-04 17:56:46.369 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 3132
+    },
+    {
+      "id": 28785,
+      "date": "2019-07-04 21:40:19.241 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3275
+    },
+    {
+      "id": 28794,
+      "date": "2019-07-05 15:44:41.391 +00:00",
+      "episode": 21,
+      "rating": 3,
+      "animeId": 3040
+    },
+    {
+      "id": 28800,
+      "date": "2019-07-05 17:43:04.423 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3277
+    },
+    {
+      "id": 28801,
+      "date": "2019-07-05 18:04:41.291 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3278
+    },
+    {
+      "id": 28802,
+      "date": "2019-07-05 21:41:40.082 +00:00",
+      "episode": 37,
+      "rating": 8,
+      "animeId": 2652
+    },
+    {
+      "id": 28834,
+      "date": "2019-07-06 15:31:39.523 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3216
+    },
+    {
+      "id": 28835,
+      "date": "2019-07-06 15:47:47.345 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 3102
+    },
+    {
+      "id": 28836,
+      "date": "2019-07-06 16:42:15.846 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3284
+    },
+    {
+      "id": 28837,
+      "date": "2019-07-06 17:03:30.059 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 28838,
+      "date": "2019-07-06 17:28:31.471 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3286
+    },
+    {
+      "id": 28839,
+      "date": "2019-07-06 17:52:39.999 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3287
+    },
+    {
+      "id": 28840,
+      "date": "2019-07-06 17:57:27.347 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3212
+    },
+    {
+      "id": 28865,
+      "date": "2019-07-07 14:43:16.315 +00:00",
+      "episode": 114,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 28867,
+      "date": "2019-07-07 14:57:35.326 +00:00",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 3289
+    },
+    {
+      "id": 28873,
+      "date": "2019-07-07 16:22:02.006 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3292
+    },
+    {
+      "id": 28874,
+      "date": "2019-07-07 16:44:48.987 +00:00",
+      "episode": 39,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 28875,
+      "date": "2019-07-07 17:05:39.176 +00:00",
+      "episode": 63,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 28876,
+      "date": "2019-07-07 17:29:59.957 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3291
+    },
+    {
+      "id": 28877,
+      "date": "2019-07-07 21:40:31.610 +00:00",
+      "episode": 14,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 28886,
+      "date": "2019-07-08 15:55:43.352 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3116
+    },
+    {
+      "id": 28888,
+      "date": "2019-07-08 16:30:21.012 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 28889,
+      "date": "2019-07-08 16:56:33.618 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3294
+    },
+    {
+      "id": 28890,
+      "date": "2019-07-08 17:16:32.248 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 28891,
+      "date": "2019-07-08 18:06:41.559 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 3269
+    },
+    {
+      "id": 28892,
+      "date": "2019-07-08 21:43:49.019 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3296
+    },
+    {
+      "id": 28901,
+      "date": "2019-07-09 15:57:34.392 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 3087
+    },
+    {
+      "id": 28902,
+      "date": "2019-07-09 16:15:36.234 +00:00",
+      "episode": 91,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 28903,
+      "date": "2019-07-09 16:38:22.843 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 28904,
+      "date": "2019-07-09 17:01:30.221 +00:00",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3301
+    },
+    {
+      "id": 28905,
+      "date": "2019-07-09 18:03:16.340 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3300
+    },
+    {
+      "id": 28906,
+      "date": "2019-07-09 21:26:48.629 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3268
+    },
+    {
+      "id": 28907,
+      "date": "2019-07-09 21:39:29.300 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 28919,
+      "date": "2019-07-10 16:24:52.562 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3091
+    },
+    {
+      "id": 28920,
+      "date": "2019-07-10 16:47:12.567 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 28921,
+      "date": "2019-07-10 17:35:00.807 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3305
+    },
+    {
+      "id": 28922,
+      "date": "2019-07-10 17:57:02.410 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3299
+    },
+    {
+      "id": 28923,
+      "date": "2019-07-10 21:35:56.958 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3271
+    },
+    {
+      "id": 28933,
+      "date": "2019-07-11 15:13:22.048 +00:00",
+      "episode": 22,
+      "rating": 3,
+      "animeId": 3040
+    },
+    {
+      "id": 28934,
+      "date": "2019-07-11 15:22:58.981 +00:00",
+      "episode": 13,
+      "rating": 3,
+      "animeId": 2515
+    },
+    {
+      "id": 28940,
+      "date": "2019-07-11 17:02:10.466 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 28941,
+      "date": "2019-07-11 18:00:42.847 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3275
+    },
+    {
+      "id": 28942,
+      "date": "2019-07-11 21:34:13.512 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 28957,
+      "date": "2019-07-12 16:42:07.492 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3307
+    },
+    {
+      "id": 28982,
+      "date": "2019-07-13 14:28:06.129 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 3102
+    },
+    {
+      "id": 28983,
+      "date": "2019-07-13 14:45:26.439 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3284
+    },
+    {
+      "id": 28984,
+      "date": "2019-07-13 15:03:47.840 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 28985,
+      "date": "2019-07-13 15:27:23.591 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 28986,
+      "date": "2019-07-13 15:49:48.877 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3310
+    },
+    {
+      "id": 28987,
+      "date": "2019-07-13 16:09:49.567 +00:00",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 28988,
+      "date": "2019-07-13 16:17:37.645 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3212
+    },
+    {
+      "id": 28989,
+      "date": "2019-07-13 17:17:15.087 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3278
+    },
+    {
+      "id": 28990,
+      "date": "2019-07-13 17:38:08.267 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3312
+    },
+    {
+      "id": 28991,
+      "date": "2019-07-13 18:00:35.192 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3287
+    },
+    {
+      "id": 29018,
+      "date": "2019-07-14 11:59:30.857 +00:00",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 3289
+    },
+    {
+      "id": 29019,
+      "date": "2019-07-14 14:15:11.929 +00:00",
+      "episode": 115,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 29020,
+      "date": "2019-07-14 14:47:22.375 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 3107
+    },
+    {
+      "id": 29021,
+      "date": "2019-07-14 15:01:24.227 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 29022,
+      "date": "2019-07-14 15:15:14.814 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3216
+    },
+    {
+      "id": 29026,
+      "date": "2019-07-14 16:10:50.358 +00:00",
+      "episode": 64,
+      "rating": 7,
+      "animeId": 2306
+    },
+    {
+      "id": 29027,
+      "date": "2019-07-14 16:37:31.792 +00:00",
+      "episode": 40,
+      "rating": 4,
+      "animeId": 2805
+    },
+    {
+      "id": 29028,
+      "date": "2019-07-14 16:56:22.519 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3291
+    },
+    {
+      "id": 29029,
+      "date": "2019-07-14 18:01:17.930 +00:00",
+      "episode": 15,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 29057,
+      "date": "2019-07-15 15:43:59.201 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3293
+    },
+    {
+      "id": 29058,
+      "date": "2019-07-15 16:05:10.265 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3294
+    },
+    {
+      "id": 29059,
+      "date": "2019-07-15 16:28:42.693 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 29060,
+      "date": "2019-07-15 16:45:39.064 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 29061,
+      "date": "2019-07-15 17:42:03.929 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3316
+    },
+    {
+      "id": 29062,
+      "date": "2019-07-15 18:06:43.707 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 3296
+    },
+    {
+      "id": 29086,
+      "date": "2019-07-16 15:44:59.242 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 3087
+    },
+    {
+      "id": 29087,
+      "date": "2019-07-16 16:07:34.192 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3300
+    },
+    {
+      "id": 29088,
+      "date": "2019-07-16 16:21:28.718 +00:00",
+      "episode": 92,
+      "rating": 6,
+      "animeId": 1929
+    },
+    {
+      "id": 29089,
+      "date": "2019-07-16 16:42:28.669 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 29090,
+      "date": "2019-07-16 17:49:06.752 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 29091,
+      "date": "2019-07-16 17:56:17.967 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3268
+    },
+    {
+      "id": 29092,
+      "date": "2019-07-16 18:08:06.042 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 29119,
+      "date": "2019-07-17 15:39:13.477 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3091
+    },
+    {
+      "id": 29120,
+      "date": "2019-07-17 16:01:17.791 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3305
+    },
+    {
+      "id": 29121,
+      "date": "2019-07-17 16:20:53.457 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3299
+    },
+    {
+      "id": 29122,
+      "date": "2019-07-17 16:46:06.263 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 29123,
+      "date": "2019-07-17 17:25:33.198 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3271
+    },
+    {
+      "id": 29149,
+      "date": "2019-07-18 14:14:57.577 +00:00",
+      "episode": 23,
+      "rating": 3,
+      "animeId": 3040
+    },
+    {
+      "id": 29159,
+      "date": "2019-07-18 16:48:15.684 +00:00",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 29160,
+      "date": "2019-07-18 17:30:09.639 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3275
+    },
+    {
+      "id": 29161,
+      "date": "2019-07-18 17:51:49.602 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 29191,
+      "date": "2019-07-19 17:37:46.085 +00:00",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3307
+    },
+    {
+      "id": 29192,
+      "date": "2019-07-19 18:00:13.240 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3284
+    },
+    {
+      "id": 29215,
+      "date": "2019-07-20 15:15:08.828 +00:00",
+      "episode": 16,
+      "rating": 7,
+      "animeId": 3102
+    },
+    {
+      "id": 29216,
+      "date": "2019-07-20 15:33:03.289 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 29217,
+      "date": "2019-07-20 15:56:40.826 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3310
+    },
+    {
+      "id": 29218,
+      "date": "2019-07-20 16:18:59.862 +00:00",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 29219,
+      "date": "2019-07-20 16:43:35.234 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3278
+    },
+    {
+      "id": 29220,
+      "date": "2019-07-20 17:38:16.352 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 29221,
+      "date": "2019-07-20 17:54:32.867 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3312
+    },
+    {
+      "id": 29222,
+      "date": "2019-07-20 17:58:33.012 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3212
+    },
+    {
+      "id": 29233,
+      "date": "2019-07-21 08:05:07.221 +00:00",
+      "episode": 3,
+      "rating": 2,
+      "animeId": 3289
+    },
+    {
+      "id": 29244,
+      "date": "2019-07-21 15:04:52.713 +00:00",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3107
+    },
+    {
+      "id": 29245,
+      "date": "2019-07-21 15:19:36.605 +00:00",
+      "episode": 116,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 29246,
+      "date": "2019-07-21 15:36:34.134 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 29247,
+      "date": "2019-07-21 15:51:31.100 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3216
+    },
+    {
+      "id": 29249,
+      "date": "2019-07-21 16:33:15.191 +00:00",
+      "episode": 65,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 29250,
+      "date": "2019-07-21 17:19:31.437 +00:00",
+      "episode": 41,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 29251,
+      "date": "2019-07-21 17:42:46.330 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 29252,
+      "date": "2019-07-21 21:42:46.992 +00:00",
+      "episode": 16,
+      "rating": 7,
+      "animeId": 3111
+    },
+    {
+      "id": 29259,
+      "date": "2019-07-22 15:55:24.949 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3293
+    },
+    {
+      "id": 29260,
+      "date": "2019-07-22 16:18:33.700 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3294
+    },
+    {
+      "id": 29261,
+      "date": "2019-07-22 16:42:50.614 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3295
+    },
+    {
+      "id": 29262,
+      "date": "2019-07-22 17:03:48.433 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 29263,
+      "date": "2019-07-22 18:03:18.070 +00:00",
+      "episode": 2,
+      "rating": 7,
+      "animeId": 3316
+    },
+    {
+      "id": 29264,
+      "date": "2019-07-22 21:38:27.114 +00:00",
+      "episode": 3,
+      "rating": 7,
+      "animeId": 3296
+    },
+    {
+      "id": 29273,
+      "date": "2019-07-23 15:56:44.646 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 29274,
+      "date": "2019-07-23 16:19:09.570 +00:00",
+      "episode": 93,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 29275,
+      "date": "2019-07-23 16:43:53.148 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3300
+    },
+    {
+      "id": 29276,
+      "date": "2019-07-23 17:04:18.900 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 29277,
+      "date": "2019-07-23 18:03:32.145 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3301
+    },
+    {
+      "id": 29278,
+      "date": "2019-07-23 21:29:37.159 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3268
+    },
+    {
+      "id": 29279,
+      "date": "2019-07-23 21:41:55.049 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 29286,
+      "date": "2019-07-24 16:02:39.200 +00:00",
+      "episode": 3,
+      "rating": 3,
+      "animeId": 3305
+    },
+    {
+      "id": 29287,
+      "date": "2019-07-24 16:24:55.804 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3091
+    },
+    {
+      "id": 29288,
+      "date": "2019-07-24 16:47:54.239 +00:00",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3299
+    },
+    {
+      "id": 29289,
+      "date": "2019-07-24 17:34:36.332 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3271
+    },
+    {
+      "id": 29290,
+      "date": "2019-07-24 17:58:40.526 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3272
+    },
+    {
+      "id": 29299,
+      "date": "2019-07-25 15:45:12.520 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 3040
+    },
+    {
+      "id": 29305,
+      "date": "2019-07-25 16:47:24.100 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 2806
+    },
+    {
+      "id": 29306,
+      "date": "2019-07-25 16:50:30.399 +00:00",
+      "episode": 19,
+      "rating": 3,
+      "animeId": 2806
+    },
+    {
+      "id": 29307,
+      "date": "2019-07-25 16:54:12.107 +00:00",
+      "episode": 20,
+      "rating": 3,
+      "animeId": 2806
+    },
+    {
+      "id": 29308,
+      "date": "2019-07-25 16:54:12.108 +00:00",
+      "episode": 21,
+      "rating": 3,
+      "animeId": 2806
+    },
+    {
+      "id": 29309,
+      "date": "2019-07-25 16:55:53.248 +00:00",
+      "episode": 22,
+      "rating": 3,
+      "animeId": 2806
+    },
+    {
+      "id": 29310,
+      "date": "2019-07-25 16:59:41.707 +00:00",
+      "episode": 23,
+      "rating": 3,
+      "animeId": 2806
+    },
+    {
+      "id": 29311,
+      "date": "2019-07-25 16:59:41.708 +00:00",
+      "episode": 24,
+      "rating": 3,
+      "animeId": 2806
+    },
+    {
+      "id": 29312,
+      "date": "2019-07-25 17:51:30.197 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3275
+    },
+    {
+      "id": 29313,
+      "date": "2019-07-25 21:36:31.339 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 29326,
+      "date": "2019-07-26 16:48:59.159 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3307
+    },
+    {
+      "id": 29344,
+      "date": "2019-07-27 08:28:35.881 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3286
+    },
+    {
+      "id": 29345,
+      "date": "2019-07-27 08:45:02.580 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 29346,
+      "date": "2019-07-27 09:03:29.946 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 3102
+    },
+    {
+      "id": 29347,
+      "date": "2019-07-27 09:22:11.243 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 29348,
+      "date": "2019-07-27 09:45:15.957 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3284
+    },
+    {
+      "id": 29349,
+      "date": "2019-07-27 10:07:56.556 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3278
+    },
+    {
+      "id": 29350,
+      "date": "2019-07-27 10:29:49.700 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3285
+    },
+    {
+      "id": 29351,
+      "date": "2019-07-27 10:53:24.073 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 29352,
+      "date": "2019-07-27 11:18:05.113 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3287
+    },
+    {
+      "id": 29360,
+      "date": "2019-07-27 22:13:44.383 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3212
+    },
+    {
+      "id": 29369,
+      "date": "2019-07-28 08:03:52.262 +00:00",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 3289
+    },
+    {
+      "id": 29379,
+      "date": "2019-07-28 14:33:46.792 +00:00",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3107
+    },
+    {
+      "id": 29380,
+      "date": "2019-07-28 14:47:50.473 +00:00",
+      "episode": 117,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 29381,
+      "date": "2019-07-28 15:01:55.912 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 29382,
+      "date": "2019-07-28 15:16:13.702 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3216
+    },
+    {
+      "id": 29383,
+      "date": "2019-07-28 15:22:57.063 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 2515
+    },
+    {
+      "id": 29386,
+      "date": "2019-07-28 16:10:11.417 +00:00",
+      "episode": 66,
+      "rating": 4,
+      "animeId": 2306
+    },
+    {
+      "id": 29387,
+      "date": "2019-07-28 16:29:51.148 +00:00",
+      "episode": 42,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 29388,
+      "date": "2019-07-28 16:46:51.491 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 29389,
+      "date": "2019-07-28 17:10:52.351 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 29390,
+      "date": "2019-07-28 18:10:32.393 +00:00",
+      "episode": 38,
+      "rating": 8,
+      "animeId": 2652
+    },
+    {
+      "id": 29391,
+      "date": "2019-07-28 21:40:03.038 +00:00",
+      "episode": 39,
+      "rating": 8,
+      "animeId": 2652
+    },
+    {
+      "id": 29401,
+      "date": "2019-07-29 15:56:57.872 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3294
+    },
+    {
+      "id": 29402,
+      "date": "2019-07-29 16:21:49.430 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 29403,
+      "date": "2019-07-29 16:44:14.902 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 29404,
+      "date": "2019-07-29 17:39:11.167 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 29405,
+      "date": "2019-07-29 18:02:31.715 +00:00",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3316
+    },
+    {
+      "id": 29406,
+      "date": "2019-07-29 21:39:37.878 +00:00",
+      "episode": 4,
+      "rating": 9,
+      "animeId": 3296
+    },
+    {
+      "id": 29414,
+      "date": "2019-07-30 16:00:29.476 +00:00",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 29415,
+      "date": "2019-07-30 16:18:26.178 +00:00",
+      "episode": 94,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 29416,
+      "date": "2019-07-30 16:41:42.047 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3300
+    },
+    {
+      "id": 29417,
+      "date": "2019-07-30 17:04:45.757 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 29418,
+      "date": "2019-07-30 17:59:21.797 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 29419,
+      "date": "2019-07-30 21:38:42.954 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3268
+    },
+    {
+      "id": 29420,
+      "date": "2019-07-30 21:38:56.926 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 29433,
+      "date": "2019-07-31 16:28:11.663 +00:00",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3305
+    },
+    {
+      "id": 29435,
+      "date": "2019-07-31 17:36:35.081 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3299
+    },
+    {
+      "id": 29436,
+      "date": "2019-07-31 17:58:54.669 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3271
+    },
+    {
+      "id": 29437,
+      "date": "2019-07-31 21:34:57.253 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 29450,
+      "date": "2019-08-01 16:41:53.754 +00:00",
+      "episode": 25,
+      "rating": 3,
+      "animeId": 3040
+    },
+    {
+      "id": 29451,
+      "date": "2019-08-01 17:37:32.708 +00:00",
+      "episode": 15,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 29452,
+      "date": "2019-08-01 17:58:58.543 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3275
+    },
+    {
+      "id": 29453,
+      "date": "2019-08-01 21:34:16.250 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 29463,
+      "date": "2019-08-02 16:36:50.108 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3307
+    },
+    {
+      "id": 29464,
+      "date": "2019-08-02 16:59:29.095 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3284
+    },
+    {
+      "id": 29496,
+      "date": "2019-08-03 14:52:45.965 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 29497,
+      "date": "2019-08-03 15:09:52.395 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 29498,
+      "date": "2019-08-03 15:26:41.986 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 3102
+    },
+    {
+      "id": 29499,
+      "date": "2019-08-03 15:42:12.600 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 29500,
+      "date": "2019-08-03 16:04:28.505 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3278
+    },
+    {
+      "id": 29501,
+      "date": "2019-08-03 16:23:05.349 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 29502,
+      "date": "2019-08-03 16:48:41.987 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 29503,
+      "date": "2019-08-03 17:52:45.250 +00:00",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3287
+    },
+    {
+      "id": 29529,
+      "date": "2019-08-04 09:54:58.974 +00:00",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 3289
+    },
+    {
+      "id": 29536,
+      "date": "2019-08-04 14:38:59.607 +00:00",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3107
+    },
+    {
+      "id": 29537,
+      "date": "2019-08-04 14:56:14.831 +00:00",
+      "episode": 118,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 29538,
+      "date": "2019-08-04 15:09:56.966 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 29539,
+      "date": "2019-08-04 15:24:13.732 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 3216
+    },
+    {
+      "id": 29541,
+      "date": "2019-08-04 15:54:33.495 +00:00",
+      "episode": 67,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 29542,
+      "date": "2019-08-04 16:11:56.644 +00:00",
+      "episode": 43,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 29543,
+      "date": "2019-08-04 16:39:34.131 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 29544,
+      "date": "2019-08-04 17:02:01.974 +00:00",
+      "episode": 18,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 29554,
+      "date": "2019-08-05 16:00:57.805 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3294
+    },
+    {
+      "id": 29555,
+      "date": "2019-08-05 16:25:19.752 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 29556,
+      "date": "2019-08-05 17:18:18.411 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 29557,
+      "date": "2019-08-05 17:42:30.590 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 29559,
+      "date": "2019-08-05 21:44:16.432 +00:00",
+      "episode": 5,
+      "rating": 8,
+      "animeId": 3296
+    },
+    {
+      "id": 29568,
+      "date": "2019-08-06 16:02:24.885 +00:00",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 29569,
+      "date": "2019-08-06 16:20:51.604 +00:00",
+      "episode": 95,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 29570,
+      "date": "2019-08-06 16:43:16.925 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3300
+    },
+    {
+      "id": 29571,
+      "date": "2019-08-06 17:36:11.599 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 29572,
+      "date": "2019-08-06 18:03:34.266 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 29573,
+      "date": "2019-08-06 21:30:15.211 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3268
+    },
+    {
+      "id": 29574,
+      "date": "2019-08-06 21:42:35.940 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 29583,
+      "date": "2019-08-07 15:56:29.086 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 3091
+    },
+    {
+      "id": 29584,
+      "date": "2019-08-07 16:20:18.698 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3305
+    },
+    {
+      "id": 29585,
+      "date": "2019-08-07 16:42:21.012 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3299
+    },
+    {
+      "id": 29587,
+      "date": "2019-08-07 17:59:04.571 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 29588,
+      "date": "2019-08-07 21:40:16.054 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3271
+    },
+    {
+      "id": 29597,
+      "date": "2019-08-08 15:43:30.128 +00:00",
+      "episode": 26,
+      "rating": 3,
+      "animeId": 3040
+    },
+    {
+      "id": 29602,
+      "date": "2019-08-08 17:04:26.080 +00:00",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 29603,
+      "date": "2019-08-08 17:56:57.014 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3275
+    },
+    {
+      "id": 29604,
+      "date": "2019-08-08 21:39:54.664 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 29617,
+      "date": "2019-08-09 16:45:57.724 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3307
+    },
+    {
+      "id": 29618,
+      "date": "2019-08-09 17:04:59.081 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3284
+    },
+    {
+      "id": 29644,
+      "date": "2019-08-10 14:49:00.975 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3286
+    },
+    {
+      "id": 29645,
+      "date": "2019-08-10 15:10:30.768 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 3102
+    },
+    {
+      "id": 29646,
+      "date": "2019-08-10 15:32:18.113 +00:00",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 3311
+    },
+    {
+      "id": 29647,
+      "date": "2019-08-10 15:54:20.550 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 29648,
+      "date": "2019-08-10 16:22:43.433 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3278
+    },
+    {
+      "id": 29649,
+      "date": "2019-08-10 17:23:03.467 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 29650,
+      "date": "2019-08-10 17:47:39.115 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 29651,
+      "date": "2019-08-10 18:11:07.217 +00:00",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3287
+    },
+    {
+      "id": 29680,
+      "date": "2019-08-11 11:06:54.315 +00:00",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 3289
+    },
+    {
+      "id": 29682,
+      "date": "2019-08-11 14:27:52.767 +00:00",
+      "episode": 18,
+      "rating": 3,
+      "animeId": 3107
+    },
+    {
+      "id": 29683,
+      "date": "2019-08-11 14:41:46.457 +00:00",
+      "episode": 119,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 29684,
+      "date": "2019-08-11 14:59:42.351 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 29685,
+      "date": "2019-08-11 15:09:21.440 +00:00",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 3216
+    },
+    {
+      "id": 29687,
+      "date": "2019-08-11 15:47:05.789 +00:00",
+      "episode": 68,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 29688,
+      "date": "2019-08-11 16:10:19.704 +00:00",
+      "episode": 44,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 29689,
+      "date": "2019-08-11 16:30:56.827 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 29690,
+      "date": "2019-08-11 17:18:32.076 +00:00",
+      "episode": 19,
+      "rating": 7,
+      "animeId": 3111
+    },
+    {
+      "id": 29702,
+      "date": "2019-08-12 16:30:09.837 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3294
+    },
+    {
+      "id": 29703,
+      "date": "2019-08-12 16:51:05.208 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 29704,
+      "date": "2019-08-12 17:47:32.430 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 29705,
+      "date": "2019-08-12 18:09:09.545 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 29706,
+      "date": "2019-08-12 21:39:37.341 +00:00",
+      "episode": 6,
+      "rating": 7,
+      "animeId": 3296
+    },
+    {
+      "id": 29718,
+      "date": "2019-08-13 16:32:09.744 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 29719,
+      "date": "2019-08-13 16:46:41.383 +00:00",
+      "episode": 96,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 29720,
+      "date": "2019-08-13 17:39:46.214 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 29721,
+      "date": "2019-08-13 18:02:57.032 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 29722,
+      "date": "2019-08-13 21:24:05.530 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3268
+    },
+    {
+      "id": 29723,
+      "date": "2019-08-13 21:37:20.411 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 29729,
+      "date": "2019-08-14 15:55:02.581 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3305
+    },
+    {
+      "id": 29730,
+      "date": "2019-08-14 16:14:57.487 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 3091
+    },
+    {
+      "id": 29731,
+      "date": "2019-08-14 17:44:13.509 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3299
+    },
+    {
+      "id": 29733,
+      "date": "2019-08-14 18:24:50.162 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 29734,
+      "date": "2019-08-14 21:34:27.757 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3271
+    },
+    {
+      "id": 29746,
+      "date": "2019-08-15 17:41:06.521 +00:00",
+      "episode": 17,
+      "rating": 6,
+      "animeId": 3131
+    },
+    {
+      "id": 29747,
+      "date": "2019-08-15 18:02:04.173 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3275
+    },
+    {
+      "id": 29748,
+      "date": "2019-08-15 21:38:01.496 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3277
+    },
+    {
+      "id": 29759,
+      "date": "2019-08-16 16:39:00.205 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3307
+    },
+    {
+      "id": 29760,
+      "date": "2019-08-16 17:01:50.867 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3284
+    },
+    {
+      "id": 29792,
+      "date": "2019-08-17 15:01:45.130 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3286
+    },
+    {
+      "id": 29793,
+      "date": "2019-08-17 15:25:12.910 +00:00",
+      "episode": 20,
+      "rating": 5,
+      "animeId": 3102
+    },
+    {
+      "id": 29794,
+      "date": "2019-08-17 15:48:02.259 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 29795,
+      "date": "2019-08-17 16:11:06.264 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 29796,
+      "date": "2019-08-17 16:33:56.707 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3278
+    },
+    {
+      "id": 29797,
+      "date": "2019-08-17 16:56:55.046 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3312
+    },
+    {
+      "id": 29798,
+      "date": "2019-08-17 17:35:07.183 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 29799,
+      "date": "2019-08-17 18:03:37.003 +00:00",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3287
+    },
+    {
+      "id": 29825,
+      "date": "2019-08-18 11:58:36.288 +00:00",
+      "episode": 7,
+      "rating": 2,
+      "animeId": 3289
+    },
+    {
+      "id": 29829,
+      "date": "2019-08-18 14:52:07.272 +00:00",
+      "episode": 19,
+      "rating": 3,
+      "animeId": 3107
+    },
+    {
+      "id": 29830,
+      "date": "2019-08-18 15:05:56.470 +00:00",
+      "episode": 120,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 29831,
+      "date": "2019-08-18 15:24:03.781 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 29833,
+      "date": "2019-08-18 15:57:10.330 +00:00",
+      "episode": 69,
+      "rating": 6,
+      "animeId": 2306
+    },
+    {
+      "id": 29834,
+      "date": "2019-08-18 16:18:48.653 +00:00",
+      "episode": 45,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 29835,
+      "date": "2019-08-18 16:43:05.915 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 29836,
+      "date": "2019-08-18 17:06:35.870 +00:00",
+      "episode": 20,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 29846,
+      "date": "2019-08-19 16:03:43.257 +00:00",
+      "episode": 7,
+      "rating": 3,
+      "animeId": 3294
+    },
+    {
+      "id": 29847,
+      "date": "2019-08-19 16:26:54.355 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3295
+    },
+    {
+      "id": 29848,
+      "date": "2019-08-19 16:49:29.527 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 29849,
+      "date": "2019-08-19 17:35:06.914 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 29850,
+      "date": "2019-08-19 17:59:43.363 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3316
+    },
+    {
+      "id": 29851,
+      "date": "2019-08-19 21:41:37.664 +00:00",
+      "episode": 7,
+      "rating": 7,
+      "animeId": 3296
+    },
+    {
+      "id": 29860,
+      "date": "2019-08-20 16:04:06.198 +00:00",
+      "episode": 21,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 29861,
+      "date": "2019-08-20 16:22:57.195 +00:00",
+      "episode": 97,
+      "rating": 4,
+      "animeId": 1929
+    },
+    {
+      "id": 29862,
+      "date": "2019-08-20 16:48:00.775 +00:00",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3300
+    },
+    {
+      "id": 29863,
+      "date": "2019-08-20 17:39:32.624 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 29864,
+      "date": "2019-08-20 18:00:52.505 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 29865,
+      "date": "2019-08-20 21:22:41.953 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3268
+    },
+    {
+      "id": 29866,
+      "date": "2019-08-20 21:35:15.849 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 29874,
+      "date": "2019-08-21 16:19:08.293 +00:00",
+      "episode": 20,
+      "rating": 5,
+      "animeId": 3091
+    },
+    {
+      "id": 29875,
+      "date": "2019-08-21 17:12:57.569 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3305
+    },
+    {
+      "id": 29876,
+      "date": "2019-08-21 17:27:41.627 +00:00",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3299
+    },
+    {
+      "id": 29878,
+      "date": "2019-08-21 18:05:14.862 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 29879,
+      "date": "2019-08-21 21:33:38.163 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3271
+    },
+    {
+      "id": 29893,
+      "date": "2019-08-22 17:36:54.972 +00:00",
+      "episode": 18,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 29894,
+      "date": "2019-08-22 17:58:47.773 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3275
+    },
+    {
+      "id": 29895,
+      "date": "2019-08-22 21:40:04.830 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 29909,
+      "date": "2019-08-23 17:34:03.546 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3307
+    },
+    {
+      "id": 29910,
+      "date": "2019-08-23 17:56:08.947 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3284
+    },
+    {
+      "id": 29929,
+      "date": "2019-08-24 15:02:01.451 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 29930,
+      "date": "2019-08-24 15:24:11.197 +00:00",
+      "episode": 21,
+      "rating": 5,
+      "animeId": 3102
+    },
+    {
+      "id": 29931,
+      "date": "2019-08-24 15:45:36.219 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 29932,
+      "date": "2019-08-24 16:07:00.022 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 29933,
+      "date": "2019-08-24 16:28:43.731 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3278
+    },
+    {
+      "id": 29934,
+      "date": "2019-08-24 17:24:07.061 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 29935,
+      "date": "2019-08-24 17:43:26.269 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 29936,
+      "date": "2019-08-24 18:06:15.661 +00:00",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 3287
+    },
+    {
+      "id": 29959,
+      "date": "2019-08-25 11:52:54.362 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 3289
+    },
+    {
+      "id": 29961,
+      "date": "2019-08-25 14:41:41.310 +00:00",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3107
+    },
+    {
+      "id": 29962,
+      "date": "2019-08-25 14:55:18.556 +00:00",
+      "episode": 121,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 29963,
+      "date": "2019-08-25 15:10:57.282 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 29964,
+      "date": "2019-08-25 15:28:26.178 +00:00",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 3462
+    },
+    {
+      "id": 29966,
+      "date": "2019-08-25 16:09:53.030 +00:00",
+      "episode": 70,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 29967,
+      "date": "2019-08-25 16:30:42.448 +00:00",
+      "episode": 46,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 29968,
+      "date": "2019-08-25 16:53:40.554 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 29969,
+      "date": "2019-08-25 18:08:51.965 +00:00",
+      "episode": 21,
+      "rating": 7,
+      "animeId": 3111
+    },
+    {
+      "id": 29988,
+      "date": "2019-08-26 16:14:16.799 +00:00",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 3294
+    },
+    {
+      "id": 29989,
+      "date": "2019-08-26 16:33:20.994 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 29990,
+      "date": "2019-08-26 16:54:44.940 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3293
+    },
+    {
+      "id": 29991,
+      "date": "2019-08-26 17:39:21.912 +00:00",
+      "episode": 8,
+      "rating": 6,
+      "animeId": 3297
+    },
+    {
+      "id": 29992,
+      "date": "2019-08-26 18:02:18.746 +00:00",
+      "episode": 5,
+      "rating": 7,
+      "animeId": 3316
+    },
+    {
+      "id": 29993,
+      "date": "2019-08-26 21:38:08.477 +00:00",
+      "episode": 8,
+      "rating": 7,
+      "animeId": 3296
+    },
+    {
+      "id": 30002,
+      "date": "2019-08-27 16:11:32.946 +00:00",
+      "episode": 22,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 30003,
+      "date": "2019-08-27 16:28:43.939 +00:00",
+      "episode": 98,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 30004,
+      "date": "2019-08-27 16:54:09.103 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3300
+    },
+    {
+      "id": 30005,
+      "date": "2019-08-27 17:45:03.076 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 30006,
+      "date": "2019-08-27 18:01:51.243 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 30007,
+      "date": "2019-08-27 21:21:40.227 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3268
+    },
+    {
+      "id": 30008,
+      "date": "2019-08-27 21:33:54.091 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 30019,
+      "date": "2019-08-28 16:35:53.758 +00:00",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3305
+    },
+    {
+      "id": 30020,
+      "date": "2019-08-28 16:47:32.295 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3299
+    },
+    {
+      "id": 30021,
+      "date": "2019-08-28 17:17:56.762 +00:00",
+      "episode": 21,
+      "rating": 5,
+      "animeId": 3091
+    },
+    {
+      "id": 30022,
+      "date": "2019-08-28 17:47:07.984 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 30023,
+      "date": "2019-08-28 21:22:47.454 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3271
+    },
+    {
+      "id": 30037,
+      "date": "2019-08-29 17:26:34.329 +00:00",
+      "episode": 19,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 30038,
+      "date": "2019-08-29 17:52:16.635 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3275
+    },
+    {
+      "id": 30039,
+      "date": "2019-08-29 21:26:47.638 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 30055,
+      "date": "2019-08-30 17:08:30.714 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3307
+    },
+    {
+      "id": 30056,
+      "date": "2019-08-30 18:02:10.484 +00:00",
+      "episode": 9,
+      "rating": 6,
+      "animeId": 3284
+    },
+    {
+      "id": 30068,
+      "date": "2019-08-31 07:59:22.950 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 30069,
+      "date": "2019-08-31 08:20:30.695 +00:00",
+      "episode": 22,
+      "rating": 6,
+      "animeId": 3102
+    },
+    {
+      "id": 30070,
+      "date": "2019-08-31 08:42:26.127 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 30071,
+      "date": "2019-08-31 08:58:58.731 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 30072,
+      "date": "2019-08-31 09:22:18.610 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3278
+    },
+    {
+      "id": 30073,
+      "date": "2019-08-31 09:44:48.717 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 30074,
+      "date": "2019-08-31 10:06:30.251 +00:00",
+      "episode": 9,
+      "rating": 7,
+      "animeId": 3285
+    },
+    {
+      "id": 30075,
+      "date": "2019-08-31 10:28:35.227 +00:00",
+      "episode": 8,
+      "rating": 7,
+      "animeId": 3287
+    },
+    {
+      "id": 30106,
+      "date": "2019-09-01 14:02:26.444 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 3289
+    },
+    {
+      "id": 30110,
+      "date": "2019-09-01 15:08:36.889 +00:00",
+      "episode": 21,
+      "rating": 3,
+      "animeId": 3107
+    },
+    {
+      "id": 30111,
+      "date": "2019-09-01 15:21:09.451 +00:00",
+      "episode": 122,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 30112,
+      "date": "2019-09-01 15:36:10.676 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 30114,
+      "date": "2019-09-01 16:11:44.583 +00:00",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3462
+    },
+    {
+      "id": 30115,
+      "date": "2019-09-01 16:29:27.638 +00:00",
+      "episode": 47,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 30116,
+      "date": "2019-09-01 16:50:08.680 +00:00",
+      "episode": 71,
+      "rating": 5,
+      "animeId": 2306
+    },
+    {
+      "id": 30117,
+      "date": "2019-09-01 17:41:22.860 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 30118,
+      "date": "2019-09-01 21:32:40.904 +00:00",
+      "episode": 22,
+      "rating": 7,
+      "animeId": 3111
+    },
+    {
+      "id": 30144,
+      "date": "2019-09-02 16:12:41.987 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3294
+    },
+    {
+      "id": 30145,
+      "date": "2019-09-02 16:35:19.210 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 30146,
+      "date": "2019-09-02 16:58:31.117 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 30147,
+      "date": "2019-09-02 17:53:07.427 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 30148,
+      "date": "2019-09-02 18:13:50.069 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3316
+    },
+    {
+      "id": 30149,
+      "date": "2019-09-02 21:38:28.507 +00:00",
+      "episode": 9,
+      "rating": 8,
+      "animeId": 3296
+    },
+    {
+      "id": 30176,
+      "date": "2019-09-03 16:01:36.551 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 30177,
+      "date": "2019-09-03 16:24:51.078 +00:00",
+      "episode": 99,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 30178,
+      "date": "2019-09-03 16:46:46.326 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3300
+    },
+    {
+      "id": 30179,
+      "date": "2019-09-03 17:06:28.904 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 30180,
+      "date": "2019-09-03 18:01:35.500 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 30181,
+      "date": "2019-09-03 21:24:54.138 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3268
+    },
+    {
+      "id": 30182,
+      "date": "2019-09-03 21:37:14.821 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 30207,
+      "date": "2019-09-04 15:57:48.883 +00:00",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 3305
+    },
+    {
+      "id": 30208,
+      "date": "2019-09-04 16:20:55.811 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3299
+    },
+    {
+      "id": 30209,
+      "date": "2019-09-04 16:42:37.366 +00:00",
+      "episode": 22,
+      "rating": 5,
+      "animeId": 3091
+    },
+    {
+      "id": 30210,
+      "date": "2019-09-04 17:32:53.930 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3272
+    },
+    {
+      "id": 30212,
+      "date": "2019-09-04 21:36:09.814 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3271
+    },
+    {
+      "id": 30234,
+      "date": "2019-09-05 14:22:04.483 +00:00",
+      "episode": 15,
+      "rating": 3,
+      "animeId": 2515
+    },
+    {
+      "id": 30242,
+      "date": "2019-09-05 17:25:39.678 +00:00",
+      "episode": 20,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 30243,
+      "date": "2019-09-05 17:46:29.293 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 3275
+    },
+    {
+      "id": 30244,
+      "date": "2019-09-05 21:38:26.353 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 30273,
+      "date": "2019-09-06 16:38:28.210 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3307
+    },
+    {
+      "id": 30274,
+      "date": "2019-09-06 17:00:49.557 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3284
+    },
+    {
+      "id": 30303,
+      "date": "2019-09-07 14:51:41.648 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 30304,
+      "date": "2019-09-07 15:12:12.894 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 3102
+    },
+    {
+      "id": 30305,
+      "date": "2019-09-07 15:33:59.415 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 30306,
+      "date": "2019-09-07 15:55:07.781 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 30307,
+      "date": "2019-09-07 16:19:32.098 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3278
+    },
+    {
+      "id": 30308,
+      "date": "2019-09-07 16:39:53.430 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 30309,
+      "date": "2019-09-07 17:27:10.095 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 30310,
+      "date": "2019-09-07 17:48:18.930 +00:00",
+      "episode": 9,
+      "rating": 7,
+      "animeId": 3287
+    },
+    {
+      "id": 30327,
+      "date": "2019-09-08 08:12:45.928 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 3289
+    },
+    {
+      "id": 30332,
+      "date": "2019-09-08 14:23:18.680 +00:00",
+      "episode": 22,
+      "rating": 3,
+      "animeId": 3107
+    },
+    {
+      "id": 30333,
+      "date": "2019-09-08 14:39:15.406 +00:00",
+      "episode": 123,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 30334,
+      "date": "2019-09-08 14:55:41.277 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 30337,
+      "date": "2019-09-08 15:50:50.404 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 30338,
+      "date": "2019-09-08 16:14:41.459 +00:00",
+      "episode": 48,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 30339,
+      "date": "2019-09-08 16:39:46.653 +00:00",
+      "episode": 72,
+      "rating": 6,
+      "animeId": 2306
+    },
+    {
+      "id": 30340,
+      "date": "2019-09-08 17:15:47.032 +00:00",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 3462
+    },
+    {
+      "id": 30341,
+      "date": "2019-09-08 17:41:59.182 +00:00",
+      "episode": 23,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 30352,
+      "date": "2019-09-09 16:06:33.363 +00:00",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 3294
+    },
+    {
+      "id": 30353,
+      "date": "2019-09-09 16:28:25.785 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3295
+    },
+    {
+      "id": 30354,
+      "date": "2019-09-09 16:52:55.131 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 30355,
+      "date": "2019-09-09 17:39:26.843 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 30356,
+      "date": "2019-09-09 18:01:48.920 +00:00",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 3316
+    },
+    {
+      "id": 30365,
+      "date": "2019-09-10 15:52:08.734 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 30366,
+      "date": "2019-09-10 16:10:32.754 +00:00",
+      "episode": 100,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 30368,
+      "date": "2019-09-10 16:43:19.930 +00:00",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3300
+    },
+    {
+      "id": 30370,
+      "date": "2019-09-10 17:57:31.094 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3269
+    },
+    {
+      "id": 30372,
+      "date": "2019-09-10 21:28:13.712 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3268
+    },
+    {
+      "id": 30373,
+      "date": "2019-09-10 21:40:53.925 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 30384,
+      "date": "2019-09-11 16:03:56.182 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3305
+    },
+    {
+      "id": 30385,
+      "date": "2019-09-11 16:23:05.295 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3299
+    },
+    {
+      "id": 30386,
+      "date": "2019-09-11 16:46:19.262 +00:00",
+      "episode": 23,
+      "rating": 5,
+      "animeId": 3091
+    },
+    {
+      "id": 30388,
+      "date": "2019-09-11 17:57:45.740 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3271
+    },
+    {
+      "id": 30389,
+      "date": "2019-09-11 21:44:26.119 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 30403,
+      "date": "2019-09-12 17:35:08.549 +00:00",
+      "episode": 21,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 30404,
+      "date": "2019-09-12 17:55:31.946 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3275
+    },
+    {
+      "id": 30405,
+      "date": "2019-09-12 21:38:20.201 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 30417,
+      "date": "2019-09-13 16:36:53.432 +00:00",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3307
+    },
+    {
+      "id": 30418,
+      "date": "2019-09-13 16:59:46.083 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3284
+    },
+    {
+      "id": 30450,
+      "date": "2019-09-14 15:06:42.380 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 30451,
+      "date": "2019-09-14 15:30:57.100 +00:00",
+      "episode": 24,
+      "rating": 5,
+      "animeId": 3102
+    },
+    {
+      "id": 30452,
+      "date": "2019-09-14 15:50:27.329 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 30453,
+      "date": "2019-09-14 16:10:00.605 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 30454,
+      "date": "2019-09-14 16:35:18.170 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3278
+    },
+    {
+      "id": 30455,
+      "date": "2019-09-14 16:56:52.336 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 30456,
+      "date": "2019-09-14 17:29:03.993 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 30457,
+      "date": "2019-09-14 17:58:58.747 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3287
+    },
+    {
+      "id": 30485,
+      "date": "2019-09-15 14:07:42.126 +00:00",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 3289
+    },
+    {
+      "id": 30486,
+      "date": "2019-09-15 14:30:11.172 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 3107
+    },
+    {
+      "id": 30487,
+      "date": "2019-09-15 14:46:08.424 +00:00",
+      "episode": 124,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 30488,
+      "date": "2019-09-15 14:59:29.628 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 30490,
+      "date": "2019-09-15 15:38:02.262 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 30491,
+      "date": "2019-09-15 16:04:41.733 +00:00",
+      "episode": 49,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 30492,
+      "date": "2019-09-15 16:27:22.208 +00:00",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 3462
+    },
+    {
+      "id": 30493,
+      "date": "2019-09-15 17:31:11.683 +00:00",
+      "episode": 73,
+      "rating": 6,
+      "animeId": 2306
+    },
+    {
+      "id": 30494,
+      "date": "2019-09-15 17:53:43.677 +00:00",
+      "episode": 24,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 30506,
+      "date": "2019-09-16 16:05:14.846 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3294
+    },
+    {
+      "id": 30507,
+      "date": "2019-09-16 16:31:39.642 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 30508,
+      "date": "2019-09-16 17:29:58.603 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 30509,
+      "date": "2019-09-16 17:51:18.355 +00:00",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 3316
+    },
+    {
+      "id": 30511,
+      "date": "2019-09-16 21:42:07.023 +00:00",
+      "episode": 10,
+      "rating": 7,
+      "animeId": 3296
+    },
+    {
+      "id": 30523,
+      "date": "2019-09-17 16:13:04.465 +00:00",
+      "episode": 25,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 30524,
+      "date": "2019-09-17 16:30:50.163 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3300
+    },
+    {
+      "id": 30525,
+      "date": "2019-09-17 17:40:53.714 +00:00",
+      "episode": 101,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 30526,
+      "date": "2019-09-17 17:43:52.350 +00:00",
+      "episode": 10,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 30527,
+      "date": "2019-09-17 18:06:37.065 +00:00",
+      "episode": 12,
+      "rating": 7,
+      "animeId": 3269
+    },
+    {
+      "id": 30528,
+      "date": "2019-09-17 21:19:16.036 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3268
+    },
+    {
+      "id": 30529,
+      "date": "2019-09-17 21:33:30.546 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3270
+    },
+    {
+      "id": 30540,
+      "date": "2019-09-18 16:10:19.722 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3305
+    },
+    {
+      "id": 30541,
+      "date": "2019-09-18 16:27:59.131 +00:00",
+      "episode": 11,
+      "rating": 6,
+      "animeId": 3299
+    },
+    {
+      "id": 30542,
+      "date": "2019-09-18 16:49:42.050 +00:00",
+      "episode": 24,
+      "rating": 5,
+      "animeId": 3091
+    },
+    {
+      "id": 30544,
+      "date": "2019-09-18 17:34:13.743 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3271
+    },
+    {
+      "id": 30545,
+      "date": "2019-09-18 22:01:29.019 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3272
+    },
+    {
+      "id": 30560,
+      "date": "2019-09-19 17:37:16.776 +00:00",
+      "episode": 22,
+      "rating": 5,
+      "animeId": 3131
+    },
+    {
+      "id": 30561,
+      "date": "2019-09-19 17:54:57.710 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3275
+    },
+    {
+      "id": 30562,
+      "date": "2019-09-19 21:36:23.923 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3277
+    },
+    {
+      "id": 30574,
+      "date": "2019-09-20 16:39:35.467 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3307
+    },
+    {
+      "id": 30575,
+      "date": "2019-09-20 17:02:42.873 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3284
+    },
+    {
+      "id": 30601,
+      "date": "2019-09-21 15:04:58.058 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 30602,
+      "date": "2019-09-21 15:20:32.065 +00:00",
+      "episode": 25,
+      "rating": 5,
+      "animeId": 3102
+    },
+    {
+      "id": 30603,
+      "date": "2019-09-21 15:48:29.763 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 30604,
+      "date": "2019-09-21 16:09:58.494 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 30605,
+      "date": "2019-09-21 16:39:35.814 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3278
+    },
+    {
+      "id": 30606,
+      "date": "2019-09-21 17:02:27.492 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 30607,
+      "date": "2019-09-21 17:53:19.010 +00:00",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 3285
+    },
+    {
+      "id": 30608,
+      "date": "2019-09-21 18:11:00.152 +00:00",
+      "episode": 11,
+      "rating": 8,
+      "animeId": 3287
+    },
+    {
+      "id": 30630,
+      "date": "2019-09-22 11:01:50.914 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3289
+    },
+    {
+      "id": 30637,
+      "date": "2019-09-22 15:04:17.913 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 30638,
+      "date": "2019-09-22 15:16:37.559 +00:00",
+      "episode": 125,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 30640,
+      "date": "2019-09-22 15:49:47.690 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3291
+    },
+    {
+      "id": 30641,
+      "date": "2019-09-22 16:20:28.165 +00:00",
+      "episode": 50,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 30642,
+      "date": "2019-09-22 16:40:57.507 +00:00",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3462
+    },
+    {
+      "id": 30643,
+      "date": "2019-09-22 17:00:26.874 +00:00",
+      "episode": 74,
+      "rating": 7,
+      "animeId": 2306
+    },
+    {
+      "id": 30644,
+      "date": "2019-09-22 18:02:17.455 +00:00",
+      "episode": 25,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 30654,
+      "date": "2019-09-23 16:00:06.614 +00:00",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 3294
+    },
+    {
+      "id": 30655,
+      "date": "2019-09-23 16:22:10.188 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3295
+    },
+    {
+      "id": 30656,
+      "date": "2019-09-23 16:43:52.036 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 30657,
+      "date": "2019-09-23 17:36:28.747 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3297
+    },
+    {
+      "id": 30658,
+      "date": "2019-09-23 18:00:07.381 +00:00",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3316
+    },
+    {
+      "id": 30659,
+      "date": "2019-09-23 21:39:05.557 +00:00",
+      "episode": 11,
+      "rating": 7,
+      "animeId": 3296
+    },
+    {
+      "id": 30667,
+      "date": "2019-09-24 15:57:24.668 +00:00",
+      "episode": 26,
+      "rating": 4,
+      "animeId": 3087
+    },
+    {
+      "id": 30668,
+      "date": "2019-09-24 16:19:45.209 +00:00",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3300
+    },
+    {
+      "id": 30669,
+      "date": "2019-09-24 16:35:15.990 +00:00",
+      "episode": 102,
+      "rating": 3,
+      "animeId": 1929
+    },
+    {
+      "id": 30670,
+      "date": "2019-09-24 17:01:53.787 +00:00",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3301
+    },
+    {
+      "id": 30671,
+      "date": "2019-09-24 17:58:24.489 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3299
+    },
+    {
+      "id": 30672,
+      "date": "2019-09-24 21:37:24.257 +00:00",
+      "episode": 25,
+      "rating": 6,
+      "animeId": 3091
+    },
+    {
+      "id": 30686,
+      "date": "2019-09-25 17:24:16.696 +00:00",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3305
+    },
+    {
+      "id": 30705,
+      "date": "2019-09-26 17:49:54.089 +00:00",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 3131
+    },
+    {
+      "id": 30706,
+      "date": "2019-09-26 21:39:49.978 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3307
+    },
+    {
+      "id": 30720,
+      "date": "2019-09-27 16:56:26.362 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 3286
+    },
+    {
+      "id": 30750,
+      "date": "2019-09-28 15:41:54.545 +00:00",
+      "episode": 24,
+      "rating": 4,
+      "animeId": 3107
+    },
+    {
+      "id": 30751,
+      "date": "2019-09-28 16:02:54.073 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3310
+    },
+    {
+      "id": 30752,
+      "date": "2019-09-28 16:26:02.179 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3311
+    },
+    {
+      "id": 30753,
+      "date": "2019-09-28 17:25:53.207 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3312
+    },
+    {
+      "id": 30754,
+      "date": "2019-09-28 17:49:40.051 +00:00",
+      "episode": 13,
+      "rating": 7,
+      "animeId": 3285
+    },
+    {
+      "id": 30782,
+      "date": "2019-09-29 15:04:02.256 +00:00",
+      "episode": 126,
+      "rating": 3,
+      "animeId": 122
+    },
+    {
+      "id": 30783,
+      "date": "2019-09-29 15:19:33.810 +00:00",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 3292
+    },
+    {
+      "id": 30785,
+      "date": "2019-09-29 15:58:19.396 +00:00",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 3291
+    },
+    {
+      "id": 30786,
+      "date": "2019-09-29 16:19:45.920 +00:00",
+      "episode": 51,
+      "rating": 5,
+      "animeId": 2805
+    },
+    {
+      "id": 30787,
+      "date": "2019-09-29 16:45:58.524 +00:00",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 3462
+    },
+    {
+      "id": 30788,
+      "date": "2019-09-29 17:32:35.573 +00:00",
+      "episode": 75,
+      "rating": 7,
+      "animeId": 2306
+    },
+    {
+      "id": 30789,
+      "date": "2019-09-29 17:57:08.125 +00:00",
+      "episode": 26,
+      "rating": 6,
+      "animeId": 3111
+    },
+    {
+      "id": 30803,
+      "date": "2019-09-30 17:28:50.171 +00:00",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 3293
+    },
+    {
+      "id": 30804,
+      "date": "2019-09-30 17:55:02.897 +00:00",
+      "episode": 10,
+      "rating": 6,
+      "animeId": 3316
+    },
+    {
+      "id": 30805,
+      "date": "2019-09-30 21:40:38.131 +00:00",
+      "episode": 12,
+      "rating": 7,
+      "animeId": 3296
     }
   ]
 }
