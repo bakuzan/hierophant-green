@@ -1,21 +1,20 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 
-import Layout from '@/components/Layout';
-import SEO from '@/components/SEO';
+import Layout from '@/components/AppLayout';
+import SEO from '@/components/AppSEO';
 import HGTable from '@/components/Table/HGTable';
 
 import groupBy from '@/utils/groupBy';
 import seriesSorter from '@/utils/seriesSorter';
 import reduceSeasons from '@/utils/reduceSeasons';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
+import getSeasonName from '@/utils/getSeasonName';
 import { rhythm } from '@/utils/typography';
 import { capitalise } from '@/utils/helpers';
-import { seasonNames } from '@/consts';
 
-const seasonNumbers = Object.keys(seasonNames)
-  .sort()
-  .reverse();
+const minEpisodeCarryOver = (x) => !x.isCarryOver || x.episodes.length > 4;
+const selectTop = (items, n) => items.filter(minEpisodeCarryOver).slice(0, n);
 
 function SubSection({ slug, title, ...props }) {
   return (
@@ -37,17 +36,36 @@ function SubSection({ slug, title, ...props }) {
 }
 
 function Section({ title, items }) {
-  const seasonCount = seasonNumbers
-    .map((num) =>
-      items.some((x) => x.season === `${title}-${num}`) ? num : null
-    )
-    .filter((x) => x !== null).length;
-
+  const seasonCount = items.length;
   const hasAllSeasons = seasonCount === 4;
 
+  const seasons = items.map((x) => ({
+    season: x.season,
+    items: generateSeriesStatistics(
+      getSeasonName(x.season),
+      x.series,
+      x.episodes
+    ).sort(seriesSorter)
+  }));
+
+  const allSeries = reduceSeasons(items, 'series');
+  const allEpisodes = reduceSeasons(items, 'episodes');
+  const allSeasons = generateSeriesStatistics(
+    title,
+    allSeries,
+    allEpisodes
+  ).sort(seriesSorter);
+
+  console.log(title, seasons, allSeasons);
   return (
     <section style={{ margin: `${rhythm(1)} 0` }}>
-      <header>
+      <header
+        style={{
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center'
+        }}
+      >
         <Link
           to={`/${title}/`}
           style={{
@@ -60,6 +78,7 @@ function Section({ title, items }) {
             {hasAllSeasons ? ' - Overview' : ''}
           </h3>
         </Link>
+        <div>checkbox</div>
       </header>
 
       {!hasAllSeasons && (
@@ -78,23 +97,18 @@ function Section({ title, items }) {
             Following that each individual season for {title} has a top 3
             ranking.
           </p>
-          <HGTable items={items.slice(0, 5)} />
+          <HGTable items={selectTop(allSeasons, 5)} />
         </React.Fragment>
       )}
 
-      {seasonNumbers.map((num, i) => {
-        const season = `${title}-${num}`;
-
-        if (!items.some((x) => x.season === season)) {
-          return null;
-        }
-
+      {seasons.map((entry, i) => {
+        const name = getSeasonName(entry.season, false);
         return (
           <SubSection
-            key={num}
-            slug={`/${season}/`}
-            title={seasonNames[num]}
-            items={items.filter((x) => x.season === season).slice(0, 3)}
+            key={entry.season}
+            slug={`/${entry.season}/`}
+            title={name}
+            items={selectTop(entry.items, 3)}
             hideRatingColumn={i + 1 >= seasonCount}
           />
         );
@@ -106,13 +120,7 @@ function Section({ title, items }) {
 export default ({ data }) => {
   const seasons = data.allDataJson.nodes ?? [];
   const groups = groupBy(seasons, (x) => x.season.split('-')[0]);
-
-  const years = Array.from(groups.entries()).map(([key, items]) => {
-    const s = reduceSeasons(items, 'series');
-    const e = reduceSeasons(items, 'episodes');
-    const se = generateSeriesStatistics('', s, e).sort(seriesSorter);
-    return [key, se];
-  });
+  const years = Array.from(groups.entries());
   console.log('Honours');
   return (
     <Layout>

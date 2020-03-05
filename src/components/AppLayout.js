@@ -2,9 +2,9 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
-import Header from './Header';
-import { rhythm } from '../utils/typography';
-import Footer from './Footer';
+import Header from './AppHeader';
+import Footer from './AppFooter';
+import { rhythm } from '@/utils/typography';
 
 const headerHeight = 102;
 

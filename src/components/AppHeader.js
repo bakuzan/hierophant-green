@@ -4,8 +4,8 @@ import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
 
 import RadioToggle from './RadioToggle';
-import { rhythm } from '../utils/typography';
-import { Icons } from '../consts';
+import { rhythm } from '@/utils/typography';
+import { Icons } from '@/consts';
 
 const NavLink = (props) => (
   <Link

@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
 
-import Layout from '../components/Layout';
-import Personal from '../components/Personal';
-import SEO from '../components/SEO';
+import Layout from '@/components/AppLayout';
+import SEO from '@/components/AppSEO';
+import Personal from '@/components/Personal';
 
 import { rhythm } from '../utils/typography';
 import getSeasonName from '../utils/getSeasonName';
