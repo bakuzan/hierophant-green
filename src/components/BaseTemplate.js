@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import Layout from './Layout';
-import SEO from './SEO';
+import Layout from '@/components/AppLayout';
+import SEO from '@/components/AppSEO';
 import Navigation from './Navigation';
 import YearOverview from './YearOverview';
 import HGTable from './Table/HGTable';
