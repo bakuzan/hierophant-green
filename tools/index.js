@@ -50,9 +50,7 @@ async function run() {
     process.exit(0);
   }
 
-  const update = cli.get('update', false);
-
-  if (update) {
+  if (cli.has('update')) {
     console.log(`Updating seasons...`);
 
     const all = cli.get('all', false);
