@@ -13,6 +13,7 @@ import { useMountedOnClient } from '@/hooks/useMountedOnClient';
 import { MIN_EPISODES } from '@/consts';
 import seriesSorter from '@/utils/seriesSorter';
 import reduceNestedList from '@/utils/reduceNestedList';
+import averageRatedTotal from '@/utils/averageRatedTotal';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import getSeasonName from '@/utils/getSeasonName';
 import { rhythm } from '@/utils/typography';
@@ -27,7 +28,10 @@ function selectTop(items, opts) {
   return filtered.slice(0, n);
 }
 
-function SubSection({ slug, title, ...props }) {
+function SubSection({ slug, title, hideCarryOvers, items, ...props }) {
+  const rows = selectTop(items, { top: 3, hideCarryOvers });
+  const { average, ratedCount } = averageRatedTotal({ series: items });
+
   return (
     <section style={{ margin: `${rhythm(1)} 0` }}>
       <header>
@@ -43,7 +47,10 @@ function SubSection({ slug, title, ...props }) {
           </h4>
         </Link>
       </header>
-      <HGTable hideSeason {...props} />
+      <p>
+        Average: {average} for {ratedCount} rated series
+      </p>
+      <HGTable hideSeason {...props} items={rows} />
     </section>
   );
 }
@@ -72,6 +79,7 @@ function Section({ title, items }) {
     allSeries,
     allEpisodes
   ).sort(seriesSorter);
+  const { average, ratedCount } = averageRatedTotal({ series: allSeasons });
 
   return (
     <section style={{ margin: `${rhythm(1)} 0` }}>
@@ -107,6 +115,9 @@ function Section({ title, items }) {
           </div>
         )}
       </header>
+      <p>
+        Average: {average} for {ratedCount} rated series
+      </p>
 
       {!hasAllSeasons && (
         <p>
@@ -135,7 +146,8 @@ function Section({ title, items }) {
             key={entry.season}
             slug={`/${entry.season}/`}
             title={name}
-            items={selectTop(entry.items, { top: 3, hideCarryOvers })}
+            items={entry.items}
+            hideCarryOvers={hideCarryOvers}
             hideRatingColumn={i + 1 >= seasonCount}
           />
         );

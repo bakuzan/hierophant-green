@@ -1,7 +1,12 @@
 import { roundToTwo } from './helpers';
+import { MIN_EPISODES } from '@/consts';
 
 export default function averageRatedTotal({ season, series }) {
-  const rated = series.filter((x) => x.rating !== 0);
+  const items = series.filter(
+    (x) => !x.episodes || x.episodes.length > MIN_EPISODES
+  );
+
+  const rated = items.filter((x) => x.rating !== 0);
   const ratedCount = rated.length;
   const average = roundToTwo(
     rated.reduce((p, c) => p + c.rating, 0) / ratedCount
@@ -9,7 +14,7 @@ export default function averageRatedTotal({ season, series }) {
 
   return {
     season,
-    seriesCount: series.length,
+    seriesCount: items.length,
     ratedCount,
     average
   };
