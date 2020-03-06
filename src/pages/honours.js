@@ -12,7 +12,7 @@ import HGTable from '@/components/Table/HGTable';
 import { useMountedOnClient } from '@/hooks/useMountedOnClient';
 import { MIN_EPISODES } from '@/consts';
 import seriesSorter from '@/utils/seriesSorter';
-import reduceSeasons from '@/utils/reduceSeasons';
+import reduceNestedList from '@/utils/reduceNestedList';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import getSeasonName from '@/utils/getSeasonName';
 import { rhythm } from '@/utils/typography';
@@ -65,8 +65,8 @@ function Section({ title, items }) {
     ).sort(seriesSorter)
   }));
 
-  const allSeries = reduceSeasons(items, 'series');
-  const allEpisodes = reduceSeasons(items, 'episodes');
+  const allSeries = reduceNestedList(items, 'series');
+  const allEpisodes = reduceNestedList(items, 'episodes');
   const allSeasons = generateSeriesStatistics(
     title,
     allSeries,

@@ -37,6 +37,11 @@ async function run() {
       shortcut: 'u',
       description: 'Update seasons as required'
     })
+    .addOption({
+      option: 'all',
+      shortcut: 'a',
+      description: 'Tell update to update all existing seasons'
+    })
     .welcome()
     .parse(process.argv);
 
@@ -50,7 +55,8 @@ async function run() {
   if (update) {
     console.log(`Updating seasons...`);
 
-    const toUpdate = await readSeasonsData();
+    const all = cli.get('all', false);
+    const toUpdate = await readSeasonsData(all);
 
     if (!toUpdate.length) {
       console.log('Everything is update to date.');

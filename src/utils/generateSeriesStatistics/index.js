@@ -2,7 +2,7 @@ import getAverage from './average';
 import { getMaximum, getMinimum } from './minMax';
 import getMode from './mode';
 
-function getEpisodeStatistics(entries) {
+export function getEpisodeStatistics(entries) {
   const values = entries.map((x) => x.rating);
 
   return {

@@ -21,10 +21,17 @@ const seasonHeaders = [
   { text: 'Mode', style: { ...rhsAlign } }
 ];
 
-function HGTable({ hideRatingColumn, items, hideSeason, getSeason }) {
-  const headers = hideRatingColumn
-    ? seasonHeaders.filter((x) => x.text !== 'Rating')
-    : seasonHeaders;
+function HGTable({
+  hideRatingColumn,
+  items,
+  hideSeason,
+  getSeason,
+  overrideHeaders
+}) {
+  let headers = overrideHeaders ?? seasonHeaders;
+  headers = hideRatingColumn
+    ? headers.filter((x) => x.text !== 'Rating')
+    : headers;
 
   return (
     <Table headers={headers}>
@@ -33,7 +40,7 @@ function HGTable({ hideRatingColumn, items, hideSeason, getSeason }) {
           const number = i + 1;
           const stats = getSeriesStats(s);
           const season = getSeason(s.isCarryOver, s.season);
-          const episodesText = getEpisodeText(s.episodes);
+          const episodesText = getEpisodeText(s.episodes, s.totalEpisodes);
 
           return (
             <tr key={s.id}>
@@ -98,14 +105,20 @@ HGTable.defaultProps = {
   hideRatingColumn: false,
   hideSeason: false,
   getSeason: (isCarryOver, season) =>
-    isCarryOver ? `${season.season} ${season.year}` : null
+    isCarryOver ? `${season.season} ${season.year}` : null,
+  overrideHeaders: null
 };
 
 HGTable.propTypes = {
   items: PropTypes.arrayOf(PropTypes.object).isRequired,
   hideRatingColumn: PropTypes.bool,
   hideSeason: PropTypes.bool,
-  getSeason: PropTypes.func
+  getSeason: PropTypes.func,
+  overrideHeaders: PropTypes.arrayOf(
+    PropTypes.shape({
+      text: PropTypes.string.isRequired
+    })
+  )
 };
 
 export default HGTable;
