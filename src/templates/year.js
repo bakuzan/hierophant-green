@@ -11,7 +11,16 @@ export default ({ data, ...props }) => {
   const year = props.path.replace(/\//g, '');
   const seasons = data.allDataJson.nodes;
 
-  const overview = seasons.map(averageRatedTotal);
+  const overview = seasons.map((s) =>
+    averageRatedTotal({
+      season: s.season,
+      series: s.series.map((x) => ({
+        ...x,
+        episodes: s.episodes.filter((e) => e.animeId === x.id)
+      }))
+    })
+  );
+
   const series = reduceNestedList(seasons, 'series');
   const episodes = reduceNestedList(seasons, 'episodes');
 

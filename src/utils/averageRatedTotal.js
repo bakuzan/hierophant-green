@@ -8,9 +8,8 @@ export default function averageRatedTotal({ season, series }) {
 
   const rated = items.filter((x) => x.rating !== 0);
   const ratedCount = rated.length;
-  const average = roundToTwo(
-    rated.reduce((p, c) => p + c.rating, 0) / ratedCount
-  );
+  const ratingSum = rated.reduce((p, c) => p + c.rating, 0);
+  const average = roundToTwo(ratingSum / ratedCount);
 
   return {
     season,
