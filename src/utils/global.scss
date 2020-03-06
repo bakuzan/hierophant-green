@@ -60,6 +60,17 @@
   top: 0 !important;
 }
 
-.hide-carry-overs {
+.has-float-label .select-box:focus {
+  border-color: var(--primary-colour);
+}
+.has-float-label .select-box--with-background:focus {
+  border-color: var(--primary-contrast);
+}
+
+.hide-carry-overs.hide-carry-overs {
   margin: 0 10px;
+
+  &--with-background::before {
+    color: var(--primary-contrast);
+  }
 }

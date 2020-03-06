@@ -2,6 +2,8 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
+import { useGlobalStyles } from 'meiko/hooks/useGlobalStyles';
+
 import Header from './AppHeader';
 import Footer from './AppFooter';
 import { rhythm } from '@/utils/typography';
@@ -9,6 +11,8 @@ import { rhythm } from '@/utils/typography';
 const headerHeight = 102;
 
 function Layout({ children }) {
+  useGlobalStyles({ includeFont: false });
+
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {

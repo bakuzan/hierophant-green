@@ -21,6 +21,8 @@ export default ({ data, ...props }) => {
       {...props}
       title={seasonName}
       series={items.filter((x) => x.episodes.length > MIN_EPISODES)}
+      season={entry.season}
+      showFilters
     />
   );
 };

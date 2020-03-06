@@ -4,7 +4,7 @@ import { graphql } from 'gatsby';
 import BaseTemplate from '@/components/BaseTemplate';
 import averageRatedTotal from '@/utils/averageRatedTotal';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
-import reduceSeasons from '@/utils/reduceSeasons';
+import reduceNestedList from '@/utils/reduceNestedList';
 import { MIN_EPISODES } from '@/consts';
 
 export default ({ data, ...props }) => {
@@ -12,8 +12,8 @@ export default ({ data, ...props }) => {
   const seasons = data.allDataJson.nodes;
 
   const overview = seasons.map(averageRatedTotal);
-  const series = reduceSeasons(seasons, 'series');
-  const episodes = reduceSeasons(seasons, 'episodes');
+  const series = reduceNestedList(seasons, 'series');
+  const episodes = reduceNestedList(seasons, 'episodes');
 
   const items = generateSeriesStatistics(year, series, episodes).filter(
     (x) => x.episodes.length > MIN_EPISODES
@@ -23,8 +23,8 @@ export default ({ data, ...props }) => {
     <BaseTemplate
       {...props}
       title={`Overview of ${year}`}
-      overview={overview}
       series={items}
+      overview={overview}
       getSeason={(_, season) => `${season.season} ${season.year}`}
     />
   );
