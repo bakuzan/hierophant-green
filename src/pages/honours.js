@@ -8,6 +8,7 @@ import Tickbox from 'meiko/Tickbox';
 import Layout from '@/components/AppLayout';
 import SEO from '@/components/AppSEO';
 import HGTable from '@/components/Table/HGTable';
+import PageAnchor from '@/components/PageAnchor';
 
 import { useMountedOnClient } from '@/hooks/useMountedOnClient';
 import { MIN_EPISODES } from '@/consts';
@@ -29,12 +30,14 @@ function selectTop(items, opts) {
 }
 
 function SubSection({ slug, title, hideCarryOvers, items, ...props }) {
+  const sectionId = `section_${slug.replace(/\//g, '')}`;
   const rows = selectTop(items, { top: 3, hideCarryOvers });
   const { average, ratedCount } = averageRatedTotal({ series: items });
 
   return (
-    <section style={{ margin: `${rhythm(1)} 0` }}>
-      <header>
+    <section id={sectionId} style={{ margin: `${rhythm(1)} 0` }}>
+      <header style={{ display: 'flex', alignItems: 'center' }}>
+        <PageAnchor id={sectionId} />
         <Link
           to={slug}
           style={{
@@ -59,6 +62,7 @@ function Section({ title, items }) {
   const mounted = useMountedOnClient();
   const [hideCarryOvers, setHideCarryOvers] = useState(false);
 
+  const sectionId = `section_${title}`;
   const seasonCount = items.length;
   const hasAllSeasons = seasonCount === 4;
   const hideCarryOversId = `hideCarryOvers_${title}`;
@@ -82,14 +86,14 @@ function Section({ title, items }) {
   const { average, ratedCount } = averageRatedTotal({ series: allSeasons });
 
   return (
-    <section style={{ margin: `${rhythm(1)} 0` }}>
+    <section id={sectionId} style={{ margin: `${rhythm(1)} 0` }}>
       <header
         style={{
           display: 'flex',
-          justifyContent: 'space-between',
           alignItems: 'center'
         }}
       >
+        <PageAnchor id={sectionId} />
         <Link
           to={`/${title}/`}
           style={{
@@ -102,6 +106,7 @@ function Section({ title, items }) {
             {hasAllSeasons ? ' - Overview' : ''}
           </h3>
         </Link>
+        <div className="flex-spacer"></div>
         {mounted && (
           <div>
             <Tickbox
@@ -145,7 +150,7 @@ function Section({ title, items }) {
           <SubSection
             key={entry.season}
             slug={`/${entry.season}/`}
-            title={name}
+            title={`${name} ${title}`}
             items={entry.items}
             hideCarryOvers={hideCarryOvers}
             hideRatingColumn={i + 1 >= seasonCount}

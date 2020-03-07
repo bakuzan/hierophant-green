@@ -379,7 +379,7 @@
       "image": "https://i.imgur.com/OigfF1b.jpg",
       "malId": 38790,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "season": {
         "year": 2020,
         "season": "Winter"
@@ -403,7 +403,7 @@
       "image": "https://i.imgur.com/bGWCJ7e.jpg",
       "malId": 38924,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "season": {
         "year": 2020,
         "season": "Winter"
@@ -4097,6 +4097,62 @@
       "episode": 22,
       "rating": 7,
       "animeId": 3547
+    },
+    {
+      "id": 34548,
+      "date": "2020-03-05T17:04:05.991Z",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3713
+    },
+    {
+      "id": 34549,
+      "date": "2020-03-05T17:26:41.100Z",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3762
+    },
+    {
+      "id": 34551,
+      "date": "2020-03-05T18:38:56.885Z",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3736
+    },
+    {
+      "id": 34552,
+      "date": "2020-03-05T19:00:11.869Z",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3735
+    },
+    {
+      "id": 34553,
+      "date": "2020-03-05T22:34:52.851Z",
+      "episode": 21,
+      "rating": 6,
+      "animeId": 3594
+    },
+    {
+      "id": 34561,
+      "date": "2020-03-06T17:01:29.750Z",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3738
+    },
+    {
+      "id": 34562,
+      "date": "2020-03-06T17:36:34.065Z",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3740
+    },
+    {
+      "id": 34563,
+      "date": "2020-03-06T17:59:33.253Z",
+      "episode": 9,
+      "rating": 5,
+      "animeId": 3739
     }
   ]
 }
