@@ -11,20 +11,21 @@ import HGTable from '@/components/Table/HGTable';
 import PageAnchor from '@/components/PageAnchor';
 
 import { useMountedOnClient } from '@/hooks/useMountedOnClient';
-import { MIN_EPISODES } from '@/consts';
 import seriesSorter from '@/utils/seriesSorter';
 import reduceNestedList from '@/utils/reduceNestedList';
 import averageRatedTotal from '@/utils/averageRatedTotal';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import getSeasonName from '@/utils/getSeasonName';
+import includeUserSettingFilters from '@/utils/includeUserSettingFilters';
 import { rhythm } from '@/utils/typography';
 
 function selectTop(items, opts) {
   const n = opts.top ?? 3;
   const hide = opts.hideCarryOvers ?? false;
-  const filtered = items.filter((x) => {
-    return !x.isCarryOver || (!hide && x.episodes.length > MIN_EPISODES);
-  });
+  const filtered = includeUserSettingFilters(
+    items,
+    (x, hasMinEpisodes) => !x.isCarryOver || (!hide && hasMinEpisodes)
+  );
 
   return filtered.slice(0, n);
 }

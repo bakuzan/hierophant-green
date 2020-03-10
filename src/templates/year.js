@@ -5,7 +5,7 @@ import BaseTemplate from '@/components/BaseTemplate';
 import averageRatedTotal from '@/utils/averageRatedTotal';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import reduceNestedList from '@/utils/reduceNestedList';
-import { MIN_EPISODES } from '@/consts';
+import includeUserSettingFilters from '@/utils/includeUserSettingFilters';
 
 export default ({ data, ...props }) => {
   const year = props.path.replace(/\//g, '');
@@ -23,9 +23,8 @@ export default ({ data, ...props }) => {
 
   const series = reduceNestedList(seasons, 'series');
   const episodes = reduceNestedList(seasons, 'episodes');
-
-  const items = generateSeriesStatistics(year, series, episodes).filter(
-    (x) => x.episodes.length > MIN_EPISODES
+  const items = includeUserSettingFilters(
+    generateSeriesStatistics(year, series, episodes)
   );
 
   return (

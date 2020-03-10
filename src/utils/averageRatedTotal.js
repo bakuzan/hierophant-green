@@ -1,9 +1,10 @@
 import { roundToTwo } from './helpers';
-import { MIN_EPISODES } from '@/consts';
+import includeUserSettingFilters from './includeUserSettingFilters';
 
 export default function averageRatedTotal({ season, series }) {
-  const items = series.filter(
-    (x) => !x.episodes || x.episodes.length > MIN_EPISODES
+  const items = includeUserSettingFilters(
+    series,
+    (x, hasMinEpisodes) => !x.episodes || hasMinEpisodes
   );
 
   const rated = items.filter((x) => x.rating !== 0);

@@ -4,7 +4,7 @@ import { graphql } from 'gatsby';
 import BaseTemplate from '@/components/BaseTemplate';
 import getSeasonName from '@/utils/getSeasonName';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
-import { MIN_EPISODES } from '@/consts';
+import includeUserSettingFilters from '@/utils/includeUserSettingFilters';
 
 export default ({ data, ...props }) => {
   const entry = data.dataJson;
@@ -20,7 +20,7 @@ export default ({ data, ...props }) => {
     <BaseTemplate
       {...props}
       title={seasonName}
-      series={items.filter((x) => x.episodes.length > MIN_EPISODES)}
+      series={includeUserSettingFilters(items)}
       season={entry.season}
       showFilters
     />

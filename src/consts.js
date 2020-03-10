@@ -26,4 +26,4 @@ export const words = Object.freeze([
   'pathetic'
 ]);
 
-export const MIN_EPISODES = 4;
+export const MIN_EPISODES_DEFAULT = 4;

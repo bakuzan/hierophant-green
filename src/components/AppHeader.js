@@ -24,6 +24,7 @@ const NavLink = (props) => (
 
 function Header({ siteTitle }) {
   const [theme, setTheme] = useState(null);
+  const mounted = theme !== null;
 
   useEffect(() => {
     setTheme(window.__theme);
@@ -83,6 +84,7 @@ function Header({ siteTitle }) {
       >
         <NavLink to="/">Home</NavLink>
         <NavLink to="/honours">Honours</NavLink>
+        {mounted && <NavLink to="/settings">Settings</NavLink>}
       </nav>
     </header>
   );
