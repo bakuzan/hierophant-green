@@ -19,6 +19,9 @@ import {
   generateSeriesForWeekFilter
 } from '@/utils/weekFilter';
 
+const boolOrAttr = (obj, key) =>
+  typeof obj === 'boolean' ? obj : obj[key] ?? false;
+
 const rhsAlign = { textAlign: 'right' };
 const weekHeaders = [
   { text: '#', style: { ...rhsAlign } },
@@ -44,12 +47,16 @@ function BaseTemplate({
   const [week, setWeek] = useState(0);
   const [hideCarryOvers, setHideCarryOvers] = useState(false);
   const mounted = useMountedOnClient();
-  const weekOptions = useMemo(() => createWeekOptions(season, showFilters), [
-    season,
-    showFilters
-  ]);
 
   const isAllWeeks = week === 0;
+  const showWeeksDropdown = boolOrAttr(showFilters, 'weeksDropdown');
+  const showHideCarrOvers = boolOrAttr(showFilters, 'hideCarryOvers');
+
+  const weekOptions = useMemo(
+    () => createWeekOptions(season, showWeeksDropdown),
+    [season, showWeeksDropdown]
+  );
+
   const option = weekOptions.find((x) => x.value === week);
   const filteredSeries = generateSeriesForWeekFilter(
     series.filter((x) => !x.isCarryOver || !hideCarryOvers),
@@ -84,7 +91,6 @@ function BaseTemplate({
           <div
             style={{
               display: 'flex',
-              justifyContent: 'space-between',
               alignItems: 'center',
               backgroundColor: `var(--primary-colour)`,
               color: `var(--primary-contrast)`,
@@ -92,36 +98,41 @@ function BaseTemplate({
               margin: `10px 0`
             }}
           >
-            <div style={{ margin: `0 5px`, minWidth: `200px` }}>
-              <SelectBox
-                style={{
-                  backgroundColor: `var(--primary-colour)`,
-                  color: `var(--primary-contrast)`
-                }}
-                className="select-box--with-background"
-                id="weeks"
-                name="weeks"
-                text="Show week(s)"
-                value={week}
-                onChange={(e) => setWeek(Number(e.target.value))}
-              >
-                {weekOptions.map((x) => (
-                  <option key={x.value} value={x.value}>
-                    {x.text}
-                  </option>
-                ))}
-              </SelectBox>
-            </div>
-            <div style={{ margin: `0 5px` }}>
-              <Tickbox
-                className="hide-carry-overs hide-carry-overs--with-background"
-                id="hideCarryOvers"
-                name="hideCarryOvers"
-                checked={hideCarryOvers}
-                text={' Hide carry overs'}
-                onChange={(e) => setHideCarryOvers((p) => !p)}
-              />
-            </div>
+            {showWeeksDropdown && (
+              <div style={{ margin: `0 5px`, minWidth: `200px` }}>
+                <SelectBox
+                  style={{
+                    backgroundColor: `var(--primary-colour)`,
+                    color: `var(--primary-contrast)`
+                  }}
+                  className="select-box--with-background"
+                  id="weeks"
+                  name="weeks"
+                  text="Show week(s)"
+                  value={week}
+                  onChange={(e) => setWeek(Number(e.target.value))}
+                >
+                  {weekOptions.map((x) => (
+                    <option key={x.value} value={x.value}>
+                      {x.text}
+                    </option>
+                  ))}
+                </SelectBox>
+              </div>
+            )}
+            <div style={{ display: 'flex', flex: 1 }}></div>
+            {showHideCarrOvers && (
+              <div style={{ margin: `0 5px` }}>
+                <Tickbox
+                  className="hide-carry-overs hide-carry-overs--with-background"
+                  id="hideCarryOvers"
+                  name="hideCarryOvers"
+                  checked={hideCarryOvers}
+                  text={' Hide carry overs'}
+                  onChange={(e) => setHideCarryOvers((p) => !p)}
+                />
+              </div>
+            )}
           </div>
         )}
         {!isAllWeeks && (
@@ -187,7 +198,13 @@ BaseTemplate.propTypes = {
   hideRatingColumn: PropTypes.bool,
   customDescriptiveText: PropTypes.string,
   getSeason: PropTypes.func,
-  showFilters: PropTypes.bool,
+  showFilters: PropTypes.oneOf([
+    PropTypes.bool,
+    PropTypes.shape({
+      hideCarryOvers: PropTypes.bool,
+      weeksDropdown: PropTypes.bool
+    })
+  ]),
   season: PropTypes.string
 };
 

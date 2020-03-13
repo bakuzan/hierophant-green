@@ -15,15 +15,16 @@ function IndexItem({ slug, text }) {
         to={slug}
         style={{
           textDecoration: 'none',
-          color: 'inherit'
+          color: 'inherit',
+          marginTop: rhythm(1),
+          marginBottom: rhythm(1 / 4)
         }}
       >
         <h3
           className="season-link"
           style={{
             fontSize: rhythm(1),
-            marginTop: rhythm(1),
-            marginBottom: rhythm(1 / 4)
+            margin: 0
           }}
         >
           {text}

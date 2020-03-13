@@ -3,7 +3,7 @@ const path = require(`path`);
 exports.onCreateNode = require('./gatsby/onCreateNode');
 exports.createPages = require('./gatsby/createPages');
 
-exports.onCreateWebpackConfig = ({ actions, getConfig, stage, loaders }) => {
+exports.onCreateWebpackConfig = ({ actions, getConfig }) => {
   const config = getConfig();
 
   const { rules } = config.module;
@@ -28,17 +28,4 @@ exports.onCreateWebpackConfig = ({ actions, getConfig, stage, loaders }) => {
       }
     }
   });
-
-  // if (stage === 'build-html') {
-  //   actions.setWebpackConfig({
-  //     module: {
-  //       rules: [
-  //         {
-  //           test: /ayaka\/localStorage/,
-  //           use: loaders.null()
-  //         }
-  //       ]
-  //     }
-  //   });
-  // }
 };

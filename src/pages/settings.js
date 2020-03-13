@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 
-import SelectBox from 'meiko/SelectBox';
+import FormControls from 'meiko/FormControls';
 
 import Layout from '@/components/AppLayout';
 import SEO from '@/components/AppSEO';
 
 import storage from '@/utils/storage';
 import { rhythm } from '@/utils/typography';
+
+const { ClearableInput, SelectBox } = FormControls;
 
 const minEpisodesOptions = [
   { value: 1, text: '1' },
@@ -17,7 +19,11 @@ const minEpisodesOptions = [
 ];
 
 function Settings() {
+  const [errors, setErrors] = useState(new Map([]));
   const [minEpisodes, setMinEpisodes] = useState(storage.getKey('minEpisodes'));
+  const [standoutEpisodeRating, setStandoutEpisodeRating] = useState(
+    storage.getKey('standoutEpisodeRating')
+  );
 
   return (
     <Layout>
@@ -38,6 +44,7 @@ function Settings() {
               storage.set({ minEpisodes: value });
               setMinEpisodes(value);
             }}
+            error={errors}
           >
             {minEpisodesOptions.map((x) => (
               <option key={x.value} value={x.value}>
@@ -45,6 +52,43 @@ function Settings() {
               </option>
             ))}
           </SelectBox>
+        </div>
+
+        <div style={{ margin: `${rhythm(1 / 5)} 0` }}>
+          <ClearableInput
+            type="number"
+            min={7}
+            max={10}
+            id="standoutEpisodeRating"
+            name="standoutEpisodeRating"
+            value={standoutEpisodeRating}
+            label="Standout episode minimum rating"
+            onChange={(e) => {
+              const value = Number(e.target.value);
+              const isValid = value >= 7 && value <= 10;
+
+              if (isValid) {
+                storage.set({ standoutEpisodeRating: value });
+
+                if (errors.has('standoutEpisodeRating')) {
+                  setErrors((p) => {
+                    p.delete('standoutEpisodeRating');
+                    return p;
+                  });
+                }
+              } else {
+                setErrors((p) =>
+                  p.set(
+                    'standoutEpisodeRating',
+                    'Standout episode minimum rating must be between 7 and 10 inclusive.'
+                  )
+                );
+              }
+
+              setStandoutEpisodeRating(value);
+            }}
+            error={errors}
+          />
         </div>
       </div>
     </Layout>

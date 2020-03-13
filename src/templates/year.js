@@ -34,6 +34,7 @@ export default ({ data, ...props }) => {
       series={items}
       overview={overview}
       getSeason={(_, season) => `${season.season} ${season.year}`}
+      showFilters={{ hideCarryOvers: true }}
     />
   );
 };

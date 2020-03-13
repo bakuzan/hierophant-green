@@ -8,6 +8,8 @@
   --moderate-cyan-faded-more: #33999940;
 
   --moderate-lime: #248824;
+
+  --danger-colour: #ff0000;
 }
 
 .theme {
@@ -41,7 +43,7 @@
 }
 
 .season-link {
-  &:hover {
+  &:not(.season-link--no-hover):hover {
     color: var(--link-colour);
   }
 }
@@ -70,7 +72,21 @@
 .hide-carry-overs.hide-carry-overs {
   margin: 0 10px;
 
+  &::before {
+    color: var(--text-colour);
+  }
+
   &--with-background::before {
     color: var(--primary-contrast);
   }
+}
+
+.error-block {
+  color: var(--danger-colour);
+  font-size: 0.66rem !important;
+  padding: 5px !important;
+  margin: 2px 5px;
+}
+.clearable-input__count {
+  bottom: -0.85rem !important;
 }
