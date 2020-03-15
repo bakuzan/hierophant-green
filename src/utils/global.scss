@@ -15,6 +15,12 @@
 .theme {
   background-color: var(--bg);
   color: var(--text-colour);
+
+  --radio-toggle--box-shadow-colour: var(--moderate-cyan);
+
+  --scroll-top-button--background: var(--moderate-cyan);
+  --scroll-top-button--background-hover: var(--moderate-cyan-faded);
+  --scroll-top-button--colour: #fff;
 }
 
 .theme--light {
@@ -62,7 +68,17 @@
   top: 0 !important;
 }
 
-.has-float-label .select-box:focus {
+.clearable-input__input {
+  background: inherit;
+  color: inherit;
+}
+.select-box {
+  background-color: var(--bg);
+  color: var(--text-colour);
+}
+
+.has-float-label .select-box:focus,
+.has-float-label .clearable-input__input:focus {
   border-color: var(--primary-colour);
 }
 .has-float-label .select-box--with-background:focus {

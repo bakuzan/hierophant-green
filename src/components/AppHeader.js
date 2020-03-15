@@ -7,19 +7,23 @@ import RadioToggle from 'meiko/RadioToggle';
 import { rhythm } from '@/utils/typography';
 import { Icons } from '@/consts';
 
-const NavLink = (props) => (
-  <Link
-    className="hig-nav-link"
-    style={{
-      padding: `0 5px`,
-      margin: `0 10px`
-    }}
-    activeStyle={{
-      backgroundColor: 'var(--primary-colour)',
-      color: `var(--primary-contrast)`
-    }}
-    {...props}
-  />
+const NavLink = ({ minWidth, show = true, ...props }) => (
+  <div style={{ minWidth }}>
+    {show && (
+      <Link
+        className="hig-nav-link"
+        style={{
+          padding: `0 5px`,
+          margin: `0 10px`
+        }}
+        activeStyle={{
+          backgroundColor: 'var(--primary-colour)',
+          color: `var(--primary-contrast)`
+        }}
+        {...props}
+      />
+    )}
+  </div>
 );
 
 function Header({ siteTitle }) {
@@ -84,7 +88,9 @@ function Header({ siteTitle }) {
       >
         <NavLink to="/">Home</NavLink>
         <NavLink to="/honours">Honours</NavLink>
-        {mounted && <NavLink to="/settings">Settings</NavLink>}
+        <NavLink to="/settings" minWidth="79px" show={mounted}>
+          Settings
+        </NavLink>
       </nav>
     </header>
   );

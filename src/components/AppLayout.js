@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
+import ScrollTopButton from 'meiko/ScrollTopButton';
 import { useGlobalStyles } from 'meiko/hooks/useGlobalStyles';
 
 import Header from './AppHeader';
@@ -37,6 +38,7 @@ function Layout({ children }) {
         <main style={{ minHeight: `calc(100vh - ${headerHeight}px)` }}>
           {children}
         </main>
+        <ScrollTopButton />
         <Footer />
       </div>
     </>
