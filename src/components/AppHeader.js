@@ -13,8 +13,8 @@ const NavLink = ({ minWidth, show = true, ...props }) => (
       <Link
         className="hig-nav-link"
         style={{
-          padding: `0 5px`,
-          margin: `0 10px`
+          padding: `5px`,
+          margin: `0 2px`
         }}
         activeStyle={{
           backgroundColor: 'var(--primary-colour)',
@@ -28,7 +28,7 @@ const NavLink = ({ minWidth, show = true, ...props }) => (
 
 function Header({ siteTitle }) {
   const [theme, setTheme] = useState(null);
-  const mounted = theme !== null;
+  const mounted = window.__theme !== undefined;
 
   useEffect(() => {
     setTheme(window.__theme);

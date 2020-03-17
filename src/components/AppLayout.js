@@ -38,7 +38,7 @@ function Layout({ children }) {
         <main style={{ minHeight: `calc(100vh - ${headerHeight}px)` }}>
           {children}
         </main>
-        <ScrollTopButton />
+        <ScrollTopButton offset={200} style={{ bottom: `8px`, right: `8px` }} />
         <Footer />
       </div>
     </>

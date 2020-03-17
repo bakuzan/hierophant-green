@@ -9,18 +9,15 @@ import includeUserSettingFilters from '@/utils/includeUserSettingFilters';
 export default ({ data, ...props }) => {
   const entry = data.dataJson;
   const seasonName = getSeasonName(entry.season);
-
-  const items = generateSeriesStatistics(
-    seasonName,
-    entry.series,
-    entry.episodes
+  const items = includeUserSettingFilters(
+    generateSeriesStatistics(seasonName, entry.series, entry.episodes)
   );
 
   return (
     <BaseTemplate
       {...props}
       title={seasonName}
-      series={includeUserSettingFilters(items)}
+      series={items}
       season={entry.season}
       showFilters
     />

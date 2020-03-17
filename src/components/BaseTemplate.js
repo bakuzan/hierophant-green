@@ -87,54 +87,59 @@ function BaseTemplate({
           {'\n\r'}Entries are sorted by average desc, rating desc, mode desc,
           and title asc.
         </p>
-        {showFilters && mounted && (
-          <div
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-              backgroundColor: `var(--primary-colour)`,
-              color: `var(--primary-contrast)`,
-              padding: `5px`,
-              margin: `10px 0`
-            }}
-          >
-            {showWeeksDropdown && (
-              <div style={{ margin: `0 5px`, minWidth: `200px` }}>
-                <SelectBox
-                  style={{
-                    backgroundColor: `var(--primary-colour)`,
-                    color: `var(--primary-contrast)`
-                  }}
-                  className="select-box--with-background"
-                  id="weeks"
-                  name="weeks"
-                  text="Show week(s)"
-                  value={week}
-                  onChange={(e) => setWeek(Number(e.target.value))}
-                >
-                  {weekOptions.map((x) => (
-                    <option key={x.value} value={x.value}>
-                      {x.text}
-                    </option>
-                  ))}
-                </SelectBox>
-              </div>
-            )}
-            <div style={{ display: 'flex', flex: 1 }}></div>
-            {showHideCarrOvers && (
-              <div style={{ margin: `0 5px` }}>
-                <Tickbox
-                  className="hide-carry-overs hide-carry-overs--with-background"
-                  id="hideCarryOvers"
-                  name="hideCarryOvers"
-                  checked={hideCarryOvers}
-                  text={' Hide carry overs'}
-                  onChange={(e) => setHideCarryOvers((p) => !p)}
-                />
-              </div>
-            )}
-          </div>
-        )}
+
+        <div
+          aria-hidden={!(showFilters && mounted)}
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            backgroundColor: `var(--primary-colour)`,
+            color: `var(--primary-contrast)`,
+            padding: `5px`,
+            margin: `10px 0`,
+            transition: `all 0.2s ease-in-out`,
+            ...(showFilters && mounted
+              ? { visibility: 'visible', opacity: 1 }
+              : { visibility: 'hidden', opacity: 0 })
+          }}
+        >
+          {showWeeksDropdown && (
+            <div style={{ margin: `0 5px`, minWidth: `200px` }}>
+              <SelectBox
+                style={{
+                  backgroundColor: `var(--primary-colour)`,
+                  color: `var(--primary-contrast)`
+                }}
+                className="select-box--with-background"
+                id="weeks"
+                name="weeks"
+                text="Show week(s)"
+                value={week}
+                onChange={(e) => setWeek(Number(e.target.value))}
+              >
+                {weekOptions.map((x) => (
+                  <option key={x.value} value={x.value}>
+                    {x.text}
+                  </option>
+                ))}
+              </SelectBox>
+            </div>
+          )}
+          <div style={{ display: 'flex', flex: 1 }}></div>
+          {showHideCarrOvers && (
+            <div style={{ margin: `0 5px` }}>
+              <Tickbox
+                className="hide-carry-overs hide-carry-overs--with-background"
+                id="hideCarryOvers"
+                name="hideCarryOvers"
+                checked={hideCarryOvers}
+                text={' Hide carry overs'}
+                onChange={(e) => setHideCarryOvers((p) => !p)}
+              />
+            </div>
+          )}
+        </div>
+
         {!isAllWeeks && (
           <p>
             You are currently viewing the season filtered to episodes watched
@@ -198,7 +203,7 @@ BaseTemplate.propTypes = {
   hideRatingColumn: PropTypes.bool,
   customDescriptiveText: PropTypes.string,
   getSeason: PropTypes.func,
-  showFilters: PropTypes.oneOf([
+  showFilters: PropTypes.oneOfType([
     PropTypes.bool,
     PropTypes.shape({
       hideCarryOvers: PropTypes.bool,

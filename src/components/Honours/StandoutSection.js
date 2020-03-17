@@ -11,6 +11,13 @@ import storage from '@/utils/storage';
 import { rhythm } from '@/utils/typography';
 import { orderStandoutEpisodes } from './utils';
 
+const standoutHeaders = [
+  { text: '#', style: { textAlign: 'right' } },
+  { text: 'Title' },
+  { text: 'Episode Rating', style: { textAlign: 'right' } },
+  { text: 'Rating difference', style: { textAlign: 'right' } }
+];
+
 function StandoutSection({ sectionId, items }) {
   const standOutRating = storage.getKey('standoutEpisodeRating');
   const standOutSectionId = `${sectionId}_standout`;
@@ -32,14 +39,7 @@ function StandoutSection({ sectionId, items }) {
         rating desc, and title asc.
       </p>
       {items.length ? (
-        <Table
-          headers={[
-            { text: '#', style: { textAlign: 'right' } },
-            { text: 'Title' },
-            { text: 'Episode Rating', style: { textAlign: 'right' } },
-            { text: 'Rating difference', style: { textAlign: 'right' } }
-          ]}
-        >
+        <Table headers={standoutHeaders}>
           {() =>
             items
               .sort(orderStandoutEpisodes)
