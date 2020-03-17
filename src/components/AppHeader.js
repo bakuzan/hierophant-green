@@ -4,8 +4,9 @@ import Helmet from 'react-helmet';
 import { Link } from 'gatsby';
 
 import RadioToggle from 'meiko/RadioToggle';
-import { rhythm } from '@/utils/typography';
 import { Icons } from '@/consts';
+import { rhythm } from '@/utils/typography';
+import getVisibleProps from '@/utils/getVisibleProps';
 
 const NavLink = ({ minWidth, show = true, ...props }) => (
   <div style={{ minWidth }}>
@@ -28,7 +29,8 @@ const NavLink = ({ minWidth, show = true, ...props }) => (
 
 function Header({ siteTitle }) {
   const [theme, setTheme] = useState(null);
-  const mounted = window.__theme !== undefined;
+  const hasTheme = theme !== null;
+  const mounted = typeof window !== 'undefined' && window.__theme !== undefined;
 
   useEffect(() => {
     setTheme(window.__theme);
@@ -64,7 +66,8 @@ function Header({ siteTitle }) {
         <h1 style={{ margin: 0 }}>
           <Link to="/">{siteTitle}</Link>
         </h1>
-        {theme !== null && (
+
+        <div {...getVisibleProps(hasTheme)}>
           <RadioToggle
             label="Switch between Dark and Light mode"
             name="theme"
@@ -76,7 +79,7 @@ function Header({ siteTitle }) {
               )
             }
           />
-        )}
+        </div>
       </div>
       <nav
         style={{

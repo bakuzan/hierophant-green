@@ -13,6 +13,7 @@ import HGTable from './Table/HGTable';
 
 import { useMountedOnClient } from '@/hooks/useMountedOnClient';
 import averageRatedTotal from '@/utils/averageRatedTotal';
+import getVisibleProps from '@/utils/getVisibleProps';
 import seriesSorter from '@/utils/seriesSorter';
 import {
   createWeekOptions,
@@ -89,19 +90,14 @@ function BaseTemplate({
         </p>
 
         <div
-          aria-hidden={!(showFilters && mounted)}
-          style={{
+          {...getVisibleProps(showFilters && mounted, {
             display: 'flex',
             alignItems: 'center',
             backgroundColor: `var(--primary-colour)`,
             color: `var(--primary-contrast)`,
             padding: `5px`,
-            margin: `10px 0`,
-            transition: `all 0.2s ease-in-out`,
-            ...(showFilters && mounted
-              ? { visibility: 'visible', opacity: 1 }
-              : { visibility: 'hidden', opacity: 0 })
-          }}
+            margin: `10px 0`
+          })}
         >
           {showWeeksDropdown && (
             <div style={{ margin: `0 5px`, minWidth: `200px` }}>
