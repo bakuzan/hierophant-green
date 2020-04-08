@@ -33,7 +33,9 @@ function SeasonSection({ slug, title, hideCarryOvers, items, ...props }) {
         </Link>
       </header>
       <p>
-        Average: {average} for {ratedCount} rated series
+        {isNaN(average)
+          ? `Average rating unavailable`
+          : `Average: ${average} for ${ratedCount} rated series`}
       </p>
       <HGTable hideSeason {...props} items={rows} />
     </section>

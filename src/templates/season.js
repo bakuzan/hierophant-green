@@ -5,14 +5,20 @@ import BaseTemplate from '@/components/BaseTemplate';
 import getSeasonName from '@/utils/getSeasonName';
 import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import includeUserSettingFilters from '@/utils/includeUserSettingFilters';
+import { getCurrentSeason } from '@/utils/helpers';
+
+const currentSeason = getCurrentSeason();
 
 export default ({ data, ...props }) => {
   const entry = data.dataJson;
+  const isCurrentSeason = entry.season === currentSeason;
+
   const seasonName = getSeasonName(entry.season);
   const items = includeUserSettingFilters(
-    generateSeriesStatistics(seasonName, entry.series, entry.episodes)
+    generateSeriesStatistics(seasonName, entry.series, entry.episodes),
+    (_, hasMinimumEpisodes) => hasMinimumEpisodes || isCurrentSeason
   );
-
+  console.log(entry, isCurrentSeason, currentSeason);
   return (
     <BaseTemplate
       {...props}

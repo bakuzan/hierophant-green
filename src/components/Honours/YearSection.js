@@ -95,8 +95,11 @@ function YearSection({ title, items }) {
           </div>
         )}
       </header>
+
       <p>
-        Average: {average} for {ratedCount} rated series
+        {isNaN(average)
+          ? `Average rating unavailable`
+          : `Average: ${average} for ${ratedCount} rated series`}
       </p>
 
       {!hasAllSeasons && (
