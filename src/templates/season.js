@@ -11,14 +11,20 @@ const currentSeason = getCurrentSeason();
 
 export default ({ data, ...props }) => {
   const entry = data.dataJson;
+  const seasonName = getSeasonName(entry.season);
   const isCurrentSeason = entry.season === currentSeason;
 
-  const seasonName = getSeasonName(entry.season);
   const items = includeUserSettingFilters(
     generateSeriesStatistics(seasonName, entry.series, entry.episodes),
-    (_, hasMinimumEpisodes) => hasMinimumEpisodes || isCurrentSeason
+    function settingsFilter(item, hasMinimumEpisodes) {
+      const isFinished = item.episodes.some(
+        (x) => x.episode === item.totalEpisodes
+      );
+
+      return hasMinimumEpisodes || (!isFinished && isCurrentSeason);
+    }
   );
-  console.log(entry, isCurrentSeason, currentSeason);
+
   return (
     <BaseTemplate
       {...props}

@@ -420,6 +420,54 @@
         "year": 2020,
         "season": "Spring"
       }
+    },
+    {
+      "id": 3733,
+      "title": "number24",
+      "image": "https://i.imgur.com/BcFWljZ.jpg",
+      "malId": 39583,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3918,
+      "title": "Houkago Teibou Nisshi",
+      "image": "https://i.imgur.com/DXCcjZa.jpg",
+      "malId": 39730,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3919,
+      "title": "Mewkledreamy",
+      "image": "https://i.imgur.com/OjNLDxW.jpg",
+      "malId": 40327,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3922,
+      "title": "Shadowverse (TV)",
+      "image": "https://i.imgur.com/AmWoDVt.jpg",
+      "malId": 40506,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Spring"
+      }
     }
   ],
   "episodes": [
@@ -667,6 +715,48 @@
       "episode": 1,
       "rating": 5,
       "animeId": 3915
+    },
+    {
+      "id": 35200,
+      "date": "2020-04-08T15:31:04.641Z",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 3733
+    },
+    {
+      "id": 35201,
+      "date": "2020-04-08T15:54:51.352Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3918
+    },
+    {
+      "id": 35202,
+      "date": "2020-04-08T16:15:26.686Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3919
+    },
+    {
+      "id": 35203,
+      "date": "2020-04-08T16:43:27.570Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 3891
+    },
+    {
+      "id": 35204,
+      "date": "2020-04-08T17:04:51.646Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 3922
+    },
+    {
+      "id": 35205,
+      "date": "2020-04-08T17:50:22.984Z",
+      "episode": 26,
+      "rating": 7,
+      "animeId": 3547
     }
   ]
 }
