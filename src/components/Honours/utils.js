@@ -3,9 +3,20 @@ import includeUserSettingFilters from '@/utils/includeUserSettingFilters';
 export function selectTop(items, opts) {
   const n = opts.top ?? 3;
   const hide = opts.hideCarryOvers ?? false;
+
   const filtered = includeUserSettingFilters(
     items,
-    (x, hasMinEpisodes) => !x.isCarryOver || (!hide && hasMinEpisodes)
+    (item, hasMinEpisodes, minEpisodes) => {
+      const noEnding = item.totalEpisodes === 0;
+      const wontFinish =
+        minEpisodes <=
+        item.totalEpisodes - Math.max(...item.episodes.map((x) => x.episode));
+
+      return (
+        !item.isCarryOver ||
+        (!hide && (hasMinEpisodes || noEnding || wontFinish))
+      );
+    }
   );
 
   return filtered.slice(0, n);

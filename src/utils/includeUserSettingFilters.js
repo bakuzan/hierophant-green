@@ -8,5 +8,5 @@ export default function includeUserSettingFilters(
   fn = (_, hasCondition) => hasCondition
 ) {
   const minEpisodes = storage.getKey('minEpisodes');
-  return arr.filter((x) => fn(x, hasMinEpisodes(x, minEpisodes)));
+  return arr.filter((x) => fn(x, hasMinEpisodes(x, minEpisodes), minEpisodes));
 }

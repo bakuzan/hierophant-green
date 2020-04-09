@@ -15,7 +15,8 @@ function SeasonSection({ slug, title, hideCarryOvers, items, ...props }) {
   const sectionId = `section_${slug.replace(/\//g, '')}`;
   const rows = selectTop(items, { top: 3, hideCarryOvers });
   const { average, ratedCount } = averageRatedTotal({ series: items });
-
+  console.log('Season : ', slug, title);
+  console.log('Items > ', items, rows);
   return (
     <section id={sectionId} style={{ margin: `${rhythm(1)} 0` }}>
       <header style={{ display: 'flex', alignItems: 'center' }}>
