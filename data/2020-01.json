@@ -258,7 +258,7 @@
       "title": "BanG Dream! 3rd Season",
       "image": "https://i.imgur.com/KztDkIa.jpg",
       "malId": 37870,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -318,7 +318,7 @@
       "title": "number24",
       "image": "https://i.imgur.com/BcFWljZ.jpg",
       "malId": 39583,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -426,7 +426,7 @@
       "title": "Infinite Dendrogram",
       "image": "https://i.imgur.com/yuo72n1.jpg",
       "malId": 38909,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -511,7 +511,7 @@
       "image": "https://i.imgur.com/a6NuQrx.jpg",
       "malId": 38481,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 25,
       "season": {
         "year": 2020,
         "season": "Winter"
