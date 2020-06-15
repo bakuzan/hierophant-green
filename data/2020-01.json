@@ -375,11 +375,11 @@
     },
     {
       "id": 2515,
-      "title": "Dragon Ball Heroes",
+      "title": "Super Dragon Ball Heroes",
       "image": "https://i.imgur.com/ajG41Y3.jpg",
       "malId": 37885,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 4,
+      "totalEpisodes": 20,
       "season": {
         "year": 2018,
         "season": "Summer"
@@ -403,7 +403,7 @@
       "image": "https://i.imgur.com/YRWQKuX.jpg",
       "malId": 35252,
       "rating": 4,
-      "totalEpisodes": 11,
+      "totalEpisodes": 12,
       "season": {
         "year": 2020,
         "season": "Winter"
@@ -654,8 +654,8 @@
       "title": "Breakers",
       "image": "https://i.imgur.com/g6uf43X.jpg",
       "malId": 40850,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 5,
+      "totalEpisodes": 16,
       "season": {
         "year": 2020,
         "season": "Winter"

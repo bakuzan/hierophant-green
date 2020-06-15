@@ -615,11 +615,11 @@
     },
     {
       "id": 2515,
-      "title": "Dragon Ball Heroes",
+      "title": "Super Dragon Ball Heroes",
       "image": "https://i.imgur.com/ajG41Y3.jpg",
       "malId": 37885,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 4,
+      "totalEpisodes": 20,
       "season": {
         "year": 2018,
         "season": "Summer"
