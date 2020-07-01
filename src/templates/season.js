@@ -14,6 +14,10 @@ export default ({ data, ...props }) => {
   const seasonName = getSeasonName(entry.season);
   const isCurrentSeason = entry.season === currentSeason;
 
+  const messages = data.allInformationJson.nodes.filter((x) =>
+    x.seasons.includes(entry.season)
+  );
+
   const items = includeUserSettingFilters(
     generateSeriesStatistics(seasonName, entry.series, entry.episodes),
     function settingsFilter(item, hasMinimumEpisodes) {
@@ -28,6 +32,7 @@ export default ({ data, ...props }) => {
   return (
     <BaseTemplate
       {...props}
+      messages={messages}
       title={seasonName}
       series={items}
       season={entry.season}
@@ -38,6 +43,14 @@ export default ({ data, ...props }) => {
 
 export const query = graphql`
   query($slug: String!) {
+    allInformationJson {
+      nodes {
+        key
+        type
+        message
+        seasons
+      }
+    }
     dataJson(fields: { slug: { eq: $slug } }) {
       season
       series {

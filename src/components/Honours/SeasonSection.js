@@ -6,17 +6,24 @@ import { capitalise } from 'ayaka/capitalise';
 
 import HGTable from '@/components/Table/HGTable';
 import PageAnchor from '@/components/PageAnchor';
+import Messages from '@/components/Messages';
 
 import averageRatedTotal from '@/utils/averageRatedTotal';
 import { rhythm } from '@/utils/typography';
 import { selectTop } from './utils';
 
-function SeasonSection({ slug, title, hideCarryOvers, items, ...props }) {
+function SeasonSection({
+  slug,
+  title,
+  hideCarryOvers,
+  items,
+  messages,
+  ...props
+}) {
   const sectionId = `section_${slug.replace(/\//g, '')}`;
   const rows = selectTop(items, { top: 3, hideCarryOvers });
   const { average, ratedCount } = averageRatedTotal({ series: items });
-  console.log('Season : ', slug, title);
-  console.log('Items > ', items, rows);
+
   return (
     <section id={sectionId} style={{ margin: `${rhythm(1)} 0` }}>
       <header style={{ display: 'flex', alignItems: 'center' }}>
@@ -38,6 +45,9 @@ function SeasonSection({ slug, title, hideCarryOvers, items, ...props }) {
           ? `Average rating unavailable`
           : `Average: ${average} for ${ratedCount} rated series`}
       </p>
+
+      <Messages items={messages} />
+
       <HGTable hideSeason {...props} items={rows} />
     </section>
   );
@@ -47,7 +57,15 @@ SeasonSection.propTypes = {
   slug: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   hideCarryOvers: PropTypes.bool.isRequired,
-  items: PropTypes.arrayOf(PropTypes.object).isRequired
+  items: PropTypes.arrayOf(PropTypes.object).isRequired,
+  messages: PropTypes.arrayOf(
+    PropTypes.shape({
+      key: PropTypes.string.isRequired,
+      type: PropTypes.string.isRequired,
+      message: PropTypes.string.isRequired,
+      seasons: PropTypes.arrayOf(PropTypes.string).isRequired
+    })
+  )
 };
 
 export default SeasonSection;

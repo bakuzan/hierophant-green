@@ -10,6 +10,7 @@ import SEO from '@/components/AppSEO';
 import Navigation from './Navigation';
 import YearOverview from './YearOverview';
 import HGTable from './Table/HGTable';
+import Messages from './Messages';
 
 import { useMountedOnClient } from '@/hooks/useMountedOnClient';
 import averageRatedTotal from '@/utils/averageRatedTotal';
@@ -43,7 +44,8 @@ function BaseTemplate({
   getSeason,
   customDescriptiveText,
   showFilters,
-  pageContext
+  pageContext,
+  messages
 }) {
   const [week, setWeek] = useState(0);
   const [hideCarryOvers, setHideCarryOvers] = useState(false);
@@ -88,6 +90,8 @@ function BaseTemplate({
           {'\n\r'}Entries are sorted by average desc, rating desc, mode desc,
           and title asc.
         </p>
+
+        <Messages isYear={!!overview} items={messages} season={season} />
 
         <div
           {...getVisibleProps(showFilters && mounted, {
@@ -206,7 +210,15 @@ BaseTemplate.propTypes = {
       weeksDropdown: PropTypes.bool
     })
   ]),
-  season: PropTypes.string
+  season: PropTypes.string,
+  messages: PropTypes.arrayOf(
+    PropTypes.shape({
+      key: PropTypes.string.isRequired,
+      type: PropTypes.string.isRequired,
+      message: PropTypes.string.isRequired,
+      seasons: PropTypes.arrayOf(PropTypes.string).isRequired
+    })
+  )
 };
 
 export default BaseTemplate;

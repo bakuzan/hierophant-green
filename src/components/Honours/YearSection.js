@@ -19,7 +19,7 @@ import getSeasonName from '@/utils/getSeasonName';
 import { rhythm } from '@/utils/typography';
 import { selectTop, generateSeriesForEpisode } from './utils';
 
-function YearSection({ title, items }) {
+function YearSection({ title, items, messages }) {
   const mounted = useMountedOnClient();
   const [hideCarryOvers, setHideCarryOvers] = useState(false);
 
@@ -124,6 +124,10 @@ function YearSection({ title, items }) {
 
       {seasons.map((entry, i) => {
         const name = getSeasonName(entry.season, false);
+        const seasonalMessages = messages.filter((x) =>
+          x.seasons.includes(entry.season)
+        );
+
         return (
           <SeasonSection
             key={entry.season}
@@ -132,6 +136,7 @@ function YearSection({ title, items }) {
             items={entry.items}
             hideCarryOvers={hideCarryOvers}
             hideRatingColumn={i + 1 >= seasonCount}
+            messages={seasonalMessages}
           />
         );
       })}
@@ -145,7 +150,15 @@ function YearSection({ title, items }) {
 
 YearSection.propTypes = {
   title: PropTypes.string.isRequired,
-  items: PropTypes.arrayOf(PropTypes.object).isRequired
+  items: PropTypes.arrayOf(PropTypes.object).isRequired,
+  messages: PropTypes.arrayOf(
+    PropTypes.shape({
+      key: PropTypes.string.isRequired,
+      type: PropTypes.string.isRequired,
+      message: PropTypes.string.isRequired,
+      seasons: PropTypes.arrayOf(PropTypes.string).isRequired
+    })
+  )
 };
 
 export default YearSection;

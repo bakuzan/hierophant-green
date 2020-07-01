@@ -11,6 +11,10 @@ export default ({ data, ...props }) => {
   const year = props.path.replace(/\//g, '');
   const seasons = data.allDataJson.nodes;
 
+  const messages = data.allInformationJson.nodes.filter((x) =>
+    x.seasons.some((s) => s.includes(year))
+  );
+
   const overview = seasons.map((s) =>
     averageRatedTotal({
       season: s.season,
@@ -30,6 +34,7 @@ export default ({ data, ...props }) => {
   return (
     <BaseTemplate
       {...props}
+      messages={messages}
       title={`Overview of ${year}`}
       series={items}
       overview={overview}
@@ -41,6 +46,14 @@ export default ({ data, ...props }) => {
 
 export const query = graphql`
   query($slug: String!) {
+    allInformationJson {
+      nodes {
+        key
+        type
+        message
+        seasons
+      }
+    }
     allDataJson(filter: { fields: { slug: { regex: $slug } } }) {
       nodes {
         season

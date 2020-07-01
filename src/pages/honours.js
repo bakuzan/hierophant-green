@@ -8,6 +8,7 @@ import SEO from '@/components/AppSEO';
 import YearSection from '@/components/Honours/YearSection';
 
 export default ({ data }) => {
+  const messages = data.allInformationJson.nodes ?? [];
   const seasons = data.allDataJson.nodes ?? [];
   const groups = groupBy(seasons, (x) => x.season.split('-')[0]);
   const years = Array.from(groups.entries());
@@ -26,7 +27,12 @@ export default ({ data }) => {
           desc, rating desc, mode desc, and title asc.
         </p>
         {years.map(([year, items]) => (
-          <YearSection key={year} title={year} items={items} />
+          <YearSection
+            key={year}
+            title={year}
+            items={items}
+            messages={messages}
+          />
         ))}
       </div>
     </Layout>
@@ -35,6 +41,14 @@ export default ({ data }) => {
 
 export const query = graphql`
   query {
+    allInformationJson {
+      nodes {
+        key
+        type
+        message
+        seasons
+      }
+    }
     allDataJson(sort: { order: DESC, fields: season }) {
       nodes {
         season

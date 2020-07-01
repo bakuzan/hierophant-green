@@ -40,6 +40,10 @@ async function readSeasonsData(all = false) {
   const result = [];
 
   for (let filename of filenames) {
+    if (!filename.includes('-')) {
+      continue;
+    }
+
     const file = await readFileAsync(pathFix(dirname, filename), 'utf-8');
     const data = JSON.parse(file);
     const hasUnratedSeries = data.series.some((x) => x.rating === 0);
