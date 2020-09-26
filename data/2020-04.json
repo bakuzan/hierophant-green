@@ -30,7 +30,7 @@
       "title": "Super Shiro",
       "image": "https://i.imgur.com/yNoXb5d.jpg",
       "malId": 39183,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 48,
       "season": {
         "year": 2019,
@@ -126,7 +126,7 @@
       "title": "Toaru Kagaku no Railgun T",
       "image": "https://i.imgur.com/a6NuQrx.jpg",
       "malId": 38481,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 25,
       "season": {
         "year": 2020,
@@ -174,7 +174,7 @@
       "title": "Bungou to Alchemist: Shinpan no Haguruma",
       "image": "https://i.imgur.com/MwE0kM9.jpg",
       "malId": 40934,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -414,8 +414,8 @@
       "title": "Fruits Basket 2nd Season",
       "image": "https://i.imgur.com/09iL1hK.jpg",
       "malId": 40417,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 4,
+      "totalEpisodes": 25,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -462,8 +462,8 @@
       "title": "Houkago Teibou Nisshi",
       "image": "https://i.imgur.com/DXCcjZa.jpg",
       "malId": 39730,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 5,
+      "totalEpisodes": 12,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -510,8 +510,8 @@
       "title": "Gundam Build Divers Re:Rise 2nd Season",
       "image": "https://i.imgur.com/23NtCz1.jpg",
       "malId": 40942,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 4,
+      "totalEpisodes": 13,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -546,8 +546,8 @@
       "title": "Appare-Ranman!",
       "image": "https://i.imgur.com/KUmeHpq.jpg",
       "malId": 40532,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 6,
+      "totalEpisodes": 13,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -558,7 +558,7 @@
       "title": "Fugou Keiji: Balance:Unlimited",
       "image": "https://i.imgur.com/mWtolqs.jpg",
       "malId": 41120,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 11,
       "season": {
         "year": 2020,
@@ -571,7 +571,7 @@
       "image": "https://i.imgur.com/4bAfp9Y.jpg",
       "malId": 40902,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 13,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -642,7 +642,7 @@
       "title": "Hakumei no Tsubasa",
       "image": "https://i.imgur.com/ktuGBP3.jpg",
       "malId": 40861,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 7,
       "season": {
         "year": 2020,
