@@ -3,6 +3,6 @@
     "key": "COVID",
     "type": "warning",
     "message": "This season was affected by the COVID-19 pandemic.\r\nAs a result, the information for this season may seem unusual when compared to other seasons.",
-    "seasons": ["2020-04"]
+    "seasons": ["2020-04", "2020-07"]
   }
 ]

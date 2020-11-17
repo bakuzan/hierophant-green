@@ -17,15 +17,11 @@ export const Icons = Object.freeze({
 });
 
 export const words = Object.freeze([
-  'expert',
-  'godly',
   'refined',
   'eccentric',
   'cultured',
 
   'trash',
   'crude',
-  'crass',
-  'perverted',
-  'pathetic'
+  'perverted'
 ]);

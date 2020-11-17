@@ -64,7 +64,7 @@ export default ({ data }) => {
             const year = node.season.slice(0, 4);
             const hasFullYear =
               node.season.includes('-10') && year !== currentYear;
-
+            console.log('season?', node);
             return [
               ...p,
               hasFullYear && (

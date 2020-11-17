@@ -18,7 +18,7 @@
       "title": "Ahiru no Sora",
       "image": "https://i.imgur.com/c9oC5a2.jpg",
       "malId": 37403,
-      "rating": 0,
+      "rating": 7,
       "totalEpisodes": 50,
       "season": {
         "year": 2019,
@@ -66,7 +66,7 @@
       "title": "Dokyuu Hentai HxEros",
       "image": "https://i.imgur.com/CdY2jNN.jpg",
       "malId": 40623,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -150,7 +150,7 @@
       "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
       "image": "https://i.imgur.com/X83kvVe.jpg",
       "malId": 40496,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -174,7 +174,7 @@
       "title": "Olympia Kyklos",
       "image": "https://i.imgur.com/eiVudGi.jpg",
       "malId": 41266,
-      "rating": 0,
+      "rating": 1,
       "totalEpisodes": 24,
       "season": {
         "year": 2020,
@@ -198,7 +198,7 @@
       "title": "The God of High School",
       "image": "https://i.imgur.com/8Cmy7W7.jpg",
       "malId": 41353,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -210,7 +210,7 @@
       "title": "Chou Futsuu Toshi Kashiwa Densetsu R",
       "image": "https://i.imgur.com/VmJ1fzo.jpg",
       "malId": 40473,
-      "rating": 0,
+      "rating": 1,
       "totalEpisodes": 10,
       "season": {
         "year": 2020,
@@ -282,7 +282,7 @@
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
       "image": "https://i.imgur.com/jRrpWdP.jpg",
       "malId": 39587,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -331,7 +331,7 @@
       "image": "https://i.imgur.com/JVX20GK.jpg",
       "malId": 40504,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 25,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -342,7 +342,7 @@
       "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
       "image": "https://i.imgur.com/jPukl77.jpg",
       "malId": 39547,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -354,8 +354,8 @@
       "title": "Peter Grill to Kenja no Jikan",
       "image": "https://i.imgur.com/uTOl2Sg.jpg",
       "malId": 40436,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 5,
+      "totalEpisodes": 12,
       "season": {
         "year": 2020,
         "season": "Summer"
@@ -366,7 +366,7 @@
       "title": "Uzaki-chan wa Asobitai!",
       "image": "https://i.imgur.com/9BUlOrp.jpg",
       "malId": 41226,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -378,7 +378,7 @@
       "title": "Kanojo, Okarishimasu",
       "image": "https://i.imgur.com/ftQRTEv.jpg",
       "malId": 40839,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -391,7 +391,7 @@
       "image": "https://i.imgur.com/dXOqwGU.jpg",
       "malId": 40045,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 25,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -402,8 +402,8 @@
       "title": "Ninja Collection",
       "image": "https://i.imgur.com/lxsPSkM.jpg",
       "malId": 42260,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 3,
+      "totalEpisodes": 13,
       "season": {
         "year": 2020,
         "season": "Summer"
@@ -414,7 +414,7 @@
       "title": "Monster Musume no Oishasan",
       "image": "https://i.imgur.com/5sdkoL9.jpg",
       "malId": 40708,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -426,7 +426,7 @@
       "title": "Gibiate",
       "image": "https://i.imgur.com/gvmFHK9.jpg",
       "malId": 40074,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -438,7 +438,7 @@
       "title": "Shokugeki no Souma: Gou no Sara",
       "image": "https://i.imgur.com/4bAfp9Y.jpg",
       "malId": 40902,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -3633,6 +3633,160 @@
       "episode": 13,
       "rating": 6,
       "animeId": 3932
+    },
+    {
+      "id": 38443,
+      "date": "2020-09-26T13:53:36.066Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 3937
+    },
+    {
+      "id": 38444,
+      "date": "2020-09-26T14:09:37.194Z",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 4041
+    },
+    {
+      "id": 38445,
+      "date": "2020-09-26T14:23:38.088Z",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 3896
+    },
+    {
+      "id": 38446,
+      "date": "2020-09-26T14:42:45.530Z",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 4055
+    },
+    {
+      "id": 38447,
+      "date": "2020-09-26T15:05:45.366Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 4042
+    },
+    {
+      "id": 38448,
+      "date": "2020-09-26T15:28:18.686Z",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 4054
+    },
+    {
+      "id": 38461,
+      "date": "2020-09-27T13:51:06.402Z",
+      "episode": 16,
+      "rating": 3,
+      "animeId": 4004
+    },
+    {
+      "id": 38462,
+      "date": "2020-09-27T14:01:58.335Z",
+      "episode": 167,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 38464,
+      "date": "2020-09-27T14:29:14.871Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4058
+    },
+    {
+      "id": 38465,
+      "date": "2020-09-27T14:47:28.347Z",
+      "episode": 26,
+      "rating": 5,
+      "animeId": 3784
+    },
+    {
+      "id": 38466,
+      "date": "2020-09-27T15:02:32.175Z",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 3886
+    },
+    {
+      "id": 38467,
+      "date": "2020-09-27T15:22:11.309Z",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 4045
+    },
+    {
+      "id": 38468,
+      "date": "2020-09-27T15:29:55.165Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4053
+    },
+    {
+      "id": 38476,
+      "date": "2020-09-28T15:03:24.607Z",
+      "episode": 19,
+      "rating": 2,
+      "animeId": 3949
+    },
+    {
+      "id": 38477,
+      "date": "2020-09-28T15:28:24.339Z",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3935
+    },
+    {
+      "id": 38478,
+      "date": "2020-09-28T15:45:52.946Z",
+      "episode": 39,
+      "rating": 5,
+      "animeId": 3664
+    },
+    {
+      "id": 38479,
+      "date": "2020-09-28T16:55:20.859Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4060
+    },
+    {
+      "id": 38488,
+      "date": "2020-09-29T15:03:59.291Z",
+      "episode": 10,
+      "rating": 1,
+      "animeId": 4047
+    },
+    {
+      "id": 38489,
+      "date": "2020-09-29T15:37:52.088Z",
+      "episode": 145,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 38490,
+      "date": "2020-09-29T15:53:11.668Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 4037
+    },
+    {
+      "id": 38496,
+      "date": "2020-09-30T15:35:07.118Z",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 4061
+    },
+    {
+      "id": 38500,
+      "date": "2020-09-30T17:25:22.019Z",
+      "episode": 50,
+      "rating": 6,
+      "animeId": 3547
     }
   ]
 }
