@@ -2,7 +2,7 @@ export const seasonNames = Object.freeze({
   '01': 'winter',
   '04': 'spring',
   '07': 'summer',
-  '10': 'fall'
+  '10': 'autumn'
 });
 
 export const Icons = Object.freeze({

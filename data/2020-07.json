@@ -22,7 +22,7 @@
       "totalEpisodes": 50,
       "season": {
         "year": 2019,
-        "season": "Fall"
+        "season": "Autumn"
       }
     },
     {
@@ -78,7 +78,7 @@
       "title": "Enen no Shouboutai: Ni no Shou",
       "image": "https://i.imgur.com/xKOZhxN.jpg",
       "malId": 40956,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 24,
       "season": {
         "year": 2020,
@@ -94,7 +94,7 @@
       "totalEpisodes": 48,
       "season": {
         "year": 2019,
-        "season": "Fall"
+        "season": "Autumn"
       }
     },
     {
@@ -102,8 +102,8 @@
       "title": "Cardfight!! Vanguard Gaiden: If",
       "image": "https://i.imgur.com/13R8iqA.jpg",
       "malId": 41283,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 4,
+      "totalEpisodes": 25,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -190,7 +190,7 @@
       "totalEpisodes": 0,
       "season": {
         "year": 2019,
-        "season": "Fall"
+        "season": "Autumn"
       }
     },
     {
@@ -250,7 +250,7 @@
       "totalEpisodes": 0,
       "season": {
         "year": 2017,
-        "season": "Fall"
+        "season": "Autumn"
       }
     },
     {
@@ -330,7 +330,7 @@
       "title": "Major 2nd (TV) 2nd Season",
       "image": "https://i.imgur.com/JVX20GK.jpg",
       "malId": 40504,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 25,
       "season": {
         "year": 2020,
@@ -390,7 +390,7 @@
       "title": "Motto! Majime ni Fumajime Kaiketsu Zorori",
       "image": "https://i.imgur.com/dXOqwGU.jpg",
       "malId": 40045,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 25,
       "season": {
         "year": 2020,
