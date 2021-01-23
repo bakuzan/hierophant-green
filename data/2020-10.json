@@ -43,7 +43,7 @@
       "image": "https://i.imgur.com/i8JoO1k.jpg",
       "malId": 41006,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 24,
       "season": {
         "year": 2020,
         "season": "Autumn"
@@ -78,7 +78,7 @@
       "title": "Rail Romanesque",
       "image": "https://i.imgur.com/pYph4TJ.jpg",
       "malId": 40958,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -258,7 +258,7 @@
       "title": "Senyoku no Sigrdrifa",
       "image": "https://i.imgur.com/OhjfLma.jpg",
       "malId": 41372,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -270,7 +270,7 @@
       "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
       "image": "https://i.imgur.com/8VEsLi2.jpg",
       "malId": 40879,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -306,7 +306,7 @@
       "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
       "image": "https://i.imgur.com/XrJXvQ6.jpg",
       "malId": 40497,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -354,7 +354,7 @@
       "title": "Munou na Nana",
       "image": "https://i.imgur.com/29hY76o.jpg",
       "malId": 41619,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -366,7 +366,7 @@
       "title": "One Room Third Season",
       "image": "https://i.imgur.com/7JHFqpR.jpg",
       "malId": 41364,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -474,7 +474,7 @@
       "title": "Noblesse",
       "image": "https://i.imgur.com/ppcwaBU.jpg",
       "malId": 41345,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 13,
       "season": {
         "year": 2020,
@@ -546,7 +546,7 @@
       "title": "Eternity: Shinya no Nurekoi Channel ♡",
       "image": "https://i.imgur.com/MzcmZn1.jpg",
       "malId": 42414,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -558,7 +558,7 @@
       "title": "Gochuumon wa Usagi Desu ka? Bloom",
       "image": "https://i.imgur.com/ppt3v9P.jpg",
       "malId": 38337,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -606,7 +606,7 @@
       "title": "Kamisama ni Natta Hi",
       "image": "https://i.imgur.com/TS6FEpw.jpg",
       "malId": 41930,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -630,7 +630,7 @@
       "title": "Sore dake ga Neck",
       "image": "https://i.imgur.com/mXSjO3e.jpg",
       "malId": 42883,
-      "rating": 0,
+      "rating": 2,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -642,7 +642,7 @@
       "title": "Maesetsu!",
       "image": "https://i.imgur.com/TkVET1F.jpg",
       "malId": 40085,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -666,7 +666,7 @@
       "title": "Ochikobore Fruit Tart",
       "image": "https://i.imgur.com/2G0zMWa.jpg",
       "malId": 39609,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -678,7 +678,7 @@
       "title": "Magatsu Wahrheit: Zuerst",
       "image": "https://i.imgur.com/lLHwNli.jpg",
       "malId": 37599,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -690,7 +690,7 @@
       "title": "Dogeza de Tanondemita",
       "image": "https://i.imgur.com/hfgmhaH.jpg",
       "malId": 42571,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -714,7 +714,7 @@
       "title": "Kusoge tte Iuna! Animation",
       "image": "https://i.imgur.com/WmVSD5S.jpg",
       "malId": 42946,
-      "rating": 0,
+      "rating": 2,
       "totalEpisodes": 12,
       "season": {
         "year": 2020,
@@ -5495,6 +5495,160 @@
       "episode": 13,
       "rating": 7,
       "animeId": 4124
+    },
+    {
+      "id": 40100,
+      "date": "2020-12-27T11:16:30.960Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 4127
+    },
+    {
+      "id": 40101,
+      "date": "2020-12-27T11:31:35.339Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4153
+    },
+    {
+      "id": 40102,
+      "date": "2020-12-27T14:38:21.749Z",
+      "episode": 37,
+      "rating": 2,
+      "animeId": 3764
+    },
+    {
+      "id": 40103,
+      "date": "2020-12-27T14:54:56.598Z",
+      "episode": 180,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 40105,
+      "date": "2020-12-27T15:24:50.400Z",
+      "episode": 38,
+      "rating": 5,
+      "animeId": 3784
+    },
+    {
+      "id": 40106,
+      "date": "2020-12-27T15:42:00.610Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 4129
+    },
+    {
+      "id": 40107,
+      "date": "2020-12-27T15:58:17.786Z",
+      "episode": 30,
+      "rating": 5,
+      "animeId": 3886
+    },
+    {
+      "id": 40108,
+      "date": "2020-12-27T16:10:12.354Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4128
+    },
+    {
+      "id": 40109,
+      "date": "2020-12-27T16:39:48.558Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 4131
+    },
+    {
+      "id": 40121,
+      "date": "2020-12-28T11:10:58.356Z",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 4209
+    },
+    {
+      "id": 40123,
+      "date": "2020-12-28T16:20:08.071Z",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 4160
+    },
+    {
+      "id": 40124,
+      "date": "2020-12-28T16:35:03.341Z",
+      "episode": 34,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
+      "id": 40125,
+      "date": "2020-12-28T16:47:47.911Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4156
+    },
+    {
+      "id": 40126,
+      "date": "2020-12-28T17:07:13.544Z",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 4135
+    },
+    {
+      "id": 40143,
+      "date": "2020-12-29T15:02:15.691Z",
+      "episode": 10,
+      "rating": 2,
+      "animeId": 4182
+    },
+    {
+      "id": 40144,
+      "date": "2020-12-29T15:04:17.896Z",
+      "episode": 11,
+      "rating": 2,
+      "animeId": 4158
+    },
+    {
+      "id": 40146,
+      "date": "2020-12-29T16:26:06.795Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4163
+    },
+    {
+      "id": 40147,
+      "date": "2020-12-29T16:43:41.709Z",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 4208
+    },
+    {
+      "id": 40163,
+      "date": "2020-12-30T16:14:28.638Z",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 4164
+    },
+    {
+      "id": 40165,
+      "date": "2020-12-30T16:35:40.978Z",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 4165
+    },
+    {
+      "id": 40182,
+      "date": "2020-12-31T16:30:55.318Z",
+      "episode": 30,
+      "rating": 3,
+      "animeId": 3936
+    },
+    {
+      "id": 40183,
+      "date": "2020-12-31T16:31:57.858Z",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 4144
     }
   ]
 }
