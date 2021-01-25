@@ -52,6 +52,7 @@ export const query = graphql`
         key
         type
         message
+        yearMessage
         seasons
       }
     }
