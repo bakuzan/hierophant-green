@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 
 import { Icons } from '@/consts';
+import getSeasonName from '@/utils/getSeasonName';
 
 const TypeStyles = {
   error: {
@@ -23,6 +24,10 @@ function Messages(props) {
     const icon = Icons[x.type];
     const label = `${x.type} message`;
     const typeStyle = TypeStyles[x.type];
+    const seasons = x.seasons
+      .filter((s) => s.includes(props.year))
+      .map((s) => getSeasonName(s))
+      .join(', ');
 
     return (
       <div
@@ -48,8 +53,8 @@ function Messages(props) {
           </div>
         )}
         <div style={{ whiteSpace: 'pre-line' }}>
-          {props.isYear ? `${props.season}: ` : ''}
-          {x.message}
+          {props.isYear ? `${seasons}: ` : ''}
+          {props.isYear ? x.yearMessage ?? x.message : x.message}
         </div>
       </div>
     );
@@ -67,10 +72,12 @@ Messages.propTypes = {
       key: PropTypes.string.isRequired,
       type: PropTypes.string.isRequired,
       message: PropTypes.string.isRequired,
+      yearMessage: PropTypes.string,
       seasons: PropTypes.arrayOf(PropTypes.string).isRequired
     })
   ),
-  season: PropTypes.string
+  season: PropTypes.string,
+  year: PropTypes.string
 };
 
 export default Messages;

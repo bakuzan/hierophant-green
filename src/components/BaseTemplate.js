@@ -37,6 +37,7 @@ const weekHeaders = [
 
 function BaseTemplate({
   season,
+  year,
   title,
   series,
   overview,
@@ -91,7 +92,12 @@ function BaseTemplate({
           and title asc.
         </p>
 
-        <Messages isYear={!!overview} items={messages} season={season} />
+        <Messages
+          isYear={!!overview}
+          items={messages}
+          season={season}
+          year={year}
+        />
 
         <div
           {...getVisibleProps(showFilters && mounted, {
@@ -211,6 +217,7 @@ BaseTemplate.propTypes = {
     })
   ]),
   season: PropTypes.string,
+  year: PropTypes.string,
   messages: PropTypes.arrayOf(
     PropTypes.shape({
       key: PropTypes.string.isRequired,

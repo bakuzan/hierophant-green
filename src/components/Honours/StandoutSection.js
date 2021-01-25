@@ -47,6 +47,10 @@ function StandoutSection({ sectionId, items }) {
               .map((x, i) => {
                 const number = i + 1;
                 const season = `${x.season.season} ${x.season.year}`;
+                const hasRating = x.rating > 0;
+                const diffMessage = hasRating
+                  ? 'Rating difference is the episode rating minus the series rating.'
+                  : 'Rating difference cannot be calculated as the series does not currently have a rating.';
 
                 return (
                   <tr key={x.episodeId}>
@@ -93,8 +97,10 @@ function StandoutSection({ sectionId, items }) {
                     <td
                       column-title="Rating Difference"
                       className="cell cell--rhs"
+                      aria-label={diffMessage}
+                      title={diffMessage}
                     >
-                      {x.episode.rating - x.rating}
+                      {hasRating ? x.episode.rating - x.rating : 'N/A'}
                     </td>
                   </tr>
                 );

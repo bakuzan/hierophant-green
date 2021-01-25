@@ -37,6 +37,7 @@ export default ({ data, ...props }) => {
       messages={messages}
       title={`Overview of ${year}`}
       series={items}
+      year={year}
       overview={overview}
       getSeason={(_, season) => `${season.season} ${season.year}`}
       showFilters={{ hideCarryOvers: true }}
