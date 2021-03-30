@@ -19,7 +19,7 @@
       "image": "https://i.imgur.com/OjNLDxW.jpg",
       "malId": 40327,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 48,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -42,7 +42,7 @@
       "title": "Higurashi no Naku Koro ni (2020)",
       "image": "https://i.imgur.com/i8JoO1k.jpg",
       "malId": 41006,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 24,
       "season": {
         "year": 2020,
@@ -66,7 +66,7 @@
       "title": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii",
       "image": "https://i.imgur.com/F1AOAfy.jpg",
       "malId": 40833,
-      "rating": 0,
+      "rating": 2,
       "totalEpisodes": 24,
       "season": {
         "year": 2020,
@@ -162,7 +162,7 @@
       "title": "King's Raid: Ishi wo Tsugumono-tachi",
       "image": "https://i.imgur.com/YwjdWWE.jpg",
       "malId": 41834,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 26,
       "season": {
         "year": 2020,
@@ -174,7 +174,7 @@
       "title": "Jujutsu Kaisen (TV)",
       "image": "https://i.imgur.com/cx0icDU.jpg",
       "malId": 40748,
-      "rating": 0,
+      "rating": 7,
       "totalEpisodes": 24,
       "season": {
         "year": 2020,
@@ -198,8 +198,8 @@
       "title": "Healin' Good♡Precure",
       "image": "https://i.imgur.com/OFOxRvD.jpg",
       "malId": 40610,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 5,
+      "totalEpisodes": 45,
       "season": {
         "year": 2020,
         "season": "Winter"
@@ -210,8 +210,8 @@
       "title": "Hanyou no Yashahime: Sengoku Otogizoushi",
       "image": "https://i.imgur.com/8gKHTs4.jpg",
       "malId": 41911,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 5,
+      "totalEpisodes": 24,
       "season": {
         "year": 2020,
         "season": "Autumn"
@@ -247,7 +247,7 @@
       "image": "https://i.imgur.com/vSmqGnA.jpg",
       "malId": 41074,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 66,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -311,6 +311,18 @@
       "season": {
         "year": 2020,
         "season": "Autumn"
+      }
+    },
+    {
+      "id": 2515,
+      "title": "Super Dragon Ball Heroes",
+      "image": "https://i.imgur.com/ajG41Y3.jpg",
+      "malId": 37885,
+      "rating": 4,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
       }
     },
     {
@@ -378,8 +390,8 @@
       "title": "Shadowverse (TV)",
       "image": "https://i.imgur.com/AmWoDVt.jpg",
       "malId": 40506,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 3,
+      "totalEpisodes": 48,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -391,7 +403,7 @@
       "image": "https://i.imgur.com/a8CF1mA.jpg",
       "malId": 34572,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 170,
       "season": {
         "year": 2017,
         "season": "Autumn"
@@ -750,8 +762,8 @@
       "title": "Toutotsu ni Egypt Kami",
       "image": "https://i.imgur.com/9JH3l5O.jpg",
       "malId": 41688,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 2,
+      "totalEpisodes": 10,
       "season": {
         "year": 2021,
         "season": "Winter"
@@ -762,7 +774,7 @@
       "title": "Shingeki no Kyojin: The Final Season",
       "image": "https://i.imgur.com/sFts9yW.jpg",
       "malId": 40028,
-      "rating": 0,
+      "rating": 7,
       "totalEpisodes": 16,
       "season": {
         "year": 2021,
@@ -952,6 +964,13 @@
       "episode": 1,
       "rating": 5,
       "animeId": 4131
+    },
+    {
+      "id": 38564,
+      "date": "2020-10-05T12:42:47.777Z",
+      "episode": 27,
+      "rating": 2,
+      "animeId": 2515
     },
     {
       "id": 38565,
@@ -2718,6 +2737,13 @@
       "animeId": 4147
     },
     {
+      "id": 39182,
+      "date": "2020-11-06T16:03:21.204Z",
+      "episode": 28,
+      "rating": 3,
+      "animeId": 2515
+    },
+    {
       "id": 39183,
       "date": "2020-11-06T16:33:29.441Z",
       "episode": 5,
@@ -3339,6 +3365,13 @@
       "episode": 6,
       "rating": 3,
       "animeId": 4158
+    },
+    {
+      "id": 39377,
+      "date": "2020-11-17T16:10:20.069Z",
+      "episode": 29,
+      "rating": 2,
+      "animeId": 2515
     },
     {
       "id": 39378,
@@ -5285,6 +5318,13 @@
       "episode": 12,
       "rating": 4,
       "animeId": 4136
+    },
+    {
+      "id": 40019,
+      "date": "2020-12-22T15:53:45.522Z",
+      "episode": 30,
+      "rating": 2,
+      "animeId": 2515
     },
     {
       "id": 40020,

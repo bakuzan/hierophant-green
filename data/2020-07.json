@@ -26,6 +26,18 @@
       }
     },
     {
+      "id": 2515,
+      "title": "Super Dragon Ball Heroes",
+      "image": "https://i.imgur.com/ajG41Y3.jpg",
+      "malId": 37885,
+      "rating": 4,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2018,
+        "season": "Summer"
+      }
+    },
+    {
       "id": 3966,
       "title": "Komatta Jiisan",
       "image": "https://i.imgur.com/yA7RNuF.jpg",
@@ -115,7 +127,7 @@
       "image": "https://i.imgur.com/OjNLDxW.jpg",
       "malId": 40327,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 48,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -138,8 +150,8 @@
       "title": "Healin' Good♡Precure",
       "image": "https://i.imgur.com/OFOxRvD.jpg",
       "malId": 40610,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 5,
+      "totalEpisodes": 45,
       "season": {
         "year": 2020,
         "season": "Winter"
@@ -163,7 +175,7 @@
       "image": "https://i.imgur.com/vSmqGnA.jpg",
       "malId": 41074,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 66,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -222,8 +234,8 @@
       "title": "Shadowverse (TV)",
       "image": "https://i.imgur.com/AmWoDVt.jpg",
       "malId": 40506,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 3,
+      "totalEpisodes": 48,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -247,7 +259,7 @@
       "image": "https://i.imgur.com/a8CF1mA.jpg",
       "malId": 34572,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 170,
       "season": {
         "year": 2017,
         "season": "Autumn"
@@ -532,6 +544,13 @@
       "episode": 37,
       "rating": 6,
       "animeId": 3547
+    },
+    {
+      "id": 36916,
+      "date": "2020-07-02T15:07:41.166Z",
+      "episode": 24,
+      "rating": 3,
+      "animeId": 2515
     },
     {
       "id": 36930,
@@ -1428,6 +1447,13 @@
       "episode": 41,
       "rating": 6,
       "animeId": 3547
+    },
+    {
+      "id": 37510,
+      "date": "2020-07-30T15:19:19.788Z",
+      "episode": 25,
+      "rating": 3,
+      "animeId": 2515
     },
     {
       "id": 37513,
@@ -2562,6 +2588,13 @@
       "episode": 8,
       "rating": 5,
       "animeId": 4050
+    },
+    {
+      "id": 37955,
+      "date": "2020-08-28T15:23:29.195Z",
+      "episode": 26,
+      "rating": 3,
+      "animeId": 2515
     },
     {
       "id": 37956,
