@@ -118,7 +118,10 @@ function YearSection({ title, items, messages }) {
             Following that each individual season for {title} has a top 3
             ranking.
           </p>
-          <HGTable items={selectTop(allSeasons, { top: 5, hideCarryOvers })} />
+          <HGTable
+            items={selectTop(allSeasons, { top: 5, hideCarryOvers })}
+            getSeason={(_, season) => `${season.season} ${season.year}`}
+          />
         </React.Fragment>
       )}
 
