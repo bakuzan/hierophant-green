@@ -62,6 +62,18 @@
       }
     },
     {
+      "id": 3089,
+      "title": "Chokotto Anime Kemono Friends 3",
+      "image": "https://i.imgur.com/UZySGoY.jpg",
+      "malId": 39653,
+      "rating": 3,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
       "id": 4182,
       "title": "Kusoge tte Iuna! Animation",
       "image": "https://i.imgur.com/WmVSD5S.jpg",
@@ -90,7 +102,7 @@
       "title": "Black Clover (TV)",
       "image": "https://i.imgur.com/a8CF1mA.jpg",
       "malId": 34572,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 170,
       "season": {
         "year": 2017,
@@ -114,7 +126,7 @@
       "title": "Uma Musume: Pretty Derby Season 2",
       "image": "https://i.imgur.com/SY0vkXQ.jpg",
       "malId": 42941,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 13,
       "season": {
         "year": 2021,
@@ -186,7 +198,7 @@
       "title": "Yuru Camp△ Season 2",
       "image": "https://i.imgur.com/qVpkGRG.jpg",
       "malId": 38474,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 13,
       "season": {
         "year": 2021,
@@ -210,8 +222,8 @@
       "title": "Animation Kapibara-san",
       "image": "https://i.imgur.com/AXCICEL.jpg",
       "malId": 42514,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 2,
+      "totalEpisodes": 24,
       "season": {
         "year": 2020,
         "season": "Autumn"
@@ -402,7 +414,7 @@
       "title": "Horimiya",
       "image": "https://i.imgur.com/FBzCu1m.jpg",
       "malId": 42897,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 13,
       "season": {
         "year": 2021,
@@ -462,7 +474,7 @@
       "title": "SK∞",
       "image": "https://i.imgur.com/ueWCWFj.jpg",
       "malId": 42923,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -474,7 +486,7 @@
       "title": "Yami Shibai 8",
       "image": "https://i.imgur.com/6Qptmma.jpg",
       "malId": 44208,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 13,
       "season": {
         "year": 2021,
@@ -570,7 +582,7 @@
       "title": "Azur Lane: Bisoku Zenshin!",
       "image": "https://i.imgur.com/VcrRvBk.jpg",
       "malId": 40930,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -582,7 +594,7 @@
       "title": "Bungou Stray Dogs Wan!",
       "image": "https://i.imgur.com/zDjqyVl.jpg",
       "malId": 42250,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -594,7 +606,7 @@
       "title": "World Witches Hasshin Shimasu!",
       "image": "https://i.imgur.com/bq5myf0.jpg",
       "malId": 42506,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -606,7 +618,7 @@
       "title": "Wonder Egg Priority",
       "image": "https://i.imgur.com/sHSDAiK.jpg",
       "malId": 43299,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -618,7 +630,7 @@
       "title": "Log Horizon: Entaku Houkai",
       "image": "https://i.imgur.com/ypjas2I.jpg",
       "malId": 41109,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -630,7 +642,7 @@
       "title": "Tensei shitara Slime Datta Ken 2nd Season",
       "image": "https://i.imgur.com/4isIlDn.jpg",
       "malId": 39551,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -654,7 +666,7 @@
       "title": "Kaifuku Jutsushi no Yarinaoshi",
       "image": "https://i.imgur.com/hm5LU5h.jpg",
       "malId": 40750,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -719,18 +731,6 @@
       "season": {
         "year": 2018,
         "season": "Summer"
-      }
-    },
-    {
-      "id": 3962,
-      "title": "Gal-gaku.: Hijiri Girls Square Gakuin",
-      "image": "https://i.imgur.com/MRmxLsu.jpg",
-      "malId": 41381,
-      "rating": 0,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2020,
-        "season": "Spring"
       }
     },
     {
@@ -807,6 +807,13 @@
       "episode": 1,
       "rating": 5,
       "animeId": 4227
+    },
+    {
+      "id": 40243,
+      "date": "2021-01-05T16:00:03.447Z",
+      "episode": 23,
+      "rating": 4,
+      "animeId": 3089
     },
     {
       "id": 40244,
@@ -1864,34 +1871,6 @@
       "episode": 3,
       "rating": 6,
       "animeId": 4253
-    },
-    {
-      "id": 40582,
-      "date": "2021-01-25T14:27:18.355Z",
-      "episode": 13,
-      "rating": 2,
-      "animeId": 3962
-    },
-    {
-      "id": 40583,
-      "date": "2021-01-25T14:27:18.356Z",
-      "episode": 14,
-      "rating": 2,
-      "animeId": 3962
-    },
-    {
-      "id": 40584,
-      "date": "2021-01-25T14:27:18.357Z",
-      "episode": 15,
-      "rating": 2,
-      "animeId": 3962
-    },
-    {
-      "id": 40585,
-      "date": "2021-01-25T14:27:18.358Z",
-      "episode": 16,
-      "rating": 2,
-      "animeId": 3962
     },
     {
       "id": 40586,
@@ -4781,7 +4760,7 @@
       "id": 41447,
       "date": "2021-03-19T16:42:08.777Z",
       "episode": 10,
-      "rating": 5,
+      "rating": 4,
       "animeId": 4239
     },
     {
@@ -5152,7 +5131,7 @@
       "id": 41557,
       "date": "2021-03-26T16:37:40.283Z",
       "episode": 11,
-      "rating": 4,
+      "rating": 3,
       "animeId": 4239
     },
     {
@@ -5343,6 +5322,62 @@
       "episode": 16,
       "rating": 6,
       "animeId": 4208
+    },
+    {
+      "id": 41630,
+      "date": "2021-03-30T15:11:16.993Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4259
+    },
+    {
+      "id": 41632,
+      "date": "2021-03-30T16:04:23.832Z",
+      "episode": 170,
+      "rating": 5,
+      "animeId": 1929
+    },
+    {
+      "id": 41633,
+      "date": "2021-03-30T16:46:37.728Z",
+      "episode": 13,
+      "rating": 7,
+      "animeId": 4228
+    },
+    {
+      "id": 41634,
+      "date": "2021-03-30T17:06:26.842Z",
+      "episode": 12,
+      "rating": 6,
+      "animeId": 4266
+    },
+    {
+      "id": 41641,
+      "date": "2021-03-31T15:14:55.005Z",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 4264
+    },
+    {
+      "id": 41642,
+      "date": "2021-03-31T15:23:40.258Z",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 4265
+    },
+    {
+      "id": 41643,
+      "date": "2021-03-31T15:38:26.678Z",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 4261
+    },
+    {
+      "id": 41644,
+      "date": "2021-03-31T15:56:46.251Z",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 4262
     }
   ]
 }

@@ -30,7 +30,7 @@
       "title": "Black Clover (TV)",
       "image": "https://i.imgur.com/a8CF1mA.jpg",
       "malId": 34572,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 170,
       "season": {
         "year": 2017,
@@ -743,6 +743,18 @@
       "season": {
         "year": 2019,
         "season": "Autumn"
+      }
+    },
+    {
+      "id": 3089,
+      "title": "Chokotto Anime Kemono Friends 3",
+      "image": "https://i.imgur.com/UZySGoY.jpg",
+      "malId": 39653,
+      "rating": 3,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
       }
     }
   ],
@@ -3744,6 +3756,34 @@
       "animeId": 3547
     },
     {
+      "id": 32369,
+      "date": "2019-11-27T19:06:09.216Z",
+      "episode": 8,
+      "rating": 3,
+      "animeId": 3089
+    },
+    {
+      "id": 32370,
+      "date": "2019-11-27T19:06:09.217Z",
+      "episode": 9,
+      "rating": 3,
+      "animeId": 3089
+    },
+    {
+      "id": 32371,
+      "date": "2019-11-27T19:07:55.319Z",
+      "episode": 10,
+      "rating": 3,
+      "animeId": 3089
+    },
+    {
+      "id": 32372,
+      "date": "2019-11-27T19:07:55.320Z",
+      "episode": 11,
+      "rating": 3,
+      "animeId": 3089
+    },
+    {
       "id": 32373,
       "date": "2019-11-27T22:39:43.104Z",
       "episode": 8,
@@ -3826,6 +3866,13 @@
       "episode": 9,
       "rating": 4,
       "animeId": 3573
+    },
+    {
+      "id": 32427,
+      "date": "2019-11-30T14:58:18.612Z",
+      "episode": 12,
+      "rating": 3,
+      "animeId": 3089
     },
     {
       "id": 32429,

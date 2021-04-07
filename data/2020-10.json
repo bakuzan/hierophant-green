@@ -374,6 +374,18 @@
       }
     },
     {
+      "id": 3089,
+      "title": "Chokotto Anime Kemono Friends 3",
+      "image": "https://i.imgur.com/UZySGoY.jpg",
+      "malId": 39653,
+      "rating": 3,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
       "id": 4136,
       "title": "One Room Third Season",
       "image": "https://i.imgur.com/7JHFqpR.jpg",
@@ -402,7 +414,7 @@
       "title": "Black Clover (TV)",
       "image": "https://i.imgur.com/a8CF1mA.jpg",
       "malId": 34572,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 170,
       "season": {
         "year": 2017,
@@ -522,8 +534,8 @@
       "title": "Animation Kapibara-san",
       "image": "https://i.imgur.com/AXCICEL.jpg",
       "malId": 42514,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 2,
+      "totalEpisodes": 24,
       "season": {
         "year": 2020,
         "season": "Autumn"
@@ -710,18 +722,6 @@
       }
     },
     {
-      "id": 3764,
-      "title": "Rebirth",
-      "image": "https://i.imgur.com/5hQU3fE.jpg",
-      "malId": 40129,
-      "rating": 0,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2020,
-        "season": "Winter"
-      }
-    },
-    {
       "id": 4182,
       "title": "Kusoge tte Iuna! Animation",
       "image": "https://i.imgur.com/WmVSD5S.jpg",
@@ -731,18 +731,6 @@
       "season": {
         "year": 2020,
         "season": "Autumn"
-      }
-    },
-    {
-      "id": 3962,
-      "title": "Gal-gaku.: Hijiri Girls Square Gakuin",
-      "image": "https://i.imgur.com/MRmxLsu.jpg",
-      "malId": 41381,
-      "rating": 0,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2020,
-        "season": "Spring"
       }
     },
     {
@@ -1013,6 +1001,20 @@
       "episode": 1,
       "rating": 6,
       "animeId": 4135
+    },
+    {
+      "id": 38580,
+      "date": "2020-10-06T11:18:48.243Z",
+      "episode": 20,
+      "rating": 2,
+      "animeId": 3089
+    },
+    {
+      "id": 38581,
+      "date": "2020-10-06T11:18:48.244Z",
+      "episode": 21,
+      "rating": 2,
+      "animeId": 3089
     },
     {
       "id": 38582,
@@ -1547,20 +1549,6 @@
       "animeId": 4118
     },
     {
-      "id": 38774,
-      "date": "2020-10-17T09:51:12.122Z",
-      "episode": 25,
-      "rating": 3,
-      "animeId": 3764
-    },
-    {
-      "id": 38775,
-      "date": "2020-10-17T09:51:12.123Z",
-      "episode": 26,
-      "rating": 3,
-      "animeId": 3764
-    },
-    {
       "id": 38776,
       "date": "2020-10-17T09:52:31.251Z",
       "episode": 3,
@@ -1953,13 +1941,6 @@
       "animeId": 4118
     },
     {
-      "id": 38889,
-      "date": "2020-10-24T10:05:49.534Z",
-      "episode": 27,
-      "rating": 3,
-      "animeId": 3764
-    },
-    {
       "id": 38890,
       "date": "2020-10-24T10:07:36.317Z",
       "episode": 4,
@@ -2224,13 +2205,6 @@
       "episode": 3,
       "rating": 6,
       "animeId": 4159
-    },
-    {
-      "id": 38996,
-      "date": "2020-10-28T13:24:21.503Z",
-      "episode": 28,
-      "rating": 3,
-      "animeId": 3764
     },
     {
       "id": 38997,
@@ -2667,6 +2641,13 @@
       "animeId": 4139
     },
     {
+      "id": 39160,
+      "date": "2020-11-05T15:31:21.050Z",
+      "episode": 22,
+      "rating": 2,
+      "animeId": 3089
+    },
+    {
       "id": 39163,
       "date": "2020-11-05T15:37:33.134Z",
       "episode": 5,
@@ -2840,13 +2821,6 @@
       "episode": 6,
       "rating": 6,
       "animeId": 4124
-    },
-    {
-      "id": 39209,
-      "date": "2020-11-07T22:14:14.107Z",
-      "episode": 29,
-      "rating": 2,
-      "animeId": 3764
     },
     {
       "id": 39219,
@@ -3036,13 +3010,6 @@
       "episode": 4,
       "rating": 4,
       "animeId": 4151
-    },
-    {
-      "id": 39269,
-      "date": "2020-11-11T15:57:19.478Z",
-      "episode": 30,
-      "rating": 3,
-      "animeId": 3764
     },
     {
       "id": 39270,
@@ -3633,34 +3600,6 @@
       "animeId": 4124
     },
     {
-      "id": 39456,
-      "date": "2020-11-22T10:36:08.671Z",
-      "episode": 9,
-      "rating": 3,
-      "animeId": 3962
-    },
-    {
-      "id": 39457,
-      "date": "2020-11-22T10:36:08.672Z",
-      "episode": 10,
-      "rating": 3,
-      "animeId": 3962
-    },
-    {
-      "id": 39458,
-      "date": "2020-11-22T10:36:08.673Z",
-      "episode": 11,
-      "rating": 3,
-      "animeId": 3962
-    },
-    {
-      "id": 39459,
-      "date": "2020-11-22T10:36:08.674Z",
-      "episode": 12,
-      "rating": 3,
-      "animeId": 3962
-    },
-    {
       "id": 39460,
       "date": "2020-11-22T10:47:42.283Z",
       "episode": 8,
@@ -4151,13 +4090,6 @@
       "animeId": 4135
     },
     {
-      "id": 39618,
-      "date": "2020-12-01T15:59:38.025Z",
-      "episode": 31,
-      "rating": 2,
-      "animeId": 3764
-    },
-    {
       "id": 39619,
       "date": "2020-12-01T16:03:17.055Z",
       "episode": 6,
@@ -4324,13 +4256,6 @@
       "episode": 9,
       "rating": 2,
       "animeId": 4147
-    },
-    {
-      "id": 39668,
-      "date": "2020-12-04T16:01:26.194Z",
-      "episode": 32,
-      "rating": 2,
-      "animeId": 3764
     },
     {
       "id": 39669,
@@ -5362,27 +5287,6 @@
       "animeId": 4208
     },
     {
-      "id": 40032,
-      "date": "2020-12-23T16:04:56.865Z",
-      "episode": 33,
-      "rating": 3,
-      "animeId": 3764
-    },
-    {
-      "id": 40033,
-      "date": "2020-12-23T16:04:56.866Z",
-      "episode": 34,
-      "rating": 3,
-      "animeId": 3764
-    },
-    {
-      "id": 40034,
-      "date": "2020-12-23T16:06:32.605Z",
-      "episode": 35,
-      "rating": 3,
-      "animeId": 3764
-    },
-    {
       "id": 40035,
       "date": "2020-12-23T16:28:04.874Z",
       "episode": 11,
@@ -5416,13 +5320,6 @@
       "episode": 12,
       "rating": 6,
       "animeId": 4139
-    },
-    {
-      "id": 40049,
-      "date": "2020-12-24T14:49:13.214Z",
-      "episode": 36,
-      "rating": 3,
-      "animeId": 3764
     },
     {
       "id": 40050,
@@ -5549,13 +5446,6 @@
       "episode": 12,
       "rating": 5,
       "animeId": 4153
-    },
-    {
-      "id": 40102,
-      "date": "2020-12-27T14:38:21.749Z",
-      "episode": 37,
-      "rating": 2,
-      "animeId": 3764
     },
     {
       "id": 40103,
