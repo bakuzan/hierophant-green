@@ -780,18 +780,6 @@
         "year": 2018,
         "season": "Autumn"
       }
-    },
-    {
-      "id": 2515,
-      "title": "Super Dragon Ball Heroes",
-      "image": "https://i.imgur.com/ajG41Y3.jpg",
-      "malId": 37885,
-      "rating": 4,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2018,
-        "season": "Summer"
-      }
     }
   ],
   "episodes": [
@@ -2285,13 +2273,6 @@
       "episode": 4,
       "rating": 8,
       "animeId": 2652
-    },
-    {
-      "id": 21453,
-      "date": "2018-10-28T14:52:18.893Z",
-      "episode": 5,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 24332,
@@ -5218,13 +5199,6 @@
       "episode": 24,
       "rating": 6,
       "animeId": 2571
-    },
-    {
-      "id": 21454,
-      "date": "2018-12-22T15:00:17.641Z",
-      "episode": 6,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 24304,

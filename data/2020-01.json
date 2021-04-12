@@ -386,18 +386,6 @@
       }
     },
     {
-      "id": 2515,
-      "title": "Super Dragon Ball Heroes",
-      "image": "https://i.imgur.com/ajG41Y3.jpg",
-      "malId": 37885,
-      "rating": 4,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2018,
-        "season": "Summer"
-      }
-    },
-    {
       "id": 3735,
       "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
       "image": "https://i.imgur.com/OigfF1b.jpg",
@@ -1027,20 +1015,6 @@
       "episode": 13,
       "rating": 5,
       "animeId": 3593
-    },
-    {
-      "id": 33338,
-      "date": "2020-01-09T17:27:35.069Z",
-      "episode": 18,
-      "rating": 4,
-      "animeId": 2515
-    },
-    {
-      "id": 33339,
-      "date": "2020-01-09T17:29:51.744Z",
-      "episode": 19,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 33340,

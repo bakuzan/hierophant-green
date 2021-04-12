@@ -458,18 +458,6 @@
       }
     },
     {
-      "id": 3919,
-      "title": "Mewkledreamy",
-      "image": "https://i.imgur.com/OjNLDxW.jpg",
-      "malId": 40327,
-      "rating": 0,
-      "totalEpisodes": 48,
-      "season": {
-        "year": 2020,
-        "season": "Spring"
-      }
-    },
-    {
       "id": 3922,
       "title": "Shadowverse (TV)",
       "image": "https://i.imgur.com/AmWoDVt.jpg",
@@ -659,18 +647,6 @@
       "season": {
         "year": 2020,
         "season": "Spring"
-      }
-    },
-    {
-      "id": 2515,
-      "title": "Super Dragon Ball Heroes",
-      "image": "https://i.imgur.com/ajG41Y3.jpg",
-      "malId": 37885,
-      "rating": 4,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2018,
-        "season": "Summer"
       }
     },
     {
@@ -964,13 +940,6 @@
       "episode": 1,
       "rating": 5,
       "animeId": 3918
-    },
-    {
-      "id": 35202,
-      "date": "2020-04-08T16:15:26.686Z",
-      "episode": 1,
-      "rating": 5,
-      "animeId": 3919
     },
     {
       "id": 35203,
@@ -1365,13 +1334,6 @@
       "animeId": 3929
     },
     {
-      "id": 35491,
-      "date": "2020-04-17T15:44:13.271Z",
-      "episode": 2,
-      "rating": 4,
-      "animeId": 3919
-    },
-    {
       "id": 35492,
       "date": "2020-04-17T16:06:00.970Z",
       "episode": 3,
@@ -1713,13 +1675,6 @@
       "episode": 3,
       "rating": 4,
       "animeId": 3936
-    },
-    {
-      "id": 35639,
-      "date": "2020-04-25T15:22:35.049Z",
-      "episode": 3,
-      "rating": 4,
-      "animeId": 3919
     },
     {
       "id": 35640,
@@ -2191,13 +2146,6 @@
       "animeId": 3923
     },
     {
-      "id": 35889,
-      "date": "2020-05-07T16:16:35.256Z",
-      "episode": 4,
-      "rating": 4,
-      "animeId": 3919
-    },
-    {
       "id": 35892,
       "date": "2020-05-07T17:53:08.631Z",
       "episode": 6,
@@ -2660,34 +2608,6 @@
       "animeId": 3966
     },
     {
-      "id": 36203,
-      "date": "2020-05-23T13:40:41.319Z",
-      "episode": 20,
-      "rating": 4,
-      "animeId": 2515
-    },
-    {
-      "id": 36204,
-      "date": "2020-05-23T13:41:13.198Z",
-      "episode": 21,
-      "rating": 5,
-      "animeId": 2515
-    },
-    {
-      "id": 36205,
-      "date": "2020-05-23T13:41:13.199Z",
-      "episode": 22,
-      "rating": 4,
-      "animeId": 2515
-    },
-    {
-      "id": 36206,
-      "date": "2020-05-23T13:41:13.200Z",
-      "episode": 23,
-      "rating": 3,
-      "animeId": 2515
-    },
-    {
       "id": 36207,
       "date": "2020-05-23T14:12:01.550Z",
       "episode": 6,
@@ -3143,13 +3063,6 @@
       "animeId": 3900
     },
     {
-      "id": 36484,
-      "date": "2020-06-07T13:52:32.242Z",
-      "episode": 5,
-      "rating": 4,
-      "animeId": 3919
-    },
-    {
       "id": 36485,
       "date": "2020-06-07T14:07:35.829Z",
       "episode": 10,
@@ -3344,13 +3257,6 @@
       "episode": 11,
       "rating": 5,
       "animeId": 3900
-    },
-    {
-      "id": 36609,
-      "date": "2020-06-14T13:48:54.889Z",
-      "episode": 6,
-      "rating": 4,
-      "animeId": 3919
     },
     {
       "id": 36610,
@@ -3549,13 +3455,6 @@
       "animeId": 3900
     },
     {
-      "id": 36728,
-      "date": "2020-06-21T13:51:39.421Z",
-      "episode": 7,
-      "rating": 4,
-      "animeId": 3919
-    },
-    {
       "id": 36729,
       "date": "2020-06-21T14:06:40.529Z",
       "episode": 2,
@@ -3729,13 +3628,6 @@
       "episode": 13,
       "rating": 6,
       "animeId": 3784
-    },
-    {
-      "id": 36853,
-      "date": "2020-06-28T14:08:37.730Z",
-      "episode": 8,
-      "rating": 4,
-      "animeId": 3919
     },
     {
       "id": 36854,

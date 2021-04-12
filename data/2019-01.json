@@ -374,18 +374,6 @@
       }
     },
     {
-      "id": 2515,
-      "title": "Super Dragon Ball Heroes",
-      "image": "https://i.imgur.com/ajG41Y3.jpg",
-      "malId": 37885,
-      "rating": 4,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2018,
-        "season": "Summer"
-      }
-    },
-    {
       "id": 2809,
       "title": "Toaru Majutsu no Index III",
       "image": "https://i.imgur.com/Z9rZt5R.jpg",
@@ -935,13 +923,6 @@
       "episode": 1,
       "rating": 6,
       "animeId": 2996
-    },
-    {
-      "id": 21455,
-      "date": "2019-01-12T15:19:09.870Z",
-      "episode": 7,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 24445,
@@ -3128,13 +3109,6 @@
       "animeId": 2997
     },
     {
-      "id": 21456,
-      "date": "2019-02-24T15:19:19.880Z",
-      "episode": 8,
-      "rating": 3,
-      "animeId": 2515
-    },
-    {
       "id": 26240,
       "date": "2019-02-24T15:35:06.605Z",
       "episode": 7,
@@ -3686,13 +3660,6 @@
       "episode": 9,
       "rating": 2,
       "animeId": 3013
-    },
-    {
-      "id": 21457,
-      "date": "2019-03-07T16:54:40.191Z",
-      "episode": 9,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 20352,

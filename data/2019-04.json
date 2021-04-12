@@ -626,18 +626,6 @@
       }
     },
     {
-      "id": 2515,
-      "title": "Super Dragon Ball Heroes",
-      "image": "https://i.imgur.com/ajG41Y3.jpg",
-      "malId": 37885,
-      "rating": 4,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2018,
-        "season": "Summer"
-      }
-    },
-    {
       "id": 3014,
       "title": "Circlet Princess",
       "image": "https://i.imgur.com/lZNxMSN.jpg",
@@ -1372,13 +1360,6 @@
       "episode": 10,
       "rating": 3,
       "animeId": 3040
-    },
-    {
-      "id": 21458,
-      "date": "2019-04-18T15:57:32.214Z",
-      "episode": 10,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 27250,
@@ -2331,13 +2312,6 @@
       "episode": 13,
       "rating": 3,
       "animeId": 3040
-    },
-    {
-      "id": 27514,
-      "date": "2019-05-09T15:59:13.774Z",
-      "episode": 11,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 27518,
@@ -4214,13 +4188,6 @@
       "episode": 11,
       "rating": 5,
       "animeId": 3135
-    },
-    {
-      "id": 28510,
-      "date": "2019-06-22T14:20:55.510Z",
-      "episode": 12,
-      "rating": 3,
-      "animeId": 2515
     },
     {
       "id": 28517,

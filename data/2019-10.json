@@ -710,18 +710,6 @@
       }
     },
     {
-      "id": 2515,
-      "title": "Super Dragon Ball Heroes",
-      "image": "https://i.imgur.com/ajG41Y3.jpg",
-      "malId": 37885,
-      "rating": 4,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2018,
-        "season": "Summer"
-      }
-    },
-    {
       "id": 3638,
       "title": "High Score Girl II",
       "image": "https://i.imgur.com/bqJtFCD.jpg",
@@ -2235,20 +2223,6 @@
       "episode": 4,
       "rating": 7,
       "animeId": 3552
-    },
-    {
-      "id": 31618,
-      "date": "2019-10-31T11:24:29.101Z",
-      "episode": 16,
-      "rating": 4,
-      "animeId": 2515
-    },
-    {
-      "id": 31619,
-      "date": "2019-10-31T11:24:29.102Z",
-      "episode": 17,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 31620,

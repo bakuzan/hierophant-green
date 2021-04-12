@@ -62,18 +62,6 @@
       }
     },
     {
-      "id": 2515,
-      "title": "Super Dragon Ball Heroes",
-      "image": "https://i.imgur.com/ajG41Y3.jpg",
-      "malId": 37885,
-      "rating": 4,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2018,
-        "season": "Summer"
-      }
-    },
-    {
       "id": 2180,
       "title": "Darling in the FranXX",
       "image": "https://i.imgur.com/hNyTOMP.jpg",
@@ -843,13 +831,6 @@
       "animeId": 2349
     },
     {
-      "id": 21449,
-      "date": "2018-07-01T17:11:53.288Z",
-      "episode": 1,
-      "rating": 5,
-      "animeId": 2515
-    },
-    {
       "id": 18025,
       "date": "2018-07-01T17:37:46.125Z",
       "episode": 23,
@@ -1541,13 +1522,6 @@
       "episode": 2,
       "rating": 2,
       "animeId": 2592
-    },
-    {
-      "id": 21450,
-      "date": "2018-07-16T13:52:35.490Z",
-      "episode": 2,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 20096,
@@ -4560,13 +4534,6 @@
       "animeId": 2565
     },
     {
-      "id": 21451,
-      "date": "2018-09-06T11:54:44.151Z",
-      "episode": 3,
-      "rating": 4,
-      "animeId": 2515
-    },
-    {
       "id": 22002,
       "date": "2018-09-06T14:14:37.707Z",
       "episode": 9,
@@ -5671,13 +5638,6 @@
       "episode": 12,
       "rating": 6,
       "animeId": 2565
-    },
-    {
-      "id": 21452,
-      "date": "2018-09-27T16:04:03.086Z",
-      "episode": 4,
-      "rating": 4,
-      "animeId": 2515
     },
     {
       "id": 20457,
