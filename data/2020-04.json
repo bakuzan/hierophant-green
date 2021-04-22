@@ -362,6 +362,18 @@
       }
     },
     {
+      "id": 3909,
+      "title": "Kingdom 3rd Season",
+      "image": "https://i.imgur.com/bQlqazW.jpg",
+      "malId": 40682,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Spring"
+      }
+    },
+    {
       "id": 1929,
       "title": "Black Clover (TV)",
       "image": "https://i.imgur.com/a8CF1mA.jpg",
@@ -886,6 +898,13 @@
       "animeId": 3908
     },
     {
+      "id": 35172,
+      "date": "2020-04-06T17:48:21.995Z",
+      "episode": 1,
+      "rating": 7,
+      "animeId": 3909
+    },
+    {
       "id": 35183,
       "date": "2020-04-07T15:33:17.105Z",
       "episode": 129,
@@ -1192,6 +1211,13 @@
       "episode": 2,
       "rating": 6,
       "animeId": 3908
+    },
+    {
+      "id": 35417,
+      "date": "2020-04-13T17:36:55.187Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 3909
     },
     {
       "id": 35431,
@@ -1523,6 +1549,13 @@
       "animeId": 3908
     },
     {
+      "id": 35549,
+      "date": "2020-04-20T17:56:16.171Z",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 3909
+    },
+    {
       "id": 35563,
       "date": "2020-04-21T15:36:03.983Z",
       "episode": 131,
@@ -1787,6 +1820,13 @@
       "episode": 4,
       "rating": 5,
       "animeId": 3908
+    },
+    {
+      "id": 35684,
+      "date": "2020-04-27T17:53:39.159Z",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 3909
     },
     {
       "id": 35694,

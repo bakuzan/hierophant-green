@@ -1,0 +1,1315 @@
+{
+  "season": "2021-04",
+  "series": [
+    {
+      "id": 4267,
+      "title": "Kaifuku Jutsushi no Yarinaoshi",
+      "image": "https://i.imgur.com/hm5LU5h.jpg",
+      "malId": 40750,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 4236,
+      "title": "Yuru Camp△ Season 2",
+      "image": "https://i.imgur.com/qVpkGRG.jpg",
+      "malId": 38474,
+      "rating": 6,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3089,
+      "title": "Chokotto Anime Kemono Friends 3",
+      "image": "https://i.imgur.com/UZySGoY.jpg",
+      "malId": 39653,
+      "rating": 3,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2019,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4317,
+      "title": "Godzilla: S.P",
+      "image": "https://i.imgur.com/ecJLBDj.jpg",
+      "malId": 43229,
+      "rating": 0,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4318,
+      "title": "Shaman King (2021)",
+      "image": "https://i.imgur.com/qHMJyDT.jpg",
+      "malId": 42205,
+      "rating": 0,
+      "totalEpisodes": 52,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4243,
+      "title": "Back Arrow",
+      "image": "https://i.imgur.com/avYz99a.jpg",
+      "malId": 40964,
+      "rating": 0,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 4308,
+      "title": "Boku no Hero Academia 5th Season",
+      "image": "https://i.imgur.com/zl85we3.jpg",
+      "malId": 41587,
+      "rating": 0,
+      "totalEpisodes": 25,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4125,
+      "title": "Dragon Quest: Dai no Daibouken (2020)",
+      "image": "https://i.imgur.com/FBtmOXF.jpg",
+      "malId": 40906,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Autumn"
+      }
+    },
+    {
+      "id": 4320,
+      "title": "Mashiro no Oto",
+      "image": "https://i.imgur.com/23brIWk.jpg",
+      "malId": 42590,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4319,
+      "title": "SSSS.Dynazenon",
+      "image": "https://i.imgur.com/MKTvTlT.jpg",
+      "malId": 40870,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4321,
+      "title": "Shakunetsu Kabaddi",
+      "image": "https://i.imgur.com/PFa4sHO.jpg",
+      "malId": 42395,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4270,
+      "title": "Nanatsu no Taizai: Fundo no Shinpan",
+      "image": "https://i.imgur.com/NSTAeY9.jpg",
+      "malId": 41491,
+      "rating": 0,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 122,
+      "title": "Boruto: Naruto Next Generations",
+      "image": "https://i.imgur.com/O5vYeDw.jpg",
+      "malId": 34566,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2017,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4291,
+      "title": "Tropical-Rouge! Precure",
+      "image": "https://i.imgur.com/6rX0orI.jpg",
+      "malId": 44191,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 4251,
+      "title": "Horimiya",
+      "image": "https://i.imgur.com/FBzCu1m.jpg",
+      "malId": 42897,
+      "rating": 5,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 4254,
+      "title": "SK∞",
+      "image": "https://i.imgur.com/ueWCWFj.jpg",
+      "malId": 42923,
+      "rating": 5,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3886,
+      "title": "Digimon Adventure:",
+      "image": "https://i.imgur.com/vSmqGnA.jpg",
+      "malId": 41074,
+      "rating": 0,
+      "totalEpisodes": 66,
+      "season": {
+        "year": 2020,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4322,
+      "title": "Vivy: Fluorite Eye's Song",
+      "image": "https://i.imgur.com/pTHUEoX.jpg",
+      "malId": 46095,
+      "rating": 0,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4255,
+      "title": "Yami Shibai 8",
+      "image": "https://i.imgur.com/6Qptmma.jpg",
+      "malId": 44208,
+      "rating": 3,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 4323,
+      "title": "Dragon, Ie wo Kau.",
+      "image": "https://i.imgur.com/dAY9yyc.jpg",
+      "malId": 40526,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4324,
+      "title": "Sayonara Watashi no Cramer",
+      "image": "https://i.imgur.com/0T1sZCr.jpg",
+      "malId": 42774,
+      "rating": 0,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4326,
+      "title": "Sentouin, Hakenshimasu!",
+      "image": "https://i.imgur.com/8GFdean.jpg",
+      "malId": 41456,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4325,
+      "title": "Nomad: Megalo Box 2",
+      "image": "https://i.imgur.com/XUTV6Cd.jpg",
+      "malId": 40729,
+      "rating": 0,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4328,
+      "title": "Yuukoku no Moriarty 2nd Season",
+      "image": "https://i.imgur.com/x3MekRJ.jpg",
+      "malId": 43325,
+      "rating": 0,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4329,
+      "title": "Mars Red",
+      "image": "https://i.imgur.com/yAOeMVn.jpg",
+      "malId": 41265,
+      "rating": 0,
+      "totalEpisodes": 13,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4330,
+      "title": "Odd Taxi",
+      "image": "https://i.imgur.com/lFq7GDy.jpg",
+      "malId": 46102,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4331,
+      "title": "Yakunara Mug Cup mo",
+      "image": "https://i.imgur.com/4agiJFL.jpg",
+      "malId": 42568,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4333,
+      "title": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+      "image": "https://i.imgur.com/8mDt6d1.jpg",
+      "malId": 41488,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4334,
+      "title": "Super Cub",
+      "image": "https://i.imgur.com/jT4jfUc.jpg",
+      "malId": 40685,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4332,
+      "title": "Jouran: The Princess of Snow and Blood",
+      "image": "https://i.imgur.com/FEikS3m.jpg",
+      "malId": 47250,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3936,
+      "title": "Yu☆Gi☆Oh!: Sevens",
+      "image": "https://i.imgur.com/tGK9wLV.jpg",
+      "malId": 40145,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4336,
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+      "image": "https://i.imgur.com/z2VzL57.jpg",
+      "malId": 41623,
+      "rating": 0,
+      "totalEpisodes": 10,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4337,
+      "title": "Yuuki Yuuna wa Yuusha de Aru Churutto!",
+      "image": "https://i.imgur.com/gzzPOJR.jpg",
+      "malId": 42071,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4248,
+      "title": "Kumo Desu ga, Nani ka?",
+      "image": "https://i.imgur.com/mBW56IX.jpg",
+      "malId": 37984,
+      "rating": 0,
+      "totalEpisodes": 24,
+      "season": {
+        "year": 2021,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 4338,
+      "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+      "image": "https://i.imgur.com/kMqMf4S.jpg",
+      "malId": 40586,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4339,
+      "title": "86",
+      "image": "https://i.imgur.com/fJzs5Gn.jpg",
+      "malId": 41457,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4340,
+      "title": "Ijiranaide, Nagatoro-san",
+      "image": "https://i.imgur.com/woLUJDw.jpg",
+      "malId": 42361,
+      "rating": 0,
+      "totalEpisodes": 12,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4341,
+      "title": "Mini Dragon",
+      "image": "https://i.imgur.com/DYUDzkO.jpg",
+      "malId": 48590,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3664,
+      "title": "Pokemon (2019)",
+      "image": "https://i.imgur.com/v0EKbYF.jpg",
+      "malId": 40351,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2019,
+        "season": "Autumn"
+      }
+    },
+    {
+      "id": 4342,
+      "title": "Battle Athletess Daiundoukai ReSTART!",
+      "image": "https://i.imgur.com/JUxuNio.jpg",
+      "malId": 42321,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4343,
+      "title": "Tokyo Revengers",
+      "image": "https://i.imgur.com/VEXKNnj.jpg",
+      "malId": 42249,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4344,
+      "title": "Shadows House",
+      "image": "https://i.imgur.com/HekYMa5.jpg",
+      "malId": 43439,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4345,
+      "title": "Itazuraguma no Gloomy",
+      "image": "https://i.imgur.com/ilXDJRq.jpg",
+      "malId": 45587,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4346,
+      "title": "Fumetsu no Anata e",
+      "image": "https://i.imgur.com/YYM9Z4A.jpg",
+      "malId": 41025,
+      "rating": 0,
+      "totalEpisodes": 20,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4349,
+      "title": "Cestvs: The Roman Fighter",
+      "image": "https://i.imgur.com/ax0ILHZ.jpg",
+      "malId": 43763,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 4350,
+      "title": "Yoru no Kuni",
+      "image": "https://i.imgur.com/jpG8HdK.jpg",
+      "malId": 48727,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2021,
+        "season": "Spring"
+      }
+    }
+  ],
+  "episodes": [
+    {
+      "id": 41653,
+      "date": "2021-04-01T15:46:32.300Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4267
+    },
+    {
+      "id": 41655,
+      "date": "2021-04-01T17:16:26.403Z",
+      "episode": 13,
+      "rating": 6,
+      "animeId": 4236
+    },
+    {
+      "id": 41676,
+      "date": "2021-04-02T14:01:00.558Z",
+      "episode": 24,
+      "rating": 3,
+      "animeId": 3089
+    },
+    {
+      "id": 41680,
+      "date": "2021-04-02T15:12:50.418Z",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 4317
+    },
+    {
+      "id": 41681,
+      "date": "2021-04-02T15:44:15.658Z",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 4318
+    },
+    {
+      "id": 41700,
+      "date": "2021-04-03T13:47:11.757Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 4243
+    },
+    {
+      "id": 41701,
+      "date": "2021-04-03T14:03:56.040Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4308
+    },
+    {
+      "id": 41702,
+      "date": "2021-04-03T14:21:46.645Z",
+      "episode": 26,
+      "rating": 6,
+      "animeId": 4125
+    },
+    {
+      "id": 41703,
+      "date": "2021-04-03T14:47:07.169Z",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 4320
+    },
+    {
+      "id": 41704,
+      "date": "2021-04-03T15:09:06.698Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4319
+    },
+    {
+      "id": 41705,
+      "date": "2021-04-03T15:36:02.230Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4321
+    },
+    {
+      "id": 41724,
+      "date": "2021-04-04T10:11:44.707Z",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 4270
+    },
+    {
+      "id": 41725,
+      "date": "2021-04-04T13:51:24.696Z",
+      "episode": 193,
+      "rating": 5,
+      "animeId": 122
+    },
+    {
+      "id": 41727,
+      "date": "2021-04-04T14:21:21.531Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4291
+    },
+    {
+      "id": 41728,
+      "date": "2021-04-04T14:34:09.620Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 4251
+    },
+    {
+      "id": 41729,
+      "date": "2021-04-04T14:47:49.021Z",
+      "episode": 12,
+      "rating": 5,
+      "animeId": 4254
+    },
+    {
+      "id": 41730,
+      "date": "2021-04-04T15:06:20.152Z",
+      "episode": 42,
+      "rating": 5,
+      "animeId": 3886
+    },
+    {
+      "id": 41731,
+      "date": "2021-04-04T15:31:42.123Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4322
+    },
+    {
+      "id": 41732,
+      "date": "2021-04-04T15:54:44.438Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4322
+    },
+    {
+      "id": 41753,
+      "date": "2021-04-05T14:05:22.332Z",
+      "episode": 13,
+      "rating": 3,
+      "animeId": 4255
+    },
+    {
+      "id": 41754,
+      "date": "2021-04-05T14:26:08.730Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4323
+    },
+    {
+      "id": 41755,
+      "date": "2021-04-05T14:45:36.635Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4324
+    },
+    {
+      "id": 41756,
+      "date": "2021-04-05T15:10:50.427Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4326
+    },
+    {
+      "id": 41757,
+      "date": "2021-04-05T15:32:21.706Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4325
+    },
+    {
+      "id": 41764,
+      "date": "2021-04-06T15:29:05.348Z",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 4328
+    },
+    {
+      "id": 41765,
+      "date": "2021-04-06T15:52:59.583Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4329
+    },
+    {
+      "id": 41766,
+      "date": "2021-04-06T16:12:08.876Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4330
+    },
+    {
+      "id": 41767,
+      "date": "2021-04-06T16:56:23.143Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4331
+    },
+    {
+      "id": 41778,
+      "date": "2021-04-07T16:11:35.603Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4333
+    },
+    {
+      "id": 41779,
+      "date": "2021-04-07T16:34:19.384Z",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 4334
+    },
+    {
+      "id": 41780,
+      "date": "2021-04-07T16:34:36.905Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4332
+    },
+    {
+      "id": 41788,
+      "date": "2021-04-08T17:37:42.743Z",
+      "episode": 42,
+      "rating": 3,
+      "animeId": 3936
+    },
+    {
+      "id": 41800,
+      "date": "2021-04-09T16:24:57.006Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4336
+    },
+    {
+      "id": 41801,
+      "date": "2021-04-09T17:22:01.562Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4318
+    },
+    {
+      "id": 41802,
+      "date": "2021-04-09T17:40:56.486Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4317
+    },
+    {
+      "id": 41818,
+      "date": "2021-04-10T09:45:26.036Z",
+      "episode": 1,
+      "rating": 3,
+      "animeId": 4337
+    },
+    {
+      "id": 41819,
+      "date": "2021-04-10T13:46:42.876Z",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 4243
+    },
+    {
+      "id": 41820,
+      "date": "2021-04-10T14:03:32.868Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4319
+    },
+    {
+      "id": 41821,
+      "date": "2021-04-10T14:14:42.209Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4308
+    },
+    {
+      "id": 41822,
+      "date": "2021-04-10T14:37:32.233Z",
+      "episode": 13,
+      "rating": 5,
+      "animeId": 4248
+    },
+    {
+      "id": 41823,
+      "date": "2021-04-10T14:53:49.856Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4320
+    },
+    {
+      "id": 41824,
+      "date": "2021-04-10T15:11:44.822Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4321
+    },
+    {
+      "id": 41825,
+      "date": "2021-04-10T15:30:22.145Z",
+      "episode": 27,
+      "rating": 6,
+      "animeId": 4125
+    },
+    {
+      "id": 41841,
+      "date": "2021-04-11T09:55:09.888Z",
+      "episode": 13,
+      "rating": 3,
+      "animeId": 4270
+    },
+    {
+      "id": 41842,
+      "date": "2021-04-11T13:39:03.832Z",
+      "episode": 194,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 41844,
+      "date": "2021-04-11T14:05:09.484Z",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 4291
+    },
+    {
+      "id": 41845,
+      "date": "2021-04-11T14:21:20.083Z",
+      "episode": 43,
+      "rating": 5,
+      "animeId": 3886
+    },
+    {
+      "id": 41846,
+      "date": "2021-04-11T14:45:19.209Z",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 4338
+    },
+    {
+      "id": 41847,
+      "date": "2021-04-11T14:56:40.870Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4322
+    },
+    {
+      "id": 41848,
+      "date": "2021-04-11T15:22:30.710Z",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 4339
+    },
+    {
+      "id": 41849,
+      "date": "2021-04-11T15:45:28.596Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4340
+    },
+    {
+      "id": 41856,
+      "date": "2021-04-12T08:24:03.398Z",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 4341
+    },
+    {
+      "id": 41857,
+      "date": "2021-04-12T15:21:49.181Z",
+      "episode": 61,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 41858,
+      "date": "2021-04-12T15:42:49.089Z",
+      "episode": 1,
+      "rating": 4,
+      "animeId": 4342
+    },
+    {
+      "id": 41859,
+      "date": "2021-04-12T16:06:27.026Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4343
+    },
+    {
+      "id": 41860,
+      "date": "2021-04-12T16:24:48.720Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4326
+    },
+    {
+      "id": 41861,
+      "date": "2021-04-12T17:15:54.652Z",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 4344
+    },
+    {
+      "id": 41868,
+      "date": "2021-04-13T14:55:17.285Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4345
+    },
+    {
+      "id": 41869,
+      "date": "2021-04-13T15:34:36.679Z",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 4323
+    },
+    {
+      "id": 41870,
+      "date": "2021-04-13T15:52:57.335Z",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 4324
+    },
+    {
+      "id": 41871,
+      "date": "2021-04-13T16:04:08.845Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4331
+    },
+    {
+      "id": 41872,
+      "date": "2021-04-13T16:26:09.825Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4328
+    },
+    {
+      "id": 41873,
+      "date": "2021-04-13T17:13:26.506Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4325
+    },
+    {
+      "id": 41881,
+      "date": "2021-04-14T15:39:15.038Z",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 4333
+    },
+    {
+      "id": 41882,
+      "date": "2021-04-14T16:02:56.848Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4346
+    },
+    {
+      "id": 41883,
+      "date": "2021-04-14T16:58:26.590Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4329
+    },
+    {
+      "id": 41884,
+      "date": "2021-04-14T17:16:56.613Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4330
+    },
+    {
+      "id": 41891,
+      "date": "2021-04-15T14:59:55.363Z",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 4341
+    },
+    {
+      "id": 41892,
+      "date": "2021-04-15T15:30:11.660Z",
+      "episode": 43,
+      "rating": 4,
+      "animeId": 3936
+    },
+    {
+      "id": 41893,
+      "date": "2021-04-15T15:48:31.680Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4332
+    },
+    {
+      "id": 41894,
+      "date": "2021-04-15T16:06:53.195Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4332
+    },
+    {
+      "id": 41895,
+      "date": "2021-04-15T16:25:54.704Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4334
+    },
+    {
+      "id": 41896,
+      "date": "2021-04-15T17:15:22.035Z",
+      "episode": 1,
+      "rating": 6,
+      "animeId": 4349
+    },
+    {
+      "id": 41903,
+      "date": "2021-04-16T15:22:30.924Z",
+      "episode": 14,
+      "rating": 3,
+      "animeId": 4270
+    },
+    {
+      "id": 41904,
+      "date": "2021-04-16T15:39:17.676Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4336
+    },
+    {
+      "id": 41905,
+      "date": "2021-04-16T16:02:26.145Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4318
+    },
+    {
+      "id": 41906,
+      "date": "2021-04-16T16:41:25.454Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4317
+    },
+    {
+      "id": 41923,
+      "date": "2021-04-17T13:37:11.492Z",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 4337
+    },
+    {
+      "id": 41924,
+      "date": "2021-04-17T13:53:45.132Z",
+      "episode": 15,
+      "rating": 3,
+      "animeId": 4243
+    },
+    {
+      "id": 41925,
+      "date": "2021-04-17T14:07:55.891Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4319
+    },
+    {
+      "id": 41926,
+      "date": "2021-04-17T14:19:50.561Z",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 4308
+    },
+    {
+      "id": 41927,
+      "date": "2021-04-17T14:41:06.345Z",
+      "episode": 14,
+      "rating": 5,
+      "animeId": 4248
+    },
+    {
+      "id": 41928,
+      "date": "2021-04-17T14:53:22.701Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4321
+    },
+    {
+      "id": 41929,
+      "date": "2021-04-17T15:17:11.516Z",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 4320
+    },
+    {
+      "id": 41930,
+      "date": "2021-04-17T15:35:31.509Z",
+      "episode": 28,
+      "rating": 5,
+      "animeId": 4125
+    },
+    {
+      "id": 41946,
+      "date": "2021-04-18T09:53:28.502Z",
+      "episode": 1,
+      "rating": 5,
+      "animeId": 4350
+    },
+    {
+      "id": 41947,
+      "date": "2021-04-18T13:39:26.800Z",
+      "episode": 195,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 41949,
+      "date": "2021-04-18T14:05:52.719Z",
+      "episode": 8,
+      "rating": 5,
+      "animeId": 4291
+    },
+    {
+      "id": 41950,
+      "date": "2021-04-18T14:17:50.636Z",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 4338
+    },
+    {
+      "id": 41951,
+      "date": "2021-04-18T14:38:59.122Z",
+      "episode": 44,
+      "rating": 5,
+      "animeId": 3886
+    },
+    {
+      "id": 41952,
+      "date": "2021-04-18T14:56:55.937Z",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 4322
+    },
+    {
+      "id": 41953,
+      "date": "2021-04-18T15:14:26.408Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4340
+    },
+    {
+      "id": 41954,
+      "date": "2021-04-18T15:34:52.919Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4339
+    },
+    {
+      "id": 41961,
+      "date": "2021-04-19T15:21:14.082Z",
+      "episode": 2,
+      "rating": 3,
+      "animeId": 4342
+    },
+    {
+      "id": 41962,
+      "date": "2021-04-19T15:39:36.301Z",
+      "episode": 62,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 41963,
+      "date": "2021-04-19T15:59:30.751Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4343
+    },
+    {
+      "id": 41964,
+      "date": "2021-04-19T16:17:19.497Z",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 4326
+    },
+    {
+      "id": 41965,
+      "date": "2021-04-19T17:11:07.803Z",
+      "episode": 2,
+      "rating": 6,
+      "animeId": 4344
+    },
+    {
+      "id": 41972,
+      "date": "2021-04-20T15:01:11.935Z",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 4345
+    },
+    {
+      "id": 41973,
+      "date": "2021-04-20T15:25:47.574Z",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 4323
+    },
+    {
+      "id": 41974,
+      "date": "2021-04-20T15:46:35.555Z",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 4324
+    },
+    {
+      "id": 41975,
+      "date": "2021-04-20T15:58:34.983Z",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 4331
+    },
+    {
+      "id": 41976,
+      "date": "2021-04-20T16:16:29.005Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4325
+    },
+    {
+      "id": 41977,
+      "date": "2021-04-20T16:34:08.715Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4328
+    },
+    {
+      "id": 41984,
+      "date": "2021-04-21T16:08:07.824Z",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 4333
+    },
+    {
+      "id": 41985,
+      "date": "2021-04-21T16:21:29.868Z",
+      "episode": 2,
+      "rating": 5,
+      "animeId": 4346
+    },
+    {
+      "id": 41987,
+      "date": "2021-04-21T17:26:47.165Z",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 4329
+    },
+    {
+      "id": 41988,
+      "date": "2021-04-21T17:44:05.566Z",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 4330
+    }
+  ]
+}
