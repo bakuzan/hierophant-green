@@ -415,7 +415,7 @@
       "image": "https://i.imgur.com/kMqMf4S.jpg",
       "malId": 40586,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "season": {
         "year": 2021,
         "season": "Spring"
@@ -427,7 +427,7 @@
       "image": "https://i.imgur.com/fJzs5Gn.jpg",
       "malId": 41457,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 11,
       "season": {
         "year": 2021,
         "season": "Spring"
@@ -562,6 +562,18 @@
       "totalEpisodes": 0,
       "season": {
         "year": 2021,
+        "season": "Spring"
+      }
+    },
+    {
+      "id": 3909,
+      "title": "Kingdom 3rd Season",
+      "image": "https://i.imgur.com/bQlqazW.jpg",
+      "malId": 40682,
+      "rating": 0,
+      "totalEpisodes": 0,
+      "season": {
+        "year": 2020,
         "season": "Spring"
       }
     }
@@ -1609,6 +1621,552 @@
       "episode": 4,
       "rating": 5,
       "animeId": 4330
+    },
+    {
+      "id": 42094,
+      "date": "2021-04-29T15:01:22.794Z",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 4341
+    },
+    {
+      "id": 42095,
+      "date": "2021-04-29T15:24:45.482Z",
+      "episode": 45,
+      "rating": 3,
+      "animeId": 3936
+    },
+    {
+      "id": 42096,
+      "date": "2021-04-29T15:39:00.237Z",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 4332
+    },
+    {
+      "id": 42097,
+      "date": "2021-04-29T15:59:39.658Z",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 4334
+    },
+    {
+      "id": 42098,
+      "date": "2021-04-29T16:17:49.092Z",
+      "episode": 3,
+      "rating": 5,
+      "animeId": 4351
+    },
+    {
+      "id": 42099,
+      "date": "2021-04-29T16:35:45.187Z",
+      "episode": 3,
+      "rating": 6,
+      "animeId": 4349
+    },
+    {
+      "id": 42106,
+      "date": "2021-04-30T15:29:28.625Z",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 4270
+    },
+    {
+      "id": 42107,
+      "date": "2021-04-30T15:47:56.365Z",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 4336
+    },
+    {
+      "id": 42108,
+      "date": "2021-04-30T16:09:27.467Z",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 4317
+    },
+    {
+      "id": 42109,
+      "date": "2021-04-30T16:56:23.709Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4318
+    },
+    {
+      "id": 42126,
+      "date": "2021-05-01T13:32:38.371Z",
+      "episode": 17,
+      "rating": 3,
+      "animeId": 4243
+    },
+    {
+      "id": 42127,
+      "date": "2021-05-01T13:47:56.092Z",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 4319
+    },
+    {
+      "id": 42128,
+      "date": "2021-05-01T14:05:01.050Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4321
+    },
+    {
+      "id": 42129,
+      "date": "2021-05-01T14:23:41.649Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4308
+    },
+    {
+      "id": 42130,
+      "date": "2021-05-01T14:42:24.449Z",
+      "episode": 16,
+      "rating": 5,
+      "animeId": 4248
+    },
+    {
+      "id": 42131,
+      "date": "2021-05-01T15:01:35.739Z",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 4320
+    },
+    {
+      "id": 42132,
+      "date": "2021-05-01T15:24:18.309Z",
+      "episode": 30,
+      "rating": 7,
+      "animeId": 4125
+    },
+    {
+      "id": 42149,
+      "date": "2021-05-02T13:30:22.898Z",
+      "episode": 197,
+      "rating": 4,
+      "animeId": 122
+    },
+    {
+      "id": 42151,
+      "date": "2021-05-02T13:56:36.635Z",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 4291
+    },
+    {
+      "id": 42152,
+      "date": "2021-05-02T14:12:25.539Z",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 4338
+    },
+    {
+      "id": 42153,
+      "date": "2021-05-02T14:27:02.071Z",
+      "episode": 46,
+      "rating": 5,
+      "animeId": 3886
+    },
+    {
+      "id": 42154,
+      "date": "2021-05-02T14:44:10.002Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4322
+    },
+    {
+      "id": 42155,
+      "date": "2021-05-02T15:01:57.642Z",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 4340
+    },
+    {
+      "id": 42156,
+      "date": "2021-05-02T15:22:18.477Z",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 4339
+    },
+    {
+      "id": 42168,
+      "date": "2021-05-03T14:10:23.760Z",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 4342
+    },
+    {
+      "id": 42169,
+      "date": "2021-05-03T14:24:21.098Z",
+      "episode": 64,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 42170,
+      "date": "2021-05-03T14:41:08.362Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4326
+    },
+    {
+      "id": 42171,
+      "date": "2021-05-03T14:59:32.174Z",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 4343
+    },
+    {
+      "id": 42172,
+      "date": "2021-05-03T15:16:55.163Z",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 4344
+    },
+    {
+      "id": 42173,
+      "date": "2021-05-03T15:44:07.631Z",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 3909
+    },
+    {
+      "id": 42180,
+      "date": "2021-05-04T15:04:14.625Z",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 4345
+    },
+    {
+      "id": 42181,
+      "date": "2021-05-04T15:26:05.600Z",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 4323
+    },
+    {
+      "id": 42182,
+      "date": "2021-05-04T15:45:14.940Z",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 4324
+    },
+    {
+      "id": 42183,
+      "date": "2021-05-04T15:56:40.638Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4331
+    },
+    {
+      "id": 42184,
+      "date": "2021-05-04T16:16:29.488Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4325
+    },
+    {
+      "id": 42185,
+      "date": "2021-05-04T17:06:25.710Z",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 4328
+    },
+    {
+      "id": 42192,
+      "date": "2021-05-05T15:28:29.926Z",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 4333
+    },
+    {
+      "id": 42193,
+      "date": "2021-05-05T15:47:24.371Z",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 4346
+    },
+    {
+      "id": 42195,
+      "date": "2021-05-05T17:13:59.105Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4329
+    },
+    {
+      "id": 42196,
+      "date": "2021-05-05T17:14:02.933Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4330
+    },
+    {
+      "id": 42202,
+      "date": "2021-05-06T15:02:40.440Z",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 4341
+    },
+    {
+      "id": 42203,
+      "date": "2021-05-06T15:25:28.481Z",
+      "episode": 46,
+      "rating": 3,
+      "animeId": 3936
+    },
+    {
+      "id": 42204,
+      "date": "2021-05-06T15:43:25.659Z",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 4332
+    },
+    {
+      "id": 42205,
+      "date": "2021-05-06T16:03:14.530Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4334
+    },
+    {
+      "id": 42206,
+      "date": "2021-05-06T16:41:58.396Z",
+      "episode": 4,
+      "rating": 5,
+      "animeId": 4351
+    },
+    {
+      "id": 42207,
+      "date": "2021-05-06T16:59:48.766Z",
+      "episode": 4,
+      "rating": 6,
+      "animeId": 4349
+    },
+    {
+      "id": 42215,
+      "date": "2021-05-07T15:27:31.241Z",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 4270
+    },
+    {
+      "id": 42217,
+      "date": "2021-05-07T16:01:18.215Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4336
+    },
+    {
+      "id": 42218,
+      "date": "2021-05-07T16:48:11.911Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4317
+    },
+    {
+      "id": 42219,
+      "date": "2021-05-07T17:03:43.885Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4318
+    },
+    {
+      "id": 42241,
+      "date": "2021-05-08T09:51:09.048Z",
+      "episode": 4,
+      "rating": 3,
+      "animeId": 4337
+    },
+    {
+      "id": 42242,
+      "date": "2021-05-08T09:51:09.049Z",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 4337
+    },
+    {
+      "id": 42243,
+      "date": "2021-05-08T13:30:39.209Z",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 4243
+    },
+    {
+      "id": 42244,
+      "date": "2021-05-08T13:45:36.995Z",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 4319
+    },
+    {
+      "id": 42245,
+      "date": "2021-05-08T14:02:47.914Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4321
+    },
+    {
+      "id": 42246,
+      "date": "2021-05-08T14:20:45.507Z",
+      "episode": 7,
+      "rating": 5,
+      "animeId": 4308
+    },
+    {
+      "id": 42247,
+      "date": "2021-05-08T14:44:02.348Z",
+      "episode": 17,
+      "rating": 5,
+      "animeId": 4248
+    },
+    {
+      "id": 42248,
+      "date": "2021-05-08T15:05:36.592Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4320
+    },
+    {
+      "id": 42249,
+      "date": "2021-05-08T15:25:12.618Z",
+      "episode": 31,
+      "rating": 6,
+      "animeId": 4125
+    },
+    {
+      "id": 42265,
+      "date": "2021-05-09T13:49:12.483Z",
+      "episode": 198,
+      "rating": 6,
+      "animeId": 122
+    },
+    {
+      "id": 42267,
+      "date": "2021-05-09T14:16:02.304Z",
+      "episode": 11,
+      "rating": 4,
+      "animeId": 4291
+    },
+    {
+      "id": 42268,
+      "date": "2021-05-09T14:29:55.007Z",
+      "episode": 5,
+      "rating": 4,
+      "animeId": 4338
+    },
+    {
+      "id": 42269,
+      "date": "2021-05-09T14:47:29.202Z",
+      "episode": 47,
+      "rating": 5,
+      "animeId": 3886
+    },
+    {
+      "id": 42270,
+      "date": "2021-05-09T15:05:29.893Z",
+      "episode": 7,
+      "rating": 6,
+      "animeId": 4322
+    },
+    {
+      "id": 42271,
+      "date": "2021-05-09T15:21:25.634Z",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 4340
+    },
+    {
+      "id": 42272,
+      "date": "2021-05-09T15:38:16.374Z",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 4339
+    },
+    {
+      "id": 42283,
+      "date": "2021-05-10T14:11:19.381Z",
+      "episode": 5,
+      "rating": 3,
+      "animeId": 4342
+    },
+    {
+      "id": 42284,
+      "date": "2021-05-10T14:25:08.974Z",
+      "episode": 65,
+      "rating": 4,
+      "animeId": 3664
+    },
+    {
+      "id": 42285,
+      "date": "2021-05-10T14:40:41.285Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4326
+    },
+    {
+      "id": 42286,
+      "date": "2021-05-10T15:02:09.262Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 4343
+    },
+    {
+      "id": 42287,
+      "date": "2021-05-10T15:19:03.343Z",
+      "episode": 5,
+      "rating": 6,
+      "animeId": 4344
+    },
+    {
+      "id": 42288,
+      "date": "2021-05-10T15:42:26.362Z",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 3909
+    },
+    {
+      "id": 42295,
+      "date": "2021-05-11T15:04:16.370Z",
+      "episode": 5,
+      "rating": 2,
+      "animeId": 4345
+    },
+    {
+      "id": 42296,
+      "date": "2021-05-11T15:27:06.275Z",
+      "episode": 6,
+      "rating": 3,
+      "animeId": 4323
+    },
+    {
+      "id": 42297,
+      "date": "2021-05-11T15:44:25.029Z",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 4324
+    },
+    {
+      "id": 42298,
+      "date": "2021-05-11T15:55:50.202Z",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 4331
+    },
+    {
+      "id": 42299,
+      "date": "2021-05-11T16:11:35.201Z",
+      "episode": 6,
+      "rating": 5,
+      "animeId": 4325
+    },
+    {
+      "id": 42300,
+      "date": "2021-05-11T16:54:22.272Z",
+      "episode": 6,
+      "rating": 6,
+      "animeId": 4328
     }
   ]
 }
