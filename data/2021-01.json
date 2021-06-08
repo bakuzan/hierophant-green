@@ -26,6 +26,18 @@
       }
     },
     {
+      "id": 3919,
+      "title": "Mewkledreamy",
+      "image": "https://i.imgur.com/OjNLDxW.jpg",
+      "malId": 40327,
+      "rating": 4,
+      "totalEpisodes": 48,
+      "season": {
+        "year": 2020,
+        "season": "Spring"
+      }
+    },
+    {
       "id": 4226,
       "title": "Urasekai Picnic",
       "image": "https://i.imgur.com/nxYOBZs.jpg",
@@ -764,6 +776,13 @@
       "animeId": 4209
     },
     {
+      "id": 40232,
+      "date": "2021-01-04T16:26:26.508Z",
+      "episode": 35,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 40233,
       "date": "2021-01-04T16:49:47.930Z",
       "episode": 1,
@@ -1448,6 +1467,13 @@
       "episode": 2,
       "rating": 3,
       "animeId": 4258
+    },
+    {
+      "id": 40455,
+      "date": "2021-01-18T16:36:13.551Z",
+      "episode": 36,
+      "rating": 4,
+      "animeId": 3919
     },
     {
       "id": 40456,
@@ -2241,6 +2267,13 @@
       "animeId": 4258
     },
     {
+      "id": 40699,
+      "date": "2021-02-01T16:41:30.476Z",
+      "episode": 37,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 40700,
       "date": "2021-02-01T16:56:36.569Z",
       "episode": 53,
@@ -2626,6 +2659,13 @@
       "animeId": 4258
     },
     {
+      "id": 40813,
+      "date": "2021-02-08T16:36:34.958Z",
+      "episode": 38,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 40814,
       "date": "2021-02-08T16:55:16.960Z",
       "episode": 54,
@@ -2995,6 +3035,13 @@
       "episode": 6,
       "rating": 2,
       "animeId": 4258
+    },
+    {
+      "id": 40942,
+      "date": "2021-02-15T15:43:51.123Z",
+      "episode": 39,
+      "rating": 4,
+      "animeId": 3919
     },
     {
       "id": 40943,
@@ -3375,6 +3422,13 @@
       "animeId": 4258
     },
     {
+      "id": 41046,
+      "date": "2021-02-22T16:37:27.527Z",
+      "episode": 40,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 41047,
       "date": "2021-02-22T16:51:28.163Z",
       "episode": 56,
@@ -3753,6 +3807,13 @@
       "animeId": 4258
     },
     {
+      "id": 41160,
+      "date": "2021-03-01T16:36:25.082Z",
+      "episode": 41,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 41161,
       "date": "2021-03-01T16:51:51.268Z",
       "episode": 57,
@@ -4117,6 +4178,13 @@
       "animeId": 4258
     },
     {
+      "id": 41271,
+      "date": "2021-03-08T16:42:02.700Z",
+      "episode": 42,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 41272,
       "date": "2021-03-08T16:57:33.495Z",
       "episode": 58,
@@ -4465,6 +4533,13 @@
       "episode": 10,
       "rating": 3,
       "animeId": 4258
+    },
+    {
+      "id": 41386,
+      "date": "2021-03-15T16:45:03.806Z",
+      "episode": 43,
+      "rating": 4,
+      "animeId": 3919
     },
     {
       "id": 41387,
@@ -4822,6 +4897,13 @@
       "episode": 11,
       "rating": 3,
       "animeId": 4258
+    },
+    {
+      "id": 41503,
+      "date": "2021-03-22T16:38:59.028Z",
+      "episode": 44,
+      "rating": 3,
+      "animeId": 3919
     },
     {
       "id": 41504,

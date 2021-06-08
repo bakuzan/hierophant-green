@@ -110,6 +110,18 @@
       }
     },
     {
+      "id": 3919,
+      "title": "Mewkledreamy",
+      "image": "https://i.imgur.com/OjNLDxW.jpg",
+      "malId": 40327,
+      "rating": 4,
+      "totalEpisodes": 48,
+      "season": {
+        "year": 2020,
+        "season": "Spring"
+      }
+    },
+    {
       "id": 122,
       "title": "Boruto: Naruto Next Generations",
       "image": "https://i.imgur.com/O5vYeDw.jpg",
@@ -573,6 +585,13 @@
       "animeId": 4004
     },
     {
+      "id": 36982,
+      "date": "2020-07-05T14:08:58.895Z",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 36983,
       "date": "2020-07-05T14:21:44.371Z",
       "episode": 155,
@@ -816,6 +835,13 @@
       "episode": 7,
       "rating": 4,
       "animeId": 3935
+    },
+    {
+      "id": 37131,
+      "date": "2020-07-13T14:24:42.413Z",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3919
     },
     {
       "id": 37132,
@@ -1133,6 +1159,13 @@
       "animeId": 4048
     },
     {
+      "id": 37397,
+      "date": "2020-07-22T15:45:26.675Z",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3919
+    },
+    {
       "id": 37399,
       "date": "2020-07-22T17:01:50.838Z",
       "episode": 2,
@@ -1369,6 +1402,13 @@
       "episode": 4,
       "rating": 2,
       "animeId": 4048
+    },
+    {
+      "id": 37499,
+      "date": "2020-07-29T15:41:42.010Z",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3919
     },
     {
       "id": 37500,
@@ -1644,6 +1684,13 @@
       "animeId": 4061
     },
     {
+      "id": 37605,
+      "date": "2020-08-05T16:00:35.390Z",
+      "episode": 13,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 37607,
       "date": "2020-08-05T16:39:48.716Z",
       "episode": 5,
@@ -1910,6 +1957,13 @@
       "animeId": 4061
     },
     {
+      "id": 37721,
+      "date": "2020-08-12T16:14:25.764Z",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 37722,
       "date": "2020-08-12T16:36:16.768Z",
       "episode": 6,
@@ -2162,6 +2216,13 @@
       "animeId": 4061
     },
     {
+      "id": 37827,
+      "date": "2020-08-19T15:59:23.769Z",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 37829,
       "date": "2020-08-19T17:09:24.734Z",
       "episode": 7,
@@ -2405,6 +2466,13 @@
       "episode": 7,
       "rating": 4,
       "animeId": 4061
+    },
+    {
+      "id": 37932,
+      "date": "2020-08-26T17:02:40.137Z",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3919
     },
     {
       "id": 37933,
@@ -2659,6 +2727,13 @@
       "animeId": 4061
     },
     {
+      "id": 38037,
+      "date": "2020-09-02T15:45:41.117Z",
+      "episode": 17,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 38039,
       "date": "2020-09-02T16:30:08.367Z",
       "episode": 9,
@@ -2888,6 +2963,13 @@
       "episode": 48,
       "rating": 4,
       "animeId": 3630
+    },
+    {
+      "id": 38169,
+      "date": "2020-09-09T14:13:01.281Z",
+      "episode": 18,
+      "rating": 4,
+      "animeId": 3919
     },
     {
       "id": 38171,
@@ -3177,6 +3259,13 @@
       "animeId": 3936
     },
     {
+      "id": 38318,
+      "date": "2020-09-17T15:45:42.369Z",
+      "episode": 19,
+      "rating": 4,
+      "animeId": 3919
+    },
+    {
       "id": 38320,
       "date": "2020-09-17T16:23:10.896Z",
       "episode": 11,
@@ -3427,6 +3516,13 @@
       "episode": 16,
       "rating": 4,
       "animeId": 3936
+    },
+    {
+      "id": 38417,
+      "date": "2020-09-24T16:04:49.440Z",
+      "episode": 20,
+      "rating": 4,
+      "animeId": 3919
     },
     {
       "id": 38418,
