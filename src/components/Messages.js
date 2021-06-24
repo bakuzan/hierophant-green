@@ -31,6 +31,7 @@ function Messages(props) {
 
     return (
       <div
+        key={x.key}
         className="special-message"
         style={{
           display: 'flex',

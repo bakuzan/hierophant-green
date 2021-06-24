@@ -106,3 +106,34 @@
 .clearable-input__count {
   bottom: -0.85rem !important;
 }
+
+@media (max-width: 479px) {
+  .scroll-top.scroll-top::before {
+    top: 25%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  .select-container.select-container {
+    max-height: 80px;
+
+    select {
+      padding-top: 2.25em;
+    }
+
+    &::after {
+      transform: translateY(-40%);
+      height: calc(100% - 2.25em);
+    }
+  }
+
+  .table-filters {
+    flex-direction: column;
+
+    > * {
+      width: 100%;
+      margin: 5px 0;
+    }
+  }
+}

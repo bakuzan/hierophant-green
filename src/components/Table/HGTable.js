@@ -8,7 +8,6 @@ import NewTabLink from 'meiko/NewTabLink';
 import Table from './index';
 import getSeriesStats from '@/utils/getSeriesStats';
 import getEpisodeText from '@/utils/getEpisodeText';
-import { rhythm } from '@/utils/typography';
 
 const rhsAlign = { textAlign: 'right' };
 const seasonHeaders = [
@@ -44,7 +43,10 @@ function HGTable({
 
           return (
             <tr key={s.id}>
-              <td column-title="#" className="cell cell--rhs">
+              <td
+                column-title="#"
+                className="cell cell--rhs cell--highlight-on-small"
+              >
                 <div
                   style={{
                     display: 'flex',
@@ -59,12 +61,12 @@ function HGTable({
                 </div>
               </td>
               <td column-title="Title" className="cell">
-                <div style={{ display: 'flex' }}>
+                <div className="image-wrapper">
                   <Img
                     style={{ flex: `0 0 96px` }}
                     {...s.image.childImageSharp}
                   />
-                  <div style={{ margin: `0 ${rhythm(1 / 2)}` }}>
+                  <div className="title-episode-wrapper">
                     <NewTabLink
                       style={{ display: 'flex', justifyContent: 'flex-start' }}
                       href={`https://myanimelist.net/anime/${s.malId}`}

@@ -100,6 +100,7 @@ function BaseTemplate({
         />
 
         <div
+          className="table-filters"
           {...getVisibleProps(showFilters && mounted, {
             display: 'flex',
             alignItems: 'center',
