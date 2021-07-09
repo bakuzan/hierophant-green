@@ -62,18 +62,6 @@
       }
     },
     {
-      "id": 3089,
-      "title": "Chokotto Anime Kemono Friends 3",
-      "image": "https://i.imgur.com/UZySGoY.jpg",
-      "malId": 39653,
-      "rating": 3,
-      "totalEpisodes": 24,
-      "season": {
-        "year": 2019,
-        "season": "Spring"
-      }
-    },
-    {
       "id": 3575,
       "title": "Mairimashita! Iruma-kun",
       "image": "https://i.imgur.com/8MuhfCe.jpg",
@@ -812,13 +800,6 @@
       "episode": 1,
       "rating": 5,
       "animeId": 3715
-    },
-    {
-      "id": 33206,
-      "date": "2020-01-03T21:40:50.508Z",
-      "episode": 13,
-      "rating": 3,
-      "animeId": 3089
     },
     {
       "id": 33242,
@@ -3850,20 +3831,6 @@
       "episode": 8,
       "rating": 5,
       "animeId": 3739
-    },
-    {
-      "id": 34411,
-      "date": "2020-02-29T09:34:11.851Z",
-      "episode": 14,
-      "rating": 3,
-      "animeId": 3089
-    },
-    {
-      "id": 34412,
-      "date": "2020-02-29T09:34:11.852Z",
-      "episode": 15,
-      "rating": 4,
-      "animeId": 3089
     },
     {
       "id": 34436,

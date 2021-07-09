@@ -62,18 +62,6 @@
       }
     },
     {
-      "id": 3089,
-      "title": "Chokotto Anime Kemono Friends 3",
-      "image": "https://i.imgur.com/UZySGoY.jpg",
-      "malId": 39653,
-      "rating": 3,
-      "totalEpisodes": 24,
-      "season": {
-        "year": 2019,
-        "season": "Spring"
-      }
-    },
-    {
       "id": 4182,
       "title": "Kusoge tte Iuna! Animation",
       "image": "https://i.imgur.com/WmVSD5S.jpg",
@@ -342,7 +330,7 @@
       "title": "Kumo Desu ga, Nani ka?",
       "image": "https://i.imgur.com/mBW56IX.jpg",
       "malId": 37984,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 24,
       "season": {
         "year": 2021,
@@ -354,7 +342,7 @@
       "title": "Back Arrow",
       "image": "https://i.imgur.com/avYz99a.jpg",
       "malId": 40964,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 24,
       "season": {
         "year": 2021,
@@ -714,7 +702,7 @@
       "title": "Nanatsu no Taizai: Fundo no Shinpan",
       "image": "https://i.imgur.com/NSTAeY9.jpg",
       "malId": 41491,
-      "rating": 0,
+      "rating": 3,
       "totalEpisodes": 24,
       "season": {
         "year": 2021,
@@ -795,13 +783,6 @@
       "episode": 1,
       "rating": 5,
       "animeId": 4227
-    },
-    {
-      "id": 40243,
-      "date": "2021-01-05T16:00:03.447Z",
-      "episode": 23,
-      "rating": 4,
-      "animeId": 3089
     },
     {
       "id": 40244,

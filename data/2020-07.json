@@ -434,18 +434,6 @@
       }
     },
     {
-      "id": 3089,
-      "title": "Chokotto Anime Kemono Friends 3",
-      "image": "https://i.imgur.com/UZySGoY.jpg",
-      "malId": 39653,
-      "rating": 3,
-      "totalEpisodes": 24,
-      "season": {
-        "year": 2019,
-        "season": "Spring"
-      }
-    },
-    {
       "id": 3937,
       "title": "Shokugeki no Souma: Gou no Sara",
       "image": "https://i.imgur.com/4bAfp9Y.jpg",
@@ -956,27 +944,6 @@
       "animeId": 4050
     },
     {
-      "id": 37300,
-      "date": "2020-07-17T13:26:04.287Z",
-      "episode": 16,
-      "rating": 4,
-      "animeId": 3089
-    },
-    {
-      "id": 37301,
-      "date": "2020-07-17T13:26:04.288Z",
-      "episode": 17,
-      "rating": 4,
-      "animeId": 3089
-    },
-    {
-      "id": 37302,
-      "date": "2020-07-17T13:26:04.289Z",
-      "episode": 18,
-      "rating": 3,
-      "animeId": 3089
-    },
-    {
       "id": 37307,
       "date": "2020-07-17T15:14:19.646Z",
       "episode": 2,
@@ -1465,13 +1432,6 @@
       "episode": 3,
       "rating": 5,
       "animeId": 3933
-    },
-    {
-      "id": 37533,
-      "date": "2020-08-01T10:14:00.135Z",
-      "episode": 19,
-      "rating": 3,
-      "animeId": 3089
     },
     {
       "id": 37535,

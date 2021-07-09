@@ -362,18 +362,6 @@
       }
     },
     {
-      "id": 3089,
-      "title": "Chokotto Anime Kemono Friends 3",
-      "image": "https://i.imgur.com/UZySGoY.jpg",
-      "malId": 39653,
-      "rating": 3,
-      "totalEpisodes": 24,
-      "season": {
-        "year": 2019,
-        "season": "Spring"
-      }
-    },
-    {
       "id": 4136,
       "title": "One Room Third Season",
       "image": "https://i.imgur.com/7JHFqpR.jpg",
@@ -982,20 +970,6 @@
       "episode": 1,
       "rating": 6,
       "animeId": 4135
-    },
-    {
-      "id": 38580,
-      "date": "2020-10-06T11:18:48.243Z",
-      "episode": 20,
-      "rating": 2,
-      "animeId": 3089
-    },
-    {
-      "id": 38581,
-      "date": "2020-10-06T11:18:48.244Z",
-      "episode": 21,
-      "rating": 2,
-      "animeId": 3089
     },
     {
       "id": 38582,
@@ -2620,13 +2594,6 @@
       "episode": 5,
       "rating": 7,
       "animeId": 4139
-    },
-    {
-      "id": 39160,
-      "date": "2020-11-05T15:31:21.050Z",
-      "episode": 22,
-      "rating": 2,
-      "animeId": 3089
     },
     {
       "id": 39163,

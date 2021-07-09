@@ -86,18 +86,6 @@
       }
     },
     {
-      "id": 3089,
-      "title": "Chokotto Anime Kemono Friends 3",
-      "image": "https://i.imgur.com/UZySGoY.jpg",
-      "malId": 39653,
-      "rating": 3,
-      "totalEpisodes": 24,
-      "season": {
-        "year": 2019,
-        "season": "Spring"
-      }
-    },
-    {
       "id": 3091,
       "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
       "image": "https://i.imgur.com/dHKKHXU.jpg",
@@ -723,13 +711,6 @@
       "episode": 50,
       "rating": 6,
       "animeId": 2368
-    },
-    {
-      "id": 27098,
-      "date": "2019-04-03T16:14:31.932Z",
-      "episode": 1,
-      "rating": 3,
-      "animeId": 3089
     },
     {
       "id": 27106,
@@ -1395,13 +1376,6 @@
       "episode": 2,
       "rating": 6,
       "animeId": 3135
-    },
-    {
-      "id": 27099,
-      "date": "2019-04-20T14:04:51.387Z",
-      "episode": 2,
-      "rating": 2,
-      "animeId": 3089
     },
     {
       "id": 26807,
@@ -3873,20 +3847,6 @@
       "episode": 10,
       "rating": 5,
       "animeId": 3135
-    },
-    {
-      "id": 28349,
-      "date": "2019-06-15T08:06:39.893Z",
-      "episode": 3,
-      "rating": 3,
-      "animeId": 3089
-    },
-    {
-      "id": 28350,
-      "date": "2019-06-15T08:06:39.894Z",
-      "episode": 4,
-      "rating": 3,
-      "animeId": 3089
     },
     {
       "id": 28364,
