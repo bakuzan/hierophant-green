@@ -78,7 +78,7 @@
       "title": "Boku no Hero Academia 5th Season",
       "image": "https://i.imgur.com/zl85we3.jpg",
       "malId": 41587,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 25,
       "season": {
         "year": 2021,
@@ -198,8 +198,8 @@
       "title": "Digimon Adventure:",
       "image": "https://i.imgur.com/vSmqGnA.jpg",
       "malId": 41074,
-      "rating": 0,
-      "totalEpisodes": 66,
+      "rating": 5,
+      "totalEpisodes": 67,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -486,8 +486,8 @@
       "title": "Tokyo Revengers",
       "image": "https://i.imgur.com/VEXKNnj.jpg",
       "malId": 42249,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 6,
+      "totalEpisodes": 24,
       "season": {
         "year": 2021,
         "season": "Spring"
@@ -522,7 +522,7 @@
       "title": "Fumetsu no Anata e",
       "image": "https://i.imgur.com/YYM9Z4A.jpg",
       "malId": 41025,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 20,
       "season": {
         "year": 2021,
@@ -542,23 +542,11 @@
       }
     },
     {
-      "id": 4350,
-      "title": "Yoru no Kuni",
-      "image": "https://i.imgur.com/jpG8HdK.jpg",
-      "malId": 48727,
-      "rating": 0,
-      "totalEpisodes": 0,
-      "season": {
-        "year": 2021,
-        "season": "Spring"
-      }
-    },
-    {
       "id": 4351,
       "title": "Edens Zero",
       "image": "https://i.imgur.com/Zvaaaa4.jpg",
       "malId": 42192,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 25,
       "season": {
         "year": 2021,
@@ -1173,13 +1161,6 @@
       "episode": 28,
       "rating": 5,
       "animeId": 4125
-    },
-    {
-      "id": 41946,
-      "date": "2021-04-18T09:53:28.502Z",
-      "episode": 1,
-      "rating": 5,
-      "animeId": 4350
     },
     {
       "id": 41947,
@@ -3980,13 +3961,6 @@
       "episode": 13,
       "rating": 5,
       "animeId": 4318
-    },
-    {
-      "id": 43021,
-      "date": "2021-06-25T16:38:09.328Z",
-      "episode": 2,
-      "rating": 6,
-      "animeId": 4350
     },
     {
       "id": 43040,

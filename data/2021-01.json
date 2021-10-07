@@ -438,8 +438,8 @@
       "title": "Digimon Adventure:",
       "image": "https://i.imgur.com/vSmqGnA.jpg",
       "malId": 41074,
-      "rating": 0,
-      "totalEpisodes": 66,
+      "rating": 5,
+      "totalEpisodes": 67,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -726,7 +726,7 @@
       "title": "Boku no Hero Academia 5th Season",
       "image": "https://i.imgur.com/zl85we3.jpg",
       "malId": 41587,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 25,
       "season": {
         "year": 2021,
