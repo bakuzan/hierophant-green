@@ -72,6 +72,7 @@ function BaseTemplate({
 
   return (
     <Layout>
+      {/* eslint-disable-next-line react/jsx-pascal-case */}
       <SEO title={title} />
       <div>
         <h2>{title}</h2>

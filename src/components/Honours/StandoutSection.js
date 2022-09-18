@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import Img from 'gatsby-image';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
 import NewTabLink from 'meiko/NewTabLink';
 
@@ -46,6 +46,7 @@ function StandoutSection({ sectionId, items }) {
               .slice(0, 5)
               .map((x, i) => {
                 const number = i + 1;
+                const image = getImage(x.image);
                 const season = `${x.season.season} ${x.season.year}`;
                 const hasRating = x.rating > 0;
                 const diffMessage = hasRating
@@ -68,9 +69,10 @@ function StandoutSection({ sectionId, items }) {
                     </td>
                     <td column-title="Title" className="cell">
                       <div style={{ display: 'flex' }}>
-                        <Img
+                        <GatsbyImage
                           style={{ flex: `0 0 96px` }}
-                          {...x.image.childImageSharp}
+                          image={image}
+                          alt={x.title}
                         />
                         <div style={{ margin: `0 ${rhythm(1 / 2)}` }}>
                           <NewTabLink

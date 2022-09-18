@@ -9,7 +9,7 @@ import { getCurrentSeason } from '@/utils/helpers';
 
 const currentSeason = getCurrentSeason();
 
-export default ({ data, ...props }) => {
+export default function SeasonTemplate({ data, ...props }) {
   const entry = data.dataJson;
   const seasonName = getSeasonName(entry.season);
   const isCurrentSeason = entry.season === currentSeason;
@@ -39,10 +39,10 @@ export default ({ data, ...props }) => {
       showFilters
     />
   );
-};
+}
 
 export const query = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     allInformationJson {
       nodes {
         key
@@ -59,9 +59,7 @@ export const query = graphql`
         title
         image {
           childImageSharp {
-            fixed(width: 96, height: 150) {
-              ...GatsbyImageSharpFixed
-            }
+            gatsbyImageData(width: 96, height: 150, layout: FIXED)
           }
         }
         malId

@@ -34,7 +34,7 @@ function IndexItem({ slug, text }) {
   );
 }
 
-export default ({ data }) => {
+export default function HomePage({ data }) {
   const currentYear = new Date().getFullYear().toString();
   const info = data.allDataJson;
   const seasonal = info.nodes;
@@ -45,6 +45,7 @@ export default ({ data }) => {
 
   return (
     <Layout>
+      {/* eslint-disable-next-line react/jsx-pascal-case */}
       <SEO title="Home" />
       <aside>
         <Personal />
@@ -85,7 +86,7 @@ export default ({ data }) => {
       </div>
     </Layout>
   );
-};
+}
 
 export const query = graphql`
   query {

@@ -1,7 +1,7 @@
 import './Table.scss';
 import PropTypes from 'prop-types';
 import React from 'react';
-import Img from 'gatsby-image';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
 import NewTabLink from 'meiko/NewTabLink';
 
@@ -37,6 +37,7 @@ function HGTable({
       {() =>
         items.map((s, i) => {
           const number = i + 1;
+          const image = getImage(s.image);
           const stats = getSeriesStats(s);
           const season = getSeason(s.isCarryOver, s.season);
           const episodesText = getEpisodeText(s.episodes, s.totalEpisodes);
@@ -62,9 +63,10 @@ function HGTable({
               </td>
               <td column-title="Title" className="cell">
                 <div className="image-wrapper">
-                  <Img
+                  <GatsbyImage
                     style={{ flex: `0 0 96px` }}
-                    {...s.image.childImageSharp}
+                    image={image}
+                    alt={s.title}
                   />
                   <div className="title-episode-wrapper">
                     <NewTabLink

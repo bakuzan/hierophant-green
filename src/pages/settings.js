@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import FormControls from 'meiko/FormControls';
 
 import Layout from '@/components/AppLayout';
+
 import SEO from '@/components/AppSEO';
 
 import storage from '@/utils/storage';
@@ -27,6 +28,7 @@ function Settings() {
 
   return (
     <Layout>
+      {/* eslint-disable-next-line react/jsx-pascal-case */}
       <SEO title="Settings" />
       <div>
         <header>

@@ -7,7 +7,7 @@ import generateSeriesStatistics from '@/utils/generateSeriesStatistics';
 import reduceNestedList from '@/utils/reduceNestedList';
 import includeUserSettingFilters from '@/utils/includeUserSettingFilters';
 
-export default ({ data, ...props }) => {
+export default function YearTemplate({ data, ...props }) {
   const year = props.path.replace(/\//g, '');
   const seasons = data.allDataJson.nodes;
 
@@ -43,10 +43,10 @@ export default ({ data, ...props }) => {
       showFilters={{ hideCarryOvers: true }}
     />
   );
-};
+}
 
 export const query = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     allInformationJson {
       nodes {
         key
@@ -64,9 +64,7 @@ export const query = graphql`
           title
           image {
             childImageSharp {
-              fixed(width: 96, height: 150) {
-                ...GatsbyImageSharpFixed
-              }
+              gatsbyImageData(width: 96, height: 150, layout: FIXED)
             }
           }
           malId

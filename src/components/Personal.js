@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import Img from 'gatsby-image';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
 import { words } from '../consts';
 import { rhythm } from '../utils/typography';
@@ -20,16 +20,19 @@ function Personal() {
       }
       profilePic: file(name: { eq: "profile-pic" }) {
         childImageSharp {
-          fixed(width: 75, height: 75, cropFocus: NORTH) {
-            ...GatsbyImageSharpFixed
-          }
+          gatsbyImageData(
+            width: 75
+            height: 75
+            transformOptions: { cropFocus: NORTH }
+            layout: FIXED
+          )
         }
       }
     }
   `);
 
   const info = data.site.siteMetadata;
-  const avatar = data.profilePic.childImageSharp;
+  const avatar = getImage(data.profilePic);
   const adjective = getRandomAdj();
 
   return (
@@ -40,8 +43,8 @@ function Personal() {
         marginBottom: rhythm(1)
       }}
     >
-      <Img
-        {...avatar}
+      <GatsbyImage
+        image={avatar}
         alt={info.author}
         style={{
           marginRight: rhythm(1 / 3),

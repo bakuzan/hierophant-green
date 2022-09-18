@@ -7,7 +7,7 @@ import Layout from '@/components/AppLayout';
 import SEO from '@/components/AppSEO';
 import YearSection from '@/components/Honours/YearSection';
 
-export default ({ data }) => {
+export default function HonoursPage({ data }) {
   const messages = data.allInformationJson.nodes ?? [];
   const seasons = data.allDataJson.nodes ?? [];
   const groups = groupBy(seasons, (x) => x.season.split('-')[0]);
@@ -15,6 +15,7 @@ export default ({ data }) => {
 
   return (
     <Layout>
+      {/* eslint-disable-next-line react/jsx-pascal-case */}
       <SEO title="Honours" />
       <div>
         <header>
@@ -37,10 +38,10 @@ export default ({ data }) => {
       </div>
     </Layout>
   );
-};
+}
 
 export const query = graphql`
-  query {
+  {
     allInformationJson {
       nodes {
         key
@@ -58,9 +59,7 @@ export const query = graphql`
           title
           image {
             childImageSharp {
-              fixed(width: 96, height: 150) {
-                ...GatsbyImageSharpFixed
-              }
+              gatsbyImageData(width: 96, height: 150, layout: FIXED)
             }
           }
           malId

@@ -2,7 +2,7 @@
   "name": "hierophant-green",
   "private": true,
   "description": "Seasonal Anime Statistics",
-  "version": "0.11.1",
+  "version": "0.12.0",
   "author": "bakuzan",
   "dependencies": {
     "ayaka": "file:../ayaka/build",
@@ -53,9 +53,9 @@
     "prepare": "husky install",
     "clear-cache": "gatsby clean",
     "build": "npm run clear-cache && gatsby build",
-    "develop": "gatsby develop",
+    "develop": "gatsby develop -p 9999",
     "start": "npm run clear-cache && npm run develop",
-    "serve": "gatsby serve",
+    "serve": "gatsby serve -p 9999",
     "pretty": "lint-staged",
     "cli": "node ./tools",
     "deploy": "npm run build --prefix-paths && gh-pages -d public"
