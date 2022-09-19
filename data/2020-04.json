@@ -582,8 +582,8 @@
       "title": "Yu☆Gi☆Oh!: Sevens",
       "image": "https://i.imgur.com/tGK9wLV.jpg",
       "malId": 40145,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 2,
+      "totalEpisodes": 92,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -692,6 +692,18 @@
       "malId": 35252,
       "rating": 4,
       "totalEpisodes": 12,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
+      "id": 3764,
+      "title": "Rebirth",
+      "image": "https://i.imgur.com/5hQU3fE.jpg",
+      "malId": 40129,
+      "rating": 3,
+      "totalEpisodes": 48,
       "season": {
         "year": 2020,
         "season": "Winter"
@@ -3220,6 +3232,69 @@
       "animeId": 3908
     },
     {
+      "id": 36514,
+      "date": "2020-06-09T15:27:11.823Z",
+      "episode": 2,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36515,
+      "date": "2020-06-09T15:27:11.824Z",
+      "episode": 3,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36516,
+      "date": "2020-06-09T15:27:11.825Z",
+      "episode": 4,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36517,
+      "date": "2020-06-09T15:27:11.826Z",
+      "episode": 5,
+      "rating": 5,
+      "animeId": 3764
+    },
+    {
+      "id": 36518,
+      "date": "2020-06-09T15:28:21.449Z",
+      "episode": 6,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36519,
+      "date": "2020-06-09T15:38:30.052Z",
+      "episode": 7,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36520,
+      "date": "2020-06-09T15:38:30.053Z",
+      "episode": 8,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36521,
+      "date": "2020-06-09T15:38:30.054Z",
+      "episode": 9,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36522,
+      "date": "2020-06-09T15:38:30.055Z",
+      "episode": 10,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
       "id": 36523,
       "date": "2020-06-09T16:02:30.561Z",
       "episode": 10,
@@ -3281,6 +3356,48 @@
       "episode": 35,
       "rating": 6,
       "animeId": 3547
+    },
+    {
+      "id": 36549,
+      "date": "2020-06-11T15:25:43.543Z",
+      "episode": 11,
+      "rating": 5,
+      "animeId": 3764
+    },
+    {
+      "id": 36550,
+      "date": "2020-06-11T15:25:43.544Z",
+      "episode": 12,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36551,
+      "date": "2020-06-11T15:25:43.545Z",
+      "episode": 13,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
+      "id": 36552,
+      "date": "2020-06-11T15:33:35.166Z",
+      "episode": 14,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36553,
+      "date": "2020-06-11T15:33:35.167Z",
+      "episode": 15,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 36554,
+      "date": "2020-06-11T15:33:35.168Z",
+      "episode": 16,
+      "rating": 4,
+      "animeId": 3764
     },
     {
       "id": 36556,

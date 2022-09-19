@@ -6,8 +6,8 @@
       "title": "Yu☆Gi☆Oh!: Sevens",
       "image": "https://i.imgur.com/tGK9wLV.jpg",
       "malId": 40145,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 2,
+      "totalEpisodes": 92,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -30,7 +30,7 @@
       "title": "Shaman King (2021)",
       "image": "https://i.imgur.com/qHMJyDT.jpg",
       "malId": 42205,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 52,
       "season": {
         "year": 2021,
@@ -67,7 +67,7 @@
       "image": "https://i.imgur.com/FBtmOXF.jpg",
       "malId": 40906,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 100,
       "season": {
         "year": 2020,
         "season": "Autumn"
@@ -102,8 +102,8 @@
       "title": "Tropical-Rouge! Precure",
       "image": "https://i.imgur.com/6rX0orI.jpg",
       "malId": 44191,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 4,
+      "totalEpisodes": 46,
       "season": {
         "year": 2021,
         "season": "Winter"
@@ -378,7 +378,7 @@
       "title": "Pokemon Evolutions",
       "image": "https://i.imgur.com/4Wav6NR.jpg",
       "malId": 49730,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 8,
       "season": {
         "year": 2021,

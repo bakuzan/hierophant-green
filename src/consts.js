@@ -2,7 +2,7 @@ export const seasonNames = Object.freeze({
   '01': 'winter',
   '04': 'spring',
   '07': 'summer',
-  '10': 'autumn'
+  10: 'autumn'
 });
 
 export const Icons = Object.freeze({
@@ -15,13 +15,3 @@ export const Icons = Object.freeze({
   information: '\uD83D\uDEC8\uFE0E',
   warning: '\u26A0\uFE0E'
 });
-
-export const words = Object.freeze([
-  'refined',
-  'eccentric',
-  'cultured',
-
-  'trash',
-  'crude',
-  'perverted'
-]);

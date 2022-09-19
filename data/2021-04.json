@@ -54,7 +54,7 @@
       "title": "Shaman King (2021)",
       "image": "https://i.imgur.com/qHMJyDT.jpg",
       "malId": 42205,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 52,
       "season": {
         "year": 2021,
@@ -91,7 +91,7 @@
       "image": "https://i.imgur.com/FBtmOXF.jpg",
       "malId": 40906,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 100,
       "season": {
         "year": 2020,
         "season": "Autumn"
@@ -162,8 +162,8 @@
       "title": "Tropical-Rouge! Precure",
       "image": "https://i.imgur.com/6rX0orI.jpg",
       "malId": 44191,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 4,
+      "totalEpisodes": 46,
       "season": {
         "year": 2021,
         "season": "Winter"
@@ -366,8 +366,8 @@
       "title": "Yu☆Gi☆Oh!: Sevens",
       "image": "https://i.imgur.com/tGK9wLV.jpg",
       "malId": 40145,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 2,
+      "totalEpisodes": 92,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -563,6 +563,18 @@
       "season": {
         "year": 2020,
         "season": "Spring"
+      }
+    },
+    {
+      "id": 3764,
+      "title": "Rebirth",
+      "image": "https://i.imgur.com/5hQU3fE.jpg",
+      "malId": 40129,
+      "rating": 3,
+      "totalEpisodes": 48,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
       }
     }
   ],
@@ -1961,6 +1973,41 @@
       "animeId": 4318
     },
     {
+      "id": 42236,
+      "date": "2021-05-08T09:41:24.139Z",
+      "episode": 38,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
+      "id": 42237,
+      "date": "2021-05-08T09:41:24.140Z",
+      "episode": 39,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
+      "id": 42238,
+      "date": "2021-05-08T09:41:24.141Z",
+      "episode": 40,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
+      "id": 42239,
+      "date": "2021-05-08T09:41:24.142Z",
+      "episode": 41,
+      "rating": 4,
+      "animeId": 3764
+    },
+    {
+      "id": 42240,
+      "date": "2021-05-08T09:41:24.143Z",
+      "episode": 42,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
       "id": 42241,
       "date": "2021-05-08T09:51:09.048Z",
       "episode": 4,
@@ -3319,6 +3366,27 @@
       "animeId": 4328
     },
     {
+      "id": 42786,
+      "date": "2021-06-09T14:52:54.649Z",
+      "episode": 43,
+      "rating": 2,
+      "animeId": 3764
+    },
+    {
+      "id": 42787,
+      "date": "2021-06-09T14:52:54.650Z",
+      "episode": 44,
+      "rating": 2,
+      "animeId": 3764
+    },
+    {
+      "id": 42788,
+      "date": "2021-06-09T14:52:54.651Z",
+      "episode": 45,
+      "rating": 2,
+      "animeId": 3764
+    },
+    {
       "id": 42789,
       "date": "2021-06-09T14:58:58.610Z",
       "episode": 10,
@@ -3415,6 +3483,13 @@
       "episode": 11,
       "rating": 5,
       "animeId": 4318
+    },
+    {
+      "id": 42816,
+      "date": "2021-06-11T16:38:08.651Z",
+      "episode": 46,
+      "rating": 2,
+      "animeId": 3764
     },
     {
       "id": 42833,
@@ -3641,6 +3716,13 @@
       "animeId": 4330
     },
     {
+      "id": 42906,
+      "date": "2021-06-17T10:26:30.119Z",
+      "episode": 47,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
       "id": 42907,
       "date": "2021-06-17T15:20:14.823Z",
       "episode": 52,
@@ -3674,6 +3756,13 @@
       "episode": 10,
       "rating": 7,
       "animeId": 4349
+    },
+    {
+      "id": 42918,
+      "date": "2021-06-18T12:57:27.830Z",
+      "episode": 48,
+      "rating": 2,
+      "animeId": 3764
     },
     {
       "id": 42919,

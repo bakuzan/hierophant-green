@@ -710,6 +710,18 @@
       }
     },
     {
+      "id": 3764,
+      "title": "Rebirth",
+      "image": "https://i.imgur.com/5hQU3fE.jpg",
+      "malId": 40129,
+      "rating": 3,
+      "totalEpisodes": 48,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
+      }
+    },
+    {
       "id": 3609,
       "title": "Rifle Is Beautiful",
       "image": "https://i.imgur.com/zHuCvkJ.jpg",
@@ -1444,6 +1456,13 @@
       "episode": 2,
       "rating": 6,
       "animeId": 3739
+    },
+    {
+      "id": 33502,
+      "date": "2020-01-18T08:58:54.176Z",
+      "episode": 1,
+      "rating": 3,
+      "animeId": 3764
     },
     {
       "id": 33510,

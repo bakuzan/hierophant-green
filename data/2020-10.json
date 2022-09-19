@@ -6,8 +6,8 @@
       "title": "Yu☆Gi☆Oh!: Sevens",
       "image": "https://i.imgur.com/tGK9wLV.jpg",
       "malId": 40145,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 2,
+      "totalEpisodes": 92,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -295,7 +295,7 @@
       "image": "https://i.imgur.com/FBtmOXF.jpg",
       "malId": 40906,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 100,
       "season": {
         "year": 2020,
         "season": "Autumn"
@@ -695,6 +695,18 @@
       "season": {
         "year": 2020,
         "season": "Autumn"
+      }
+    },
+    {
+      "id": 3764,
+      "title": "Rebirth",
+      "image": "https://i.imgur.com/5hQU3fE.jpg",
+      "malId": 40129,
+      "rating": 3,
+      "totalEpisodes": 48,
+      "season": {
+        "year": 2020,
+        "season": "Winter"
       }
     },
     {
@@ -1504,6 +1516,20 @@
       "animeId": 4118
     },
     {
+      "id": 38774,
+      "date": "2020-10-17T09:51:12.122Z",
+      "episode": 25,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
+      "id": 38775,
+      "date": "2020-10-17T09:51:12.123Z",
+      "episode": 26,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
       "id": 38776,
       "date": "2020-10-17T09:52:31.251Z",
       "episode": 3,
@@ -1896,6 +1922,13 @@
       "animeId": 4118
     },
     {
+      "id": 38889,
+      "date": "2020-10-24T10:05:49.534Z",
+      "episode": 27,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
       "id": 38890,
       "date": "2020-10-24T10:07:36.317Z",
       "episode": 4,
@@ -2160,6 +2193,13 @@
       "episode": 3,
       "rating": 6,
       "animeId": 4159
+    },
+    {
+      "id": 38996,
+      "date": "2020-10-28T13:24:21.503Z",
+      "episode": 28,
+      "rating": 3,
+      "animeId": 3764
     },
     {
       "id": 38997,
@@ -2764,6 +2804,13 @@
       "animeId": 4124
     },
     {
+      "id": 39209,
+      "date": "2020-11-07T22:14:14.107Z",
+      "episode": 29,
+      "rating": 2,
+      "animeId": 3764
+    },
+    {
       "id": 39219,
       "date": "2020-11-08T10:55:36.110Z",
       "episode": 25,
@@ -2951,6 +2998,13 @@
       "episode": 4,
       "rating": 4,
       "animeId": 4151
+    },
+    {
+      "id": 39269,
+      "date": "2020-11-11T15:57:19.478Z",
+      "episode": 30,
+      "rating": 3,
+      "animeId": 3764
     },
     {
       "id": 39270,
@@ -4024,6 +4078,13 @@
       "animeId": 4135
     },
     {
+      "id": 39618,
+      "date": "2020-12-01T15:59:38.025Z",
+      "episode": 31,
+      "rating": 2,
+      "animeId": 3764
+    },
+    {
       "id": 39619,
       "date": "2020-12-01T16:03:17.055Z",
       "episode": 6,
@@ -4190,6 +4251,13 @@
       "episode": 9,
       "rating": 2,
       "animeId": 4147
+    },
+    {
+      "id": 39668,
+      "date": "2020-12-04T16:01:26.194Z",
+      "episode": 32,
+      "rating": 2,
+      "animeId": 3764
     },
     {
       "id": 39669,
@@ -5214,6 +5282,27 @@
       "animeId": 4208
     },
     {
+      "id": 40032,
+      "date": "2020-12-23T16:04:56.865Z",
+      "episode": 33,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
+      "id": 40033,
+      "date": "2020-12-23T16:04:56.866Z",
+      "episode": 34,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
+      "id": 40034,
+      "date": "2020-12-23T16:06:32.605Z",
+      "episode": 35,
+      "rating": 3,
+      "animeId": 3764
+    },
+    {
       "id": 40035,
       "date": "2020-12-23T16:28:04.874Z",
       "episode": 11,
@@ -5247,6 +5336,13 @@
       "episode": 12,
       "rating": 6,
       "animeId": 4139
+    },
+    {
+      "id": 40049,
+      "date": "2020-12-24T14:49:13.214Z",
+      "episode": 36,
+      "rating": 3,
+      "animeId": 3764
     },
     {
       "id": 40050,
@@ -5373,6 +5469,13 @@
       "episode": 12,
       "rating": 5,
       "animeId": 4153
+    },
+    {
+      "id": 40102,
+      "date": "2020-12-27T14:38:21.749Z",
+      "episode": 37,
+      "rating": 2,
+      "animeId": 3764
     },
     {
       "id": 40103,

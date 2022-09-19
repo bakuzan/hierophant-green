@@ -2,12 +2,7 @@ import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
-import { words } from '../consts';
 import { rhythm } from '../utils/typography';
-
-function getRandomAdj() {
-  return words[Math.floor(Math.random() * words.length)];
-}
 
 function Personal() {
   const data = useStaticQuery(graphql`
@@ -33,7 +28,6 @@ function Personal() {
 
   const info = data.site.siteMetadata;
   const avatar = getImage(data.profilePic);
-  const adjective = getRandomAdj();
 
   return (
     <div
@@ -57,7 +51,7 @@ function Personal() {
         <a href={info.malUrl} target="_blank" rel="noopener noreferrer">
           {info.author}
         </a>
-        . Behold my {adjective} taste
+        . Behold my idiosyncratic taste.
       </p>
     </div>
   );

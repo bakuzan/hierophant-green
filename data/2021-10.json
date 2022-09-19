@@ -18,7 +18,7 @@
       "title": "Shaman King (2021)",
       "image": "https://i.imgur.com/qHMJyDT.jpg",
       "malId": 42205,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 52,
       "season": {
         "year": 2021,
@@ -79,7 +79,7 @@
       "image": "https://i.imgur.com/FBtmOXF.jpg",
       "malId": 40906,
       "rating": 0,
-      "totalEpisodes": 0,
+      "totalEpisodes": 100,
       "season": {
         "year": 2020,
         "season": "Autumn"
@@ -102,8 +102,8 @@
       "title": "Tropical-Rouge! Precure",
       "image": "https://i.imgur.com/6rX0orI.jpg",
       "malId": 44191,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 4,
+      "totalEpisodes": 46,
       "season": {
         "year": 2021,
         "season": "Winter"
@@ -126,7 +126,7 @@
       "title": "86 2nd Season",
       "image": "https://i.imgur.com/yC49Agp.jpg",
       "malId": 48569,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 12,
       "season": {
         "year": 2021,
@@ -246,8 +246,8 @@
       "title": "Yu☆Gi☆Oh!: Sevens",
       "image": "https://i.imgur.com/tGK9wLV.jpg",
       "malId": 40145,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 2,
+      "totalEpisodes": 92,
       "season": {
         "year": 2020,
         "season": "Spring"
@@ -282,7 +282,7 @@
       "title": "Platinum End",
       "image": "https://i.imgur.com/ob4VcSh.jpg",
       "malId": 44961,
-      "rating": 0,
+      "rating": 4,
       "totalEpisodes": 24,
       "season": {
         "year": 2021,
@@ -294,7 +294,7 @@
       "title": "Pokemon Evolutions",
       "image": "https://i.imgur.com/4Wav6NR.jpg",
       "malId": 49730,
-      "rating": 0,
+      "rating": 5,
       "totalEpisodes": 8,
       "season": {
         "year": 2021,
@@ -318,7 +318,7 @@
       "title": "Lupin III: Part 6",
       "image": "https://i.imgur.com/6OEUv0h.jpg",
       "malId": 49040,
-      "rating": 0,
+      "rating": 6,
       "totalEpisodes": 24,
       "season": {
         "year": 2021,
@@ -330,8 +330,8 @@
       "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
       "image": "https://i.imgur.com/9xaenGD.jpg",
       "malId": 48661,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 8,
+      "totalEpisodes": 12,
       "season": {
         "year": 2022,
         "season": "Winter"
@@ -342,8 +342,8 @@
       "title": "Kimetsu no Yaiba: Yuukaku-hen",
       "image": "https://i.imgur.com/lbGUQNS.jpg",
       "malId": 47778,
-      "rating": 0,
-      "totalEpisodes": 0,
+      "rating": 6,
+      "totalEpisodes": 11,
       "season": {
         "year": 2022,
         "season": "Winter"
