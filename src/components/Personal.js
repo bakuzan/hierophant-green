@@ -46,7 +46,7 @@ function Personal() {
           borderRadius: '50%'
         }}
       />
-      <p style={{ maxWidth: 290, marginBottom: 0 }}>
+      <p style={{ maxWidth: 300, marginBottom: 0 }}>
         Seasonal rating data by{' '}
         <a href={info.malUrl} target="_blank" rel="noopener noreferrer">
           {info.author}
